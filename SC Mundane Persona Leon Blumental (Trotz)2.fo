@@ -1,0 +1,3686 @@
+<fo:root xmlns:fox="http://xmlgraphics.apache.org/fop/extensions"
+	xmlns:cms="http://www.pulitzer.ch/2007/CMSFormat" 
+	xmlns:fo="http://www.w3.org/1999/XSL/Format"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+
+	xmlns:svg="http://www.w3.org/2000/svg">
+	<fo:layout-master-set>
+		<fo:simple-page-master page-height="297mm"
+			master-name="A4_210_x_297_mm" page-width="210mm">
+			<fo:region-body margin-left="10mm" background-color="transparent"
+				region-name="xsl-region-body" margin-bottom="15mm" margin-top="10mm"
+				margin-right="10mm" />
+
+
+            <fo:region-after region-name="xsl-region-after"  extent="15mm"/>
+
+		</fo:simple-page-master>
+	</fo:layout-master-set>
+
+	<fo:bookmark-tree />
+	<fo:page-sequence master-reference="A4_210_x_297_mm">
+		<fo:title>SC Mundane Persona Leon Blumental (Trotz)</fo:title>
+	
+        <fo:static-content flow-name="xsl-region-after">
+            <fo:block font-size="x-small" margin-left="15mm">shr5rcp character sheet SC Mundane Persona Leon Blumental (Trotz) page <fo:page-number/></fo:block>
+        </fo:static-content>
+
+		<fo:flow flow-name="xsl-region-body">	
+
+  <fo:table font-family="Helvetica"  >
+    <fo:table-column  />
+    <fo:table-column column-width="4pt" />
+    <fo:table-column  />
+    <fo:table-column column-width="4pt" />
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell  margin="2pt"   border-right-style="outset" border-left-style="outset" 
+       border-bottom-style="outset" border-top-style="outset" 
+       border-left-width="1px" border-top-width="1px" 
+       border-right-width="1px" border-bottom-width="1px" 
+       border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+       border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+  <fo:table font-size="small" font-weight="lighter" >
+    <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="4"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+Personal Data</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+name</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="3">
+       <fo:block  >
+Leon Blumental (Trotz)</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Spezies Mensch</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Geschlecht</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+männlich</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Date of birth</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+09.05.45</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Age</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+-1</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Height</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+185 cm</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+Weight</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+91 kg</fo:block>
+      </fo:table-cell> 
+     </fo:table-row>
+   <fo:table-row >
+      <fo:table-cell number-columns-spanned="4">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Karma erworben</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+0</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Momentanes Karma</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+0</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Straßen Ruf</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+0</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Schlechter Ruf</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+0</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Selbstbeherrschung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Menschenkenntnis</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+6</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Errinerungsvermoegen</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+4</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Lifting/Carrying</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+75/50</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+   <fo:table-row >
+      <fo:table-cell number-columns-spanned="4">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Movement</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+16/32/2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Koerperlich</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+7</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Geistig</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+4</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Sozial</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+
+
+   </fo:table-body>
+   </fo:table>
+
+      </fo:table-cell>
+      <fo:table-cell >
+		<fo:block >
+		</fo:block >
+      </fo:table-cell>
+      <fo:table-cell   margin="4pt"  border-right-style="outset" border-left-style="outset" 
+       border-bottom-style="outset" border-top-style="outset" 
+       border-left-width="1px" border-top-width="1px" 
+       border-right-width="1px" border-bottom-width="1px" 
+       border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+       border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+  <fo:table font-size="small" font-weight="lighter" >
+    <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="4"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+Attribute</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+     <fo:table-row >
+
+      <fo:table-cell>
+       <fo:block  >
+Konstitution</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block text-align="right" >
+4 
+</fo:block>
+      </fo:table-cell>
+
+      <fo:table-cell>
+       <fo:block  >
+Geschicklichkeit</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block text-align="right" >
+6(8) 
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row >
+
+      <fo:table-cell>
+       <fo:block  >
+Reaktion</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block text-align="right" >
+5(7) 
+</fo:block>
+      </fo:table-cell>
+
+      <fo:table-cell>
+       <fo:block  >
+Stärke</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block text-align="right" >
+3(5) 
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row >
+
+      <fo:table-cell>
+       <fo:block  >
+Willenskraft</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block text-align="right" >
+2 
+</fo:block>
+      </fo:table-cell>
+
+      <fo:table-cell>
+       <fo:block  >
+Logik</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block text-align="right" >
+2 
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row >
+
+      <fo:table-cell>
+       <fo:block  >
+Intuition</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block text-align="right" >
+5 
+</fo:block>
+      </fo:table-cell>
+
+      <fo:table-cell>
+       <fo:block  >
+Charisma</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block text-align="right" >
+1 
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row >
+
+      <fo:table-cell>
+       <fo:block  >
+Edge</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block text-align="right" >
+5 
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    <fo:table-row >
+      <fo:table-cell number-columns-spanned="2">
+   <fo:table >
+    <fo:table-column />
+    <fo:table-body  >
+     <fo:table-row  >
+     <fo:table-cell >
+       <fo:block   >
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+		</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Essenz</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+1.25</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+
+   <fo:table-row >
+      <fo:table-cell number-columns-spanned="4">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+
+	<fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Initative</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+12+3w6</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+   <fo:table-row >
+      <fo:table-cell number-columns-spanned="4">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+<!--condition monitor -->
+    <fo:table-row >
+      <fo:table-cell number-columns-spanned="4">
+       <fo:block  >
+Physical</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+    <fo:table-row >
+      <fo:table-cell number-columns-spanned="4">
+   <fo:table >
+    <fo:table-column />
+    <fo:table-body  >
+     <fo:table-row  >
+     <fo:table-cell >
+       <fo:block   >
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+		</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+      </fo:table-cell>
+    </fo:table-row >
+    <fo:table-row >
+      <fo:table-cell number-columns-spanned="4">
+       <fo:block  >
+Men</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+    <fo:table-row >
+      <fo:table-cell number-columns-spanned="4" margin-bottom="5pt">
+   <fo:table >
+    <fo:table-column />
+    <fo:table-body  >
+     <fo:table-row  >
+     <fo:table-cell >
+       <fo:block   >
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
+ border-bottom-style="outset" border-top-style="outset" 
+ border-left-width="1px" border-top-width="1px" 
+ border-right-width="1px" border-bottom-width="1px" 
+ border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+ border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
+<instream-foreign-object > </instream-foreign-object>
+</fo:inline>
+		</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+      </fo:table-cell>
+    </fo:table-row >
+
+   </fo:table-body>
+   </fo:table>
+
+      </fo:table-cell>
+       <fo:table-cell >
+		<fo:block >
+		</fo:block >
+      </fo:table-cell>
+     <fo:table-cell   margin="4pt"  border-right-style="outset" border-left-style="outset" 
+      border-bottom-style="outset" border-top-style="outset" 
+      border-left-width="1px" border-top-width="1px" 
+      border-right-width="1px" border-bottom-width="1px" 
+      border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+      border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+      <fo:block font-size="small" font-weight="lighter" margin-left="5px"  text-align="justify"  >
+<fo:external-graphic display-align="right"  src="url(data:image/png;base64,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)"/>
+       </fo:block >
+
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+
+
+	<!-- skill block -->
+  <fo:table font-family="Helvetica" margin-top="4pt" >
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+	<fo:table-row >
+      <fo:table-cell margin-top="10pt" margin="4pt"  number-columns-spanned="2">
+  <fo:table font-size="small" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+    <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="2"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+Active Skills</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+    <fo:table-row>
+	<fo:table-cell>
+<!-- skill header -->
+  <fo:table font-size="small" font-weight="lighter" >
+    <fo:table-column  />
+   	<fo:table-column column-width="15%" />
+	<fo:table-column column-width="15%" />
+    <fo:table-body  >
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Skill Name</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+Rtg</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Pool</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+   </fo:table-body>
+   </fo:table>
+</fo:table-cell>
+     </fo:table-row>
+
+   <fo:table-row>
+	<fo:table-cell>
+<!-- skills -->
+  <fo:table font-size="small"  font-weight="lighter" >
+    <fo:table-column  />
+   	<fo:table-column column-width="15%" />
+	<fo:table-column column-width="15%" />
+    <fo:table-body  >
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Klingenwaffen Ges</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+13</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Waffenloser Kampf Ges</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+11</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Pistolen Ges</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+11</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Schnellfeuerwaffen Ges</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+13</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Schleichen Ges</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+10</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Fingerfertigkeit Ges</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+9</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Geschütze Ges</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+9</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Schwere Waffen Ges</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+9</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Schlosser Ges</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+9</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Bodenfahrzeuge Rea</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+8</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Wahrnehmung Int</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+8</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Wurfwaffen Ges</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+10</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+   </fo:table-body>
+   </fo:table>
+</fo:table-cell>
+     </fo:table-row>
+
+
+   </fo:table-body>
+   </fo:table>
+      </fo:table-cell>
+      <fo:table-cell margin="4pt">
+  <fo:table font-size="small" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+    <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="1"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+Knowlege Skills</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+    <fo:table-row>
+	<fo:table-cell>
+<!-- skill header -->
+  <fo:table font-size="small" font-weight="lighter" >
+    <fo:table-column  />
+   	<fo:table-column column-width="15%" />
+	<fo:table-column column-width="15%" />
+    <fo:table-body  >
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Skill Name</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+Rtg</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Pool</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+   </fo:table-body>
+   </fo:table>
+</fo:table-cell>
+     </fo:table-row>
+
+   <fo:table-row>
+	<fo:table-cell>
+<!-- skills -->
+  <fo:table font-size="small"  font-weight="lighter" >
+    <fo:table-column  />
+   	<fo:table-column column-width="15%" />
+	<fo:table-column column-width="15%" />
+    <fo:table-body  >
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Hehler Int</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+7</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Berliner Gerüchteküche Int</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+6</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Streetgangs Berlin Int</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+7</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Feuerwaffen Log</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+4</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Kampftaktiken Log</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+		<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Bars und Clubs Int</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+7</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+   </fo:table-body>
+   </fo:table>
+</fo:table-cell>
+     </fo:table-row>
+
+
+
+   </fo:table-body>
+   </fo:table>
+      </fo:table-cell>
+     </fo:table-row>
+
+   </fo:table-body>
+   </fo:table>
+
+<fo:block break-after="page"></fo:block>	
+<!-- second page -->
+  <fo:table font-family="Helvetica"  >
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell margin="4pt">
+<!-- one column table -->
+  <fo:table font-size="small" keep-together="always" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+    <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="2"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+Contacts</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+  unset [2/2]</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+  unset [1/1]</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+  unset [3/1]</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+      </fo:table-cell>
+      <fo:table-cell margin="4pt">
+<!-- one column table -->
+  <fo:table font-size="small" keep-together="always" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+    <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="2"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+Eigenschaften</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+ Zähigkeit</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+ Beidhändigkeit</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+ Bewegungstalent</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+ Schnellheilung</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+ Allergie (selten, leicht)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+      </fo:table-cell>
+      <fo:table-cell margin="4pt">
+<!-- two column table -->
+  <fo:table font-size="small" keep-together="always" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+    <fo:table-column column-width="80%" />
+   <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="2"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+[Mods]</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Initativ Wuerfel</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Essenz</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+-475</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Panzer</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+5</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Infrarot</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Heilung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Stärke</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Schadenswiederstand</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+3</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Eigenschaften Bewegungstalent</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+4</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Geschicklichkeit</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Restlichtverstaerkung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Reaktion</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+
+<!-- ranged block -->
+ <fo:table font-family="Helvetica" margin-top="4pt"   >
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+	<fo:table-row >
+      <fo:table-cell margin="4pt" number-columns-spanned="2">
+<!-- one column table -->
+  <fo:table font-size="small" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+   <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="1"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+RangedWapons</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+    <fo:table-row>
+       <fo:table-cell>
+ <fo:table >
+    <fo:table-column  />
+    <fo:table-column column-width="40%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell  font-weight="bold">
+       <fo:block >
+ Ares Alpha</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-size="xx-small" >
+       <fo:block >
+Reichweite Assault Rifles</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+		 <fo:table font-size="small">
+		    <fo:table-column column-width="20%" />
+		   <fo:table-column  column-width="10%" />
+		   <fo:table-column column-width="10%" />
+		   <fo:table-column  column-width="35%" />
+		   <fo:table-column  column-width="5%"/>
+		   <fo:table-column column-width="20%" />
+		    <fo:table-body  >
+		     	<fo:table-row font-style="italic" text-align="center" font-size="7" >
+		      <fo:table-cell >
+		       <fo:block >
+		dmg</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		acc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ap</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		mode</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		rc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ammo</fo:block>
+		      </fo:table-cell>	
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+		      <fo:table-cell >
+		       <fo:block >
+		11P</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		5</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		-2</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell >
+		       <fo:block >
+		HM SM AM
+		</fo:block>
+		      </fo:table-cell>
+		
+		      <fo:table-cell >
+		       <fo:block >
+		2</fo:block>
+		      </fo:table-cell>		
+		      <fo:table-cell >
+		       <fo:block >
+		42 Str</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		  	 </fo:table-body>
+		  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+      <fo:table-cell number-rows-spanned="3" >
+       <fo:block  >
+ <fo:block font-size="small"  font-style="italic" >
+Accessories</fo:block> 
+<fo:table font-size="x-small">
+    <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Smartgun System, Internal</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+  	 </fo:table-body>
+  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+ <fo:table font-size="small">
+    <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row  font-style="italic" text-align="center">
+      <fo:table-cell >
+       <fo:block >
+short</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+medium</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+far</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+extrem</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+     	<fo:table-row font-size="7" font-weight="bold" text-align="center" >
+      <fo:table-cell >
+       <fo:block >
+0-25</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+25-150</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+150-350</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+350-550</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+
+  	 </fo:table-body>
+  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+<fo:block  >
+
+</fo:block>
+<fo:instream-foreign-object content-width="325pt" content-height="26pt">
+<svg:svg width="325pt" height="26pt">
+   <svg:g >
+   <svg:rect
+         y="0"
+         x="0"
+         height="8"
+         width="8"
+         id="rect-monitorbox-1"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="13"
+         height="8"
+         width="8"
+         id="rect-monitorbox-2"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="26"
+         height="8"
+         width="8"
+         id="rect-monitorbox-3"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="39"
+         height="8"
+         width="8"
+         id="rect-monitorbox-4"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="52"
+         height="8"
+         width="8"
+         id="rect-monitorbox-5"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="65"
+         height="8"
+         width="8"
+         id="rect-monitorbox-6"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="78"
+         height="8"
+         width="8"
+         id="rect-monitorbox-7"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="91"
+         height="8"
+         width="8"
+         id="rect-monitorbox-8"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="104"
+         height="8"
+         width="8"
+         id="rect-monitorbox-9"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="117"
+         height="8"
+         width="8"
+         id="rect-monitorbox-10"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="130"
+         height="8"
+         width="8"
+         id="rect-monitorbox-11"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="143"
+         height="8"
+         width="8"
+         id="rect-monitorbox-12"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="156"
+         height="8"
+         width="8"
+         id="rect-monitorbox-13"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="169"
+         height="8"
+         width="8"
+         id="rect-monitorbox-14"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="182"
+         height="8"
+         width="8"
+         id="rect-monitorbox-15"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="195"
+         height="8"
+         width="8"
+         id="rect-monitorbox-16"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="208"
+         height="8"
+         width="8"
+         id="rect-monitorbox-17"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="221"
+         height="8"
+         width="8"
+         id="rect-monitorbox-18"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="234"
+         height="8"
+         width="8"
+         id="rect-monitorbox-19"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="247"
+         height="8"
+         width="8"
+         id="rect-monitorbox-20"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="260"
+         height="8"
+         width="8"
+         id="rect-monitorbox-21"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="273"
+         height="8"
+         width="8"
+         id="rect-monitorbox-22"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="286"
+         height="8"
+         width="8"
+         id="rect-monitorbox-23"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="299"
+         height="8"
+         width="8"
+         id="rect-monitorbox-24"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="312"
+         height="8"
+         width="8"
+         id="rect-monitorbox-25"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="0"
+         height="8"
+         width="8"
+         id="rect-monitorbox-26"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="13"
+         height="8"
+         width="8"
+         id="rect-monitorbox-27"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="26"
+         height="8"
+         width="8"
+         id="rect-monitorbox-28"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="39"
+         height="8"
+         width="8"
+         id="rect-monitorbox-29"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="52"
+         height="8"
+         width="8"
+         id="rect-monitorbox-30"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="65"
+         height="8"
+         width="8"
+         id="rect-monitorbox-31"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="78"
+         height="8"
+         width="8"
+         id="rect-monitorbox-32"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="91"
+         height="8"
+         width="8"
+         id="rect-monitorbox-33"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="104"
+         height="8"
+         width="8"
+         id="rect-monitorbox-34"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="117"
+         height="8"
+         width="8"
+         id="rect-monitorbox-35"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="130"
+         height="8"
+         width="8"
+         id="rect-monitorbox-36"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="143"
+         height="8"
+         width="8"
+         id="rect-monitorbox-37"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="156"
+         height="8"
+         width="8"
+         id="rect-monitorbox-38"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="169"
+         height="8"
+         width="8"
+         id="rect-monitorbox-39"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="182"
+         height="8"
+         width="8"
+         id="rect-monitorbox-40"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="195"
+         height="8"
+         width="8"
+         id="rect-monitorbox-41"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="208"
+         height="8"
+         width="8"
+         id="rect-monitorbox-42"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="221"
+         height="8"
+         width="8"
+         id="rect-monitorbox-43"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+	</svg:g>
+</svg:svg>
+</fo:instream-foreign-object>
+
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+
+   </fo:table-body>
+   </fo:table>
+ 		</fo:table-cell>
+   </fo:table-row>
+   <fo:table-row >
+      <fo:table-cell number-columns-spanned="1">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+    <fo:table-row>
+       <fo:table-cell>
+ <fo:table >
+    <fo:table-column  />
+    <fo:table-column column-width="40%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell  font-weight="bold">
+       <fo:block >
+ Ares Predator V</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-size="xx-small" >
+       <fo:block >
+Reichweite Schwere Pisolen</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+		 <fo:table font-size="small">
+		    <fo:table-column column-width="20%" />
+		   <fo:table-column  column-width="10%" />
+		   <fo:table-column column-width="10%" />
+		   <fo:table-column  column-width="35%" />
+		   <fo:table-column  column-width="5%"/>
+		   <fo:table-column column-width="20%" />
+		    <fo:table-body  >
+		     	<fo:table-row font-style="italic" text-align="center" font-size="7" >
+		      <fo:table-cell >
+		       <fo:block >
+		dmg</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		acc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ap</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		mode</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		rc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ammo</fo:block>
+		      </fo:table-cell>	
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+		      <fo:table-cell >
+		       <fo:block >
+		8P</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		5</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		-1</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell >
+		       <fo:block >
+		HM
+		</fo:block>
+		      </fo:table-cell>
+		
+		      <fo:table-cell >
+		       <fo:block >
+		0</fo:block>
+		      </fo:table-cell>		
+		      <fo:table-cell >
+		       <fo:block >
+		15 Str</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		  	 </fo:table-body>
+		  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+      <fo:table-cell number-rows-spanned="3" >
+       <fo:block  >
+ <fo:block font-size="small"  font-style="italic" >
+Accessories</fo:block> 
+<fo:table font-size="x-small">
+    <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Smartgun System, Internal</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+  	 </fo:table-body>
+  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+ <fo:table font-size="small">
+    <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row  font-style="italic" text-align="center">
+      <fo:table-cell >
+       <fo:block >
+short</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+medium</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+far</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+extrem</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+     	<fo:table-row font-size="7" font-weight="bold" text-align="center" >
+      <fo:table-cell >
+       <fo:block >
+0-5</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+5-20</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+20-40</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+40-60</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+
+  	 </fo:table-body>
+  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+<fo:block  >
+
+</fo:block>
+<fo:instream-foreign-object content-width="325pt" content-height="13pt">
+<svg:svg width="325pt" height="13pt">
+   <svg:g >
+   <svg:rect
+         y="0"
+         x="0"
+         height="8"
+         width="8"
+         id="rect-monitorbox-1"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="13"
+         height="8"
+         width="8"
+         id="rect-monitorbox-2"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="26"
+         height="8"
+         width="8"
+         id="rect-monitorbox-3"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="39"
+         height="8"
+         width="8"
+         id="rect-monitorbox-4"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="52"
+         height="8"
+         width="8"
+         id="rect-monitorbox-5"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="65"
+         height="8"
+         width="8"
+         id="rect-monitorbox-6"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="78"
+         height="8"
+         width="8"
+         id="rect-monitorbox-7"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="91"
+         height="8"
+         width="8"
+         id="rect-monitorbox-8"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="104"
+         height="8"
+         width="8"
+         id="rect-monitorbox-9"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="117"
+         height="8"
+         width="8"
+         id="rect-monitorbox-10"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="130"
+         height="8"
+         width="8"
+         id="rect-monitorbox-11"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="143"
+         height="8"
+         width="8"
+         id="rect-monitorbox-12"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="156"
+         height="8"
+         width="8"
+         id="rect-monitorbox-13"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="169"
+         height="8"
+         width="8"
+         id="rect-monitorbox-14"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="182"
+         height="8"
+         width="8"
+         id="rect-monitorbox-15"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="195"
+         height="8"
+         width="8"
+         id="rect-monitorbox-16"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+	</svg:g>
+</svg:svg>
+</fo:instream-foreign-object>
+
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+
+   </fo:table-body>
+   </fo:table>
+ 		</fo:table-cell>
+   </fo:table-row>
+   <fo:table-row >
+      <fo:table-cell number-columns-spanned="1">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+    <fo:table-row>
+       <fo:table-cell>
+ <fo:table >
+    <fo:table-column  />
+    <fo:table-column column-width="40%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell  font-weight="bold">
+       <fo:block >
+ Ingram Smartgun X</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-size="xx-small" >
+       <fo:block >
+Reichweite Submachine Guns</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+		 <fo:table font-size="small">
+		    <fo:table-column column-width="20%" />
+		   <fo:table-column  column-width="10%" />
+		   <fo:table-column column-width="10%" />
+		   <fo:table-column  column-width="35%" />
+		   <fo:table-column  column-width="5%"/>
+		   <fo:table-column column-width="20%" />
+		    <fo:table-body  >
+		     	<fo:table-row font-style="italic" text-align="center" font-size="7" >
+		      <fo:table-cell >
+		       <fo:block >
+		dmg</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		acc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ap</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		mode</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		rc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ammo</fo:block>
+		      </fo:table-cell>	
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+		      <fo:table-cell >
+		       <fo:block >
+		8P</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		4</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		0</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell >
+		       <fo:block >
+		SM AM
+		</fo:block>
+		      </fo:table-cell>
+		
+		      <fo:table-cell >
+		       <fo:block >
+		2</fo:block>
+		      </fo:table-cell>		
+		      <fo:table-cell >
+		       <fo:block >
+		32 Str</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		  	 </fo:table-body>
+		  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+      <fo:table-cell number-rows-spanned="3" >
+       <fo:block  >
+ <fo:block font-size="small"  font-style="italic" >
+Accessories</fo:block> 
+<fo:table font-size="x-small">
+    <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Smartgun System, Internal</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Sound Suppressor</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+  	 </fo:table-body>
+  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+ <fo:table font-size="small">
+    <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row  font-style="italic" text-align="center">
+      <fo:table-cell >
+       <fo:block >
+short</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+medium</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+far</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+extrem</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+     	<fo:table-row font-size="7" font-weight="bold" text-align="center" >
+      <fo:table-cell >
+       <fo:block >
+0-10</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+10-40</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+40-80</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+80-150</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+
+  	 </fo:table-body>
+  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+<fo:block  >
+
+</fo:block>
+<fo:instream-foreign-object content-width="325pt" content-height="26pt">
+<svg:svg width="325pt" height="26pt">
+   <svg:g >
+   <svg:rect
+         y="0"
+         x="0"
+         height="8"
+         width="8"
+         id="rect-monitorbox-1"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="13"
+         height="8"
+         width="8"
+         id="rect-monitorbox-2"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="26"
+         height="8"
+         width="8"
+         id="rect-monitorbox-3"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="39"
+         height="8"
+         width="8"
+         id="rect-monitorbox-4"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="52"
+         height="8"
+         width="8"
+         id="rect-monitorbox-5"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="65"
+         height="8"
+         width="8"
+         id="rect-monitorbox-6"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="78"
+         height="8"
+         width="8"
+         id="rect-monitorbox-7"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="91"
+         height="8"
+         width="8"
+         id="rect-monitorbox-8"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="104"
+         height="8"
+         width="8"
+         id="rect-monitorbox-9"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="117"
+         height="8"
+         width="8"
+         id="rect-monitorbox-10"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="130"
+         height="8"
+         width="8"
+         id="rect-monitorbox-11"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="143"
+         height="8"
+         width="8"
+         id="rect-monitorbox-12"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="156"
+         height="8"
+         width="8"
+         id="rect-monitorbox-13"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="169"
+         height="8"
+         width="8"
+         id="rect-monitorbox-14"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="182"
+         height="8"
+         width="8"
+         id="rect-monitorbox-15"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="195"
+         height="8"
+         width="8"
+         id="rect-monitorbox-16"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="208"
+         height="8"
+         width="8"
+         id="rect-monitorbox-17"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="221"
+         height="8"
+         width="8"
+         id="rect-monitorbox-18"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="234"
+         height="8"
+         width="8"
+         id="rect-monitorbox-19"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="247"
+         height="8"
+         width="8"
+         id="rect-monitorbox-20"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="260"
+         height="8"
+         width="8"
+         id="rect-monitorbox-21"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="273"
+         height="8"
+         width="8"
+         id="rect-monitorbox-22"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="286"
+         height="8"
+         width="8"
+         id="rect-monitorbox-23"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="299"
+         height="8"
+         width="8"
+         id="rect-monitorbox-24"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="312"
+         height="8"
+         width="8"
+         id="rect-monitorbox-25"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="0"
+         height="8"
+         width="8"
+         id="rect-monitorbox-26"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="13"
+         height="8"
+         width="8"
+         id="rect-monitorbox-27"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="26"
+         height="8"
+         width="8"
+         id="rect-monitorbox-28"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="39"
+         height="8"
+         width="8"
+         id="rect-monitorbox-29"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="52"
+         height="8"
+         width="8"
+         id="rect-monitorbox-30"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="65"
+         height="8"
+         width="8"
+         id="rect-monitorbox-31"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="78"
+         height="8"
+         width="8"
+         id="rect-monitorbox-32"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="13"
+         x="91"
+         height="8"
+         width="8"
+         id="rect-monitorbox-33"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+	</svg:g>
+</svg:svg>
+</fo:instream-foreign-object>
+
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+
+   </fo:table-body>
+   </fo:table>
+ 		</fo:table-cell>
+   </fo:table-row>
+   <fo:table-row >
+      <fo:table-cell number-columns-spanned="1">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+    <fo:table-row>
+       <fo:table-cell>
+ <fo:table >
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell  font-weight="bold">
+       <fo:block >
+ Schockgranate [10]</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-size="xx-small" >
+       <fo:block >
+Reichweite Standard Grenade</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+
+ <fo:table font-size="small">
+    <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  column-width="40%" />
+    <fo:table-body  >
+     	<fo:table-row font-style="italic" text-align="center" font-size="7" >
+      <fo:table-cell >
+       <fo:block >
+dmg</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+acc</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+ap</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+reach</fo:block>
+      </fo:table-cell>	
+		</fo:table-row>
+     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+      <fo:table-cell>
+       <fo:block  >
+10</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+0</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+-4</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+  	 </fo:table-body>
+  	 </fo:table>
+ <fo:table font-size="small">
+    <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row  font-style="italic" text-align="center">
+      <fo:table-cell >
+       <fo:block >
+short</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+medium</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+far</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+extrem</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+     	<fo:table-row font-size="7" font-weight="bold" text-align="center" >
+      <fo:table-cell >
+       <fo:block >
+0-0</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+0-0</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+0-0</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+0-0</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+
+  	 </fo:table-body>
+  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+ 		</fo:table-cell>
+   </fo:table-row>
+   <fo:table-row >
+      <fo:table-cell number-columns-spanned="1">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+    <fo:table-row>
+       <fo:table-cell>
+ <fo:table >
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell  font-weight="bold">
+       <fo:block >
+ Granate: IR-Rauch [10]</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-size="xx-small" >
+       <fo:block >
+Reichweite Standard Grenade</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+
+ <fo:table font-size="small">
+    <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  column-width="40%" />
+    <fo:table-body  >
+     	<fo:table-row font-style="italic" text-align="center" font-size="7" >
+      <fo:table-cell >
+       <fo:block >
+dmg</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+acc</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+ap</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+reach</fo:block>
+      </fo:table-cell>	
+		</fo:table-row>
+     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+      <fo:table-cell>
+       <fo:block  >
+-</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+0</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+0</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+  	 </fo:table-body>
+  	 </fo:table>
+ <fo:table font-size="small">
+    <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row  font-style="italic" text-align="center">
+      <fo:table-cell >
+       <fo:block >
+short</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+medium</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+far</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+extrem</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+     	<fo:table-row font-size="7" font-weight="bold" text-align="center" >
+      <fo:table-cell >
+       <fo:block >
+0-0</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+0-0</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+0-0</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+0-0</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+
+  	 </fo:table-body>
+  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+ 		</fo:table-cell>
+   </fo:table-row>
+   <fo:table-row >
+      <fo:table-cell number-columns-spanned="1">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+   </fo:table-body>
+   </fo:table>
+<fo:block margin-top="10pt" >
+<!-- one column table -->
+  <fo:table font-size="small" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+   <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="1"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+MeeWapons</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+    <fo:table-row>
+       <fo:table-cell>
+ <fo:table >
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell  font-weight="bold">
+       <fo:block >
+ Katana</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+
+ <fo:table font-size="small">
+    <fo:table-column column-width="40%" />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row font-style="italic" text-align="center" font-size="small" >
+      <fo:table-cell >
+       <fo:block >
+dmg</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+acc</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+ap</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+reach</fo:block>
+      </fo:table-cell>	
+		</fo:table-row>
+     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+      <fo:table-cell>
+       <fo:block  >
+(STR+3)P</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+7</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+-3</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+  	 </fo:table-body>
+  	 </fo:table>
+
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+ 		</fo:table-cell>
+   </fo:table-row>
+   <fo:table-row >
+      <fo:table-cell number-columns-spanned="1">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+    <fo:table-row>
+       <fo:table-cell>
+ <fo:table >
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell  font-weight="bold">
+       <fo:block >
+ Überlebensmesser</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+
+ <fo:table font-size="small">
+    <fo:table-column column-width="40%" />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row font-style="italic" text-align="center" font-size="small" >
+      <fo:table-cell >
+       <fo:block >
+dmg</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+acc</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+ap</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+reach</fo:block>
+      </fo:table-cell>	
+		</fo:table-row>
+     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+      <fo:table-cell>
+       <fo:block  >
+(STR+2)P</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+5</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+-1</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+0</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+  	 </fo:table-body>
+  	 </fo:table>
+
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+ 		</fo:table-cell>
+   </fo:table-row>
+   <fo:table-row >
+      <fo:table-cell number-columns-spanned="1">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+   </fo:table-body>
+   </fo:table>
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell margin="4pt">
+<!-- two column table -->
+  <fo:table font-size="small" keep-together="always" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+    <fo:table-column column-width="80%" />
+   <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="2"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+[armor]</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Kleidung Panzerjacke</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+12</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Kleidung Actioneer Geschäftsanzug</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+8</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+<fo:block margin-top="10pt" >
+<!-- one column table -->
+  <fo:table font-size="small" keep-together="always" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+    <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="2"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+Magazine</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ares Alpha (0/42)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ares Predator V (0/15)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ingram Smartgun X (0/32)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+   </fo:table-body>
+   </fo:table>
+	
+<fo:block break-after="page"></fo:block>	
+<!-- vehicle page -->
+  <fo:table font-family="Helvetica"  >
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+<!-- skill block -->
+	<fo:table-row >
+      <fo:table-cell margin="4pt" number-columns-spanned="2">
+<!-- one column table -->
+  <fo:table font-size="small" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+   <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="1"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+Vehicles</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+    <fo:table-row>
+       <fo:table-cell>
+ <fo:block font-weight="bold" >
+Bodenfahrzeug Yamaha Growler (Off-Road Bike)</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column column-width="30%" />
+    <fo:table-column column-width="10%"  />
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Geschwindigkeit</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+     <fo:table-cell number-rows-spanned="7">
+		<fo:block>
+<fo:block  >
+Vehicle damage
+</fo:block>
+<fo:instream-foreign-object content-width="138pt" content-height="69pt">
+<svg:svg width="138pt" height="69pt">
+   <svg:g >
+   <svg:rect
+         y="0"
+         x="0"
+         height="18"
+         width="18"
+         id="rect-monitorbox-1"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="23"
+         height="18"
+         width="18"
+         id="rect-monitorbox-2"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="46"
+         height="18"
+         width="18"
+         id="rect-monitorbox-3"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="69"
+         height="18"
+         width="18"
+         id="rect-monitorbox-4"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="92"
+         height="18"
+         width="18"
+         id="rect-monitorbox-5"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="115"
+         height="18"
+         width="18"
+         id="rect-monitorbox-6"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="0"
+         height="18"
+         width="18"
+         id="rect-monitorbox-7"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="23"
+         height="18"
+         width="18"
+         id="rect-monitorbox-8"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="46"
+         height="18"
+         width="18"
+         id="rect-monitorbox-9"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="69"
+         height="18"
+         width="18"
+         id="rect-monitorbox-10"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="92"
+         height="18"
+         width="18"
+         id="rect-monitorbox-11"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="115"
+         height="18"
+         width="18"
+         id="rect-monitorbox-12"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="46"
+         x="0"
+         height="18"
+         width="18"
+         id="rect-monitorbox-13"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="46"
+         x="23"
+         height="18"
+         width="18"
+         id="rect-monitorbox-14"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="46"
+         x="46"
+         height="18"
+         width="18"
+         id="rect-monitorbox-15"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+	</svg:g>
+</svg:svg>
+</fo:instream-foreign-object>
+		</fo:block>
+     </fo:table-cell>
+
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Beschleunigung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Handling</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Pilot</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Sensor</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Rumpf</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Panzer</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+
+    </fo:table-body>
+   </fo:table>
+ 		</fo:table-cell>
+   </fo:table-row>
+   <fo:table-row >
+      <fo:table-cell number-columns-spanned="1">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+   </fo:table-body>
+   </fo:table>
+<fo:block margin-top="10pt" >
+
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell margin="4pt">
+<!-- two column table -->
+  <fo:table font-size="small" keep-together="always" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+    <fo:table-column column-width="80%" />
+   <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="2"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+[implats]</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Bioware Synapsenbeschleuniger 2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+-1.0</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Cyberware Smartlink, Smartgunverbindung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+-0.2</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Bioware Schadenskompensator 4</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+-0.4</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Cyberware Kompositknochen (Aluminium)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+-1.0</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Bioware Muskelverstärkung 2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+-0.4</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Bioware Muskelstraffung 2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+-0.4</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Bioware Orthoskin 3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+-0.75</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Bioware Thrombozytenfabrik</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+-0.2</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Cyberware Cyberaugen-Basissystem 3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+-0.4</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+<fo:block margin-top="10pt" >
+<!-- one column table -->
+  <fo:table font-size="small" keep-together="always" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+    <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="2"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+[contracts]</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Lifestyle Mittelschicht</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Sin Faked SIN 3</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Sin Faked SIN 2</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Lizenz Gun Licence 3</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Lizenz Driver Licence 3</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+   </fo:table-body>
+   </fo:table>	
+<fo:block break-after="page"></fo:block>	
+<!-- matix page -->
+  <fo:table font-family="Helvetica"  >
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+<!-- skill block -->
+	<fo:table-row >
+      <fo:table-cell margin="4pt" number-columns-spanned="2">
+<!-- one column table -->
+  <fo:table font-size="small" keep-together="always" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+    <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="1"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+Comlink</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+   </fo:table-body>
+   </fo:table>
+<fo:block margin-top="10pt" >
+<!-- one column table -->
+  <fo:table font-size="small" keep-together="always" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+    <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="1"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+cyberdeck</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+   </fo:table-body>
+   </fo:table>
+</fo:block>
+<fo:block margin-top="10pt" >
+<!-- one column table -->
+  <fo:table font-size="small" keep-together="always" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+    <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="1"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+rigger</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+   </fo:table-body>
+   </fo:table>
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell margin="4pt">
+<!-- two column table -->
+  <fo:table font-size="small" keep-together="always" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+    <fo:table-column column-width="80%" />
+   <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="2"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+[sin]</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Sin Faked SIN 3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+3</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Sin Faked SIN 2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+<fo:block margin-top="10pt" >
+<!-- one column table -->
+  <fo:table font-size="small" keep-together="always" font-weight="lighter"  border-right-style="outset" border-left-style="outset" 
+   border-bottom-style="outset" border-top-style="outset" 
+   border-left-width="1px" border-top-width="1px" 
+   border-right-width="1px" border-bottom-width="1px" 
+   border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
+   border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)" >
+    <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+  <fo:table-row  font-size="12pt">
+   <fo:table-cell   number-columns-spanned="2"  >
+   <fo:block background-color="green"  margin="4pt" 
+         color="white" font-size="large" >
+   <fo:block text-align="left"  margin="2pt" padding="2pt" >
+Magazine</fo:block></fo:block>
+       </fo:table-cell>
+     </fo:table-row>
+
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ares Alpha (0/42)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ares Predator V (0/15)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ingram Smartgun X (0/32)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+   </fo:table-body>
+   </fo:table>
+	
+<fo:block break-after="page"></fo:block>	
+<!-- matix page -->
+  <fo:table font-family="Helvetica"  >
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+<!-- skill block -->
+	<fo:table-row >
+
+      	<fo:table-cell margin="4pt" number-columns-spanned="3">
+			<fo:block margin-top="10pt" >
+			</fo:block >
+     	</fo:table-cell>
+     </fo:table-row>
+
+   </fo:table-body>
+   </fo:table>	
+
+		</fo:flow>
+	</fo:page-sequence>
+</fo:root>		

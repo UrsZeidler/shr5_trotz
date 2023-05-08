@@ -1,0 +1,3771 @@
+		
+		
+		   <fo:table margin="3pt" >
+		    <fo:table-column column-width="50%" />
+		    <fo:table-column column-width="50%" />
+		    <fo:table-body  >
+		    <fo:table-row >
+		<!-- colum one -->
+		      <fo:table-cell>
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block  >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-column column-width="40%" />
+		    <fo:table-body  >
+		     <fo:table-row>
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Ares Alpha</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell  font-size="xx-small" >
+		       <fo:block >
+		Reichweite Assault Rifles</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell >
+		       <fo:block  >
+				 <fo:table font-size="small">
+				    <fo:table-column column-width="20%" />
+				   <fo:table-column  column-width="10%" />
+				   <fo:table-column column-width="10%" />
+				   <fo:table-column  column-width="35%" />
+				   <fo:table-column  column-width="5%"/>
+				   <fo:table-column column-width="20%" />
+				    <fo:table-body  >
+				     	<fo:table-row font-style="italic" text-align="center" font-size="7" >
+				      <fo:table-cell >
+				       <fo:block >
+				dmg</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				acc</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				ap</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				mode</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				rc</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				ammo</fo:block>
+				      </fo:table-cell>	
+						</fo:table-row>
+				     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+				      <fo:table-cell >
+				       <fo:block >
+				11P</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				5</fo:block>
+				      </fo:table-cell>			
+				      <fo:table-cell >
+				       <fo:block >
+				-2</fo:block>
+				      </fo:table-cell>
+				      <fo:table-cell >
+				       <fo:block >
+				HM SM AM
+				</fo:block>
+				      </fo:table-cell>
+				
+				      <fo:table-cell >
+				       <fo:block >
+				2</fo:block>
+				      </fo:table-cell>		
+				      <fo:table-cell >
+				       <fo:block >
+				42 Str</fo:block>
+				      </fo:table-cell>		
+						</fo:table-row>
+				  	 </fo:table-body>
+				  	 </fo:table>
+				</fo:block  >
+		      </fo:table-cell>
+		      <fo:table-cell number-rows-spanned="3" >
+		       <fo:block  >
+		 <fo:block font-size="small"  font-style="italic" >
+		Accessories</fo:block> 
+		<fo:table font-size="x-small">
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     	<fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		Smartgun System, Internal</fo:block>
+		      </fo:table-cell>
+				</fo:table-row>
+		  	 </fo:table-body>
+		  	 </fo:table>
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell >
+		       <fo:block  >
+		 <fo:table font-size="small">
+		    <fo:table-column  />
+		   <fo:table-column  />
+		   <fo:table-column  />
+		   <fo:table-column  />
+		    <fo:table-body  >
+		     	<fo:table-row  font-style="italic" text-align="center">
+		      <fo:table-cell >
+		       <fo:block >
+		short</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		medium</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		far</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		extrem</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center" >
+		      <fo:table-cell >
+		       <fo:block >
+		0-25</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		25-150</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		150-350</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		350-550</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		
+		  	 </fo:table-body>
+		  	 </fo:table>
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell >
+		       <fo:block  >
+		<fo:block  >
+		
+		</fo:block>
+		<fo:instream-foreign-object content-width="234pt" content-height="39pt">
+		<svg:svg width="234pt" height="39pt">
+		   <svg:g >
+		   <svg:rect
+		         y="0"
+		         x="0"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-1"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="13"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-2"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="26"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-3"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="39"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-4"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="52"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-5"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="65"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-6"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="78"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-7"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="91"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-8"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="104"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-9"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="117"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-10"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="130"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-11"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="143"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-12"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="156"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-13"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="169"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-14"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="182"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-15"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="195"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-16"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="208"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-17"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="221"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-18"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="0"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-19"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="13"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-20"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="26"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-21"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="39"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-22"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="52"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-23"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="65"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-24"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="78"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-25"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="91"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-26"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="104"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-27"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="117"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-28"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="130"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-29"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="143"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-30"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="156"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-31"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="169"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-32"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="182"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-33"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="195"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-34"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="208"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-35"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="221"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-36"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="26"
+		         x="0"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-37"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="26"
+		         x="13"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-38"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="26"
+		         x="26"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-39"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="26"
+		         x="39"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-40"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="26"
+		         x="52"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-41"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="26"
+		         x="65"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-42"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="26"
+		         x="78"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-43"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+			</svg:g>
+		</svg:svg>
+		</fo:instream-foreign-object>
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block  >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-column column-width="40%" />
+		    <fo:table-body  >
+		     <fo:table-row>
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Ares Predator V</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell  font-size="xx-small" >
+		       <fo:block >
+		Reichweite Schwere Pisolen</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell >
+		       <fo:block  >
+				 <fo:table font-size="small">
+				    <fo:table-column column-width="20%" />
+				   <fo:table-column  column-width="10%" />
+				   <fo:table-column column-width="10%" />
+				   <fo:table-column  column-width="35%" />
+				   <fo:table-column  column-width="5%"/>
+				   <fo:table-column column-width="20%" />
+				    <fo:table-body  >
+				     	<fo:table-row font-style="italic" text-align="center" font-size="7" >
+				      <fo:table-cell >
+				       <fo:block >
+				dmg</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				acc</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				ap</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				mode</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				rc</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				ammo</fo:block>
+				      </fo:table-cell>	
+						</fo:table-row>
+				     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+				      <fo:table-cell >
+				       <fo:block >
+				8P</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				5</fo:block>
+				      </fo:table-cell>			
+				      <fo:table-cell >
+				       <fo:block >
+				-1</fo:block>
+				      </fo:table-cell>
+				      <fo:table-cell >
+				       <fo:block >
+				HM
+				</fo:block>
+				      </fo:table-cell>
+				
+				      <fo:table-cell >
+				       <fo:block >
+				0</fo:block>
+				      </fo:table-cell>		
+				      <fo:table-cell >
+				       <fo:block >
+				15 Str</fo:block>
+				      </fo:table-cell>		
+						</fo:table-row>
+				  	 </fo:table-body>
+				  	 </fo:table>
+				</fo:block  >
+		      </fo:table-cell>
+		      <fo:table-cell number-rows-spanned="3" >
+		       <fo:block  >
+		 <fo:block font-size="small"  font-style="italic" >
+		Accessories</fo:block> 
+		<fo:table font-size="x-small">
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     	<fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		Smartgun System, Internal</fo:block>
+		      </fo:table-cell>
+				</fo:table-row>
+		  	 </fo:table-body>
+		  	 </fo:table>
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell >
+		       <fo:block  >
+		 <fo:table font-size="small">
+		    <fo:table-column  />
+		   <fo:table-column  />
+		   <fo:table-column  />
+		   <fo:table-column  />
+		    <fo:table-body  >
+		     	<fo:table-row  font-style="italic" text-align="center">
+		      <fo:table-cell >
+		       <fo:block >
+		short</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		medium</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		far</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		extrem</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center" >
+		      <fo:table-cell >
+		       <fo:block >
+		0-5</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		5-20</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		20-40</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		40-60</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		
+		  	 </fo:table-body>
+		  	 </fo:table>
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell >
+		       <fo:block  >
+		<fo:block  >
+		
+		</fo:block>
+		<fo:instream-foreign-object content-width="234pt" content-height="13pt">
+		<svg:svg width="234pt" height="13pt">
+		   <svg:g >
+		   <svg:rect
+		         y="0"
+		         x="0"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-1"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="13"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-2"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="26"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-3"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="39"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-4"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="52"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-5"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="65"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-6"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="78"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-7"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="91"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-8"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="104"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-9"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="117"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-10"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="130"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-11"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="143"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-12"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="156"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-13"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="169"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-14"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="182"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-15"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="195"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-16"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+			</svg:g>
+		</svg:svg>
+		</fo:instream-foreign-object>
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block  >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-column column-width="40%" />
+		    <fo:table-body  >
+		     <fo:table-row>
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Ingram Smartgun X</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell  font-size="xx-small" >
+		       <fo:block >
+		Reichweite Submachine Guns</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell >
+		       <fo:block  >
+				 <fo:table font-size="small">
+				    <fo:table-column column-width="20%" />
+				   <fo:table-column  column-width="10%" />
+				   <fo:table-column column-width="10%" />
+				   <fo:table-column  column-width="35%" />
+				   <fo:table-column  column-width="5%"/>
+				   <fo:table-column column-width="20%" />
+				    <fo:table-body  >
+				     	<fo:table-row font-style="italic" text-align="center" font-size="7" >
+				      <fo:table-cell >
+				       <fo:block >
+				dmg</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				acc</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				ap</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				mode</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				rc</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				ammo</fo:block>
+				      </fo:table-cell>	
+						</fo:table-row>
+				     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+				      <fo:table-cell >
+				       <fo:block >
+				8P</fo:block>
+				      </fo:table-cell>	
+				      <fo:table-cell >
+				       <fo:block >
+				4</fo:block>
+				      </fo:table-cell>			
+				      <fo:table-cell >
+				       <fo:block >
+				0</fo:block>
+				      </fo:table-cell>
+				      <fo:table-cell >
+				       <fo:block >
+				SM AM
+				</fo:block>
+				      </fo:table-cell>
+				
+				      <fo:table-cell >
+				       <fo:block >
+				2</fo:block>
+				      </fo:table-cell>		
+				      <fo:table-cell >
+				       <fo:block >
+				32 Str</fo:block>
+				      </fo:table-cell>		
+						</fo:table-row>
+				  	 </fo:table-body>
+				  	 </fo:table>
+				</fo:block  >
+		      </fo:table-cell>
+		      <fo:table-cell number-rows-spanned="3" >
+		       <fo:block  >
+		 <fo:block font-size="small"  font-style="italic" >
+		Accessories</fo:block> 
+		<fo:table font-size="x-small">
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     	<fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		Smartgun System, Internal</fo:block>
+		      </fo:table-cell>
+				</fo:table-row>
+		     	<fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		Sound Suppressor</fo:block>
+		      </fo:table-cell>
+				</fo:table-row>
+		  	 </fo:table-body>
+		  	 </fo:table>
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell >
+		       <fo:block  >
+		 <fo:table font-size="small">
+		    <fo:table-column  />
+		   <fo:table-column  />
+		   <fo:table-column  />
+		   <fo:table-column  />
+		    <fo:table-body  >
+		     	<fo:table-row  font-style="italic" text-align="center">
+		      <fo:table-cell >
+		       <fo:block >
+		short</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		medium</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		far</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		extrem</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center" >
+		      <fo:table-cell >
+		       <fo:block >
+		0-10</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		10-40</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		40-80</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		80-150</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		
+		  	 </fo:table-body>
+		  	 </fo:table>
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell >
+		       <fo:block  >
+		<fo:block  >
+		
+		</fo:block>
+		<fo:instream-foreign-object content-width="234pt" content-height="26pt">
+		<svg:svg width="234pt" height="26pt">
+		   <svg:g >
+		   <svg:rect
+		         y="0"
+		         x="0"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-1"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="13"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-2"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="26"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-3"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="39"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-4"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="52"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-5"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="65"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-6"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="78"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-7"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="91"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-8"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="104"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-9"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="117"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-10"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="130"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-11"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="143"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-12"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="156"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-13"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="169"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-14"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="182"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-15"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="195"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-16"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="208"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-17"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="221"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-18"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="0"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-19"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="13"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-20"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="26"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-21"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="39"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-22"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="52"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-23"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="65"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-24"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="78"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-25"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="91"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-26"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="104"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-27"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="117"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-28"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="130"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-29"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="143"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-30"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="156"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-31"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="169"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-32"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="13"
+		         x="182"
+		         height="8"
+		         width="8"
+		         id="rect-monitorbox-33"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+			</svg:g>
+		</svg:svg>
+		</fo:instream-foreign-object>
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block  >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row>
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Schockgranate [10]</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell  font-size="xx-small" >
+		       <fo:block >
+		Reichweite Standard Grenade</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+		 <fo:table font-size="small">
+		    <fo:table-column  />
+		   <fo:table-column  />
+		   <fo:table-column  />
+		   <fo:table-column  column-width="40%" />
+		    <fo:table-body  >
+		     	<fo:table-row font-style="italic" text-align="center" font-size="7" >
+		      <fo:table-cell >
+		       <fo:block >
+		dmg</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		acc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ap</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		reach</fo:block>
+		      </fo:table-cell>	
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+		      <fo:table-cell>
+		       <fo:block  >
+		10</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell>
+		       <fo:block  >
+		0</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell>
+		       <fo:block  >
+		-4</fo:block>
+		      </fo:table-cell>			
+				</fo:table-row>
+		  	 </fo:table-body>
+		  	 </fo:table>
+		 <fo:table font-size="small">
+		    <fo:table-column  />
+		   <fo:table-column  />
+		   <fo:table-column  />
+		   <fo:table-column  />
+		    <fo:table-body  >
+		     	<fo:table-row  font-style="italic" text-align="center">
+		      <fo:table-cell >
+		       <fo:block >
+		short</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		medium</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		far</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		extrem</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center" >
+		      <fo:table-cell >
+		       <fo:block >
+		0-0</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		0-0</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		0-0</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		0-0</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		
+		  	 </fo:table-body>
+		  	 </fo:table>
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block  >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row>
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Granate: IR-Rauch [10]</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell  font-size="xx-small" >
+		       <fo:block >
+		Reichweite Standard Grenade</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+		 <fo:table font-size="small">
+		    <fo:table-column  />
+		   <fo:table-column  />
+		   <fo:table-column  />
+		   <fo:table-column  column-width="40%" />
+		    <fo:table-body  >
+		     	<fo:table-row font-style="italic" text-align="center" font-size="7" >
+		      <fo:table-cell >
+		       <fo:block >
+		dmg</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		acc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ap</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		reach</fo:block>
+		      </fo:table-cell>	
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+		      <fo:table-cell>
+		       <fo:block  >
+		-</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell>
+		       <fo:block  >
+		0</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell>
+		       <fo:block  >
+		0</fo:block>
+		      </fo:table-cell>			
+				</fo:table-row>
+		  	 </fo:table-body>
+		  	 </fo:table>
+		 <fo:table font-size="small">
+		    <fo:table-column  />
+		   <fo:table-column  />
+		   <fo:table-column  />
+		   <fo:table-column  />
+		    <fo:table-body  >
+		     	<fo:table-row  font-style="italic" text-align="center">
+		      <fo:table-cell >
+		       <fo:block >
+		short</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		medium</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		far</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		extrem</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center" >
+		      <fo:table-cell >
+		       <fo:block >
+		0-0</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		0-0</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		0-0</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		0-0</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		
+		  	 </fo:table-body>
+		  	 </fo:table>
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block   >
+		 <fo:block font-weight="bold" >
+		Bodenfahrzeug Yamaha Growler (Off-Road Bike)</fo:block>
+		  <fo:table font-size="small">
+		    <fo:table-column column-width="30%" />
+		    <fo:table-column column-width="10%"  />
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		Geschwindigkeit</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell>
+		       <fo:block text-align="right"  >
+		3</fo:block>
+		      </fo:table-cell>
+		     <fo:table-cell number-rows-spanned="7">
+				<fo:block>
+		<fo:block  >
+		Vehicle damage
+		</fo:block>
+		<fo:instream-foreign-object content-width="138pt" content-height="69pt">
+		<svg:svg width="138pt" height="69pt">
+		   <svg:g >
+		   <svg:rect
+		         y="0"
+		         x="0"
+		         height="18"
+		         width="18"
+		         id="rect-monitorbox-1"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="23"
+		         height="18"
+		         width="18"
+		         id="rect-monitorbox-2"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="46"
+		         height="18"
+		         width="18"
+		         id="rect-monitorbox-3"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="69"
+		         height="18"
+		         width="18"
+		         id="rect-monitorbox-4"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="92"
+		         height="18"
+		         width="18"
+		         id="rect-monitorbox-5"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="115"
+		         height="18"
+		         width="18"
+		         id="rect-monitorbox-6"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="23"
+		         x="0"
+		         height="18"
+		         width="18"
+		         id="rect-monitorbox-7"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="23"
+		         x="23"
+		         height="18"
+		         width="18"
+		         id="rect-monitorbox-8"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="23"
+		         x="46"
+		         height="18"
+		         width="18"
+		         id="rect-monitorbox-9"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="23"
+		         x="69"
+		         height="18"
+		         width="18"
+		         id="rect-monitorbox-10"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="23"
+		         x="92"
+		         height="18"
+		         width="18"
+		         id="rect-monitorbox-11"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="23"
+		         x="115"
+		         height="18"
+		         width="18"
+		         id="rect-monitorbox-12"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="46"
+		         x="0"
+		         height="18"
+		         width="18"
+		         id="rect-monitorbox-13"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="46"
+		         x="23"
+		         height="18"
+		         width="18"
+		         id="rect-monitorbox-14"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="46"
+		         x="46"
+		         height="18"
+		         width="18"
+		         id="rect-monitorbox-15"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+			</svg:g>
+		</svg:svg>
+		</fo:instream-foreign-object>
+				</fo:block>
+		     </fo:table-cell>
+		
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		Beschleunigung</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell>
+		       <fo:block text-align="right"  >
+		1</fo:block>
+		      </fo:table-cell>
+			</fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		Handling</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell>
+		       <fo:block text-align="right"  >
+		3</fo:block>
+		      </fo:table-cell>
+			</fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		Pilot</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell>
+		       <fo:block text-align="right"  >
+		1</fo:block>
+		      </fo:table-cell>
+			</fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		Sensor</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell>
+		       <fo:block text-align="right"  >
+		1</fo:block>
+		      </fo:table-cell>
+			</fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		Rumpf</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell>
+		       <fo:block text-align="right"  >
+		5</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		Panzer</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell>
+		       <fo:block text-align="right"  >
+		5</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		
+		
+		    </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"   >		
+			<fo:block>
+		 <fo:table  >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"   >		
+			<fo:block>
+		 <fo:table  >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"   >		
+			<fo:block>
+		 <fo:table  >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"   >		
+			<fo:block>
+		 <fo:table  >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"   >		
+			<fo:block>
+		 <fo:table  >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"   >		
+			<fo:block>
+		 <fo:table  >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"   >		
+			<fo:block>
+		 <fo:table  >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"   >		
+			<fo:block>
+		 <fo:table  >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"   >		
+			<fo:block>
+		 <fo:table  >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"   >		
+			<fo:block>
+		 <fo:table  >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"   >		
+			<fo:block>
+		 <fo:table  >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"   >		
+			<fo:block>
+		 <fo:table  >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"   >		
+			<fo:block>
+		 <fo:table  >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"   >		
+			<fo:block>
+		 <fo:table  >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		
+			
+		      </fo:table-cell>
+		<!-- colum two -->
+		      <fo:table-cell >
+			<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+			border-left-style="solid" border-top-color="rgb(0,0,0)" 
+			border-bottom-style="solid" border-top-style="solid" 
+			border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+			border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt" >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row>
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Katana</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+		 <fo:table font-size="small">
+		    <fo:table-column column-width="40%" />
+		   <fo:table-column  />
+		   <fo:table-column  />
+		   <fo:table-column  />
+		    <fo:table-body  >
+		     	<fo:table-row font-style="italic" text-align="center" font-size="small" >
+		      <fo:table-cell >
+		       <fo:block >
+		dmg</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		acc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ap</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		reach</fo:block>
+		      </fo:table-cell>	
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+		      <fo:table-cell>
+		       <fo:block  >
+		(STR+3)P</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell>
+		       <fo:block  >
+		7</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell>
+		       <fo:block  >
+		-3</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell>
+		       <fo:block  >
+		1</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		  	 </fo:table-body>
+		  	 </fo:table>
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+				<fo:external-graphic  src="url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAABQxJREFUeJztmU2P00Ych58Zj/NiZ0l2E222EbsNKyqBVJX9AG0PPfXMhRMfo8feuUD7LThU6rU99FB6QaJFLQckBCESXZWqm+wS58Xv9vQQ1l1UlpcVYoTwI43s2M7kN488/3FkobXWvMdI0wFMUwowHcA0pQDTAUxTCjAdwDSlANMBTFMKMB3ANKUA0wFMUwowHcA0pQDTAUxTCjAdwDSlANMBTFMKMB3ANO+9AJVrTZxkSCmwpEQAQgqE6WRvCSWAJM2J4hRYviSSUiKEQEmBtCTKkgjx9DggBBwqEgZMjf66TzAesnXhy5deG0URYRgSRVHRPM9j/2CfnQs7KCEEjbpNxRJESUKuNVmWkqQZfpYBgrrjoJSNlBCGIUIIpAApBFKKpRAhkOL5+wBa58t9vTx29NzrkAPDe7/x6PcfuT9SJEmC7/v4QcBiMScMI2azKdPplMnEYzqbkqYJBwcHzOYz0iRFWYrBw4d8e+0bFCyDVKs21ar93w/lGo1G62VL0pQ811RtSZZl5FqTaiADraFWr4Ml0RqSLCOJY3KtEUCeZ8xmMzxvgjfxUMrCcRs4routFIdvJw99aH10Xy/7EQJlKX658TM3fvieduUhP3/3NVLmVCoVojii1WySZhkAnU6b0WiMEIJOp4OUElvZdLtdkijhIyHZ3NxcCngeUgo4Ugls9f9LD8PpQlaCQCAl2DW1lJjnaC2wTjWo2JJaxcZSFraqoCo2UsgjI9bkmkK6lBK5nG+gNZZSNJtNzmyfRWgXdX9ArVZFSoWUEsdxsW0bW9k0Vlb4oNuj0+nQbrfptDu0Wi2azSatVot2u83a2hriXXw7vPd4wM2frvHJZ1/RbDap1WoopYraJYRAyldb4N5JATrP+Ht4k97ZT/E8D6UUruueqK8XCsjzvLgVT1Kw3gbD4ZA4jjl37tyJvn9sDZjP51y8eBFvMuZM/zSNU+tsdLt0NzZYX1+n1Wrhui6u6+I4TrF1HIdarXbiAb2MO3fuMJlM2Nraot/vk6Ypt27d4uDgACEEOzs7LBYLoijC9302NjZYWVk5tr9jBdy9e5cHDx7g1C2eHIx49Odj/rg9JY7mLBYBFVuAtNnbT6nX6ziOQ71eL9qhnEajgeM4z2xd16XhutTq9WPvLK01QRAUa3cYhniex/Xr19nf3+f06dP0ej08z2M0GuH7PgC9Xo8gCIjjmCdPnnD16lUuX778+gK63S6XLl1iNBoxnc5QlRmLRZUoOkVrTbK26qCxWflnWixZSZIwm80Yj8dEUUQcx8RxTJqmZFlGlmUkScKHWz2++PxjgiDDm8349fY9RmPvWBmHx6WUqKer0XA4ZDAYFOellEgpGQwGzxTC3d3dYwf/QgH9fp8rV64QBEHRoihiOp0yGo3Z29tjPB4znXp43rItFouibmityfOcPM+Xzw1Pt0IINnsr7JxfR0jNvcEELZos/AiePncIIYo+jn5O0xTLstjd3WU+n9PpdAjDkMViQb/fp9lsYlkWUkosy0Ipxfnz518o4I2vAlmWMZ/Pn2m+7xOGIUEQ4Ps+WRrj1iRhlBClAPLIE6PGtu1i0EKIYjC2bVOtVosp0el0CrHb29usrq4WU/BVi/Y7uQy+Sd77v8OlANMBTFMKMB3ANKUA0wFMUwowHcA0pQDTAUxTCjAdwDSlANMBTFMKMB3ANKUA0wFMUwowHcA0pQDTAUxTCjAdwDT/AgoFXYhpTnzlAAAAAElFTkSuQmCC)"/>
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+			<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+			border-left-style="solid" border-top-color="rgb(0,0,0)" 
+			border-bottom-style="solid" border-top-style="solid" 
+			border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+			border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt" >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row>
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Überlebensmesser</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+		 <fo:table font-size="small">
+		    <fo:table-column column-width="40%" />
+		   <fo:table-column  />
+		   <fo:table-column  />
+		   <fo:table-column  />
+		    <fo:table-body  >
+		     	<fo:table-row font-style="italic" text-align="center" font-size="small" >
+		      <fo:table-cell >
+		       <fo:block >
+		dmg</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		acc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ap</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		reach</fo:block>
+		      </fo:table-cell>	
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+		      <fo:table-cell>
+		       <fo:block  >
+		(STR+2)P</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell>
+		       <fo:block  >
+		5</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell>
+		       <fo:block  >
+		-1</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell>
+		       <fo:block  >
+		0</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		  	 </fo:table-body>
+		  	 </fo:table>
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Helm</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 2 Wert: 100 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Brecheisen</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Breaking and Entering Gear</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 0 Wert: 20 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Suvival-Kiste</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Survival Gear</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 4 Wert: 200 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Camouflageseil (100m)</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Grapple Gun</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 8F Wert: 85 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Dietrich-Set</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Breaking and Entering Gear</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 4R Wert: 250 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Handschellen, Metall</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Security Devices</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 0 Wert: 20 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Mikro-Transceiver</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Communications and Countermeasures</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 2 Wert: 100 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Mini-Schweißgerät</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Breaking and Entering Gear</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 2 Wert: 250 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+				<fo:external-graphic  src="url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAAFVRJREFUeJylm3mMJVd1xn93q6q39N6zeHZ77PGCsQ22DDgEvIRsRiYI45jYKP8EJZGQAoKgkAiIEiGCiFBwDFaiSECI8ULwgmMn2BgTRY7iyDYJm5147PHYnpme6WWmu6f7LVX33vxRy6t6S0+bXOlNd7+qW3XPd8/9znfOvSO8956snTixgJQSACEESkoQAlH65G3U7wB4gUCC9ICvXvKi8pUQAsTgfb0OstTXFz+VUmij6Xa6OOdAeLx31Xu9wDmPcw7vPc5atm6fqTxelv8oDMmM7R+S778vu7f8fWoQeOHx3hfXeib6yqeE/+A4oASOB+ERQlCrRZw6tcR3v/sw1nWRqjdp5b7ZG/B4nHc4BlsFgPxVqRHVz4Ah+bU+INJr2cBFqY/PAfF44bPrHoTLvqt6WW8MGZjCE4QBUkvuu/9efuO91/P+97+Pz372zxDCDnphZrzzHofDk75nAOzKEphfREqJlLIykP6BVQb5OtrQ2S7/XniQqPTJ3f2HP3yWv/zC5/je9x7FexAounGHe+/9Ftde+yu0223IgfYe5zzWOZyzADgHZ22frbxfbzTgfgPTAY6+13tf/DyT4cOa8z51HiGKn1EUcOzYHHd85Tb+4c6vsbq6ShjWsInDe4FB0+50yKF09LzNOlvhDSHkwDurAAhXrBuBAkRvMNkaLJYIGXn54mrPWJEPhWymctRcenv65NQlffooD+Bl2t85gjDEJh2+edfdfOmLX+TQoRcIo5BaFBJ3YoKoQZIkdLuOLTNbcJmxPiM8a20BRDpBcujkDSHBIbMlAHzKR0XzpWuppaJ0u+i7T5QMz4lSVHqk9yoliaKQZ555ils/eDMf/+iHmTt6mEazCSi6Hcf01i1c9c63IpWkVq8xNTWFtRbnXPHpGS4Kz80jXLkNLIFeB4/ApQOmt+5lPl2FQSBEzu+5u4HIlkP6lYPiGSLzGteDJwNPSsGpk0vcccftfOMbX6XdblGLIvDQSSxJYtl34BzedPnl2MTSbnfYunWGsYmpyow75wpbcqD7I8RQAIQQKQEyiFQVpd4yEL3Jy2a0FP4yEMq8kC6vyksBX3jDRz7yBzz00ANMT49RC0OcFySJRUjFGy+/hHMv2I/RirXFNbrdLrOzs9TrNay1BQiQzXZGqFIIBk0fAkDK/ikAAp/1HyJ4sgeLPOaJksv7jBBLMT4nxzKAvZib8UHhMZZaPcJaQYwjsZZ6o8F5F53P1h3bsTZGGei028TdhB07dhAEhnYrLp6RR7H+iDWMjKsAILJZ6xm/UcjLQ5bIjeo3sNTywWV0QgU1n5Kh0SE7du6kFkYk1tGNHTNbZ9l/3n5qjYj2+jpxHFC3sHr6NNYm7Nq9lxiw3qKFQipZUbOCVEcI4YfS28ASAEj7D858D4TStWGg9LWNwmAZKyklu3btxlqL1oqJyQn2nX8uaEUnSVBSYLuWE6/N8fKLh7HWsmvXLqQFJRVKqcIDKmMr2PsMHtAzYHDWfa5PfM7yG+QCfcbn7ldm5mHACOG56qqrEErR6caE9QhrExJrAUe71WH+yAlOHJtjeXmVPfv2ceWVbwPvCbQqeW0hztOPzwEZFMMDHjDK5UX+r/BDr9N/txAI3NDZL3ND3owx3HHH7TzyyD/TbnWwLqHT6ZDEMd1WzNLCEsePn6B1ep1ut8P555/P57/wBS644IIsgsgBzkrfkU7cKC8cCUDZyGItpX9UFNUwteiLUNeb/f4YnIcray1SSo4fP87Xvv5Vnn/uf0ijmKfd6rK0tMLxV4+xemoV5y1x3OVtV/0Cn/7MZ7jwwgvxziKN2kCh+swLYXDBjuCAoV5QKMKSfCmFuOqs9lxcKYV1luXl5UyMpGu1AMt7BJInn/w3Dr10EGM03W6C97C6vMbS4jJxJwafZnTX33ADH/3oR9m9a3eWt6iKLhkOwuiLI4XQqAf0J0VFlud9KdylYGitOXToEJ/6zJ/w3HPPobXBBAajNcYYpqam2LJlC/VGnZ/8938hpMRbT7PZpNPpYJOEpJvgnCMMQz5w6y28/zdvYnpquvr+TFKXuWWzidqGHjBIUoOe0e8BlYdryW1f/mu+851HaDZrJF1LkqQGCSGRCowRWOuIohApNEnSxhhXygwdu/bs4kO//2GuuPIKQq3wzuOsw1qPwOLxRRYr/XDFtykAhhlX/v1M18pekBdU2u02s7OTHDiwnzCIwAta7Q6vHH6FtbXTaCORErx3rK910VoTxzEekEIglebAgQN43+XVVw5x4fkXIKQgsQmym0CQqcusJqCERClVEUPDJrMYe7kesL6+fkbhM0pTA1hrK32NMTz99NN86Hc/xOHDLxNFITPTM8zOzLCwuMjK8knqoQEs3a5jZa2N9z0ZK5VGCEGSJAjhCIKQd7zzndz8gZs577wDTI5PEQQBeFHIYClBKomWgyAAjI2NnRmAfv2+EQAVnd8nfb33aK05cvQYjz32KI8//j2efPLfOXrkCGEYsHV2nEZNp+yeeBZPrpMkDq0NUimCMETKTJ3KtL53euU0zfEmu/fu5qILLuTSy97E5ZdfwYED52Otx9luKohIcwApJUKmkUsKyfj4BgC0Wq0NeaBcKRrWhhVCchCEgL++/TbGxyc5euQof/e3tzPe1GmhynushfnFdTqdGCEkJggIowCTqbuwFmGModXqkCQJq6urxHGMVJI9Z+/hogsv5BOf+GP27tqFtTYL3VnEkgIlFVoZxseblTH2cUCveNA/w6Nmvd/4fuCklLTW1/jUp/+Ir3/9G+zevZdzztlHs6FIawwSj0MARiuE1GhtaLdbrJ0+jRASbSSxdcRxDEAQBIRhiFKKmZlpmrUGP/j+E+zfdw4f+9gfopVObSmGKLOU+IxSOA2oFQk8ijxKhm5U2W21Wnz84x/mgQcepNlo0Fo7yfM/W8JoSd4tzQYtM1tmeN8HbqUe1uh0OiwtnWTu6BxHj77KiRMniKKIZrPJwsICCwsLdDod1tbWcC4hDEJ+/KMf0261mJiYxGV8lOsSKRVD6iH9YVANZc7NhpX++5RSLC0t8sQP/pUgimg2a2BjnPckcfZslVV0vaPZiLjooosIg5AgCIiiCCkkeE+322V8bIypyUm63S5zc3M8//zzvPbqaywuLLBjxw4++clPpsLL2nRPo8+GTRVEyi7fD8QwQPqXQ/lv5xxjYxNMT89yYv4IrVYHiUwFD+lGhkzSSpD34JIEgSeq1wi0IYoijDYExhCGIVopAmOYnJzk7LPP5tprriGvX1ib4L0r1Gd/G+XJQ0s/o2Y8dffqw/rBypsxBmMMBw8+x8rKMqdOtlhvdWgnCe1uQqdrSRKwXpBYSBy8dmSOv/nyV1haXMCEpjDYGINSqojvADZJ6LQ7xN0ucdwpSt+jZnrk9+Uo0Om0sxur7tOTuq7Q88NKzPnsKyV56qn/4NHHHuOBB+/npYMvYYymXg9BQKeTEHcdeI8xCqUlUsu0zrfe5twD5/Knn/1ztm/bSagDgiAoQNBap0sk+7t/D6N/LGU7AMIwrIx5gARHZXrO5WTncU4i5WCm573HGMNPf/oTbrzxRlZWV9m2fRtCyrRQ6VP5apM0OnjviJMEIQ0+SbmgOd7g5NIip5aW2bljN1LJYva11hkYGiUHjR/lucOiVt76yuLpXsDwh5SLJY48xgwrNT/z7NMsLC5iTMDy8koGHnQTR6udYL0r2BkESguCQOOcB++ZnZ3hrO3bkR5UZqSUslhWSimEHJTloyLSRm1k+XcwIyxvLAyKpZwLVlZO8Y/fupNmo473nm4nxlmHUoYkoagJ532UgiBIgQ8Cg3OeK9/6VhqNRqresvS5MF4qpKgWPfs/ZRvO5CF9AKQzO6wukHqALLxgkAMcWisef/y7/PhHz1JrhFll2RFFAZOTE9SbzaJulxYpLVFoSGKLtQ4pJRe94WJ+9fobAFm8T8psGUiZlrhHGPzztOHb430td9f8sihvWZe2ub13PPHE41jnkKSV2CAwNJtNgsDQiGpMjI8jgMQmBJHONjEERkta6+s0xprU6rUUPDxSpOcUUuMHZ34z7XUVRKpGVx/gK7l2ea35ImtbmF8gCCKk0LRaCc56giAoVJ9NEmwSExgDOLTRBEFa0tp/3rn84jVXp6pNyHQ7N9twkUL2cn4pN6VQ++3YJAAecIWrV4GQGaOSGVSuAKXa3jqLytSbIPUA62PijsW6hNOrq2itMFoRhoIwUEiVZnrve997ecsVV4L3aK1QWuN9WhHuT22HJW2j4v9GIGy4PT68yVJS4YvloZRi7vgcLxw8iEMSBYbJSU+cOFwS450niWMCI1FaEQUabQRKpkAbrdKN0SAswmlusByR2/cbOqptVBQZiAKD7J8SWW+3qHyPzABROOfYMjvLX3zu80xNTNJJYnRmqFGgpCcKDI1aQDMKCExavfFOYK0nDAOmpqYIwzQHyL1Na0MQhAV55mMcBsaoCLBRO6MHpHV1SY/wII/f5YjhvUMpxcVvuATnBXGcEGmD1AKhFdYKXNE93Xd23pMk6XqanpnlnHPOIwgi8lVltCYM0zrAqCXQG+forHSjpG4EB5Rv7Blbvi5KdfY8AkipuO/+ezk2d4zJZh0j07qexyJFmv5aBIlzdLqOOE6wiSeMNJdd8RZ27NxbbGUrKQiMJoqirKCyMfOPSuFfJwnmKyI32GWG9kcEX3iG9+kBJCEkc8eO8O1v30NgDIEWGJFmehaJTwmd2FrW2zHdODvDk1i2TZ/Fddf9GkYbpEhDnjGGIEjzgJ52GCS8YeSXz/pmIsEQD6gi2b+usiuVl3jnMCbk4X+6n0OHDtOM6gRSoWR2UCHbCXakpGitKHaFZmZnuOWWW9h/zv50QEYTmjT50VpX1v7gOM5MfmeqaQwowTynHo6eyLrkxlusTXDOc3zuCPfeew9aaUItkAIcEle8In1mYlNXcM4xMzvDB3/7Vi6//Ao6nQ5Cikr6W84z/r+KbxRHDIkCUH5X9cU91ZfPYGITtFY88vB9vHDwJaLIIKWnfMBRVHpnoHrPJW98I7t37yGOY+JuDC4toPYXXzcyfqPN1830HwAgT3nzde99Outlti8DIIRkcf4499xzF1oqAqFQQoDIpGx2uEp4cL6XQzjvmZyaIAprSCEAi7MW7wZDWL8q3SgajAJik0ug3HL2rz4wLWHb4mO04ZGHH+DgwZeoBwG6dN4nX/fOe7rO0+50SRJXeMGrrxyhFkUonZfiHN7bgcOamyW0AQs2sWxGAFCO96ON11pzcmmee+6+G600+bmk/HyQyz7t2LG83mGl1SWO08LI1HiTFw8+z8uHX2JyYpp6vUEURaW1Pxj2hoEwSv5utg0VQukSLW1QUjU+3dyEMAi56zv3c/DFgzQbdZR0lUJFGvag1U3odNOTnbV6yLt++Ze4+uprCINU/W2Z3crY2DjGBCilK4b3h7zcwPLu0+D4N+8lI5Vg/0vzNZ+fwVPaMD8/x91334kxGi3zU6XVOmJiHbG1gEBryQ3vfQ/vec+NNOsNgkDTrDdpNMYIggApewRY2WQdEco2ygg3C0L1tPiITvnsFwMBIhPw0IP3cfDQQcLQpMHRVz/egbWetNjtOWvHVq65+jpCozFaEJiAMIwy5tcjmX+zsrd8bbNq8AwnIikYPz9+miYomvmFE9x9z50EOkAJkMKh6NMQpGxPtqRmpqZpNpoYYwiDGoEJCAJTUnrVEFw2fpgMPpORm9nYGfCA8oNyw6vb3p4wDHngwW9x6NDLRGGQHqv24ETvOTGOtW6HtU6MTRw2sSzOzxPHXaIoIgwjarU6QRAWoTGX3RvF8Y28YSNyHOUFAxzQj6p3Lv1kD9XKMHf8GN/85t9jjEZkG5vp0EVRM17rWFbWE5yTaC249OKLue5d1zIxMUa9VmdsbCxLdHoekHpYddaHcUH/eDfL+sP6j4gCPY2fMn5vQEor7rnnTg4depXxZg28w3twBWlCYh3tTox1Aik9l7zpMm666Sb27dlHszHGWHOMer2eMX45zz/zgMvADLvv9UrmoR6QP9C6dPdGiOywgZCsnz7NQw89iFIa5z0SjRdZNRlIEHQTS+JAChgfq/P2t7+DseYEwkFgQsKwhlJmyJ7CGSlpJAjl8b+eVgGgnwPKL8myAExgmBifJFfMzjuETGsEOeklLi+veyYnp9i2dZbAKHRW2JCyv14/YAb9ImxUq4xxiCecSUFuSIL5DOURIAhDHn30X3j66WeRQqX5PI7YQ4yg6zzr3YRW16fhL0lYWVklCkOaY02CWojSo6RHueBSrj5trv283jDgAaKkwa1NK7l40EqztLTIl277K0AgpGSt06EWGYR3SO+IuwnrnZgkBgTs3buLN735UqantzA7s52JiQkajXxzpH8o/YKn/4ZBeV4mybLBw3TC5qKAEPiT84ggoLOyjJ+YwTuL0BqjJffeexcvvfgiUxOTCDyX7jobqSWHTy6ytLqKjSE0BnzMeQfO5pbfupmzzzmX2ZmtTE9OMj4xVaS7udYvG7Uxf/WX6jY362eKEoMeUG/iDj9HV4SItRXAE9TqLLbWOf6TZ3jPW94MwA8PHWXHeMS6hQu2baexeycL6zFRdiDqskvewLljDaaSNpOtZdSyRk7NDK0vjK5B9htYvj8PuFVvGcYJPY8YPC3ef4IZb0I6OkJPb0V4TxIndGJLaBPO3b0d5xKef/UoR07Mc6rV5eFnfsZPX36NpbU2RxcWwVm8tdS1QnpHt92hi4BOC+/KCVYaMke5elYzKa6nf1eP5fb3/XkKo4MegEXv2puGuWYNlcSoIAQb8+u/83sc4Q6ePfYYzckmz8zNMzk7xv4L93LWtu3sDOs89Z/PcHL5NGcd38nOy96MnZ6FqWnkzBakyrffe/+jozfA8hrv/e59uSwPVa8QfX37oOwXdUNuq5wQWVs7zfrac7zwv88ACmcdCBgbq9PtdokTRy0KOPjii7xy+DALC4vs3LmD7dtmkFKxb98exicMT3z/B8zPL3L9u9/Nnj27AUEYzSDVxUipM+Or8rfaegcuBiVt7vbD26CXVEmx0WiMBuD06RXa7XlWVxZI9+YF1jnCwOB97zATQhAFhrW19ewUpsgqw5rxiSbra2vMnTjKrp17McZgrQNh0Hpb6ah8/nMYkY2WvqOM7v+9H4j8+2azelCyAsDKyqnM8N7+QKrNUzBy98wLJumbSEHIUl7nfVrbV6qoHeQ35tFNlJZBbyO235hhZJh+l767xwFlnHr/hX7wKL/3jrGx8QoA/wd0mbs0Jvo7WgAAAABJRU5ErkJggg==)"/>
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Mini-Schweißgerät Benzin</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Breaking and Entering Gear</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 2 Wert: 80 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Atemschutzmaske</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Survival Gear</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 0 Wert: 100 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Schnellziehholster</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Armor Enhancements</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 4 Wert: 175 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Automatischer Dietrich 3</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Breaking and Entering Gear</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 8R Wert: 1.500 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Tarnholster</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Armor Enhancements</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 2 Wert: 150 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Störsender, Area 4</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Communications and Countermeasures</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 12F Wert: 800 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 RFID-Löscher</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Communications and Countermeasures</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 6R Wert: 450 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Handschellen, Metall</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Security Devices</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 0 Wert: 20 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Handschellen, Metall</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Security Devices</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 0 Wert: 20 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Endoskop</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Vision Devices</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 8 Wert: 250 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Myomerisches Seil  (10m)</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Grapple Gun</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 10 Wert: 200 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Medkit 6</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Biotech</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: Rating Wert: 1.500 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container width="87mm"  margin-top="2mm" keep-together.within-page="always" font-size="9pt" border-right-style="solid" 
+		border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		border-bottom-style="solid" border-top-style="solid" 
+		border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table >
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		 Medkit-Nachfüllpack</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Biotech</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="xx-small">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: 0 Wert: 100 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table >
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		
+		     <fo:table-cell text-align="left" >
+		       <fo:block  >
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row    wrap-option="wrap">
+		
+		     </fo:table-row>
+		    <fo:table-row font-size="6"   >
+		
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+			
+		    </fo:table-cell>
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+		
+		
+		
+		

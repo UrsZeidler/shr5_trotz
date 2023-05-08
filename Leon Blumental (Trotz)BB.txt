@@ -1,0 +1,243 @@
+[b]Basic Data[/b]
+Name: [i]Leon Blumental (Trotz)[/i]  Geschlecht : [i]männlich[/i]
+Spezies: [i]Human[/i] Type: [i]Mundane Persona[/i]
+
+
+Muttersprache: Sprachfertigkeit Deutsch
+Date of birth: 09.05.45  Age: -1
+Karma erworben: 0  Momentanes Karma: 0
+Straßen Ruf: 0  Schlechter Ruf: 0
+Height: 185 cm  Weight: 91 kg
+
+[b]Attributes[/b]
+Konstitution................... 4
+Geschicklichkeit............... 6(8)
+Reaktion....................... 5(7)
+Stärke......................... 3(5)
+Willenskraft................... 2
+Logik.......................... 2
+Intuition...................... 5
+Charisma....................... 1
+Edge........................... 5
+
+Essenz......................... 1.25
+Initative...................... 12+3w6
+Condition...................... 10/9
+Panzer......................... 5
+Selbstbeherrschung............. 3
+Menschenkenntnis............... 6
+Errinerungsvermoegen........... 4
+Lifting/Carrying............... 75/50
+Movement....................... 16/32/2
+
+Limits
+Koerperlich 7 / Geistig 4 / Sozial 2
+
+[b]Fertigkeits Gruppen[/b]
+Fertigkeits Gruppe Athletics... 1
+Fertigkeits Gruppe Influence... 1
+
+
+[b]Fertigkeite[/b]
+Fertigkeit Klingenwaffen....... 5
+Fertigkeit Waffenloser Kampf... 3
+Fertigkeit Pistolen............ 3
+Fertigkeit Schnellfeuerwaffen.. 5
+Fertigkeit Schleichen.......... 2
+Fertigkeit Fingerfertigkeit.... 1
+Fertigkeit Geschütze........... 1
+Fertigkeit Schwere Waffen...... 1
+Fertigkeit Schlosser........... 1
+Fertigkeit Bodenfahrzeuge...... 1
+Fertigkeit Wahrnehmung......... 3
+Fertigkeit Wurfwaffen.......... 2
+
+
+[b]Knowledge Skills[/b]
+Wissensfertigkeit Hehler....... 2
+Wissensfertigkeit Berliner Gerüchteküche 1
+Sprachfertigkeit Französisch... 1
+Sprachfertigkeit Italienisch... 1
+Sprachfertigkeit Englisch...... 2
+Wissensfertigkeit Streetgangs Berlin 2
+Wissensfertigkeit Feuerwaffen.. 2
+Wissensfertigkeit Kampftaktiken 1
+Wissensfertigkeit Bars und Clubs 2
+
+
+
+[b]Eigenschaften[/b]
+Eigenschaften Zähigkeit........9
+Eigenschaften Beidhändigkeit...4
+Eigenschaften Bewegungstalent..7
+Eigenschaften Schnellheilung...3
+Eigenschaften Allergie (selten, leicht)-5
+
+sum :..........................18
+[b]Körper Mods[/b]
+Bioware Synapsenbeschleuniger 2190000
+Cyberware Smartlink, Smartgunverbindung4000
+Bioware Schadenskompensator 4..8000
+Cyberware Kompositknochen (Aluminium)18000
+Bioware Muskelverstärkung 2....62000
+Bioware Muskelstraffung 2......64000
+Bioware Orthoskin 3............18000
+Bioware Thrombozytenfabrik.....17000
+Cyberware Cyberaugen-Basissystem 324000
+
+sum :..........................405.000
+
+[b]Inventar[/b]
+Nahkampfwaffe Katana........... 1.000 ¥
+Kleidung Panzerjacke........... 1.000 ¥
+Gegenstand Helm................ 100 ¥
+Gegenstand Brecheisen.......... 20 ¥
+Credstick Standard............. 5 ¥
+Credstick Standard............. 5 ¥
+Credstick Gold................. 100 ¥
+Nahkampfwaffe Überlebensmesser 100 ¥
+Feuerwaffe Ares Alpha.......... 2.650 ¥
+Feuerwaffe Ares Predator V..... 725 ¥
+Feuerwaffe Ingram Smartgun X... 800 ¥
+Munition: Standardmunition (Reichweite Schwere Pisolen) 200 400 ¥
+Munition: Standardmunition (Reichweite Submachine Guns) 200 400 ¥
+Munition: Standardmunition (Reichweite Assault Rifles) 200 400 ¥
+Granate Schockgranate [10]..... 1.000 ¥
+Granate Granate: IR-Rauch [10] 600 ¥
+Gegenstand Suvival-Kiste....... 200 ¥
+Gegenstand Camouflageseil (100m) 85 ¥
+Gegenstand Dietrich-Set........ 250 ¥
+Gegenstand Handschellen, Metall 20 ¥
+Gegenstand Mikro-Transceiver... 100 ¥
+Gegenstand Mini-Schweißgerät... 250 ¥
+Gegenstand Mini-Schweißgerät Benzin 80 ¥
+Gegenstand Atemschutzmaske..... 100 ¥
+Gegenstand Schnellziehholster.. 175 ¥
+Gegenstand Automatischer Dietrich 3 1.500 ¥
+Gegenstand Tarnholster......... 150 ¥
+Gegenstand Störsender, Area 4.. 800 ¥
+Gegenstand RFID-Löscher........ 450 ¥
+Gegenstand Handschellen, Metall 20 ¥
+Gegenstand Handschellen, Metall 20 ¥
+Kleidung Actioneer Geschäftsanzug 1.500 ¥
+Gegenstand Endoskop............ 250 ¥
+Gegenstand Myomerisches Seil  (10m) 200 ¥
+Gegenstand Medkit 6............ 1.500 ¥
+Gegenstand Medkit-Nachfüllpack 100 ¥
+
+sum :.......................... 17.055
+
+[b]Vertäge[/b]
+Lifestyle Mittelschicht........ 5.000 ¥/5.500 ¥
+- Lifestyle Option Garage........ 500 ¥
+
+Sin Faked SIN 3................ 7.500 ¥
+Sin Faked SIN 2................ 5.000 ¥
+Lizenz Gun Licence 3........... 2.400 ¥
+Lizenz Driver Licence 3........ 2.400 ¥
+
+sum :.......................... 22.800
+
+[b]Connections[/b]
+Connection  unset [2/2]........  2/2
+Connection  unset [1/1]........  1/1
+Connection  unset [3/1]........  3/1
+
+
+[b]Fahrzeuge[/b]
+Bodenfahrzeug Yamaha Growler (Off-Road Bike) 5000
+
+
+sum :.......................... 5.000
+
+[b]Notes[/b]
+Katana
+[i]Das legendäre zweihändige Schwert der Samurai.
+Das Katana ist nicht nur zum Synonym für Straßensamurais, sondern sogar für Shadowrunner im Allgemeinen geworden, zumindest in den Trids: Jeder hat dort ein Katana, vom Dekker bis zum Magier. Aber nur weil diese Waffe ein blödes Klischee ist, macht sie das nicht weniger gefährlich oder weniger hilfreich in einem Kampf.[/i]
+Armor Jacket
+[i]Die beliebteste Panzerung auf den Straßen gibt es in allen Stilen, die man sich nur vorstellen kann. Sie bietet guten Schutz, ohne zu viel Aufmerksamkeit auf sich zu ziehen. Aber denken Sie nicht einmal daran, sie auf einer Dinnerparty zu tragen.[/i]
+Helmet
+[i]Helme gibt es in vielen verschiedenen Formen und Größen, und sie schützen die Rübe vor Verletzungen. Sie haben eine Kapazität von 6, um mit Zubehör wie Trodennetzen und Sichtverstärkungen ausgerüstet zu werden.[/i]
+Chisel
+[i]Ein Brecheisen verdoppelt die effektive Stärke eines Charakters, wenn er versucht, eine Tür oder einen Behälter aufzubrechen.[/i]
+Survival Knife
+[i]Eine hochwertige Klinge – gerade auf der einen Klingenseite, gezahnt auf der anderen – mit mehreren Zubehörteilen, einschließlich einem GPS, einem Multitool im Miniaturformat, einem Mikrofeuerzeug und einem verborgenen Fach im Griff. Die Seiten der Klinge sind mit einer ungiftigen Chemikalie behandelt, die die Klinge im inerten Zustand schwärzt, um unerwünschte Lichtbrechungen zu vermeiden aber aktiviert werden kann, um für zwei Stunden phospho-
+reszierendes Licht zu erzeugen. Alle Messer können Fleisch schneiden, aber ein Überlebensmesser ist besser darin, Seil und Holz zu schneiden oder anders als Werkzeug eingesetzt zu werden. Das Überlebensmesser ist die Art von Spielzeug, das jeder Profi braucht.[/i]
+Ares Alpha
+[i]Das Alpha wurde speziell für die Firewatch-Spezialeinheiten von Ares entwickelt und ist seitdem auf der ganzen Welt ein Bestseller, der sogar von den Special Forces der UCAS verwendet wird. Teilweise liegt das an seiner außergewöhnlich hohen Markenwiedererkennung, andererseits natürlich auch an seinem Unterlauf-Granatwerfer, dem
+Smartgunsystem und einem teuren Kammerdesign, das 2 Punkte Rückstoßkompensation gewährt.[/i]
+Ares Predator V
+[i]Die neueste Generation der – besonders bei Söldnern und Shadowrunnern – beliebtesten Handfeuerwaffe der Welt. Die Ares Predator V verfügt über eine verbesserte Ergonomie und Handhabung sowie ein integriertes Smartgunsystem. Einige Leute sagen, dass die Ares Predator V nicht besser sei als andere Pistolen ihrer Klasse, aber niemand kann bestreiten, dass sie eine bessere Markenwiedererkennung hat[/i]
+Ingram Smartgun X
+[i]Eine Knarre der Spitzenklasse. Die Ingram Smartgun ist seit den 2050ern als Waffe der Wahl vieler legendärer Straßensamurai berühmt und ist mit einem Gasventilsystem 2, einem Smartgunsystem, einer ausziehbaren Schulterstütze und einem integrierten Schalldämpfer ausgestattet.[/i]
+Flash-Bang
+[i]Diese „Betäubungs”-Granaten explodieren in einem blendend hellen Licht und mit einer lauten Druck-
+welle, die sich gleichmäßig über einen Radius von 10 Metern ausbreitet.[/i]
+Thermal Smoke
+[i]Diese Granate ist identisch mit der Rauchgranate, außer dass der Rauch heiße Partikel enthält, die
+Infrarotsicht behindern. Wenden Sie die Sichtbarkeitsmodifikatoren für IR-Rauch (S. 176) an. Die Wolke existiert für etwa 4 Kampfrunden (kürzer bei Wind, länger in geschlossenen Räumen mit schlechter Lüftung, nach Maßgabe des Spielleiters).[/i]
+Survival Kit
+[i]Eine Auswahl von Überlebensausrüstung in einer widerstandsfähigen Tasche. Enthält ein Messer, ein Feuerzeug, Streichhölzer, einen Kompass, eine leichte Isolationsdecke, Nahrungsriegel für mehrere Tage, eine Wasserreinigungseinheit und noch mehr. Gut für die Notfalltasche.[/i]
+Stealth Rope (100m)
+[i]Camouflageseil bis zu 400 Kilogramm.[/i]
+Lockpick Set
+[i]Diese mechanischen Einbruchswerkzeuge sind in den letzten Jahrhunderten nur marginal verbessert worden. Sie sind notwendig für das Knacken von mechanischen Schlössern.[/i]
+Micro-Transceiver
+[i]Dieses klassische Kurzstrecken-Kommunikationsgerät wird von Profis seit den 2050ern geschätzt.
+Er tut nichts Besonderes, sondern lässt einen einfach per Stimme mit anderen Mikro-Transceivern und Kommlinks – die man selbst (und die andere Person) auswählt – innerhalb einer Entfernung von einem Kilometer kommunizieren. Der Mikro-Transceiver besteht aus einem Ohrstöpsel und einem selbst haftenden subvokalen Mikrofon (S. 443), die beide in schwer
+zu entdeckenden Designs erhältlich sind.[/i]
+Miniwelder
+[i]Dieses tragbare Schweißgerät erzeugt einen kleinen Lichtbogen, um Metalle zu schmelzen, entweder um durch Metall zu schneiden oder sie zusammenzuschweißen. Seine Energiequelle
+reicht für 30 Minuten Betrieb. Der Lichtbogen erzeugt zwar eine große Hitze, ist aber viel zu klein, um eine gute Waffe abzugeben (das wäre, als würde man versuchen, jemanden mit einem Feuerzeug zu stechen).
+Das Mini-Schweißgerät hat einen Schadenscode von 25, wenn man es verwendet, um durch Barrieren zu schneiden.[/i]
+Respirator 2
+[i]Eine Atemschutzmaske ist eine Filtermaske, die über Mund und Nase getragen wird und vor To-
+xinen mit Inhalationsvektor schützt (s. Toxine, S. 410). Sie addiert ihre Stufe zu Toxinwiderstandsproben gegen Toxine mit Inhalationsvektor.[/i]
+Quick-Draw Holster
+[i]Dieses leicht zugängliche Holster kann jede Waffe aufnehmen, die nicht größer als eine Automatikpistole ist. Es senkt den Schwellenwert für das Schnellziehen der geholsterten Waffe um 1 (s. Schnellziehen, S. 167).[/i]
+Autopicker 3
+[i]Diese Sperrpistole ist eine schnelle und effektive Methode, um mechanische Schlösser zu umgehen. Die Stufe des Automatischen Dietrichs wird zum Limit des Charakters addiert, wenn er ein mechanisches Schloss knackt.[/i]
+Concealable Holster
+[i]Dieses kleine Holster kann am Fußknöchel, am Unterarm, im Kreuz oder sonst wo getragen werden, wo es unwahrscheinlich ist, dass man es entdeckt. Das Tarnholster addiert einen Modifikator von -1 zum Tarnmodifikator (S. 422) des Gegenstands. Nur Pistolen und Taser passen in ein Tarnholster.[/i]
+Jammer, Area 4
+[i]Dieses Gerät flutet den Äther mit elektromagnetischen Störsignalen, um WiFi- und Funkkommunikation zu blockieren. Der Störsender erzeugt einen Rauschenwert in Höhe seiner Gerätestufe. Der Bereichsstörsender beeinflusst einen kugelförmigen Bereich – seine Stufe wird alle 5 Meter vom Zentrum des Bereichs um 1 gesenkt. Der zielgerichtete Störsender beeinflusst einen kegelförmigen Bereich mit einem Winkel von 30 Grad – seine Stufe wird alle 20 Meter vom Zentrum des Bereichs um 1 gesenkt. Der Störsender beeinflusst
+alle Geräte (und Personas auf diesen Geräten) in seinem Störbereich. Wände und andere Hindernisse können das Störsignal an der Ausbreitung hindern oder seine Wirkung abschwächen
+(nach Maßgabe des Spielleiters). Für Geräte, die keine Matrixhandlungen ausführen, gilt: Wenn der Rauschenwert des Störsenders höher ist als die Gerätestufe (plus Rauschunterdrük-
+kung) eines Geräts im Wirkungsbereich, verliert dieses Gerät so lange seine WiFi-Funktionalität – was zum Beispiel Kommlinks für die Kommunikation nutzlos machen kann.[/i]
+Tag Eraser
+[i]Dieses Handgerät erzeugt ein starkes elektromagnetisches Feld, das perfekt für das Ausbrennen von RFID-Chips und anderer ungeschützter Elektronik ist. Es ist wahrscheinlich stark genug, um ein Kommlink zu zerstören, und man sollte es – nur für den Fall der Fälle – auch nicht zu nahe an sein Cyberdeck lassen. Wenn man den Löscher in eine Entfer- nung von maximal 5 Millimeter zu einem elektronischen Gerät bringt und den Knopf drückt, erleidet das Gerät 10 Kästchen Matrixschaden (dem normal widerstanden wird). Die extrem kurze Reichweite macht es schwierig, den RFID-Löscher gegen Ziele wie Fahrzeuge, die meisten Drohnen, Magschlösser und Cyberware anzuwenden (und zu dem Zeitpunkt, an dem man sie geöffnet hat, um an die Elektronikinnereien zu kommen, hat man sowieso schon eine Menge Schaden angerichtet). Der RFID-Löscher hat eine Ladung und kann an einer Steckdose in nerhalb von 10 Sekunden wiederaufgeladen werden.[/i]
+Restraint, Metal
+[i]Normale Metallhandschellen (Panzerung 16, Struktur 2) verfügen über ein mechanisches oder ein WiFi-kontrolliertes Schloss (s. Barrieren, S. 196).[/i]
+Restraint, Metal
+[i]Normale Metallhandschellen (Panzerung 16, Struktur 2) verfügen über ein mechanisches oder ein WiFi-kontrolliertes Schloss (s. Barrieren, S. 196).[/i]
+Actioneer Business Clothes
+[i]Dieser  diskret gepanzerte Geschäftsanzug ist bei  Mr. Johnsons, Unterhändlern und Schiebern beliebt, die hochklassigen Schutz  gepaart mit Stil haben wollen. Er enthält  ein Tarnholster (S. 436) im Jackett.[/i]
+Endoscope
+[i]Dieses Glasfaserkabel ist mindestens einen Meter lang, wobei die ersten 20 Zentimeter auf jeder Seite aus myomerischem Seil (S. 454) und einer optischen Linse bestehen. Es erlaubt dem Benutzer, um die Ecke, unter Türspalten hindurch oder in enge Spalte hineinzuschauen. Endoskope sind in mehreren Längen erhältlich, allerdings können längere Segmente unhandlich sein.[/i]
+Myomeric Rope (10m)
+[i]Dieses Seil besteht aus einer speziellen Myomerfaser und kann (bis zu einer maximalen Länge von 30 Metern) ferngesteuert bewegt werden. Zum Beispiel kann man es sich wie eine Schlange um ein Hindernis winden oder sich an einen Vorsprung binden lassen. Das Seil bewegt sich mit einer Rate von 2 Metern pro Kampfrunde.[/i]
+Medkit 6
+[i]Das Medkit enthält Medikamente, Verbände, Werkzeuge und ein (redseliges) Arzt-Expertensystem, das den Nutzer bezüglich der Behandlung der gängigsten medizinischen Notfälle (einschließlich Knochenbrüchen, Schusswunden, chemischen Wunden und Vergiftung sowie der Be-[/i]
+Yamaha Growler (Off-Road Bike)
+[i]Dies ist ein unverwüstliches Geländemotorrad, das bei Motocrossrennen und anderen Extremsportevents genutzt wird. Foto- und Videoaufnahmen zeigen das Motorrad und seinen Fahrer meistens staub- und schlamm verkrustet. 
+Es ist beliebt bei Leuten, die nach einem Kick suchen, Wildnisfans und Drogenschmugglern, die nur wenig Frachtraum brauchen.[/i]
+
+[b]Diary[/b]
+Current Date: 
+
+
+
+
+[b]Credsticks[/b]
+Credstick: Credstick Standard..
+unset [i]Initale Transaction von 5695.[/i] 5.695 ¥
+Saldo :........................ 5.695 ¥
+
+Credstick: Credstick Standard..
+Saldo :........................ 0 ¥
+
+Credstick: Credstick Gold......
+Saldo :........................ 0 ¥
+
+
+
