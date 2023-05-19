@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="ASCII"?>
+<shr5mngt:NonPlayerCharacter xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:shr5="http://urszeidler.de/shr5/1.0" xmlns:shr5mngt="http://urszeidler.de/shr5mngt/1.0" xmi:id="_7VNFcO9rEe2MboZfG-JfyQ" chracterSource="_xXEoYO9rEe2MboZfG-JfyQ" sex="male">
+  <persona xsi:type="shr5:MudanPersona" xmi:id="_7VNFce9rEe2MboZfG-JfyQ" beschreibung="F&#xfc;r jemanden, den es offiziell eigentlich gar nicht gibt, kommt Mr. Johnson ganz sch&#xf6;n herum. Und das ist auch gut  so, denn ohne ihn w&#xe4;ren alle Shadowrunner arbeitslos. Er ist  das Bindeglied zwischen Schatten und Konzernen, und er ist  es auch, der alles ins Rollen bringt. Er ist derjenige, der sich  die Finger schmutzig macht, damit die Konzerne und Regierungen es nicht m&#xfc;ssen. Er sorgt f&#xfc;r das &#x201e;abstreitbar&#x201c; in &#x201e;abstreitbare Aktivposten&#x201c;.&#xA;Mr. Johnson f&#xfc;hrt die Vorbesprechung, heuert die Talente  an und zahlt f&#xfc;r die Ergebnisse. Er liefert Ihnen die Informationen, die Sie f&#xfc;r den Job, f&#xfc;r den er Sie anheuert, brauchen &#x2013;  oder zumindest die Informationen, von denen er glaubt, dass  Sie sie brauchen. Und er kann Ihnen manche der speziellen  Ausr&#xfc;stungsgegenst&#xe4;nde beschaffen, die Sie f&#xfc;r den Einsatz  ben&#xf6;tigen.&#xA;Er hat hervorragende Beziehungen und ein gutes Ged&#xe4;chtnis. Zwar steht er im Ruf, gerne seine freiberufichen Einsatzkr&#xe4;fte zu hintergehen, aber das ist gr&#xf6;&#xdf;tenteils nur eine urbane Legende. Wenn Sie ihn gut behandeln, wird er im Allgemeinen den Gefallen erwidern. Aber wenn Sie ihn &#xfc;bers  Ohr hauen, kann es leicht sein, dass Sie in nicht allzu ferner  Zukunft selbst zur Zielperson eines seiner Runs werden." name="Schieber" edgeBasis="3" konstitutionBasis="3" geschicklichkeitBasis="3" reaktionBasis="3" staerkeBasis="3" charismaBasis="5" willenskraftBasis="4" intuitionBasis="5" logikBasis="4">
+    <fertigkeiten xmi:id="_aAFeYO9sEe2MboZfG-JfyQ" stufe="6">
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#1c14bf0d-cc69-4126-9a95-1f2429c11aa5"/>
+    </fertigkeiten>
+    <fertigkeiten xmi:id="_d7x34O9sEe2MboZfG-JfyQ" stufe="4">
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#9de43fad-b365-4e73-bc06-91dd571b858a"/>
+    </fertigkeiten>
+    <fertigkeiten xmi:id="_g4zCoO9sEe2MboZfG-JfyQ" stufe="7">
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#b20acd11-f102-40f3-a641-e3c420fbdb91"/>
+      <spezialisierungen href="platform:/resource/shr5Resource/shr5-1.shr5#_EL-3iDnTEeSe6_w6Jrbqxg"/>
+    </fertigkeiten>
+    <fertigkeiten xmi:id="_k-EO4O9sEe2MboZfG-JfyQ" stufe="5">
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#adf31a50-b228-4e09-a09c-46ab9f5e59a1"/>
+    </fertigkeiten>
+    <fertigkeiten xmi:id="_m7vcgO9sEe2MboZfG-JfyQ" stufe="4">
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#6d7f48d3-84a1-4fce-90d3-58d566f70fa6"/>
+    </fertigkeiten>
+    <fertigkeiten xmi:id="_o6F_kO9sEe2MboZfG-JfyQ" stufe="8">
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#729c9cee-ef8f-492d-aa7f-17ec1bc3816e"/>
+    </fertigkeiten>
+    <fertigkeiten xmi:id="_qufVYO9sEe2MboZfG-JfyQ" stufe="5">
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#04e1eb3e-e82d-485b-a7fd-1e677df2a070"/>
+    </fertigkeiten>
+    <fertigkeiten xmi:id="_AWNEsO9tEe2MboZfG-JfyQ" stufe="5">
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#b1d33738-a93a-46f3-a64a-0fc329ab1740"/>
+    </fertigkeiten>
+    <spezies href="platform:/resource/shr5Resource/shr5-1.shr5#a53d885d-a4a4-443d-b6a6-b0a55b0a96c7"/>
+  </persona>
+  <generatorSrc xsi:type="shr5mngt:FreeStyleGenerator" xmi:id="_xXEoYO9rEe2MboZfG-JfyQ" character="_7VNFcO9rEe2MboZfG-JfyQ" state="commited" characterName="Schieber">
+    <generator xsi:type="shr5mngt:FreeStyle" href="platform:/resource/shr5Resource/shr5-1.shr5#_BtTPkN0CEeOvVYoRsPZlnA"/>
+    <selectedGroup href="platform:/resource/shr5Resource/shr5-1.shr5#_CB_tQL9LEeS9maZrSgWaVQ"/>
+    <selectedSpecies href="platform:/resource/shr5Resource/shr5-1.shr5#a53d885d-a4a4-443d-b6a6-b0a55b0a96c7"/>
+    <selectedType href="http://urszeidler.de/shr5/1.0#//MudanPersona"/>
+  </generatorSrc>
+</shr5mngt:NonPlayerCharacter>

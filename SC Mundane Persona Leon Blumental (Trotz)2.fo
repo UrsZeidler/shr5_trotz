@@ -427,14 +427,6 @@ Edge</fo:block>
  border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
 <instream-foreign-object > </instream-foreign-object>
 </fo:inline>
-<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
- border-bottom-style="outset" border-top-style="outset" 
- border-left-width="1px" border-top-width="1px" 
- border-right-width="1px" border-bottom-width="1px" 
- border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
- border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
-<instream-foreign-object > </instream-foreign-object>
-</fo:inline>
 		</fo:block>
       </fo:table-cell>
      </fo:table-row>
@@ -575,14 +567,6 @@ Physical</fo:block>
  border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
 <instream-foreign-object > </instream-foreign-object>
 </fo:inline>
-<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
- border-bottom-style="outset" border-top-style="outset" 
- border-left-width="1px" border-top-width="1px" 
- border-right-width="1px" border-bottom-width="1px" 
- border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
- border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
-<instream-foreign-object > </instream-foreign-object>
-</fo:inline>
 		</fo:block>
       </fo:table-cell>
      </fo:table-row>
@@ -604,14 +588,6 @@ Men</fo:block>
      <fo:table-row  >
      <fo:table-cell >
        <fo:block   >
-<fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
- border-bottom-style="outset" border-top-style="outset" 
- border-left-width="1px" border-top-width="1px" 
- border-right-width="1px" border-bottom-width="1px" 
- border-left-color="rgb(0,0,0)" border-right-color="rgb(0,0,0)" 
- border-bottom-color="rgb(0,0,0)" border-top-color="rgb(0,0,0)"  > 
-<instream-foreign-object > </instream-foreign-object>
-</fo:inline>
 <fo:inline  width="8pt"    border-right-style="outset" border-left-style="outset" 
  border-bottom-style="outset" border-top-style="outset" 
  border-left-width="1px" border-top-width="1px" 
@@ -1231,16 +1207,6 @@ Eigenschaften</fo:block></fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Initativ Wuerfel</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-2</fo:block>
-      </fo:table-cell>
-   </fo:table-row>
-    <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
 Essenz</fo:block>
       </fo:table-cell>
       <fo:table-cell>
@@ -1261,6 +1227,26 @@ Panzer</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
+Geschicklichkeit</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Restlichtverstaerkung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
 Infrarot</fo:block>
       </fo:table-cell>
       <fo:table-cell>
@@ -1271,7 +1257,7 @@ Infrarot</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Heilung</fo:block>
+Stärke</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -1281,7 +1267,17 @@ Heilung</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Stärke</fo:block>
+Initativ Wuerfel</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Reaktion</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -1311,27 +1307,7 @@ Eigenschaften Bewegungstalent</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Geschicklichkeit</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-2</fo:block>
-      </fo:table-cell>
-   </fo:table-row>
-    <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Restlichtverstaerkung</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-1</fo:block>
-      </fo:table-cell>
-   </fo:table-row>
-    <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Reaktion</fo:block>
+Heilung</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -1828,13 +1804,6 @@ extrem</fo:block>
          width="8"
          id="rect-monitorbox-42"
          style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-   <svg:rect
-         y="13"
-         x="221"
-         height="8"
-         width="8"
-         id="rect-monitorbox-43"
-         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
 	</svg:g>
 </svg:svg>
 </fo:instream-foreign-object>
@@ -2123,13 +2092,6 @@ extrem</fo:block>
          height="8"
          width="8"
          id="rect-monitorbox-15"
-         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-   <svg:rect
-         y="0"
-         x="195"
-         height="8"
-         width="8"
-         id="rect-monitorbox-16"
          style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
 	</svg:g>
 </svg:svg>
@@ -2544,13 +2506,6 @@ extrem</fo:block>
          height="8"
          width="8"
          id="rect-monitorbox-32"
-         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-   <svg:rect
-         y="13"
-         x="91"
-         height="8"
-         width="8"
-         id="rect-monitorbox-33"
          style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
 	</svg:g>
 </svg:svg>
@@ -3232,13 +3187,6 @@ Vehicle damage
          height="18"
          width="18"
          id="rect-monitorbox-14"
-         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
-   <svg:rect
-         y="46"
-         x="46"
-         height="18"
-         width="18"
-         id="rect-monitorbox-15"
          style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
 	</svg:g>
 </svg:svg>

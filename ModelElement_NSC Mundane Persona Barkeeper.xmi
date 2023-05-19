@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shr5mngt:NonPlayerCharacter xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:shr5="http://urszeidler.de/shr5/1.0" xmlns:shr5mngt="http://urszeidler.de/shr5mngt/1.0">
+  <persona xsi:type="shr5:MudanPersona" beschreibung="Ein Barkeeper kennt jeden, und er kann einem verraten, wer  sich schon länger nicht mehr hat blicken lassen, wessen Blagen jetzt schon wieder von zu Hause weggelaufen sind und  wessen Frau es mit dem Nachbarn treibt – so gut wie alles,  was man möglicherweise wissen muss. Er kann einen auch  mit der örtlichen Gerüchteküche in Kontakt bringen, und vielleicht weiß er etwas potenziell Lukratives, das einer seiner  Kunden im Gin-Tonic-Rausch ausgeplaudert hat. Er kann Neulinge mit den Lieferanten verschiedenster Waren und Dienstleistungen zusammenbringen. Aber all das kostet natürlich  etwas – manchmal eine Bargeldspende, manchmal eine Lokalrunde, um die Stimmung zu heben.&#xA;Aber er ist auch für seine Diskretion bekannt. Ohne wirklich  guten Grund wird er nichts weitererzählen. Wie gesagt, er hat  seinen Preis – aber in der Regel lohnt es sich, ihn (und manchmal auch seine Gäste) bei Laune zu halten.&#xA; &#xA;Ähnliche Connections: Bar-/Nachtclub-Besitzer, Kellnerin, Rausschmeißer, Stripperin Ein Barkeeper serviert Getränke. " name="Barkeeper" edgeBasis="2" konstitutionBasis="3" geschicklichkeitBasis="4" reaktionBasis="3" staerkeBasis="3" charismaBasis="4" willenskraftBasis="4" intuitionBasis="3" logikBasis="3">
+    <fertigkeiten stufe="6">
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#b20acd11-f102-40f3-a641-e3c420fbdb91"/>
+    </fertigkeiten>
+    <fertigkeiten stufe="4">
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#64088b25-de37-4d71-8800-4a430fde08af"/>
+    </fertigkeiten>
+    <fertigkeiten stufe="5">
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#729c9cee-ef8f-492d-aa7f-17ec1bc3816e"/>
+    </fertigkeiten>
+    <fertigkeiten stufe="4">
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#adf31a50-b228-4e09-a09c-46ab9f5e59a1"/>
+    </fertigkeiten>
+    <fertigkeiten stufe="4">
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#4fcd40cb-4b02-4b7e-afcb-f44d46cd5706"/>
+    </fertigkeiten>
+    <spezies href="platform:/resource/shr5Resource/shr5-1.shr5#a53d885d-a4a4-443d-b6a6-b0a55b0a96c7"/>
+  </persona>
+</shr5mngt:NonPlayerCharacter>

@@ -151,10 +151,10 @@
     <koerperMods xsi:type="shr5:Cyberware" xmi:id="_qQwjKORoEe2EtdvPGzsRdw" beschreibung="Cyberaugen bieten volle Sehsch&#xe4;rfe auf beiden Augen und sind serienm&#xe4;&#xdf;ig mit einer Bildverbindung und einer eingebauten Kamera ausgestattet. Au&#xdf;erdem bieten sie Kapazit&#xe4;t f&#xfc;r die Aufnahme von Sichtverst&#xe4;rkungen." name="Cybereyes Basic System 3" parentId="8e414ade-2764-4dc7-bdc4-83bb4a086034" page="453" verfuegbarkeit="9" wertValue="10000" cyberwareCapacity="12" type="eyeware">
       <localizations xmi:id="_qQwjKeRoEe2EtdvPGzsRdw" local="de" name="Cyberaugen-Basissystem 3"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
-      <einbau xmi:id="_qQwjKuRoEe2EtdvPGzsRdw" verfuegbarkeit="4" wertValue="1000" name="Flare Compensation" parentId="5921a6ac-1e20-483b-b210-dc84a14d3045" page="453" capacityUse="1" type="eyeware">
         <mods xmi:id="_qQwjK-RoEe2EtdvPGzsRdw" wert="-40">
           <attribut href="http://urszeidler.de/shr5/1.0#//SpezielleAttribute/essenz"/>
         </mods>
+      <einbau xmi:id="_qQwjKuRoEe2EtdvPGzsRdw" verfuegbarkeit="4" wertValue="1000" name="Flare Compensation" parentId="5921a6ac-1e20-483b-b210-dc84a14d3045" page="453" capacityUse="1" type="eyeware">
         <localizations xmi:id="_qQwjLORoEe2EtdvPGzsRdw" local="de" name="Blitzkompensation"/>
         <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       </einbau>
