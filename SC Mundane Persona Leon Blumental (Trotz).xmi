@@ -131,14 +131,14 @@
       <localizations xmi:id="_qQwjIORoEe2EtdvPGzsRdw" local="de" name="Muskelstraffung 2"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
     </koerperMods>
-    <koerperMods xsi:type="shr5:BioWare" xmi:id="_qQwjIeRoEe2EtdvPGzsRdw" beschreibung=" Orthoskin besteht aus einem Netz von Biofasern in der Haut, das  das &#xc4;quivalent pers&#xf6;nlicher Panzerung liefert und gleichzeitig praktisch nicht von  nat&#xfc;rlicher Haut zu unterscheiden ist. Orthoskin addiert ihre Stufe zum Panzerungswert des Charakters und ist kumulativ mit anderer Panzerung, ohne sich auf die Belastung auszuwirken. Orthoskin kann nicht mit Bodytech f&#xfc;r  die Haut kombiniert werden, die Panzerung verleiht, wie etwa  Dermalpanzerung." name="Orthoskin 3" parentId="96e4809a-71e6-4b98-9740-c6c44bc33aa9" page="459" verfuegbarkeit="12R" wertValue="18000">
-      <mods xmi:id="_qQwjIuRoEe2EtdvPGzsRdw" wert="3">
+    <koerperMods xsi:type="shr5:BioWare" xmi:id="_qQwjIeRoEe2EtdvPGzsRdw" beschreibung=" Orthoskin besteht aus einem Netz von Biofasern in der Haut, das  das &#xc4;quivalent pers&#xf6;nlicher Panzerung liefert und gleichzeitig praktisch nicht von  nat&#xfc;rlicher Haut zu unterscheiden ist. Orthoskin addiert ihre Stufe zum Panzerungswert des Charakters und ist kumulativ mit anderer Panzerung, ohne sich auf die Belastung auszuwirken. Orthoskin kann nicht mit Bodytech f&#xfc;r  die Haut kombiniert werden, die Panzerung verleiht, wie etwa  Dermalpanzerung." name="Orthoskin 2" parentId="96e4809a-71e6-4b98-9740-c6c44bc33aa9" page="459" verfuegbarkeit="8R" wertValue="12000">
+      <mods xmi:id="_qQwjIuRoEe2EtdvPGzsRdw" wert="2">
         <attribut href="http://urszeidler.de/shr5/1.0#//Panzerung/panzer"/>
       </mods>
-      <mods xmi:id="_qQwjI-RoEe2EtdvPGzsRdw" wert="-75">
+      <mods xmi:id="_qQwjI-RoEe2EtdvPGzsRdw" wert="-50">
         <attribut href="http://urszeidler.de/shr5/1.0#//SpezielleAttribute/essenz"/>
       </mods>
-      <localizations xmi:id="_qQwjJORoEe2EtdvPGzsRdw" local="de" name="Orthoskin 3"/>
+      <localizations xmi:id="_qQwjJORoEe2EtdvPGzsRdw" local="de" name="Orthoskin 2"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
     </koerperMods>
     <koerperMods xsi:type="shr5:BioWare" xmi:id="_qQwjJeRoEe2EtdvPGzsRdw" beschreibung="Thrombozytenfabrik: Eine Thrombozytenfabrik erh&#xf6;ht die &#xA;F&#xe4;higkeit des K&#xf6;rpers, mit K&#xf6;rperlichem Schaden fertig zu &#xA;werden, indem sie die Produktion von Blutpl&#xe4;ttchen im Kno-&#xA;chenmark und ihre Konzentration im Blut erh&#xf6;ht, was dabei &#xA;hilft, Blutungen schneller zu stoppen. Jedes Mal, wenn der &#xA;Charakter 2 oder mehr K&#xe4;stchen Schaden auf seinem K&#xf6;rper-&#xA;lichen Zustandsmonitor erleiden w&#xfc;rde, wird der Schaden um &#xA;ein K&#xe4;stchen gesenkt." name="Platelet Factories" parentId="8c75648c-19d2-4734-b107-c04bb0e1904a" page="459" verfuegbarkeit="12" wertValue="17000">
@@ -209,8 +209,8 @@
       <localizations xmi:id="_qQwjQuRoEe2EtdvPGzsRdw" local="de" name="Schnellheilung"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
     </eigenschaften>
-    <eigenschaften xmi:id="_qQwjQ-RoEe2EtdvPGzsRdw" beschreibung="Die Substanz oder Umweltbedingung kommt in der normalen Umgebung des&#xA;Charakters selten vor. Beispiele: Silber, Gold, Gras, Antibiotika.&#xA;Die Symptome sind unangenehm und lenken ab. Solange der Charakter dem&#xA;Allergen ausgesetzt ist, erh&#xe4;lt er einen W&#xfc;rfelpoolmodifikator von -2 auf Proben mit&#xA;K&#xf6;rperlichen Attributen." name="Allergy (Uncommon, Mild)" parentId="b7841930-0c7b-4be4-b1cf-86debc41aa95" page="78" karmaKosten="-5">
-      <localizations xmi:id="_qQwjRORoEe2EtdvPGzsRdw" local="de" name="Allergie (selten, leicht)"/>
+    <eigenschaften xmi:id="_FfcTsAPXEe6SQ9KwvYZQrA" name="Dependent (Inconvenience)" parentId="cc857826-3bb2-466d-987b-7d56a337bc08" page="80" karmaKosten="-6">
+      <localizations xmi:id="_Ffc6wAPXEe6SQ9KwvYZQrA" local="de" name="Verpflichtung (unangenehm)"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
     </eigenschaften>
   </persona>
@@ -252,6 +252,7 @@
   <inventar xsi:type="shr5:Feuerwaffe" xmi:id="_qQwjWeRoEe2EtdvPGzsRdw" parentId="3a7a90ce-fbb5-4599-a857-b9849eb9769c" page="428" verfuegbarkeit="11F" wertValue="2650" beschreibung="Das Alpha wurde speziell f&#xfc;r die Firewatch-Spezialeinheiten von Ares entwickelt und ist seitdem auf der ganzen Welt ein Bestseller, der sogar von den Special Forces der UCAS verwendet wird. Teilweise liegt das an seiner au&#xdf;ergew&#xf6;hnlich hohen Markenwiedererkennung, andererseits nat&#xfc;rlich auch an seinem Unterlauf-Granatwerfer, dem&#xA;Smartgunsystem und einem teuren Kammerdesign, das 2 Punkte R&#xfc;cksto&#xdf;kompensation gew&#xe4;hrt." name="Ares Alpha" schadenscode="11P" praezision="5" durchschlagsKraft="-2" munitionstyp="Streifen" kapazitaet="42" rueckstoss="2">
     <localizations xmi:id="_qQwjWuRoEe2EtdvPGzsRdw" local="de" name="Ares Alpha"/>
     <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#788b387b-ee41-4e6a-bf22-481a8cc4cf9f"/>
     <reichweite href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwjnTEeSe6_w6Jrbqxg"/>
     <modie>HM</modie>
     <modie>SM</modie>
@@ -309,12 +310,12 @@
     <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
     <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFDsznTEeSe6_w6Jrbqxg"/>
   </inventar>
-  <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCORoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="200" proAnzahl="10">
+  <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCORoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="400" proAnzahl="10">
     <localizations xmi:id="_qQxKCeRoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
     <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
     <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwTnTEeSe6_w6Jrbqxg"/>
   </inventar>
-  <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="200" proAnzahl="10">
+  <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="600" proAnzahl="10">
     <localizations xmi:id="_qQxKC-RoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
     <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
     <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwjnTEeSe6_w6Jrbqxg"/>
@@ -408,6 +409,60 @@
   <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKN-RoEe2EtdvPGzsRdw" parentId="76aca45d-0d4f-45a3-a532-c47ac0b26b89" page="450" verfuegbarkeit="0" wertValue="100" name="Medkit Supplies" kategorie="Biotech">
     <localizations xmi:id="_qQxKOORoEe2EtdvPGzsRdw" local="de" name="Medkit-Nachf&#xfc;llpack"/>
     <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+  </inventar>
+  <inventar xsi:type="shr5:Munition" xmi:id="_t_tdYAPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="50" proAnzahl="10" armorMod="1">
+    <localizations xmi:id="_t_tdYQPXEe6SQ9KwvYZQrA" local="de" name="Munition: Gelgeschosse"/>
+    <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFDsznTEeSe6_w6Jrbqxg"/>
+  </inventar>
+  <inventar xsi:type="shr5:Munition" xmi:id="_t_uEcAPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="100" proAnzahl="10" armorMod="1">
+    <localizations xmi:id="_t_uEcQPXEe6SQ9KwvYZQrA" local="de" name="Munition: Gelgeschosse"/>
+    <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwTnTEeSe6_w6Jrbqxg"/>
+  </inventar>
+  <inventar xsi:type="shr5:Munition" xmi:id="_t_uEcgPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="150" proAnzahl="10" armorMod="1">
+    <localizations xmi:id="_t_uEcwPXEe6SQ9KwvYZQrA" local="de" name="Munition: Gelgeschosse"/>
+    <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwjnTEeSe6_w6Jrbqxg"/>
+  </inventar>
+  <inventar xsi:type="shr5:Munition" xmi:id="_oqmkcAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Ammo: Explosive Rounds" anzahl="100" proAnzahl="10" damageMod="1" armorMod="-1">
+    <localizations xmi:id="_oqmkcQPYEe6SQ9KwvYZQrA" local="de" name="Munition: Explosivgeschosse"/>
+    <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwTnTEeSe6_w6Jrbqxg"/>
+  </inventar>
+  <inventar xsi:type="shr5:Munition" xmi:id="_oqnLgAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Explosive Rounds" anzahl="100" proAnzahl="10" damageMod="1" armorMod="-1">
+    <localizations xmi:id="_oqnLgQPYEe6SQ9KwvYZQrA" local="de" name="Munition: Explosivgeschosse"/>
+    <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFDsznTEeSe6_w6Jrbqxg"/>
+  </inventar>
+  <inventar xsi:type="shr5:Munition" xmi:id="_oqoZoAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Explosive Rounds" anzahl="200" proAnzahl="10" damageMod="1" armorMod="-1">
+    <localizations xmi:id="_oqoZoQPYEe6SQ9KwvYZQrA" local="de" name="Munition: Explosivgeschosse"/>
+    <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwjnTEeSe6_w6Jrbqxg"/>
+  </inventar>
+  <inventar xsi:type="shr5:Magazin" xmi:id="_rhYc8APbEe6ry676G8SKSw" parentId="_PErXUD_REeSRYrHAmMULWA" page="433" verfuegbarkeit="4" wertValue="5" name="Spare Clip">
+    <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    <type href="platform:/resource/shr5Resource/shr5-1.shr5#_JoEq4FDLEeSjN8rIya5QCA"/>
+  </inventar>
+  <inventar xsi:type="shr5:Magazin" xmi:id="_rhcHUAPbEe6ry676G8SKSw" parentId="_PErXUD_REeSRYrHAmMULWA" page="433" verfuegbarkeit="4" wertValue="5" name="Spare Clip">
+    <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    <type href="platform:/resource/shr5Resource/shr5-1.shr5#_JoEq4FDLEeSjN8rIya5QCA"/>
+  </inventar>
+  <inventar xsi:type="shr5:Magazin" xmi:id="_rhcuYAPbEe6ry676G8SKSw" parentId="_PErXUD_REeSRYrHAmMULWA" page="433" verfuegbarkeit="4" wertValue="5" name="Spare Clip">
+    <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    <type href="platform:/resource/shr5Resource/shr5-1.shr5#_QSOfIJP9EeSg7ale_kHbpw"/>
+  </inventar>
+  <inventar xsi:type="shr5:Magazin" xmi:id="_rhd8gAPbEe6ry676G8SKSw" parentId="_PErXUD_REeSRYrHAmMULWA" page="433" verfuegbarkeit="4" wertValue="5" name="Spare Clip">
+    <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    <type href="platform:/resource/shr5Resource/shr5-1.shr5#_QSOfIJP9EeSg7ale_kHbpw"/>
+  </inventar>
+  <inventar xsi:type="shr5:Magazin" xmi:id="_rhejkAPbEe6ry676G8SKSw" parentId="_PErXUD_REeSRYrHAmMULWA" page="433" verfuegbarkeit="4" wertValue="5" name="Spare Clip">
+    <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    <type href="platform:/resource/shr5Resource/shr5-1.shr5#_6j4LkJK4EeSxvrTnLBRm7A"/>
+  </inventar>
+  <inventar xsi:type="shr5:Magazin" xmi:id="_rhfKoAPbEe6ry676G8SKSw" parentId="_PErXUD_REeSRYrHAmMULWA" page="433" verfuegbarkeit="4" wertValue="5" name="Spare Clip">
+    <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    <type href="platform:/resource/shr5Resource/shr5-1.shr5#_RKUwxu8dEe2z9bAoVYduZw"/>
   </inventar>
   <contracts xsi:type="shr5:Lifestyle" xmi:id="_qQxKOeRoEe2EtdvPGzsRdw" name="Middle" parentId="90f6f4c2-9968-42e1-ba79-e2bf530de32e" page="373" verfuegbarkeit="" wertValue="5000" faelligkeitsIntervall="1" unit="month">
     <localizations xmi:id="_qQxKOuRoEe2EtdvPGzsRdw" local="de" name="Mittelschicht"/>

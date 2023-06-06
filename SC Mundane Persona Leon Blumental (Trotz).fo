@@ -12,12 +12,17 @@
 	<fo:layout-master-set>
 		<fo:simple-page-master page-height="297mm"
 			master-name="A4_210_x_297_mm" page-width="210mm">
-			<fo:region-body margin-left="10mm" background-color="transparent"
-				region-name="xsl-region-body" margin-bottom="15mm" margin-top="10mm"
-				margin-right="10mm" />
 
-
+			<fo:region-body margin-left="15mm" 
+				region-name="xsl-region-body" margin-bottom="15mm" margin-top="15mm"
+				margin-right="5mm" />
+                    <fo:region-before region-name="kopf" extent="25mm" />
             <fo:region-after region-name="xsl-region-after"  extent="15mm"/>
+                    <fo:region-start extent="25mm"  />
+                    <fo:region-end extent="15mm" />
+
+
+
 
 		</fo:simple-page-master>
 	</fo:layout-master-set>
@@ -171,7 +176,7 @@ Momentanes Karma</fo:block>
 		<fo:block  border-right-width="1px"  border-right-style="outset" >
  <fo:block font-weight="bold" >
 Attributes</fo:block>
-  <fo:table font-size="small">
+  <fo:table font-size="small"> 
     <fo:table-column column-width="70%" />
     <fo:table-column  />
     <fo:table-column  />
@@ -283,7 +288,7 @@ Essenz</fo:block>
       </fo:table-cell> 
       <fo:table-cell>
        <fo:block  >
-1.25</fo:block>
+1.5</fo:block>
       </fo:table-cell>
     </fo:table-row>
 	<fo:table-row>
@@ -303,7 +308,7 @@ Panzer</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-5</fo:block>
+4</fo:block>
       </fo:table-cell>
     </fo:table-row>
 	<fo:table-row>
@@ -1178,77 +1183,17 @@ Modifications</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Essenz</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--475</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Panzer</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-5</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Geschicklichkeit</fo:block>
+Heilung</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
 2</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Restlichtverstaerkung</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-1</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Infrarot</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-1</fo:block>
       </fo:table-cell>
      </fo:table-row>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
 Stärke</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-2</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Initativ Wuerfel</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-2</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Reaktion</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
@@ -1278,7 +1223,67 @@ Eigenschaften Bewegungstalent</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Heilung</fo:block>
+Infrarot</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Reaktion</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Geschicklichkeit</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Essenz</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-450</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Panzer</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+4</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Restlichtverstaerkung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Initativ Wuerfel</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
@@ -1554,7 +1559,591 @@ Panzer</fo:block>
 <!-- colum two -->
       <fo:table-cell>
 
+
+
+		<fo:block  keep-together="always">
+ <fo:block font-weight="bold" >
+Eigenschaften</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column column-width="30%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Zähigkeit</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+9</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Beidhändigkeit</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+4</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Bewegungstalent</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+7</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Schnellheilung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Verpflichtung (unangenehm)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-6</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+		</fo:block  >
+		<fo:block  keep-together="always">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+Cyberware</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-column column-width="10%" />
+    <fo:table-column column-width="10%" />
+    <fo:table-column column-width="10%" />
+    <fo:table-body  >
+
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Cyberware Smartlink, Smartgunverbindung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+0</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+0</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-0.2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-column column-width="10%" />
+    <fo:table-column column-width="10%" />
+    <fo:table-column column-width="10%" />
+    <fo:table-body  >
+
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Cyberware Kompositknochen (Aluminium)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+0</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+0</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-1.0</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-column column-width="10%" />
+    <fo:table-column column-width="10%" />
+    <fo:table-column column-width="10%" />
+    <fo:table-body  >
+
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Cyberware Cyberaugen-Basissystem 3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+12</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+4</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-0.4</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+   <fo:table-row>
+      <fo:table-cell number-columns-spanned="4">
+       <fo:block  >
+<fo:leader leader-pattern="space"/>Cyberware Enhancement Blitzkompensation
+		</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+   <fo:table-row>
+      <fo:table-cell number-columns-spanned="4">
+       <fo:block  >
+<fo:leader leader-pattern="space"/>Cyberware Enhancement Restlichtverstärkung
+		</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+   <fo:table-row>
+      <fo:table-cell number-columns-spanned="4">
+       <fo:block  >
+<fo:leader leader-pattern="space"/>Cyberware Enhancement Infrarotsicht
+		</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+   <fo:table-row>
+      <fo:table-cell number-columns-spanned="4">
+       <fo:block  >
+<fo:leader leader-pattern="space"/>Cyberware Enhancement Sichtverbesserung 2
+		</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+   <fo:table-row>
+      <fo:table-cell number-columns-spanned="4">
+       <fo:block  >
+<fo:leader leader-pattern="space"/>Cyberware Enhancement Sichtvergrößerung
+		</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column column-width="10%" />
+    <fo:table-body  >
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Bioware Synapsenbeschleuniger 2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-1.0</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column column-width="10%" />
+    <fo:table-body  >
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Bioware Schadenskompensator 4</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-0.4</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column column-width="10%" />
+    <fo:table-body  >
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Bioware Muskelverstärkung 2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-0.4</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column column-width="10%" />
+    <fo:table-body  >
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Bioware Muskelstraffung 2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-0.4</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column column-width="10%" />
+    <fo:table-body  >
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Bioware Orthoskin 2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-0.5</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column column-width="10%" />
+    <fo:table-body  >
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Bioware Thrombozytenfabrik</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-0.2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+		</fo:block  >
+		<fo:block  keep-together="always">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+Vertäge</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="20%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell number-columns-spanned="3">
+       <fo:block  >
+Lifestyle Mittelschicht</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+unset</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+1 month</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5.000 ¥/5.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row font-size="x-small">
+      <fo:table-cell>
+       <fo:block  >
+ </fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Lifestyle Option Garage</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+		</fo:block  >
+
+
 		<fo:block   >
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+SinLicense</fo:block>
+  <fo:table font-size="small" >
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small"  >
+    <fo:table-column column-width="40%" />
+    <fo:table-column column-width="5%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body   >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Sin Faked SIN 3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+true</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+7.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small"  >
+    <fo:table-column column-width="40%" />
+    <fo:table-column column-width="5%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body   >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Sin Faked SIN 2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+true</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="40%" />
+    <fo:table-column  column-width="5%"/>
+    <fo:table-column  />
+    <fo:table-column column-width="15%" />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Lizenz Gun Licence 3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Faked SIN 3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2.400 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="40%" />
+    <fo:table-column  column-width="5%"/>
+    <fo:table-column  />
+    <fo:table-column column-width="15%" />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Lizenz Driver Licence 3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Faked SIN 3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2.400 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+		</fo:block  >
+		<fo:block   >
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
  <fo:block font-weight="bold" >
 Inventar</fo:block>
 <!-- one column table -->
@@ -1734,7 +2323,7 @@ SR5</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Munition: Standardmunition (Reichweite Submachine Guns) 200</fo:block>
+Munition: Standardmunition (Reichweite Submachine Guns) 400</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -1748,7 +2337,7 @@ SR5</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Munition: Standardmunition (Reichweite Assault Rifles) 200</fo:block>
+Munition: Standardmunition (Reichweite Assault Rifles) 600</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -2067,6 +2656,174 @@ SR5</fo:block>
 450</fo:block>
       </fo:table-cell>
    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Gelgeschosse (Reichweite Schwere Pisolen) 50</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+434</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Gelgeschosse (Reichweite Submachine Guns) 100</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+434</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Gelgeschosse (Reichweite Assault Rifles) 150</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+434</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Explosivgeschosse (Reichweite Submachine Guns) 100</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+434</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Explosivgeschosse (Reichweite Schwere Pisolen) 100</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+434</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Explosivgeschosse (Reichweite Assault Rifles) 200</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+434</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Streifen Ares Predator V (0/15)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+433</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Streifen Ares Predator V (0/15)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+433</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Streifen Ares Alpha (0/42)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+433</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Streifen Ares Alpha (0/42)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+433</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Streifen Ingram Smartgun X (0/32)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+433</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Clip null (0/0)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+433</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
    </fo:table-body>
    </fo:table>
 <!--
@@ -2197,21 +2954,21 @@ Munition: Standardmunition (Reichweite Schwere Pisolen) 200</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Munition: Standardmunition (Reichweite Submachine Guns) 200</fo:block>
+Munition: Standardmunition (Reichweite Submachine Guns) 400</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
-400 ¥</fo:block>
+800 ¥</fo:block>
       </fo:table-cell>
      </fo:table-row>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Munition: Standardmunition (Reichweite Assault Rifles) 200</fo:block>
+Munition: Standardmunition (Reichweite Assault Rifles) 600</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
-400 ¥</fo:block>
+1.200 ¥</fo:block>
       </fo:table-cell>
      </fo:table-row>
      <fo:table-row>
@@ -2434,673 +3191,138 @@ Gegenstand Medkit-Nachfüllpack</fo:block>
 100 ¥</fo:block>
       </fo:table-cell>
      </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Gelgeschosse (Reichweite Schwere Pisolen) 50</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+125 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Gelgeschosse (Reichweite Submachine Guns) 100</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+250 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Gelgeschosse (Reichweite Assault Rifles) 150</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+375 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Explosivgeschosse (Reichweite Submachine Guns) 100</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+800 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Explosivgeschosse (Reichweite Schwere Pisolen) 100</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+800 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Explosivgeschosse (Reichweite Assault Rifles) 200</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1.600 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Streifen Ares Predator V (0/15)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Streifen Ares Predator V (0/15)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Streifen Ares Alpha (0/42)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Streifen Ares Alpha (0/42)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Streifen Ingram Smartgun X (0/32)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Clip null (0/0)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
     </fo:table-body>
    </fo:table>
 -->
 		</fo:block  >
 
 
-
-
-		<fo:block  keep-together="always">
-<fo:block  >
-<fo:leader 
-	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
-</fo:block>
- <fo:block font-weight="bold" >
-Eigenschaften</fo:block>
-  <fo:table font-size="small">
-    <fo:table-column  />
-    <fo:table-column column-width="30%" />
-    <fo:table-body  >
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
- Zähigkeit</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-9</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
- Beidhändigkeit</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-4</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
- Bewegungstalent</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-7</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
- Schnellheilung</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-3</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
- Allergie (selten, leicht)</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--5</fo:block>
       </fo:table-cell>
      </fo:table-row>
     </fo:table-body>
    </fo:table>
-		</fo:block  >
-		<fo:block  keep-together="always">
-<fo:block  >
-<fo:leader 
-	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
-</fo:block>
- <fo:block font-weight="bold" >
-Cyberware</fo:block>
-  <fo:table font-size="small">
-    <fo:table-column  />
-    <fo:table-body  >
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-  <fo:table font-size="small">
-    <fo:table-column  />
-    <fo:table-column  />
-    <fo:table-column column-width="10%" />
-    <fo:table-column column-width="10%" />
-    <fo:table-column column-width="10%" />
-    <fo:table-body  >
 
-    <fo:table-row>
-      <fo:table-cell number-columns-spanned="2">
-       <fo:block  >
-Cyberware Smartlink, Smartgunverbindung</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-0</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-0</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--0.2</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-   </fo:table-body>
-   </fo:table>
-</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-  <fo:table font-size="small">
-    <fo:table-column  />
-    <fo:table-column  />
-    <fo:table-column column-width="10%" />
-    <fo:table-column column-width="10%" />
-    <fo:table-column column-width="10%" />
-    <fo:table-body  >
 
-    <fo:table-row>
-      <fo:table-cell number-columns-spanned="2">
-       <fo:block  >
-Cyberware Kompositknochen (Aluminium)</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-0</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-0</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--1.0</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-   </fo:table-body>
-   </fo:table>
-</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-  <fo:table font-size="small">
-    <fo:table-column  />
-    <fo:table-column  />
-    <fo:table-column column-width="10%" />
-    <fo:table-column column-width="10%" />
-    <fo:table-column column-width="10%" />
-    <fo:table-body  >
-
-    <fo:table-row>
-      <fo:table-cell number-columns-spanned="2">
-       <fo:block  >
-Cyberware Cyberaugen-Basissystem 3</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-12</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-4</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--0.4</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-   <fo:table-row>
-      <fo:table-cell number-columns-spanned="4">
-       <fo:block  >
-<fo:leader leader-pattern="space"/>Cyberware Enhancement Blitzkompensation
-		</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-1</fo:block>
-      </fo:table-cell>
-    </fo:table-row>
-   <fo:table-row>
-      <fo:table-cell number-columns-spanned="4">
-       <fo:block  >
-<fo:leader leader-pattern="space"/>Cyberware Enhancement Restlichtverstärkung
-		</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-1</fo:block>
-      </fo:table-cell>
-    </fo:table-row>
-   <fo:table-row>
-      <fo:table-cell number-columns-spanned="4">
-       <fo:block  >
-<fo:leader leader-pattern="space"/>Cyberware Enhancement Infrarotsicht
-		</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-2</fo:block>
-      </fo:table-cell>
-    </fo:table-row>
-   <fo:table-row>
-      <fo:table-cell number-columns-spanned="4">
-       <fo:block  >
-<fo:leader leader-pattern="space"/>Cyberware Enhancement Sichtverbesserung 2
-		</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-2</fo:block>
-      </fo:table-cell>
-    </fo:table-row>
-   <fo:table-row>
-      <fo:table-cell number-columns-spanned="4">
-       <fo:block  >
-<fo:leader leader-pattern="space"/>Cyberware Enhancement Sichtvergrößerung
-		</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-2</fo:block>
-      </fo:table-cell>
-    </fo:table-row>
-   </fo:table-body>
-   </fo:table>
-</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-  <fo:table font-size="small">
-    <fo:table-column  />
-    <fo:table-column column-width="10%" />
-    <fo:table-body  >
-    <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Bioware Synapsenbeschleuniger 2</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--1.0</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-   </fo:table-body>
-   </fo:table>
-</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-  <fo:table font-size="small">
-    <fo:table-column  />
-    <fo:table-column column-width="10%" />
-    <fo:table-body  >
-    <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Bioware Schadenskompensator 4</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--0.4</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-   </fo:table-body>
-   </fo:table>
-</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-  <fo:table font-size="small">
-    <fo:table-column  />
-    <fo:table-column column-width="10%" />
-    <fo:table-body  >
-    <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Bioware Muskelverstärkung 2</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--0.4</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-   </fo:table-body>
-   </fo:table>
-</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-  <fo:table font-size="small">
-    <fo:table-column  />
-    <fo:table-column column-width="10%" />
-    <fo:table-body  >
-    <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Bioware Muskelstraffung 2</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--0.4</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-   </fo:table-body>
-   </fo:table>
-</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-  <fo:table font-size="small">
-    <fo:table-column  />
-    <fo:table-column column-width="10%" />
-    <fo:table-body  >
-    <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Bioware Orthoskin 3</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--0.75</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-   </fo:table-body>
-   </fo:table>
-</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-  <fo:table font-size="small">
-    <fo:table-column  />
-    <fo:table-column column-width="10%" />
-    <fo:table-body  >
-    <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Bioware Thrombozytenfabrik</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--0.2</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-   </fo:table-body>
-   </fo:table>
-</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-   </fo:table-body>
-   </fo:table>
-		</fo:block  >
-		<fo:block  keep-together="always">
-<fo:block  >
-<fo:leader 
-	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
-</fo:block>
- <fo:block font-weight="bold" >
-bioware</fo:block>
-  <fo:table font-size="small">
-    <fo:table-column  />
-    <fo:table-column column-width="30%" />
-    <fo:table-body  >
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Bioware Synapsenbeschleuniger 2</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--1.0</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Bioware Schadenskompensator 4</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--0.4</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Bioware Muskelverstärkung 2</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--0.4</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Bioware Muskelstraffung 2</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--0.4</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Bioware Orthoskin 3</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--0.75</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Bioware Thrombozytenfabrik</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--0.2</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-    </fo:table-body>
-   </fo:table>
-		</fo:block  >
-		<fo:block  keep-together="always">
-<fo:block  >
-<fo:leader 
-	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
-</fo:block>
- <fo:block font-weight="bold" >
-Vertäge</fo:block>
-  <fo:table font-size="small">
-    <fo:table-column  />
-    <fo:table-body  >
-     <fo:table-row>
-     <fo:table-cell>
-       <fo:block >
-  <fo:table font-size="small">
-    <fo:table-column column-width="20%" />
-    <fo:table-column  />
-    <fo:table-column  />
-    <fo:table-body  >
-
-     <fo:table-row>
-      <fo:table-cell number-columns-spanned="3">
-       <fo:block  >
-Lifestyle Mittelschicht</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-unset</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-1 month</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-5.000 ¥/5.500 ¥</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row font-size="x-small">
-      <fo:table-cell>
-       <fo:block  >
- </fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-Lifestyle Option Garage</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-500 ¥</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-    </fo:table-body>
-   </fo:table>
-       </fo:block >
-     </fo:table-cell>
-     </fo:table-row>
-    </fo:table-body>
-   </fo:table>
-		</fo:block  >
-
-      </fo:table-cell>
-     </fo:table-row>
-    </fo:table-body>
-   </fo:table>
-
-<fo:block  >
-<fo:leader 
-	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
-</fo:block>
- <fo:block font-weight="bold" >
-SinLicense</fo:block>
-  <fo:table font-size="small" >
-    <fo:table-column  />
-    <fo:table-body  >
-     <fo:table-row>
-     <fo:table-cell>
-       <fo:block >
-  <fo:table font-size="small"  >
-    <fo:table-column column-width="40%" />
-    <fo:table-column column-width="5%" />
-    <fo:table-column  />
-    <fo:table-column  />
-    <fo:table-body   >
-
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Sin Faked SIN 3</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-3</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-true</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-7.500 ¥</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-
-    </fo:table-body>
-   </fo:table>
-       </fo:block >
-     </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-     <fo:table-cell>
-       <fo:block >
-  <fo:table font-size="small"  >
-    <fo:table-column column-width="40%" />
-    <fo:table-column column-width="5%" />
-    <fo:table-column  />
-    <fo:table-column  />
-    <fo:table-body   >
-
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Sin Faked SIN 2</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-2</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-true</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-5.000 ¥</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-
-    </fo:table-body>
-   </fo:table>
-       </fo:block >
-     </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-     <fo:table-cell>
-       <fo:block >
-  <fo:table font-size="small">
-    <fo:table-column column-width="40%" />
-    <fo:table-column  column-width="5%"/>
-    <fo:table-column  />
-    <fo:table-column column-width="15%" />
-    <fo:table-body  >
-
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Lizenz Gun Licence 3</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-3</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-Faked SIN 3</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-2.400 ¥</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-
-    </fo:table-body>
-   </fo:table>
-       </fo:block >
-     </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-     <fo:table-cell>
-       <fo:block >
-  <fo:table font-size="small">
-    <fo:table-column column-width="40%" />
-    <fo:table-column  column-width="5%"/>
-    <fo:table-column  />
-    <fo:table-column column-width="15%" />
-    <fo:table-body  >
-
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Lizenz Driver Licence 3</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-3</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-Faked SIN 3</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-2.400 ¥</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-
-    </fo:table-body>
-   </fo:table>
-       </fo:block >
-     </fo:table-cell>
-     </fo:table-row>
-    </fo:table-body>
-   </fo:table>
 
 
    <fo:table margin="3pt" break-before="page">
@@ -3274,7 +3496,7 @@ Panzer</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-5</fo:block>
+4</fo:block>
       </fo:table-cell>
    </fo:table-row>
    </fo:table-body>
@@ -3293,10 +3515,53 @@ Munition</fo:block>
 : Standardmunition (Reichweite Schwere Pisolen) 200
 		</fo:block  >
 		<fo:block font-size="small"  >
-: Standardmunition (Reichweite Submachine Guns) 200
+: Standardmunition (Reichweite Submachine Guns) 400
 		</fo:block  >
 		<fo:block font-size="small"  >
-: Standardmunition (Reichweite Assault Rifles) 200
+: Standardmunition (Reichweite Assault Rifles) 600
+		</fo:block  >
+		<fo:block font-size="small"  >
+: Gelgeschosse (Reichweite Schwere Pisolen) 50
+		</fo:block  >
+		<fo:block font-size="small"  >
+: Gelgeschosse (Reichweite Submachine Guns) 100
+		</fo:block  >
+		<fo:block font-size="small"  >
+: Gelgeschosse (Reichweite Assault Rifles) 150
+		</fo:block  >
+		<fo:block font-size="small"  >
+: Explosivgeschosse (Reichweite Submachine Guns) 100
+		</fo:block  >
+		<fo:block font-size="small"  >
+: Explosivgeschosse (Reichweite Schwere Pisolen) 100
+		</fo:block  >
+		<fo:block font-size="small"  >
+: Explosivgeschosse (Reichweite Assault Rifles) 200
+		</fo:block  >
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+Magazin</fo:block>
+		<fo:block font-size="small"  >
+Streifen Ares Predator V (0/15)
+		</fo:block  >
+		<fo:block font-size="small"  >
+Streifen Ares Predator V (0/15)
+		</fo:block  >
+		<fo:block font-size="small"  >
+Streifen Ares Alpha (0/42)
+		</fo:block  >
+		<fo:block font-size="small"  >
+Streifen Ares Alpha (0/42)
+		</fo:block  >
+		<fo:block font-size="small"  >
+Streifen Ingram Smartgun X (0/32)
+		</fo:block  >
+		<fo:block font-size="small"  >
+Clip null (0/0)
 		</fo:block  >
 <fo:block  >
 <fo:leader 

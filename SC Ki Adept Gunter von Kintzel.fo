@@ -1,0 +1,6767 @@
+<fo:root xmlns:fox="http://xmlgraphics.apache.org/fop/extensions"
+	xmlns:cms="http://www.pulitzer.ch/2007/CMSFormat" 
+	xmlns:fo="http://www.w3.org/1999/XSL/Format"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+
+	xmlns:svg="http://www.w3.org/2000/svg">
+	<fo:layout-master-set>
+		<fo:simple-page-master page-height="297mm"
+			master-name="A4_210_x_297_mm" page-width="210mm">
+
+			<fo:region-body margin-left="15mm" 
+				region-name="xsl-region-body" margin-bottom="15mm" margin-top="15mm"
+				margin-right="5mm" />
+                    <fo:region-before region-name="kopf" extent="25mm" />
+            <fo:region-after region-name="xsl-region-after"  extent="15mm"/>
+                    <fo:region-start extent="25mm"  />
+                    <fo:region-end extent="15mm" />
+
+
+
+
+		</fo:simple-page-master>
+	</fo:layout-master-set>
+
+	<fo:bookmark-tree />
+	<fo:page-sequence master-reference="A4_210_x_297_mm">
+		<fo:title>SC Ki Adept Gunter von Kintzel</fo:title>
+	
+        <fo:static-content flow-name="xsl-region-after">
+            <fo:block font-size="x-small" margin-left="15mm">shr5rcp character sheet SC Ki Adept Gunter von Kintzel page <fo:page-number/></fo:block>
+        </fo:static-content>
+
+		<fo:flow flow-name="xsl-region-body">	
+
+ <fo:block font-weight="bold" >
+Character</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell number-columns-spanned="4">
+       <fo:block  >
+Gunter von Kintzel</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="1">
+       <fo:block  >
+Spezies Mensch</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+type</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Ki Adept</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Muttersprache</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+ Deutsch</fo:block>
+      </fo:table-cell>
+
+     <fo:table-cell number-rows-spanned="5">
+       <fo:block margin-left="5px" >
+<fo:external-graphic  src="url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAABHNCSVQICAgIfAhkiAAADrdJREFUeJztm0mTZNdVx393elNOVdU1tKoHyZY1YEum7QDCeEF4AQvYseD7oK/Cjh1LgggWEEYCjI0nqVvqWS2peqqqHF6+4Y4sXrkls1RlR3eE9Y/IRUZm3jj3/858ToqUUuIPGPJFC/Ci8Q0BL1qAF41vCHjRArxo6Pfee+/5nCwEwTu89yxOT1mePMXZnhA8MUaa3iGEJC9KPv/sUyaTCZevvsalK1dx1jIaTxDi+Yj2VejncagQAmd7urblswf3WS3mFEYTUkIgsNZhe0vbNkghaJs1fdtgbU9ICaUUr1YVWmued5R+LgSklHj42X3quubBgweMypLcaJzzaCmJMZBnmuANfdexNZ1ibc9qMed/f/ZfXDw8ZDqeMN3aIs/z50rCxn2AlJL58VNOT0749M5tci2ZjEp66zFaIc/02lpLiAHEoDExgXOevm345Pp1fvpv/8rtWzfxwSOeoy1sVAOEELRty/UPf816fkJmFEVm6K1DSkWKCRs8KSWsdcQQkULSdh3WWrz3w0Ep8uTxI1bL/yCEwDvvfn+TYv4eNqgBgpQSH/3qFxzdv0vf9yQE66YjpoT3jqbvWK9blvUa6zzOBzprcd4TYkDKQZxBSyT1askH7/+Uh0dHzz7bNDZ2qhCCrm25e+tjpFa4EGn7ns456nVD3XSEkHA+4JzHGI2UghgjwUec84QQAUFICR8iAcHidM7P/+dnLz8BUgo+/O2vqdfN4OWdo+ks3kes80ghmI4qMq24uLvD4f4ee9szyjyjKDK0NsQYz86S+BAIISKk5MaNGxwdffFcSNiIDxBC0HUdt2/eRIpBhWMCiSAzmq1xRVnkbE8rDIHpbMZ6vSbXilwrMq0QADEACR8CQgiMUWglWTYdH330EYeHl56RtClshFKlNffu3mE+P6UwGm00W7Mph/sX2NuasjsbsTOpMCR2t6ak4BjlBikSo7JACUFwllwrlBAUWjEqMoxSZEYjSdy6eZP5fL5xLTj3aUIImvWajz/6LbNckxvNdDplVBhKo9ielIyKnDLPyDNDpjVaSLRUVEVOkRtyLRhlhlFhMCJhFGRKoAUQI6My59HDI27cuLHxkHhuE5BScnJ8TD0/ZXtSEROYGMiRZECGpNQZo7KiKgqMUfgYOT5dIFNC5pEsQqUNy1VNNAGBIAVwPuJjwIeEUYrbt25x7dq1jWaI5yYgAYiEUhLrA1WeMS5ydiYTxlXFbDZhMh6zNRlTZhkxQUiJQkpOjWZR1xRa0TaS5ByZlHTe0+oeKQQpgfMBEPR9t3EfcH4nmEBJhZSCznp2pxUH0yn7swnTccm4LJhVGTulYlxo+iRYuIh3GX2fIWJJzDSdkmxnkuAddduxbBUnClKKdNbRYSmL4uUzAQBSIoVAlefsjysuTQoujRRbpWCrEkwqqIpElYNWgnnQTMi4KAp8AbaXrE1k1Xjq1qFdIspIJ6E0GiklAkEIYSPifhXnJ0BAigFiYDaqmJU5IxkZy8hIJgoiGYkcMCkiY2JLQJ4FVjZQ+8jSBWzyEDwxBFKMpBRJMSFJqLOnHs7S6E1iIxoQYoKUqHLDLFeM1JAWkyJSgBIgUyQ5iwdsjFjr6J2ld47g/dAnCAHnAz4Mji+liCKhpUAIaJv2JSXgrMlRaM22EZRKIIVAC/ksbg+X84QY8THRW0vXd1jr8M4RQyDEiPMBGyIhRlJKSOJAoJD0ffdyEmCtRUnDLNdMjSDXisIYhFSAgAjOBYLzxBiwMdI6S9d5nAu4EPHhy8v7kM5ekXhmBlJK+t4SU0II8fKEQYB1vSLPDAeVodKKQmtyNaS3MQzFjk+REALee1waWmJN5wgxYF2gs57OedzZpWMciLB+MCOjJMumRcBGtWBDBNSUmWYnlxRGoZUCqQhoWg+d77DW44N/ptqkRO8Ca+tonWfReZZ9YO0CrQv4BIghZxBiyAwB5vM5VVW9XBoQQqRQCiMEfUisbWTeWk7amt55iIFoe0oRmGaacZEzzjNq5/liUfNw2XBUd8x7hwsRSCDAh0RIw1stJVIIrO3ZZLd0A4nQYJ9VrpECHreWT9ueVVQ01rJaNyzrNV3XUYjE1UnB67sz9idjnq5bfv3FE24fL5l3FusDWim2yhwhJI33EALmLBRKKZlOp/CymQAkSi1Baz45sTxdd2znmqzvWTw95sHJEhciUglEDLy6M8EYxefzFTcennDaOwBkEuRKYrt+UP+YQAi0EkiRkAKybLNN0vNXg0oNmVqCxkVyJbhgBEfzmvy116jevMrFNy9zcGUPhaDIMl7dmfLu1UOqzGC9QwvYnc34y7/+EdNL+7z14+9DUWG9x0gQZ/5AAqvVCqU318o810nCO9rP7iGdRQqoZOKCEdxbQa8M7177Y/TqOqdPC9K9xPalb3FYwcEoY1SUjIuCaVmwMx3z9utv8u6f/5BuvyFrp1zc3+Xuek2mFZpE7yNSKdYPP+PU94wPr2ykLvjaBEghOLn+K9yD20zyMVIIcinZGxcgcxafP+Kf/uEfyUdTgrMcjCre+d5bbIclme9xIbFdFUzzjIPtbS7OxvzmX36OaiUPntzh8fFTtquc3Sqntw4XOpRSLO7e5Jfv/5S/+Nu/Y//SFeI564OvTUBMCSRsjzJMWbKY90QkozJnVBZsF5J53bDuLSafsre7z24hUCcdUslnfUIjBb7ryEPHfhZRXYeqYEtOMUqigZM6segYvusdeabP6vDz42sTkIRgNpnx+M7HdA4KIyEltIA8M1ycXKDSe+RGk4/GWAyPjh5hYyApCH1H29vBowdHWC+5NB3xSrnFapRx2nSsraW2nlopSFBoyd3Hx0zKkjzPN0LC13aCQkpiXjLKMoLtKWTC+0CRIlMh2NGG3axgbzRmlhfo4FHREVMkxDSkxM4TUnpWEKmY0BEKqRgrTYaEGIffpIQSYIRgMp2SFwVpAwx8bQ0QKeGqKVcOL6FOj/Ei0HuHd5ZkNDEaQlBY63G+pXMRn8CFxKjQVOMxgUQIidYFYoLWBnzwNNZRO8fKWlbWUfeOmBKlUVwZVWwfXsJUo42Ew69vAjGSz7ZZVTPy+hSREou2Y2LM4B+AWEIlJZFAbSPzzlM3HfPecr9uuf7wmNo6uhBY20ChLSF4Vl1P3VtWvWPe9rTOIwX0PlCNx+y89jpKa+LvRmkvggAASWI9vYD84g5FoVk0PVXbEQUIBCRBEoJCaTIhebRq+PeP7+OE5HhVc9x0aKmorWXVW8a5wTrP2lqWnWVxRkLnhyFqCoknHt7ef2Ujlz83ASlG1IUD0nhKJRoeWse8689S9SF1VVqhK8kk17y2u8Xx1St42/N+3XChLKkyg9GKTApC9Kxsz6KzLHvL4kwTXDibGybH/rffwOQZ4WUgAEBrRTy4wpPrPyOkROM8RkqMGibDhe0xWlIIyeWdKRd3d0je8s6VAx4cn7Boh2owpcCy66m74eKrbnj6LsShMPIOEnz77e+eO/b/nvznPUCkxKrY4l62z65bYL2jkZLCeVZtjz5LlSOKLINKg9EZf/bG6+yNRnxw8y51DHTe4UKgsZ7WBWrr6L0f/IkQ7L5ymVeuvIrOsk3c+xnOPxdIia3dXf7kr/6Gx+//M/3TI/oQ6Lwnc+6MBMnaBU6XPet1z3Hd0njP0WLJsrdoIzFGElKk9wEXzzpDcXCmErj2ox/z6nfeou822xfcSFWRYsRbi55doH/yBSEOF/EmEVPg3qLjv+8/ZdX0lNrgnGfZNgghyLOM09bSrjrKTFOohAuJ3gfOaiAQMN3axvbdJsT9PWysrEok8r1Dlp/8EhE1NgQikQTEJPnu5ctsFyMOy4osJU7qGus8877nznLBZ8s5ve9JwdI5j48RQSKlRDXeYjSZPpddoc3VlSmhRxNSMcL3HZ0XtN5TxUgmPIWG+nTOzx+0rLqOpR2Sm0RiYT0rN/gAIWFth/6/FMMw5Ftv/hFCStJzGIxsbtacQEiFnO7R9ZbeB1adZd1bUgys+xYhPSZPiFxSjgqy0iA0lJmg0BIhYN07bPBw1vmVUrB/eHljYv5/bHBJKqG0QW3vcfzJR2wJddbNVWxLzbTIEBhe2Z4ihCRKTd31PFksmLcdctnQeo8LX9p+CIHpzg7j2WyjbbCvYqNbYilGdl/9Do/u3OTh0QMOxAQhFAGFyXOuXNjmYFyRSYUNibppUCT6kEB2+AQ+psHxpcH+3/ju99ne3cNZu0lRn2GzBKSEMhk/fP0VflM/4fP5moszgUuCLoGLwyR5khms9TxZ1Txc1HyxWPO47misR4jfPeyhHS6V4CwWPBdslgAhUc2c3VDzp98+4D/vHfPgdEVmWow2fHq84DefHiEFtM5Td5Z171hbR2M9NgQEEQEopdAicXTnFq+//T3ycnOzgK9i46uyVXNMlXpUVfKDq3v0IXH94enQPj9beBhmqeksCnwJCUSGKVBhFEZq6pPHrE6eUlz5FilsJv//KjZHgBAI2zJtnpBnBSkNuwE/uLJHiJHbT5Z0LgxPUfyu0yvgy3Rn6PwKKDPFODcoKfA+8PmHv2B6YZ+sKElpsxsi6ic/+cnfb+KgmBLbT26wH5YInQECpRRlrtkdF4yLjNJocq0xSqHkEPaklCg5hMHcaEqjmVY5kyJDSoFUmjJ1+G7NaP8SSmk21hBkIwsSgpgSk9P7HPhT8rzAo4gyMZaKiZRMqoq9rRmL1nJadyzWDau2Y9k5GjeUurkeeopCCIySpBTpXSAARWbIlo9Y3PoVW29cQ2kDG9KE8/UDhEA4y9bJXfbsMVWeI5UmEwoRIkYrRmVOWeQIqel9ZNW0PJ2veLpcsWiGhKnMNIKEC55171lbz7LtiWfLVLnRjAqDPL7PwvVM3rhGVk2GzZQXRUBCkDULtk/vMQtrilyThCQJjdYaREDJYahZGDPs/SMYF4bCKHKjGOUNMSW0Ujjv6K1FAD5GjJI4HyiMGhyiUkwyjWue0Hz4AfG1d8h3L547QRLf/HHyDxzfEPCiBXjR+IaAFy3Ai8YfPAH/B6PCcXCGJq2tAAAAAElFTkSuQmCC)"/>
+       </fo:block >
+     </fo:table-cell>
+
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Geschlecht</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+männlich</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Date of birth</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+26.08.57</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Straßen Ruf</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+7</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Schlechter Ruf</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+0</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Height</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+180 cm</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+Weight</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+83 kg</fo:block>
+      </fo:table-cell> 
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Karma erworben</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Momentanes Karma</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+4</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+   <fo:table-row >
+      <fo:table-cell number-columns-spanned="5">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+    </fo:table-body>
+   </fo:table>
+   <fo:table margin="3pt" >
+    <fo:table-column />
+    <fo:table-column column-width="35%" />
+    <fo:table-column column-width="35%" />
+    <fo:table-body  >
+    <fo:table-row >
+      <fo:table-cell number-rows-spanned="3" >
+		<fo:block  border-right-width="1px"  border-right-style="outset" >
+ <fo:block font-weight="bold" >
+Attributes</fo:block>
+  <fo:table font-size="small"> 
+    <fo:table-column column-width="70%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Konstitution</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block >
+5 
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Geschicklichkeit</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block >
+6(7) 
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Reaktion</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block >
+5(8) 
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Stärke</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block >
+4 
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Willenskraft</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block >
+3 
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Logik</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block >
+2 
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Intuition</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block >
+5 
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Charisma</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block >
+3 
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Edge</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block >
+6 
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Magie</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block >
+6 
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Essenz</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+6.0</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Initative</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+13+4w6</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Panzer</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Selbstbeherrschung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+6</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Menschenkenntnis</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+8</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Errinerungsvermoegen</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+5</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Lifting/Carrying</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+60/40</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Movement</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+14/28/2</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Koerperlich</fo:block>
+      </fo:table-cell> 
+      <fo:table-cell>
+       <fo:block  >
+7</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Geistig</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+4</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Sozial</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+5</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+
+<!-- 
+	<fo:table-row>
+
+    </fo:table-row>
+
+-->
+		</fo:block  >
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2" font-size="x-small" font-style="italic">
+       <fo:block >
+Gunter ist der letzte des alten Geschlechts der Kinzel, die Kinzels sind eine altes Offiziers Familie.
+Der Vater Otto von Kinzel starb in den Eurokriegen, sein Mutter entschied sich sehr spät zu einer künstlichen Befruchtung. Sie starb bei der Geburt am 26.8.2057. Gunter wuchs in einem Waisenhaus auf das durch die Stiftung der Familie Finanziert wurde. Durch den Crash von 2064 wurde das Stifftungvermögen vernichtet und alle Datensätze der Kinzel Stiftung. Gunter wurde wie die anderen Kinder vertrieben. Er zog mittellos durch Niedersachsen, um in Berlin zu stranden. </fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+   <fo:table-row >
+      <fo:table-cell>
+		<fo:block margin-top="5pt" >
+<fo:block  >
+Zustand Körperlich
+</fo:block>
+<fo:instream-foreign-object content-width="75pt" content-height="100pt">
+<svg:svg width="75pt" height="100pt">
+   <svg:g >
+   <svg:rect
+         y="0"
+         x="0"
+         height="20"
+         width="20"
+         id="rect-monitorbox-1"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="25"
+         height="20"
+         width="20"
+         id="rect-monitorbox-2"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="50"
+         height="20"
+         width="20"
+         id="rect-monitorbox-3"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="25"
+         x="0"
+         height="20"
+         width="20"
+         id="rect-monitorbox-4"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="25"
+         x="25"
+         height="20"
+         width="20"
+         id="rect-monitorbox-5"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="25"
+         x="50"
+         height="20"
+         width="20"
+         id="rect-monitorbox-6"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="50"
+         x="0"
+         height="20"
+         width="20"
+         id="rect-monitorbox-7"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="50"
+         x="25"
+         height="20"
+         width="20"
+         id="rect-monitorbox-8"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="50"
+         x="50"
+         height="20"
+         width="20"
+         id="rect-monitorbox-9"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="75"
+         x="0"
+         height="20"
+         width="20"
+         id="rect-monitorbox-10"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="75"
+         x="25"
+         height="20"
+         width="20"
+         id="rect-monitorbox-11"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+	</svg:g>
+</svg:svg>
+</fo:instream-foreign-object>
+		</fo:block  >
+      </fo:table-cell>
+     <fo:table-cell>
+		<fo:block margin-top="5pt" >
+<fo:block  >
+Zustand Geistig
+</fo:block>
+<fo:instream-foreign-object content-width="75pt" content-height="100pt">
+<svg:svg width="75pt" height="100pt">
+   <svg:g >
+   <svg:rect
+         y="0"
+         x="0"
+         height="20"
+         width="20"
+         id="rect-monitorbox-1"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="25"
+         height="20"
+         width="20"
+         id="rect-monitorbox-2"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="50"
+         height="20"
+         width="20"
+         id="rect-monitorbox-3"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="25"
+         x="0"
+         height="20"
+         width="20"
+         id="rect-monitorbox-4"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="25"
+         x="25"
+         height="20"
+         width="20"
+         id="rect-monitorbox-5"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="25"
+         x="50"
+         height="20"
+         width="20"
+         id="rect-monitorbox-6"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="50"
+         x="0"
+         height="20"
+         width="20"
+         id="rect-monitorbox-7"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="50"
+         x="25"
+         height="20"
+         width="20"
+         id="rect-monitorbox-8"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="50"
+         x="50"
+         height="20"
+         width="20"
+         id="rect-monitorbox-9"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="75"
+         x="0"
+         height="20"
+         width="20"
+         id="rect-monitorbox-10"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+	</svg:g>
+</svg:svg>
+</fo:instream-foreign-object>
+		</fo:block  >
+      </fo:table-cell>
+	</fo:table-row>
+
+   <fo:table-row >
+      <fo:table-cell number-columns-spanned="2">
+		<fo:block  >
+<fo:block  >
+overflow
+</fo:block>
+<fo:instream-foreign-object content-width="150pt" content-height="25pt">
+<svg:svg width="150pt" height="25pt">
+   <svg:g >
+   <svg:rect
+         y="0"
+         x="0"
+         height="20"
+         width="20"
+         id="rect-monitorbox-1"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="25"
+         height="20"
+         width="20"
+         id="rect-monitorbox-2"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="50"
+         height="20"
+         width="20"
+         id="rect-monitorbox-3"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="75"
+         height="20"
+         width="20"
+         id="rect-monitorbox-4"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="100"
+         height="20"
+         width="20"
+         id="rect-monitorbox-5"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+	</svg:g>
+</svg:svg>
+</fo:instream-foreign-object>
+		</fo:block  >
+      </fo:table-cell>
+	</fo:table-row>
+
+   <fo:table-row >
+      <fo:table-cell number-columns-spanned="3">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+      </fo:table-cell>
+    </fo:table-row >
+    </fo:table-body>
+   </fo:table>
+
+   <fo:table font-family="Helvetica" margin="3pt" >
+    <fo:table-column column-width="50%" />
+    <fo:table-column column-width="50%" />
+    <fo:table-body  >
+    <fo:table-row >
+<!-- colum one -->
+      <fo:table-cell border-right-width="1px"  border-right-style="outset">
+		<fo:block  >
+ <fo:block font-weight="bold" >
+Fertigkeiten</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column column-width="70%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Fertigkeits Gruppe Influence</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Fertigkeit Gebräuche</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Cha</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Fertigkeit Führung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Cha</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Fertigkeit Verhandlung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Cha</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Fertigkeit Gewehre</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+4</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Ges</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+11</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Fertigkeit Pistolen</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+6</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Ges</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+13</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Fertigkeit Klingenwaffen</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+6</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Ges</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+13</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Fertigkeit Waffenloser Kampf</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Ges</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+10</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Fertigkeit Akrobatik</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+4</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Ges</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+11</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Fertigkeit Schleichen</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+6</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Ges</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+13</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Fertigkeit Wahrnehmung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+4</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Int</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+9</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Fertigkeit Schlosser</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Ges</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+10</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Fertigkeit Bodenfahrzeuge</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Rea</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+10</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Fertigkeit Laufen</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Stä</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+6</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Sprachfertigkeit Englisch</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Int</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+8</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Sprachfertigkeit Russisch</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Int</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+6</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Wissensfertigkeit Streetgangs Berlin</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Int</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+8</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Wissensfertigkeit Sicherheitsdesign</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Int</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+7</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Wissensfertigkeit Sprawl Life</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Int</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+8</fo:block>
+      </fo:table-cell>
+    </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+		</fo:block  >
+		<fo:block keep-together="always" >
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+Modifications</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column column-width="30%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Geschicklichkeit</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Initativ Wuerfel</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Reaktion</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Infrarot</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Ausweichen</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Panzer</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Schadenswiederstand</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Heilung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+		</fo:block  >
+		<fo:block keep-together="always">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+Connections</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column column-width="10%" />
+    <fo:table-column column-width="10%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ NSC Mundane Persona Ralf [2/3]</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ NSC Mundane Persona Simone [4/2]</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+4</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ NSC Mundane Persona Glok Norgoz [2/3]</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ NSC Mundane Persona Joe [3/1]</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+		</fo:block  >
+		<fo:block margin-top="10pt" >
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+Bodenfahrzeug Yamaha Growler (Off-Road Bike)</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column column-width="30%" />
+    <fo:table-column column-width="10%"  />
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Geschwindigkeit</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+     <fo:table-cell number-rows-spanned="7">
+		<fo:block>
+<fo:block  >
+Vehicle damage
+</fo:block>
+<fo:instream-foreign-object content-width="138pt" content-height="69pt">
+<svg:svg width="138pt" height="69pt">
+   <svg:g >
+   <svg:rect
+         y="0"
+         x="0"
+         height="18"
+         width="18"
+         id="rect-monitorbox-1"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="23"
+         height="18"
+         width="18"
+         id="rect-monitorbox-2"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="46"
+         height="18"
+         width="18"
+         id="rect-monitorbox-3"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="69"
+         height="18"
+         width="18"
+         id="rect-monitorbox-4"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="92"
+         height="18"
+         width="18"
+         id="rect-monitorbox-5"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="115"
+         height="18"
+         width="18"
+         id="rect-monitorbox-6"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="0"
+         height="18"
+         width="18"
+         id="rect-monitorbox-7"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="23"
+         height="18"
+         width="18"
+         id="rect-monitorbox-8"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="46"
+         height="18"
+         width="18"
+         id="rect-monitorbox-9"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="69"
+         height="18"
+         width="18"
+         id="rect-monitorbox-10"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="92"
+         height="18"
+         width="18"
+         id="rect-monitorbox-11"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="115"
+         height="18"
+         width="18"
+         id="rect-monitorbox-12"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="46"
+         x="0"
+         height="18"
+         width="18"
+         id="rect-monitorbox-13"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="46"
+         x="23"
+         height="18"
+         width="18"
+         id="rect-monitorbox-14"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+	</svg:g>
+</svg:svg>
+</fo:instream-foreign-object>
+		</fo:block>
+     </fo:table-cell>
+
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Beschleunigung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Handling</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Pilot</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Sensor</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Rumpf</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Panzer</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+
+    </fo:table-body>
+   </fo:table>
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+Bodenfahrzeug Hyundai Shin-Hyung (Sport Sedan)</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column column-width="30%" />
+    <fo:table-column column-width="10%"  />
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Geschwindigkeit</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+6</fo:block>
+      </fo:table-cell>
+     <fo:table-cell number-rows-spanned="7">
+		<fo:block>
+<fo:block  >
+Vehicle damage
+</fo:block>
+<fo:instream-foreign-object content-width="138pt" content-height="69pt">
+<svg:svg width="138pt" height="69pt">
+   <svg:g >
+   <svg:rect
+         y="0"
+         x="0"
+         height="18"
+         width="18"
+         id="rect-monitorbox-1"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="23"
+         height="18"
+         width="18"
+         id="rect-monitorbox-2"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="46"
+         height="18"
+         width="18"
+         id="rect-monitorbox-3"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="69"
+         height="18"
+         width="18"
+         id="rect-monitorbox-4"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="92"
+         height="18"
+         width="18"
+         id="rect-monitorbox-5"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="115"
+         height="18"
+         width="18"
+         id="rect-monitorbox-6"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="0"
+         height="18"
+         width="18"
+         id="rect-monitorbox-7"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="23"
+         height="18"
+         width="18"
+         id="rect-monitorbox-8"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="46"
+         height="18"
+         width="18"
+         id="rect-monitorbox-9"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="69"
+         height="18"
+         width="18"
+         id="rect-monitorbox-10"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="92"
+         height="18"
+         width="18"
+         id="rect-monitorbox-11"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="23"
+         x="115"
+         height="18"
+         width="18"
+         id="rect-monitorbox-12"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="46"
+         x="0"
+         height="18"
+         width="18"
+         id="rect-monitorbox-13"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="46"
+         x="23"
+         height="18"
+         width="18"
+         id="rect-monitorbox-14"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="46"
+         x="46"
+         height="18"
+         width="18"
+         id="rect-monitorbox-15"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="46"
+         x="69"
+         height="18"
+         width="18"
+         id="rect-monitorbox-16"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="46"
+         x="92"
+         height="18"
+         width="18"
+         id="rect-monitorbox-17"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+	</svg:g>
+</svg:svg>
+</fo:instream-foreign-object>
+		</fo:block>
+     </fo:table-cell>
+
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Beschleunigung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Handling</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+6</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Pilot</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Sensor</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Rumpf</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+10</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Panzer</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+6</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+
+    </fo:table-body>
+   </fo:table>
+
+		</fo:block  >
+
+        <fo:block margin-top="10pt" keep-together="always">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+Kommlink Meta Link</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column column-width="30%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Matrix Gerätestufe</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+     <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+gespeicherte Prgramme</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+ 	<fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+<fo:block  >
+Matrix damage
+</fo:block>
+<fo:instream-foreign-object content-width="150pt" content-height="50pt">
+<svg:svg width="150pt" height="50pt">
+   <svg:g >
+   <svg:rect
+         y="0"
+         x="0"
+         height="20"
+         width="20"
+         id="rect-monitorbox-1"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="25"
+         height="20"
+         width="20"
+         id="rect-monitorbox-2"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="50"
+         height="20"
+         width="20"
+         id="rect-monitorbox-3"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="75"
+         height="20"
+         width="20"
+         id="rect-monitorbox-4"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="100"
+         height="20"
+         width="20"
+         id="rect-monitorbox-5"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="125"
+         height="20"
+         width="20"
+         id="rect-monitorbox-6"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="25"
+         x="0"
+         height="20"
+         width="20"
+         id="rect-monitorbox-7"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="25"
+         x="25"
+         height="20"
+         width="20"
+         id="rect-monitorbox-8"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="25"
+         x="50"
+         height="20"
+         width="20"
+         id="rect-monitorbox-9"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+	</svg:g>
+</svg:svg>
+</fo:instream-foreign-object>
+		</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+		</fo:block  >
+        <fo:block margin-top="10pt" keep-together="always">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+Kommlink Meta Link</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column column-width="30%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Matrix Gerätestufe</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+     <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+gespeicherte Prgramme</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+ 	<fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+<fo:block  >
+Matrix damage
+</fo:block>
+<fo:instream-foreign-object content-width="150pt" content-height="50pt">
+<svg:svg width="150pt" height="50pt">
+   <svg:g >
+   <svg:rect
+         y="0"
+         x="0"
+         height="20"
+         width="20"
+         id="rect-monitorbox-1"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="25"
+         height="20"
+         width="20"
+         id="rect-monitorbox-2"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="50"
+         height="20"
+         width="20"
+         id="rect-monitorbox-3"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="75"
+         height="20"
+         width="20"
+         id="rect-monitorbox-4"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="100"
+         height="20"
+         width="20"
+         id="rect-monitorbox-5"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="125"
+         height="20"
+         width="20"
+         id="rect-monitorbox-6"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="25"
+         x="0"
+         height="20"
+         width="20"
+         id="rect-monitorbox-7"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="25"
+         x="25"
+         height="20"
+         width="20"
+         id="rect-monitorbox-8"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="25"
+         x="50"
+         height="20"
+         width="20"
+         id="rect-monitorbox-9"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+	</svg:g>
+</svg:svg>
+</fo:instream-foreign-object>
+		</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+     <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Sin Faked SIN 4</fo:block>
+      </fo:table-cell>
+	</fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+		</fo:block  >
+
+
+      </fo:table-cell>
+<!-- colum two -->
+      <fo:table-cell>
+
+
+
+		<fo:block  keep-together="always">
+ <fo:block font-weight="bold" >
+Eigenschaften</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column column-width="30%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Allergy (Silver Moderate)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-10</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Toughness</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+9</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Beidhändigkeit</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+4</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Schnellheilung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+		</fo:block  >
+		<fo:block  keep-together="always">
+
+		</fo:block  >
+		<fo:block   keep-together="always">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+Kikraft</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column column-width="30%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Improved Physical Attribute Agillity</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-1.0</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Gesteigerte Reflexe 3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-3.5</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Mystischer Panzer 1</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-0.5</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Kampfsinn 1</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-0.5</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Erhöhte Präzision</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-0.25</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ Geschärfter Sinn</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-0.25</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+		</fo:block  >
+		<fo:block  keep-together="always">
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+Vertäge</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="20%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell number-columns-spanned="3">
+       <fo:block  >
+Lifestyle Low</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.03.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+1 month</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2.000 ¥/2.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row font-size="x-small">
+      <fo:table-cell>
+       <fo:block  >
+ </fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Lifestyle Option Garage</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+		</fo:block  >
+
+
+		<fo:block   >
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+SinLicense</fo:block>
+  <fo:table font-size="small" >
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small"  >
+    <fo:table-column column-width="40%" />
+    <fo:table-column column-width="5%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body   >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Sin Faked SIN 4</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+4</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+true</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+10.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+		</fo:block  >
+		<fo:block   >
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+Inventar</fo:block>
+<!-- one column table -->
+  <fo:table   font-size="small"  >
+    <fo:table-column column-width="80%" />
+    <fo:table-column column-width="10%" />
+    <fo:table-column column-width="10%" />
+    <fo:table-body  >
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Nahkampfwaffe Katana</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+422</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Feuerwaffe Ares Predator V</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+426</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Feuerwaffe Remington 950</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+429</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Streifen Ares Predator V (15/15)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+426</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Clip Remington 950 (5/5)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+429</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Standardmunition (Reichweite Schwere Pisolen) 89</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+434</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Standardmunition (Reichweite Sniper Rifles) 100</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+434</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Silver -1</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+443</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Gold -1</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+443</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Slap Patch, Stim Patch</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+451</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Slap Patch, Tranq Patch</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+451</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Mini-Schweißgerät</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+448</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Mini-Schweißgerät Benzin</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+448</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Gelgeschosse (Reichweite Schwere Pisolen) 31</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+434</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Endoskop</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+444</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Kommlink Meta Link</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+438</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Feuerwaffe Ruger Super Warhawk</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+427</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Feuerwaffe Ruger Super Warhawk</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+427</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Feuerwaffe Defiance T-250</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+429</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Gelgeschosse (Reichweite Schwere Pisolen) 10</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+434</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Gold -2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+443</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Silver- 2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+443</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Kleidung Panzerjacke</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+437</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Nahkampfwaffe Kampfmesser</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+422</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Sichtgerät</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+443</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Helm</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+438</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Schnellziehholster</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+432</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Brecheisen</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+447</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Atemgerät</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+449</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Handschellen, Plastik</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+447</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Suvival-Kiste</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+449</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Taschenlampe, Infrarot</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+449</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Mikro-Transceiver</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+441</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Dietrich-Set</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+448</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Eigener Gegenstand</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Störsender, Area</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+441</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Automatischer Dietrich 3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+447</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Kommlink Meta Link</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+438</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Elektroden</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+439</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+<!--
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-column column-width="30%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Nahkampfwaffe Katana</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Feuerwaffe Ares Predator V</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+725 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Feuerwaffe Remington 950</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2.100 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Streifen Ares Predator V (15/15)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+ ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Clip Remington 950 (5/5)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+ ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Standardmunition (Reichweite Schwere Pisolen) 89</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+180 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Standardmunition (Reichweite Sniper Rifles) 100</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+200 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Silver -1</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+20 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Gold -1</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+20 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Slap Patch, Stim Patch</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+25 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Slap Patch, Tranq Patch</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+20 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Mini-Schweißgerät</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+250 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Mini-Schweißgerät Benzin</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+80 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Gelgeschosse (Reichweite Schwere Pisolen) 31</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+75 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Endoskop</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+250 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Kommlink Meta Link</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+100 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Feuerwaffe Ruger Super Warhawk</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+400 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Feuerwaffe Ruger Super Warhawk</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+400 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Feuerwaffe Defiance T-250</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+450 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: Gelgeschosse (Reichweite Schwere Pisolen) 10</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+25 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Gold -2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+100 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Silver- 2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+20 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Kleidung Panzerjacke</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Nahkampfwaffe Kampfmesser</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+300 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Sichtgerät</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+ ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Helm</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+100 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Schnellziehholster</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+175 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Brecheisen</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+20 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Atemgerät</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+100 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Handschellen, Plastik</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Suvival-Kiste</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+200 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Taschenlampe, Infrarot</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+25 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Mikro-Transceiver</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+100 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Dietrich-Set</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+250 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Eigener Gegenstand</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+200 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Störsender, Area</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+600 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Automatischer Dietrich 3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Kommlink Meta Link</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+100 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Elektroden</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+70 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+-->
+		</fo:block  >
+
+
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+
+
+
+
+   <fo:table margin="3pt" break-before="page">
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+    <fo:table-row >
+<!-- colum one -->
+ <fo:table-cell border-right-width="1px"  border-right-style="outset">
+ <fo:block font-weight="bold" >
+Nahkampfwaffe</fo:block>
+		<fo:block margin-top="10pt" >
+ <fo:table >
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell  font-weight="bold">
+       <fo:block >
+ Katana</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+
+ <fo:table font-size="small">
+    <fo:table-column column-width="40%" />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row font-style="italic" text-align="center" font-size="small" >
+      <fo:table-cell >
+       <fo:block >
+dmg</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+acc</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+ap</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+reach</fo:block>
+      </fo:table-cell>	
+		</fo:table-row>
+     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+      <fo:table-cell>
+       <fo:block  >
+(STR+3)P</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+7</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+-3</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+  	 </fo:table-body>
+  	 </fo:table>
+
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+		</fo:block  >
+		<fo:block margin-top="10pt" >
+ <fo:table >
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell  font-weight="bold">
+       <fo:block >
+ Kampfmesser</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+
+ <fo:table font-size="small">
+    <fo:table-column column-width="40%" />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row font-style="italic" text-align="center" font-size="small" >
+      <fo:table-cell >
+       <fo:block >
+dmg</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+acc</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+ap</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+reach</fo:block>
+      </fo:table-cell>	
+		</fo:table-row>
+     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+      <fo:table-cell>
+       <fo:block  >
+(STR+2)P</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+6</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+-3</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+0</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+  	 </fo:table-body>
+  	 </fo:table>
+
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+		</fo:block  >
+
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+		<fo:block font-size="small"  >
+ <fo:block font-weight="bold" >
+CombatInfo</fo:block>
+<!-- one column table -->
+  <fo:table   font-size="small"  >
+    <fo:table-column column-width="80%" />
+    <fo:table-column column-width="20%" />
+    <fo:table-body  >
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Ausweichen</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+14</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Panzer</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+		</fo:block  >
+
+
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+Munition</fo:block>
+		<fo:block font-size="small"  >
+: Standardmunition (Reichweite Schwere Pisolen) 89
+		</fo:block  >
+		<fo:block font-size="small"  >
+: Standardmunition (Reichweite Sniper Rifles) 100
+		</fo:block  >
+		<fo:block font-size="small"  >
+: Gelgeschosse (Reichweite Schwere Pisolen) 31
+		</fo:block  >
+		<fo:block font-size="small"  >
+: Gelgeschosse (Reichweite Schwere Pisolen) 10
+		</fo:block  >
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+Magazin</fo:block>
+		<fo:block font-size="small"  >
+Streifen Ares Predator V (15/15)
+		</fo:block  >
+		<fo:block font-size="small"  >
+Clip Remington 950 (5/5)
+		</fo:block  >
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+Kleidung</fo:block>
+		<fo:block font-size="small"  >
+Kleidung Panzerjacke 12
+		</fo:block  >
+
+</fo:table-cell>
+<fo:table-cell number-columns-spanned="2">
+ <fo:block font-weight="bold" >
+Abstakt Fern Kampfwaffe</fo:block>
+		<fo:block margin-top="10pt" keep-together="always">
+ <fo:table >
+    <fo:table-column  />
+    <fo:table-column column-width="40%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell  font-weight="bold">
+       <fo:block >
+ Ares Predator V</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-size="xx-small" >
+       <fo:block >
+Reichweite Schwere Pisolen</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+		 <fo:table font-size="small">
+		    <fo:table-column column-width="20%" />
+		   <fo:table-column  column-width="10%" />
+		   <fo:table-column column-width="10%" />
+		   <fo:table-column  column-width="35%" />
+		   <fo:table-column  column-width="5%"/>
+		   <fo:table-column column-width="20%" />
+		    <fo:table-body  >
+		     	<fo:table-row font-style="italic" text-align="center" font-size="7" >
+		      <fo:table-cell >
+		       <fo:block >
+		dmg</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		acc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ap</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		mode</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		rc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ammo</fo:block>
+		      </fo:table-cell>	
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+		      <fo:table-cell >
+		       <fo:block >
+		8P</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		5</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		-1</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell >
+		       <fo:block >
+		HM
+		</fo:block>
+		      </fo:table-cell>
+		
+		      <fo:table-cell >
+		       <fo:block >
+		0</fo:block>
+		      </fo:table-cell>		
+		      <fo:table-cell >
+		       <fo:block >
+		15 Str</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		  	 </fo:table-body>
+		  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+      <fo:table-cell number-rows-spanned="3" >
+       <fo:block  >
+ <fo:block font-size="small"  font-style="italic" >
+Accessories</fo:block> 
+<fo:table font-size="x-small">
+    <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Smartgun System, Internal</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+  	 </fo:table-body>
+  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+ <fo:table font-size="small">
+    <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row  font-style="italic" text-align="center">
+      <fo:table-cell >
+       <fo:block >
+short</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+medium</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+far</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+extrem</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+     	<fo:table-row font-size="7" font-weight="bold" text-align="center" >
+      <fo:table-cell >
+       <fo:block >
+0-5</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+5-20</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+20-40</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+40-60</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+
+  	 </fo:table-body>
+  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+<fo:block  >
+
+</fo:block>
+<fo:instream-foreign-object content-width="325pt" content-height="13pt">
+<svg:svg width="325pt" height="13pt">
+   <svg:g >
+   <svg:rect
+         y="0"
+         x="0"
+         height="8"
+         width="8"
+         id="rect-monitorbox-1"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="13"
+         height="8"
+         width="8"
+         id="rect-monitorbox-2"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="26"
+         height="8"
+         width="8"
+         id="rect-monitorbox-3"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="39"
+         height="8"
+         width="8"
+         id="rect-monitorbox-4"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="52"
+         height="8"
+         width="8"
+         id="rect-monitorbox-5"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="65"
+         height="8"
+         width="8"
+         id="rect-monitorbox-6"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="78"
+         height="8"
+         width="8"
+         id="rect-monitorbox-7"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="91"
+         height="8"
+         width="8"
+         id="rect-monitorbox-8"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="104"
+         height="8"
+         width="8"
+         id="rect-monitorbox-9"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="117"
+         height="8"
+         width="8"
+         id="rect-monitorbox-10"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="130"
+         height="8"
+         width="8"
+         id="rect-monitorbox-11"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="143"
+         height="8"
+         width="8"
+         id="rect-monitorbox-12"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="156"
+         height="8"
+         width="8"
+         id="rect-monitorbox-13"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="169"
+         height="8"
+         width="8"
+         id="rect-monitorbox-14"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="182"
+         height="8"
+         width="8"
+         id="rect-monitorbox-15"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+	</svg:g>
+</svg:svg>
+</fo:instream-foreign-object>
+
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+
+   </fo:table-body>
+   </fo:table>
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+		</fo:block  >
+		<fo:block margin-top="10pt" keep-together="always">
+ <fo:table >
+    <fo:table-column  />
+    <fo:table-column column-width="40%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell  font-weight="bold">
+       <fo:block >
+ Remington 950</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-size="xx-small" >
+       <fo:block >
+Reichweite Sniper Rifles</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+		 <fo:table font-size="small">
+		    <fo:table-column column-width="20%" />
+		   <fo:table-column  column-width="10%" />
+		   <fo:table-column column-width="10%" />
+		   <fo:table-column  column-width="35%" />
+		   <fo:table-column  column-width="5%"/>
+		   <fo:table-column column-width="20%" />
+		    <fo:table-body  >
+		     	<fo:table-row font-style="italic" text-align="center" font-size="7" >
+		      <fo:table-cell >
+		       <fo:block >
+		dmg</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		acc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ap</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		mode</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		rc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ammo</fo:block>
+		      </fo:table-cell>	
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+		      <fo:table-cell >
+		       <fo:block >
+		12P</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		7</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		-4</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell >
+		       <fo:block >
+		EM
+		</fo:block>
+		      </fo:table-cell>
+		
+		      <fo:table-cell >
+		       <fo:block >
+		0</fo:block>
+		      </fo:table-cell>		
+		      <fo:table-cell >
+		       <fo:block >
+		5 Cli</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		  	 </fo:table-body>
+		  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+      <fo:table-cell number-rows-spanned="3" >
+       <fo:block  >
+ <fo:block font-size="small"  font-style="italic" >
+Accessories</fo:block> 
+<fo:table font-size="x-small">
+    <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Imaging Scope</fo:block>
+      </fo:table-cell>
+		</fo:table-row>
+  	 </fo:table-body>
+  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+ <fo:table font-size="small">
+    <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row  font-style="italic" text-align="center">
+      <fo:table-cell >
+       <fo:block >
+short</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+medium</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+far</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+extrem</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+     	<fo:table-row font-size="7" font-weight="bold" text-align="center" >
+      <fo:table-cell >
+       <fo:block >
+0-50</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+50-350</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+350-800</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+800-1500</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+
+  	 </fo:table-body>
+  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+<fo:block  >
+
+</fo:block>
+<fo:instream-foreign-object content-width="325pt" content-height="13pt">
+<svg:svg width="325pt" height="13pt">
+   <svg:g >
+   <svg:rect
+         y="0"
+         x="0"
+         height="8"
+         width="8"
+         id="rect-monitorbox-1"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="13"
+         height="8"
+         width="8"
+         id="rect-monitorbox-2"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="26"
+         height="8"
+         width="8"
+         id="rect-monitorbox-3"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="39"
+         height="8"
+         width="8"
+         id="rect-monitorbox-4"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="52"
+         height="8"
+         width="8"
+         id="rect-monitorbox-5"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+	</svg:g>
+</svg:svg>
+</fo:instream-foreign-object>
+
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+
+   </fo:table-body>
+   </fo:table>
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+		</fo:block  >
+		<fo:block margin-top="10pt" keep-together="always">
+ <fo:table >
+    <fo:table-column  />
+    <fo:table-column column-width="40%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell  font-weight="bold">
+       <fo:block >
+ Ruger Super Warhawk</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-size="xx-small" >
+       <fo:block >
+Reichweite Schwere Pisolen</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+		 <fo:table font-size="small">
+		    <fo:table-column column-width="20%" />
+		   <fo:table-column  column-width="10%" />
+		   <fo:table-column column-width="10%" />
+		   <fo:table-column  column-width="35%" />
+		   <fo:table-column  column-width="5%"/>
+		   <fo:table-column column-width="20%" />
+		    <fo:table-body  >
+		     	<fo:table-row font-style="italic" text-align="center" font-size="7" >
+		      <fo:table-cell >
+		       <fo:block >
+		dmg</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		acc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ap</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		mode</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		rc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ammo</fo:block>
+		      </fo:table-cell>	
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+		      <fo:table-cell >
+		       <fo:block >
+		9P</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		5</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		-2</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell >
+		       <fo:block >
+		EM
+		</fo:block>
+		      </fo:table-cell>
+		
+		      <fo:table-cell >
+		       <fo:block >
+		0</fo:block>
+		      </fo:table-cell>		
+		      <fo:table-cell >
+		       <fo:block >
+		6 Tro</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		  	 </fo:table-body>
+		  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+      <fo:table-cell number-rows-spanned="3" >
+       <fo:block  >
+
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+ <fo:table font-size="small">
+    <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row  font-style="italic" text-align="center">
+      <fo:table-cell >
+       <fo:block >
+short</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+medium</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+far</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+extrem</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+     	<fo:table-row font-size="7" font-weight="bold" text-align="center" >
+      <fo:table-cell >
+       <fo:block >
+0-5</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+5-20</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+20-40</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+40-60</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+
+  	 </fo:table-body>
+  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+<fo:block  >
+
+</fo:block>
+<fo:instream-foreign-object content-width="325pt" content-height="13pt">
+<svg:svg width="325pt" height="13pt">
+   <svg:g >
+   <svg:rect
+         y="0"
+         x="0"
+         height="8"
+         width="8"
+         id="rect-monitorbox-1"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="13"
+         height="8"
+         width="8"
+         id="rect-monitorbox-2"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="26"
+         height="8"
+         width="8"
+         id="rect-monitorbox-3"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="39"
+         height="8"
+         width="8"
+         id="rect-monitorbox-4"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="52"
+         height="8"
+         width="8"
+         id="rect-monitorbox-5"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="65"
+         height="8"
+         width="8"
+         id="rect-monitorbox-6"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+	</svg:g>
+</svg:svg>
+</fo:instream-foreign-object>
+
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+
+   </fo:table-body>
+   </fo:table>
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+		</fo:block  >
+		<fo:block margin-top="10pt" keep-together="always">
+ <fo:table >
+    <fo:table-column  />
+    <fo:table-column column-width="40%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell  font-weight="bold">
+       <fo:block >
+ Ruger Super Warhawk</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-size="xx-small" >
+       <fo:block >
+Reichweite Schwere Pisolen</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+		 <fo:table font-size="small">
+		    <fo:table-column column-width="20%" />
+		   <fo:table-column  column-width="10%" />
+		   <fo:table-column column-width="10%" />
+		   <fo:table-column  column-width="35%" />
+		   <fo:table-column  column-width="5%"/>
+		   <fo:table-column column-width="20%" />
+		    <fo:table-body  >
+		     	<fo:table-row font-style="italic" text-align="center" font-size="7" >
+		      <fo:table-cell >
+		       <fo:block >
+		dmg</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		acc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ap</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		mode</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		rc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ammo</fo:block>
+		      </fo:table-cell>	
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+		      <fo:table-cell >
+		       <fo:block >
+		9P</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		5</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		-2</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell >
+		       <fo:block >
+		EM
+		</fo:block>
+		      </fo:table-cell>
+		
+		      <fo:table-cell >
+		       <fo:block >
+		0</fo:block>
+		      </fo:table-cell>		
+		      <fo:table-cell >
+		       <fo:block >
+		6 Tro</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		  	 </fo:table-body>
+		  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+      <fo:table-cell number-rows-spanned="3" >
+       <fo:block  >
+
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+ <fo:table font-size="small">
+    <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row  font-style="italic" text-align="center">
+      <fo:table-cell >
+       <fo:block >
+short</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+medium</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+far</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+extrem</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+     	<fo:table-row font-size="7" font-weight="bold" text-align="center" >
+      <fo:table-cell >
+       <fo:block >
+0-5</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+5-20</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+20-40</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+40-60</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+
+  	 </fo:table-body>
+  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+<fo:block  >
+
+</fo:block>
+<fo:instream-foreign-object content-width="325pt" content-height="13pt">
+<svg:svg width="325pt" height="13pt">
+   <svg:g >
+   <svg:rect
+         y="0"
+         x="0"
+         height="8"
+         width="8"
+         id="rect-monitorbox-1"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="13"
+         height="8"
+         width="8"
+         id="rect-monitorbox-2"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="26"
+         height="8"
+         width="8"
+         id="rect-monitorbox-3"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="39"
+         height="8"
+         width="8"
+         id="rect-monitorbox-4"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="52"
+         height="8"
+         width="8"
+         id="rect-monitorbox-5"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="65"
+         height="8"
+         width="8"
+         id="rect-monitorbox-6"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+	</svg:g>
+</svg:svg>
+</fo:instream-foreign-object>
+
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+
+   </fo:table-body>
+   </fo:table>
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+		</fo:block  >
+		<fo:block margin-top="10pt" keep-together="always">
+ <fo:table >
+    <fo:table-column  />
+    <fo:table-column column-width="40%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell  font-weight="bold">
+       <fo:block >
+ Defiance T-250</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-size="xx-small" >
+       <fo:block >
+Reichweite Shotguns</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+		 <fo:table font-size="small">
+		    <fo:table-column column-width="20%" />
+		   <fo:table-column  column-width="10%" />
+		   <fo:table-column column-width="10%" />
+		   <fo:table-column  column-width="35%" />
+		   <fo:table-column  column-width="5%"/>
+		   <fo:table-column column-width="20%" />
+		    <fo:table-body  >
+		     	<fo:table-row font-style="italic" text-align="center" font-size="7" >
+		      <fo:table-cell >
+		       <fo:block >
+		dmg</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		acc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ap</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		mode</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		rc</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		ammo</fo:block>
+		      </fo:table-cell>	
+				</fo:table-row>
+		     	<fo:table-row font-size="7" font-weight="bold" text-align="center">
+		      <fo:table-cell >
+		       <fo:block >
+		10P</fo:block>
+		      </fo:table-cell>	
+		      <fo:table-cell >
+		       <fo:block >
+		4</fo:block>
+		      </fo:table-cell>			
+		      <fo:table-cell >
+		       <fo:block >
+		-1</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell >
+		       <fo:block >
+		EM HM
+		</fo:block>
+		      </fo:table-cell>
+		
+		      <fo:table-cell >
+		       <fo:block >
+		0</fo:block>
+		      </fo:table-cell>		
+		      <fo:table-cell >
+		       <fo:block >
+		5 Cli</fo:block>
+		      </fo:table-cell>		
+				</fo:table-row>
+		  	 </fo:table-body>
+		  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+      <fo:table-cell number-rows-spanned="3" >
+       <fo:block  >
+
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+ <fo:table font-size="small">
+    <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+   <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row  font-style="italic" text-align="center">
+      <fo:table-cell >
+       <fo:block >
+short</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+medium</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+far</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+extrem</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+     	<fo:table-row font-size="7" font-weight="bold" text-align="center" >
+      <fo:table-cell >
+       <fo:block >
+0-15</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell >
+       <fo:block >
+15-30</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+30-45</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell >
+       <fo:block >
+45-60</fo:block>
+      </fo:table-cell>		
+		</fo:table-row>
+
+  	 </fo:table-body>
+  	 </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell >
+       <fo:block  >
+<fo:block  >
+
+</fo:block>
+<fo:instream-foreign-object content-width="325pt" content-height="13pt">
+<svg:svg width="325pt" height="13pt">
+   <svg:g >
+   <svg:rect
+         y="0"
+         x="0"
+         height="8"
+         width="8"
+         id="rect-monitorbox-1"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="13"
+         height="8"
+         width="8"
+         id="rect-monitorbox-2"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="26"
+         height="8"
+         width="8"
+         id="rect-monitorbox-3"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="39"
+         height="8"
+         width="8"
+         id="rect-monitorbox-4"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+   <svg:rect
+         y="0"
+         x="52"
+         height="8"
+         width="8"
+         id="rect-monitorbox-5"
+         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+	</svg:g>
+</svg:svg>
+</fo:instream-foreign-object>
+
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+
+   </fo:table-body>
+   </fo:table>
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+		</fo:block  >
+
+</fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+
+
+<!-- diary -->
+  <fo:table break-before="page">
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+<fo:block margin-top="10pt" break-before="page" ></fo:block  >
+ <fo:table font-size="small" keep-together="always">
+    <fo:table-column column-width="10%" />
+   <fo:table-column column-width="10%" />
+   <fo:table-column  />
+   <fo:table-column column-width="10%" />
+    <fo:table-body  >
+     	<fo:table-row>
+      		<fo:table-cell>
+ <fo:block font-weight="bold" >
+Changes</fo:block>
+      		</fo:table-cell>
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell   font-style="italic" >
+       <fo:block >
+Date</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell  font-size="small" font-style="italic" >
+       <fo:block >
+Änderung angewendet</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell  font-size="small" font-style="italic" >
+       <fo:block >
+Character Change</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell  font-size="small" font-style="italic"  >
+       <fo:block text-align="right"  font-size="small" font-style="italic"   >
+Karma Kosten</fo:block>
+      </fo:table-cell>	
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+unset</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.03.14</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Persona veränderungen Fertigkeit Schlosser 0 -&gt; 1</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-2</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+unset</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.03.14</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Persona veränderungen Fertigkeit Schlosser 1 -&gt; 2</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-4</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+unset</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.03.14</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Persona veränderungen Fertigkeit Waffenloser Kampf 2 -&gt; 3</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-6</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+unset</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.03.14</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Persona veränderungen Fertigkeit Bodenfahrzeuge 0 -&gt; 1</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-2</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+16.03.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.03.14</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 6</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+6</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+20.03.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.03.14</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 6</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+6</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+29.03.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.03.14</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 8</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+8</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.04.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.03.14</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 6</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+6</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+05.04.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.03.14</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 7</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+7</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+07.04.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.03.14</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Persona veränderungen Fertigkeit Laufen 0 -&gt; 1</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-2</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+08.04.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.03.14</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Persona veränderungen Fertigkeit Laufen 1 -&gt; 2</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-4</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+11.04.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.03.14</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 7</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+7</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+11.04.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.03.14</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Attribute Change Edge Basis 5-&gt;6</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-30</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+14.04.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.03.14</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 7</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+7</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+14.04.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.03.14</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Persona veränderungen Fertigkeit Bodenfahrzeuge 1 -&gt; 2</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-4</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+14.04.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+13.02.15</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Persona veränderungen Fertigkeit Schlosser 2 -&gt; 3</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-6</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+03.06.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+14.02.15</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 7</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+7</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+15.06.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+21.03.15</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 7</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+7</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+31.07.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.05.15</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Attribute Change Intuition Basis 4-&gt;5</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-25</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+27.07.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+01.05.15</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 3</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+27.07.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+01.05.15</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 2</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+31.07.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+16.05.15</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 5</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+08.08.75</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+28.05.15</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 4</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+4</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+  	 </fo:table-body>
+  	 </fo:table>
+
+
+       <fo:block  >
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+diary</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.04.75, 09:01</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Pay for Lifestyle Low</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+14.04.75, 21:05</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Persona veränderungen Fertigkeit Schlosser 2 -&gt; 3</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.05.75, 09:01</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Pay for Lifestyle Low</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.06.75, 09:01</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Pay for Lifestyle Low</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+02.06.75, 00:00</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Serien nummer FS75-05-23ukr III
+Das Freudenstrand. In Kreutzberg..
+3.6.2075
+Montag geschlossen.</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+03.06.57, 02:00</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Wir treffen uns wieder.
+bequatschen den Plan.
+
+Um 18:00 sind wir vor dem Supermarkt. Und warten.
+23:10 kommt der erste, 23:15 der zweite Wagen, wir starten.  </fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+03.06.75, 21:05</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Karma Gained : 7</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+12.06.75, 04:00</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Wir fahren ins light and dark, nach dem sich Savatichi bei mir gemeldet hat.
+Wir trefen Jane Bond, sie einen Job:
+
+Extraktion aus einen Schloss,  eine Wellness Oase von Atztec. Jagschloss Sonnenhof.
+Die Zielperson ist vom 14/15. am Ort. Svetlana Barthava.
+Critter als abschreckung für die Wildschweine. An dem doppelzaun sind Drohnenschienen
+
+Wir kundschaften Astral aus.</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+12.06.75, 17:36</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Wir fahren zum Jagschloss Sonnenhof und kundschaften Astral aus.
+Da sind Critter im Doppelzaun, vieleicht Höllenhunde (36), Geister bewohnen die  Umgebung.</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+15.06.75, 17:36</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Karma Gained : 7</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+15.06.75, 17:36</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Attribute Change Intuition Basis 4-&gt;5</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+15.06.75, 17:36 - 26.06.75, 17:36</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+28.06.75, 17:36 - 20.07.75, 17:36</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+27.06.75, 17:36</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Karma Gained : 3</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+27.06.75, 17:36</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Karma Gained : 2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.07.75, 09:01</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Pay for Lifestyle Low</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+21.07.75, 17:36</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Kleiner Lagerjob. 55.000 für 7 Tage Aufbewahrung.
+Stauette,  wird am Südstern übergeben.Freiligath Straße.
+Dienstag oder Mittwoch Nacht ist die Übergabe. 
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+25.07.75, 17:36</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Um 5:25 haben wir die flüchtige übergabe.</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+31.07.75, 17:36</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Karma Gained : 5</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+04.08.75, 17:36</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Wir treffen uns im Frakenstein.
+Sollen einen Miliärputschisten für Kopfgeldjäger besorgen
+Muva, Keas Joens, Nachschub und versorgung offizier der Ucas.
+Arbeitet jetzt für Ares.
+Wir Recherchieren &apos;Havelpark&apos;, schon hohe sicherheit.
+
+Fragen Beinarbeit:
+
+* Was ist der Realed Wert 
+* mehr HIntergrund Informationen über den Typen
+* Wen kennt er so in Berlin
+* der ganze Havelpark
+* Ares gebaren im allgemeinen
+* Tagesablauf, Doc Weagon
+* Astrale Sicherheit
+
+
+Decker beauftragen. 
+50 Min 18 Erfolge.Keas Joens
+50 Min 18 Erfolge
+
+* Wir können uns mit 500 auf die Ignore Liste setzen
+
+
+Wir besorgen die sin.</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+05.08.75, 17:36</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Wir haben die Sin und Fahren in den Havelpark.
+Drei Wachen in der Tiefgarage. Eine macht Pause.
+Die Autos werden durch das Gridgide gesteuert.
+
+Drei Wachen Wachen am Hapteingang.
+Morgens dichter Helicopter vehrker.
+Gebundene Geister beobachten die Apartments.
+Wachstationen im Park, vereinzelt, sind mit Hütern gesichert.
+20:30 ist er zu hause. (Das Licht ist an.)
+
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+07.08.75, 17:36</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+WIr starten.</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+08.08.75, 17:36</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+In Wild Trash trefen wir uns und rufen Novak an.
+Wir schieden einen heavy mettal plan.
+Gu Mietet das Auto. 
+Das stellen wir an einer geeignten Stelle ab, die wir per Boot erreichen könten. 
+WIr hijacken ein Auto mit dem wir vor fahren und nach oben in den 12 Stock gehen. 
+Gu knackt die Tür.</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+08.08.75, 17:36</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Karma Gained : 4</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.08.75, 09:01</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Pay for Lifestyle Low</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+<!-- credsticks -->
+<fo:block margin-top="10pt" ></fo:block  >
+  <fo:table >
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+ <fo:block font-weight="bold" >
+Credsticks</fo:block>
+  <fo:block  >
+Credstick Silver -1</fo:block>
+   <fo:table font-size="small">
+    <fo:table-column column-width="10%" />
+    <fo:table-column  />
+    <fo:table-column column-width="30%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+15.03.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Übertrag</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+470 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+16.03.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Einnahmen</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+10.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+20.03.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Auslagen</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-20 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+23.03.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Einkauf</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-2.670 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+23.03.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Miete auto</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-1.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+23.03.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Beschwörungsmaterialien</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+30.03.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Party gezahlt</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-470 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.04.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Pay for Lifestyle Low</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-2.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.04.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Klammoten für Sawatschi</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+03.04.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Anzahlung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+05.04.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Yahmaha Growler</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-5.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+05.04.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Teilauszahlung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+10.04.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Gel Rounds, Endoscope 8</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-350 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+04.11.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Ralf</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+14.04.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Chronist und Savatchi</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-115 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.06.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Pay for Lifestyle Low</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-2.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+02.06.15</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+entritt Freudenstrand</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-200 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+02.06.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Bier und Snacks</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-14 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+03.06.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Credsticks</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Gold -2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+100 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Silver- 2</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+20 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-120 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+03.06.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+some cash</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+04.06.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Some stuff.</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Brecheisen</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+20 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Atemgerät</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+100 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Handschellen, Plastik</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-125 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+03.06.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+trinken mit nowak</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-100 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+26.06.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+paar bier bei ralph</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-20 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.07.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Pay for Lifestyle Low</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-2.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+20.07.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Some stuff.</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Suvival-Kiste</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+200 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Taschenlampe, Infrarot</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+25 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Mikro-Transceiver</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+100 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Dietrich-Set</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+250 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-575 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+21.07.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Some stuff.</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Eigener Gegenstand</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+200 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-200 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+21.07.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Proviant</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-100 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+21.07.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+jammer 3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-1.600 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+31.07.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+transfer</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+31.07.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Automatischer Dietrich 3</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-1.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+04.08.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Vorschuss</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+08.08.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Auto Gemietet</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-700 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+09.08.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+trodes</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Gegenstand Elektroden</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+70 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-140 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+10.08.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Stuff zum essen.</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-100 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+08.08.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Auszahlung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+4.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+08.08.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Anteil Novak</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-2.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+Saldo</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-weight="bold" >
+       <fo:block text-align="right"  font-weight="bold"  >
+7.351 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+  <fo:block  >
+Credstick Gold -1</fo:block>
+   <fo:table font-size="small">
+    <fo:table-column column-width="10%" />
+    <fo:table-column  />
+    <fo:table-column column-width="30%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+20.03.99</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Einnahmen</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+12.400 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+23.03.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Vorschuss</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+29.03.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Auszahlung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+20.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+10.04.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Auszahlung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+11.04.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Auszahlung Job</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+7.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+14.04.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Befreiung von Grisu</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+10.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.05.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Pay for Lifestyle Low</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-2.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+03.06.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+auszahlung job</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+10.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+03.06.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Das neue Auto.</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Bodenfahrzeug Hyundai Shin-Hyung (Sport Sedan)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+28.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-28.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+03.06.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+some cash</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-5.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+05.08.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Sin Faked SIN 4</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+10.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Kommlink Meta Link</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+100 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-10.100 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+04.08.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+für den Decker</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+05.08.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+refund comlink</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+100 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.08.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Pay for Lifestyle Low</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-2.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+Saldo</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-weight="bold" >
+       <fo:block text-align="right"  font-weight="bold"  >
+20.900 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+  <fo:block  >
+Credstick Gold -2</fo:block>
+   <fo:table font-size="small">
+    <fo:table-column column-width="10%" />
+    <fo:table-column  />
+    <fo:table-column column-width="30%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+15.06.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Bezahlung Job</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+20.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+15.06.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+No harm Bonus</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+10.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+31.07.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Einahmen Auftrag.</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+13.750 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+31.07.75</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+transfer</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-3.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+Saldo</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-weight="bold" >
+       <fo:block text-align="right"  font-weight="bold"  >
+40.750 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+  <fo:block  >
+Credstick Silver- 2</fo:block>
+   <fo:table font-size="small">
+    <fo:table-column column-width="10%" />
+    <fo:table-column  />
+    <fo:table-column column-width="30%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+Saldo</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-weight="bold" >
+       <fo:block text-align="right"  font-weight="bold"  >
+0 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
+
+		<fo:block  >
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="1px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+Notes</fo:block>
+ <fo:table font-size="small">
+   <fo:table-column  />
+    <fo:table-body  >
+     	<fo:table-row font-weight="bold">
+      <fo:table-cell>
+       <fo:block  >
+ Slap Patch, Stim Patch</fo:block>
+      </fo:table-cell>
+    	</fo:table-row>
+     	<fo:table-row wrap-option="wrap">
+      <fo:table-cell>
+       <fo:block  >
+10x</fo:block>
+      </fo:table-cell>
+    	</fo:table-row>
+     	<fo:table-row font-weight="bold">
+      <fo:table-cell>
+       <fo:block  >
+ Slap Patch, Tranq Patch</fo:block>
+      </fo:table-cell>
+    	</fo:table-row>
+     	<fo:table-row wrap-option="wrap">
+      <fo:table-cell>
+       <fo:block  >
+10x</fo:block>
+      </fo:table-cell>
+    	</fo:table-row>
+     	<fo:table-row font-weight="bold">
+      <fo:table-cell>
+       <fo:block  >
+ Faked SIN 4</fo:block>
+      </fo:table-cell>
+    	</fo:table-row>
+     	<fo:table-row wrap-option="wrap">
+      <fo:table-cell>
+       <fo:block  >
+Nicht im Havelpark benutzen.</fo:block>
+      </fo:table-cell>
+    	</fo:table-row>
+   </fo:table-body>
+   </fo:table>
+		</fo:block  >
+
+		</fo:flow>
+	</fo:page-sequence>
+</fo:root>	

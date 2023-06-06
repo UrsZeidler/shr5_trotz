@@ -31,9 +31,9 @@ sum............................20
 Skillgroup sum     : 2
 Skill      sum     : 28
 Knowlege skill/sum : 14/10
-Quallity sum       : 18
+Quallity sum       : 17
 Connections        : 3/10
-Resources spend    : 449855.0
+Resources spend    : 449035.0
 
 
 [b]Eigenschaften[/b]
@@ -41,9 +41,9 @@ Eigenschaften Zähigkeit                       			9 		SR5 77
 Eigenschaften Beidhändigkeit                  			4 		SR5 71
 Eigenschaften Bewegungstalent                 			7 		SR5 76
 Eigenschaften Schnellheilung                  			3 		SR5 77
-Eigenschaften Allergie (selten, leicht)       			-5 		SR5 78
+Eigenschaften Verpflichtung (unangenehm)      			-6 		SR5 80
 ------
-sum :		18
+sum :		17
 
 
 								Verfügbarkeit	Preis		Quelle
@@ -54,7 +54,7 @@ Bioware Schadenskompensator 4                 			12F		8.000 ¥		SR5 460		-0.4
 Cyberware Kompositknochen (Aluminium)         			12R		18.000 ¥		SR5 454		-1.0
 Bioware Muskelverstärkung 2                   			10R		62.000 ¥		SR5 459		-0.4
 Bioware Muskelstraffung 2                     			10R		64.000 ¥		SR5 459		-0.4
-Bioware Orthoskin 3                           			12R		18.000 ¥		SR5 459		-0.75
+Bioware Orthoskin 2                           			8R		12.000 ¥		SR5 459		-0.5
 Bioware Thrombozytenfabrik                    			12		17.000 ¥		SR5 459		-0.2
 Cyberware Cyberaugen-Basissystem 3            			9		24.000 ¥		SR5 453		-0.4
 -Cyberware Enhancement Blitzkompensation       			4		(1.000 ¥)		SR5 453
@@ -63,7 +63,7 @@ Cyberware Cyberaugen-Basissystem 3            			9		24.000 ¥		SR5 453		-0.4
 -Cyberware Enhancement Sichtverbesserung 2     			6		(8.000 ¥)		SR5 453
 -Cyberware Enhancement Sichtvergrößerung       			4		(2.000 ¥)		SR5 453
 --------
-sum :		405.000
+sum :		399.000
 
 [b]Inventar[/b]
 Nahkampfwaffe Katana                          			9R		1.000 ¥		SR5 422
@@ -78,8 +78,8 @@ Feuerwaffe Ares Alpha                         			11F		2.650 ¥		SR5 428
 Feuerwaffe Ares Predator V                    			5R		725 ¥		SR5 426
 Feuerwaffe Ingram Smartgun X                  			6R		800 ¥		SR5 427
 Munition: Standardmunition (Reichweite Schwere Pisolen) 200			2R		400 ¥		SR5 434
-Munition: Standardmunition (Reichweite Submachine Guns) 200			2R		400 ¥		SR5 434
-Munition: Standardmunition (Reichweite Assault Rifles) 200			2R		400 ¥		SR5 434
+Munition: Standardmunition (Reichweite Submachine Guns) 400			2R		800 ¥		SR5 434
+Munition: Standardmunition (Reichweite Assault Rifles) 600			2R		1.200 ¥		SR5 434
 Granate Schockgranate [10]                    			6R		1.000 ¥		SR5 435
 Granate Granate: IR-Rauch [10]                			6R		600 ¥		SR5 435
 Gegenstand Suvival-Kiste                      			4		200 ¥		SR5 449
@@ -102,8 +102,20 @@ Gegenstand Endoskop                           			8		250 ¥		SR5 444
 Gegenstand Myomerisches Seil  (10m)           			10		200 ¥		SR5 449
 Gegenstand Medkit 6                           			Rating		1.500 ¥		SR5 450
 Gegenstand Medkit-Nachfüllpack                			0		100 ¥		SR5 450
+Munition: Gelgeschosse (Reichweite Schwere Pisolen) 50			2R		125 ¥		SR5 434
+Munition: Gelgeschosse (Reichweite Submachine Guns) 100			2R		250 ¥		SR5 434
+Munition: Gelgeschosse (Reichweite Assault Rifles) 150			2R		375 ¥		SR5 434
+Munition: Explosivgeschosse (Reichweite Submachine Guns) 100			9F		800 ¥		SR5 434
+Munition: Explosivgeschosse (Reichweite Schwere Pisolen) 100			9F		800 ¥		SR5 434
+Munition: Explosivgeschosse (Reichweite Assault Rifles) 200			9F		1.600 ¥		SR5 434
+Streifen Ares Predator V (0/15)               			4		5 ¥		SR5 433
+Streifen Ares Predator V (0/15)               			4		5 ¥		SR5 433
+Streifen Ares Alpha (0/42)                    			4		5 ¥		SR5 433
+Streifen Ares Alpha (0/42)                    			4		5 ¥		SR5 433
+Streifen Ingram Smartgun X (0/32)             			4		5 ¥		SR5 433
+Clip null (0/0)                               			4		5 ¥		SR5 433
 --------
-sum : 		17.055 ¥
+sum : 		22.235 ¥
 
 [b]Fahrzeuge[/b]
 Bodenfahrzeug Yamaha Growler (Off-Road Bike)  			0		5.000 ¥		SR5 462
@@ -133,10 +145,10 @@ Karma spend by skillgroups  : 10
 Karma spend by skills       : 137
 Karma spend by specalism    : 0
 Karma spend by resourcen    : 225
-Karma spend by quallities   : 36
+Karma spend by quallities   : 34
 Karma spend by connections  : 20
 
-karma worth                 : 818
+karma worth                 : 816
 
 
 [b]Basic Data[/b]
@@ -161,10 +173,10 @@ Intuition...................... 5
 Charisma....................... 1
 Edge........................... 5
 
-Essenz......................... 1.25
+Essenz......................... 1.5
 Initative...................... 12+3w6
 Condition...................... 10/9
-Panzer......................... 5
+Panzer......................... 4
 Selbstbeherrschung............. 3
 Menschenkenntnis............... 6
 Errinerungsvermoegen........... 4
@@ -212,9 +224,9 @@ Eigenschaften Zähigkeit........9
 Eigenschaften Beidhändigkeit...4
 Eigenschaften Bewegungstalent..7
 Eigenschaften Schnellheilung...3
-Eigenschaften Allergie (selten, leicht)-5
+Eigenschaften Verpflichtung (unangenehm)-6
 
-sum :..........................18
+sum :..........................17
 [b]Körper Mods[/b]
 Bioware Synapsenbeschleuniger 2190000
 Cyberware Smartlink, Smartgunverbindung4000
@@ -222,11 +234,11 @@ Bioware Schadenskompensator 4..8000
 Cyberware Kompositknochen (Aluminium)18000
 Bioware Muskelverstärkung 2....62000
 Bioware Muskelstraffung 2......64000
-Bioware Orthoskin 3............18000
+Bioware Orthoskin 2............12000
 Bioware Thrombozytenfabrik.....17000
 Cyberware Cyberaugen-Basissystem 324000
 
-sum :..........................405.000
+sum :..........................399.000
 
 [b]Inventar[/b]
 Nahkampfwaffe Katana........... 1.000 ¥
@@ -241,8 +253,8 @@ Feuerwaffe Ares Alpha.......... 2.650 ¥
 Feuerwaffe Ares Predator V..... 725 ¥
 Feuerwaffe Ingram Smartgun X... 800 ¥
 Munition: Standardmunition (Reichweite Schwere Pisolen) 200 400 ¥
-Munition: Standardmunition (Reichweite Submachine Guns) 200 400 ¥
-Munition: Standardmunition (Reichweite Assault Rifles) 200 400 ¥
+Munition: Standardmunition (Reichweite Submachine Guns) 400 800 ¥
+Munition: Standardmunition (Reichweite Assault Rifles) 600 1.200 ¥
 Granate Schockgranate [10]..... 1.000 ¥
 Granate Granate: IR-Rauch [10] 600 ¥
 Gegenstand Suvival-Kiste....... 200 ¥
@@ -265,8 +277,20 @@ Gegenstand Endoskop............ 250 ¥
 Gegenstand Myomerisches Seil  (10m) 200 ¥
 Gegenstand Medkit 6............ 1.500 ¥
 Gegenstand Medkit-Nachfüllpack 100 ¥
+Munition: Gelgeschosse (Reichweite Schwere Pisolen) 50 125 ¥
+Munition: Gelgeschosse (Reichweite Submachine Guns) 100 250 ¥
+Munition: Gelgeschosse (Reichweite Assault Rifles) 150 375 ¥
+Munition: Explosivgeschosse (Reichweite Submachine Guns) 100 800 ¥
+Munition: Explosivgeschosse (Reichweite Schwere Pisolen) 100 800 ¥
+Munition: Explosivgeschosse (Reichweite Assault Rifles) 200 1.600 ¥
+Streifen Ares Predator V (0/15) 5 ¥
+Streifen Ares Predator V (0/15) 5 ¥
+Streifen Ares Alpha (0/42)..... 5 ¥
+Streifen Ares Alpha (0/42)..... 5 ¥
+Streifen Ingram Smartgun X (0/32) 5 ¥
+Clip null (0/0)................ 5 ¥
 
-sum :.......................... 17.055
+sum :.......................... 22.235
 
 [b]Vertäge[/b]
 Lifestyle Mittelschicht........ 5.000 ¥/5.500 ¥

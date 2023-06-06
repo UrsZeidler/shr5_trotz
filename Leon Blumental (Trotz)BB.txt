@@ -131,8 +131,12 @@ sum :.......................... 17.055
 Lifestyle Mittelschicht........ 5.000 ¥/5.500 ¥
 - Lifestyle Option Garage........ 500 ¥
 
-Sin Faked SIN 3................ 7.500 ¥
-Sin Faked SIN 2................ 5.000 ¥
+Sin Faked SIN 3................ 2.500 ¥/7.500 ¥
+- Lizenz Gun Licence 3........... 2.400 ¥
+- Lizenz Driver Licence 3........ 2.400 ¥
+
+Sin Faked SIN 2................ 2.500 ¥/5.000 ¥
+
 Lizenz Gun Licence 3........... 2.400 ¥
 Lizenz Driver Licence 3........ 2.400 ¥
 
