@@ -155,18 +155,18 @@
           <mods xmi:id="_qQwjK-RoEe2EtdvPGzsRdw" wert="-40">
             <attribut href="http://urszeidler.de/shr5/1.0#//SpezielleAttribute/essenz"/>
           </mods>
-        <einbau xmi:id="_qQwjKuRoEe2EtdvPGzsRdw" verfuegbarkeit="4" wertValue="1000" name="Flare Compensation" parentId="5921a6ac-1e20-483b-b210-dc84a14d3045" page="453" capacityUse="1" type="eyeware">
+        <einbau xmi:id="_qQwjKuRoEe2EtdvPGzsRdw" verfuegbarkeit="4" wertValue="1000" beschreibung="Dieses Zubeh&#xf6;r sch&#xfc;tzt sowohl vor blendenden Lichtblitzen als auch vor einfachem blendendem Licht. Es verringert die Sichtmodifikatoren f&#xfc;r blendendes Licht und senkt den Malus durch Blitzlichter, wie etwa durch ein Flash-Pack." name="Flare Compensation" parentId="5921a6ac-1e20-483b-b210-dc84a14d3045" page="453" capacityUse="1" type="eyeware">
           <localizations xmi:id="_qQwjLORoEe2EtdvPGzsRdw" local="de" name="Blitzkompensation"/>
           <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
         </einbau>
-        <einbau xmi:id="_qQwjLeRoEe2EtdvPGzsRdw" verfuegbarkeit="4" wertValue="1500" name="Low-Light Vision" parentId="97910ef7-dc30-4a87-8314-d1e0021dc39c" page="453" capacityUse="1" type="eyeware">
+        <einbau xmi:id="_qQwjLeRoEe2EtdvPGzsRdw" verfuegbarkeit="4" wertValue="1500" beschreibung="Dieses Zubeh&#xf6;r erlaubt es einem, sogar dann noch normal zu sehen, wenn die einzige Lichtquelle die Sterne am Himmel sind. Es hilft allerdings nicht in totaler Dunkelheit." name="Low-Light Vision" parentId="97910ef7-dc30-4a87-8314-d1e0021dc39c" page="453" capacityUse="1" type="eyeware">
           <mods xmi:id="_qQwjLuRoEe2EtdvPGzsRdw" wert="1">
             <attribut href="http://urszeidler.de/shr5/1.0#//Sichtverhaeltnisse/restlichtverstaerkung"/>
           </mods>
           <localizations xmi:id="_qQwjL-RoEe2EtdvPGzsRdw" local="de" name="Restlichtverst&#xe4;rkung"/>
           <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
         </einbau>
-        <einbau xmi:id="_qQwjMORoEe2EtdvPGzsRdw" verfuegbarkeit="4" wertValue="1500" name="Infrared Vision" parentId="_C9XwYN-4Ee2Z3fe62OlPrA" page="453" capacityUse="2" type="eyeware">
+        <einbau xmi:id="_qQwjMORoEe2EtdvPGzsRdw" verfuegbarkeit="4" wertValue="1500" beschreibung="Diese Sichtverst&#xe4;rkung erm&#xf6;glicht das Sehen im infraroten Spektrum, wodurch man Hitzemuster erkennen kann. Das ist eine sehr praktische Methode, um Lebewesen in v&#xf6;lliger Dunkelheit zu entdecken, um zu pr&#xfc;fen, ob ein Motor oder eine Maschine vor Kurzem gelaufen ist, und f&#xfc;r &#xe4;hnliche Zwecke." name="Infrared Vision" parentId="_C9XwYN-4Ee2Z3fe62OlPrA" page="453" capacityUse="2" type="eyeware">
           <mods xmi:id="_qQwjMeRoEe2EtdvPGzsRdw" wert="1">
             <attribut href="http://urszeidler.de/shr5/1.0#//Sichtverhaeltnisse/infrarot"/>
           </mods>
@@ -210,7 +210,7 @@
         <localizations xmi:id="_qQwjQuRoEe2EtdvPGzsRdw" local="de" name="Schnellheilung"/>
         <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       </eigenschaften>
-      <eigenschaften xmi:id="_FfcTsAPXEe6SQ9KwvYZQrA" name="Dependent (Inconvenience)" parentId="cc857826-3bb2-466d-987b-7d56a337bc08" page="80" karmaKosten="-6">
+      <eigenschaften xmi:id="_FfcTsAPXEe6SQ9KwvYZQrA" beschreibung="F&#xfc;r 6 Karma st&#xf6;rt die Verpflichtung regelm&#xe4;&#xdf;ig: Sie braucht regelm&#xe4;&#xdf;ige Zuwendung, mischt sich ein oder lebt im selben Haushalt. Beispiele daf&#xfc;r sind Ehepartner oder Verwandte, die im selben Haushalt leben, Kinder mit geteiltem Sorgerecht,&#xA;die (jedes zweite Wochenende) betreut werden, Kleinkinder oder junge Geschwister, um die man sich k&#xfc;mmern muss. Die Lebensstilkosten des Charakters steigen um 20 %.&#xA;In diesem Falle handelt es sich um Trotz Mutter und die Gruppe der Anachisten der sie angeh&#xf6;rt." name="Dependent (Inconvenience)" parentId="cc857826-3bb2-466d-987b-7d56a337bc08" page="80" karmaKosten="-6">
         <localizations xmi:id="_Ffc6wAPXEe6SQ9KwvYZQrA" local="de" name="Verpflichtung (unangenehm)"/>
         <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       </eigenschaften>
@@ -426,17 +426,17 @@
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwjnTEeSe6_w6Jrbqxg"/>
     </inventar>
-    <inventar xsi:type="shr5:Munition" xmi:id="_oqmkcAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Ammo: Explosive Rounds" anzahl="100" proAnzahl="10" damageMod="1" armorMod="-1">
+    <inventar xsi:type="shr5:Munition" xmi:id="_oqmkcAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Ammo: Explosive Rounds" anzahl="50" proAnzahl="10" damageMod="1" armorMod="-1">
       <localizations xmi:id="_oqmkcQPYEe6SQ9KwvYZQrA" local="de" name="Munition: Explosivgeschosse"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwTnTEeSe6_w6Jrbqxg"/>
     </inventar>
-    <inventar xsi:type="shr5:Munition" xmi:id="_oqnLgAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Explosive Rounds" anzahl="100" proAnzahl="10" damageMod="1" armorMod="-1">
+    <inventar xsi:type="shr5:Munition" xmi:id="_oqnLgAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Explosive Rounds" anzahl="50" proAnzahl="10" damageMod="1" armorMod="-1">
       <localizations xmi:id="_oqnLgQPYEe6SQ9KwvYZQrA" local="de" name="Munition: Explosivgeschosse"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFDsznTEeSe6_w6Jrbqxg"/>
     </inventar>
-    <inventar xsi:type="shr5:Munition" xmi:id="_oqoZoAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Explosive Rounds" anzahl="200" proAnzahl="10" damageMod="1" armorMod="-1">
+    <inventar xsi:type="shr5:Munition" xmi:id="_oqoZoAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Explosive Rounds" anzahl="100" proAnzahl="10" damageMod="1" armorMod="-1">
       <localizations xmi:id="_oqoZoQPYEe6SQ9KwvYZQrA" local="de" name="Munition: Explosivgeschosse"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwjnTEeSe6_w6Jrbqxg"/>
