@@ -1,0 +1,639 @@
+<?xml version="1.0" encoding="ASCII"?>
+<shr5mngt:CharacterGroup xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:shr5="http://urszeidler.de/shr5/1.0" xmlns:shr5mngt="http://urszeidler.de/shr5mngt/1.0" xmi:id="_DATO8ARfEe66EcT05mHZow" name="trotz's netz">
+  <members xsi:type="shr5mngt:PlayerCharacter" xmi:id="_qQwi8ORoEe2EtdvPGzsRdw" chracterSource="_qQxKQuRoEe2EtdvPGzsRdw" choosenLifestyle="_qQxKOeRoEe2EtdvPGzsRdw" sex="male" height="185" dateofbirth="2045-05-09T22:07:08.886+0200" weight="91">
+    <persona xsi:type="shr5:MudanPersona" xmi:id="_qQwi8eRoEe2EtdvPGzsRdw" image="/home/urs/Downloads/myJ1YCBY.jpeg" name="Leon Blumental (Trotz)" edgeBasis="5" konstitutionBasis="4" geschicklichkeitBasis="6" reaktionBasis="5" staerkeBasis="3" charismaBasis="1" willenskraftBasis="2" intuitionBasis="5" logikBasis="2">
+      <fertigkeiten xmi:id="_qQwi8uRoEe2EtdvPGzsRdw" stufe="5">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#48763fa5-4b89-48c7-80ff-d0a2761de4c0"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwi8-RoEe2EtdvPGzsRdw" stufe="3">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#4fcd40cb-4b02-4b7e-afcb-f44d46cd5706"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwi9ORoEe2EtdvPGzsRdw" stufe="3">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#adf31a50-b228-4e09-a09c-46ab9f5e59a1"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwi9eRoEe2EtdvPGzsRdw" stufe="5">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#788b387b-ee41-4e6a-bf22-481a8cc4cf9f"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwi9uRoEe2EtdvPGzsRdw" stufe="2">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#9cff9aa7-d092-4f89-8b7b-3ab835818874"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwi9-RoEe2EtdvPGzsRdw" stufe="1">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#17fbaafa-8dbb-4f29-9244-5ae1cd4ac42f"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwi-ORoEe2EtdvPGzsRdw" stufe="1">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#58452cff-44ea-41c6-a554-28a869149b27"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwi-eRoEe2EtdvPGzsRdw" stufe="1">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#64841e6e-9487-4b63-80a1-dcad6eb78179"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwi-uRoEe2EtdvPGzsRdw" stufe="1">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#09fbc992-9fad-4f2d-ab56-725bac943dc6"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwi--RoEe2EtdvPGzsRdw" stufe="1">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#ae91a8a6-80e7-4f52-b9eb-21725a5528a4"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwi_ORoEe2EtdvPGzsRdw" stufe="3">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#04e1eb3e-e82d-485b-a7fd-1e677df2a070"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwi_eRoEe2EtdvPGzsRdw" stufe="2">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#867a6fa0-7d98-4cde-83a4-b33dd39de08e"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwi_uRoEe2EtdvPGzsRdw" stufe="2">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#_mrsmQMAVEeSEwMMqEoWtPQ"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwi_-RoEe2EtdvPGzsRdw" stufe="1">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#_zCkcUMAVEeSEwMMqEoWtPQ"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwjAORoEe2EtdvPGzsRdw" stufe="1">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#026062e0-9bdd-4a06-9cca-c3640c634cfd"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwjAeRoEe2EtdvPGzsRdw" stufe="1">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#87627536-a185-427a-bb14-54a4ff89901c"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwjAuRoEe2EtdvPGzsRdw" stufe="2">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#907a3a8f-2c40-4543-a5a9-891bcde41f6b"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwjA-RoEe2EtdvPGzsRdw" stufe="2">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#_EV_vJDnTEeSe6_w6Jrbqxg"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwjBORoEe2EtdvPGzsRdw" stufe="2">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#6d9880ee-c017-4e7f-a7ee-502eb542709b"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwjBeRoEe2EtdvPGzsRdw" stufe="1">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#ac86aba3-a7d6-4938-b5f1-186955912643"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qQwjBuRoEe2EtdvPGzsRdw" stufe="2">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#bee29957-affb-4593-a4fe-002f6dd5be9c"/>
+      </fertigkeiten>
+      <fertigkeitsGruppen xmi:id="_qQwjB-RoEe2EtdvPGzsRdw" stufe="1">
+        <gruppe href="platform:/resource/shr5Resource/shr5-1.shr5#_EL27tTnTEeSe6_w6Jrbqxg"/>
+      </fertigkeitsGruppen>
+      <fertigkeitsGruppen xmi:id="_qQwjCORoEe2EtdvPGzsRdw" stufe="1">
+        <gruppe href="platform:/resource/shr5Resource/shr5-1.shr5#_EL-3hjnTEeSe6_w6Jrbqxg"/>
+      </fertigkeitsGruppen>
+      <spezies href="platform:/resource/shr5Resource/shr5-1.shr5#a53d885d-a4a4-443d-b6a6-b0a55b0a96c7"/>
+      <koerperMods xsi:type="shr5:BioWare" xmi:id="_qQwjCeRoEe2EtdvPGzsRdw" beschreibung="Die Nervenzellen, aus denen das  R&#xfc;ckenmark besteht, werden mit dieser Bioware erweitert  und repliziert, was eine h&#xf6;here neurale Bandbreite erlaubt.  Das Ergebnis ist eine viel schnellere Reaktionszeit. Der Synapsenbeschleuniger gew&#xe4;hrt pro Stufenpunkt jeweils einen Bonus von +1 auf die Reaktion (Initiative und K&#xf6;rperliches Limit  werden entsprechend angepasst) und +1W6 Initiativew&#xfc;rfel.  Er kann nicht mit irgendeiner anderen Form von Reaktions-  oder Initiativeverbesserung kombiniert werden." name="Synaptic Booster 2" parentId="4a4e1079-5872-4f3f-a450-48c30a5504f3" page="461" verfuegbarkeit="12R" wertValue="190000">
+        <mods xmi:id="_qQwjCuRoEe2EtdvPGzsRdw" wert="2">
+          <attribut href="http://urszeidler.de/shr5/1.0#//SpezielleAttribute/initativWuerfel"/>
+        </mods>
+        <mods xmi:id="_qQwjC-RoEe2EtdvPGzsRdw" wert="2">
+          <attribut href="http://urszeidler.de/shr5/1.0#//KoerperlicheAttribute/reaktion"/>
+        </mods>
+        <mods xmi:id="_qQwjDORoEe2EtdvPGzsRdw" wert="-100">
+          <attribut href="http://urszeidler.de/shr5/1.0#//SpezielleAttribute/essenz"/>
+        </mods>
+        <localizations xmi:id="_qQwjDeRoEe2EtdvPGzsRdw" local="de" name="Synapsenbeschleuniger 2"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </koerperMods>
+      <koerperMods xsi:type="shr5:Cyberware" xmi:id="_qQwjDuRoEe2EtdvPGzsRdw" beschreibung="Eine implantierte Version des Smartlinks (S. 448). Ein Smartlink, das in einem nat&#xfc;rlichen Auge oder einem Paar Cyberaugen installiert wird, ist effektiver als ein Smartlink, das in einem externen Ger&#xe4;t installiert wird." name="Smartlink" parentId="35dba0e2-1d3d-4386-a657-17fedca4622d" page="453" verfuegbarkeit="8R" wertValue="4000" type="eyeware">
+        <mods xmi:id="_qQwjD-RoEe2EtdvPGzsRdw" wert="-20">
+          <attribut href="http://urszeidler.de/shr5/1.0#//SpezielleAttribute/essenz"/>
+        </mods>
+        <localizations xmi:id="_qQwjEORoEe2EtdvPGzsRdw" local="de" name="Smartlink, Smartgunverbindung"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </koerperMods>
+      <koerperMods xsi:type="shr5:BioWare" xmi:id="_qQwjEeRoEe2EtdvPGzsRdw" beschreibung="Schadenskompensatoren sind im  Wesentlichen Blockadevorrichtungen in den Nervenbahnen,  die Schmerzen vom K&#xf6;rper ans Gehirn melden. Der Charakter  ignoriert eine Anzahl von Schadensk&#xe4;stchen (nach Wahl K&#xf6;rperlich, Geistig oder eine Kombination der beiden) in H&#xf6;he  der Stufe des Kompensators, bevor Verletzungsmodifikatoren  ermittelt werden.&#xA;" name="Damage Compensators 4" parentId="c46fbaba-d941-44b5-9bdc-643c5c6f4b24" page="460" verfuegbarkeit="12F" wertValue="8000">
+        <mods xmi:id="_qQwjEuRoEe2EtdvPGzsRdw" wert="-40">
+          <attribut href="http://urszeidler.de/shr5/1.0#//SpezielleAttribute/essenz"/>
+        </mods>
+        <localizations xmi:id="_qQwjE-RoEe2EtdvPGzsRdw" local="de" name="Schadenskompensator 4"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </koerperMods>
+      <koerperMods xsi:type="shr5:Cyberware" xmi:id="_qQwjFORoEe2EtdvPGzsRdw" beschreibung="In die Knochen werden Gitter aus verst&#xe4;rkenden Kunststoffen oder Metallen eingearbeitet, was ihr Widerstandsverm&#xf6;gen und ihre Bruchfestigkeit verbessert (und das K&#xf6;rpergewicht erh&#xf6;ht). Kompositknochen gibt es in drei Varianten: Kunststoff, Aluminium und Titan. Nur eine der drei Varianten kann gleichzeitig implantiert sein. Kompositknochen verleihen zus&#xe4;tzliche Konstitution f&#xfc;r Widerstand gegen physischen Schaden, etwas Panzerung (kumulativ mit anderer Panzerung, ohne sich auf die Belastung auszuwirken) und ver&#xe4;ndern den waffenlosen Schaden, den man austeilt.&#xA;Die jeweiligen Details finden Sie in der Tabelle Kompositknochen. Kompositknochen sind nicht mit anderer Bodytech&#xA;kompatibel, die die Knochen ver&#xe4;ndert (wie etwa die Bioware Knochenverst&#xe4;rkung)." name="Bone Lacing (Aluminum)" parentId="76523da7-271d-459a-9502-3f7c8d54be6a" page="454" verfuegbarkeit="12R" wertValue="18000" type="bodyware">
+        <mods xmi:id="_qQwjFeRoEe2EtdvPGzsRdw" wert="2">
+          <attribut href="http://urszeidler.de/shr5/1.0#//Panzerung/panzer"/>
+        </mods>
+        <mods xmi:id="_qQwjFuRoEe2EtdvPGzsRdw" wert="2">
+          <attribut href="http://urszeidler.de/shr5/1.0#//ProbenModifikatoren/schadenswiederstand"/>
+        </mods>
+        <mods xmi:id="_qQwjF-RoEe2EtdvPGzsRdw" wert="-100">
+          <attribut href="http://urszeidler.de/shr5/1.0#//SpezielleAttribute/essenz"/>
+        </mods>
+        <localizations xmi:id="_qQwjGORoEe2EtdvPGzsRdw" local="de" name="Kompositknochen (Aluminium)"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </koerperMods>
+      <koerperMods xsi:type="shr5:BioWare" xmi:id="_qQwjGeRoEe2EtdvPGzsRdw" beschreibung="Diese biologische  Webbehandlung verst&#xe4;rkt existierendes  Muskelgewebe, statt es durch bottichgez&#xfc;chtete Muskeln zu ersetzen. Speziell  gez&#xfc;chtete Muskelstr&#xe4;nge werden in existierende Muskelfasern gewoben, erh&#xf6;hen die Muskelmasse und rohe St&#xe4;rke und sorgen auch f&#xfc;r ein massigeres Aussehen. Muskelverst&#xe4;rkung addiert ihre Stufe zur St&#xe4;rke  des Charakters. Diese Bioware ist nicht kompatibel mit der Cyberware Kunstmuskeln." name="Muscle Augmentation 2" parentId="841572d6-0785-4a8d-acd3-e106fb464781" page="459" verfuegbarkeit="10R" wertValue="62000">
+        <mods xmi:id="_qQwjGuRoEe2EtdvPGzsRdw" wert="2">
+          <attribut href="http://urszeidler.de/shr5/1.0#//KoerperlicheAttribute/staerke"/>
+        </mods>
+        <mods xmi:id="_qQwjG-RoEe2EtdvPGzsRdw" wert="-40">
+          <attribut href="http://urszeidler.de/shr5/1.0#//SpezielleAttribute/essenz"/>
+        </mods>
+        <localizations xmi:id="_qQwjHORoEe2EtdvPGzsRdw" local="de" name="Muskelverst&#xe4;rkung 2"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </koerperMods>
+      <koerperMods xsi:type="shr5:BioWare" xmi:id="_qQwjHeRoEe2EtdvPGzsRdw" beschreibung="Diese Behandlung verst&#xe4;rkt die Elastizit&#xe4;t der Muskelfasern in existierenden Muskeln, was zu einem  verbesserten Muskeltonus und erh&#xf6;hter Flexibilit&#xe4;t f&#xfc;hrt und eine geschmeidige, athletische Figur macht. Muskelstraffung addiert ihre Stufe zur Geschicklichkeit des Charakters. Diese Bioware ist nicht kompatibel mit der Cyberware Kunstmuskeln." name="Muscle Toner 2" parentId="69ab0255-a76b-4190-a8be-0473fed231ef" page="459" verfuegbarkeit="10R" wertValue="64000">
+        <mods xmi:id="_qQwjHuRoEe2EtdvPGzsRdw" wert="2">
+          <attribut href="http://urszeidler.de/shr5/1.0#//KoerperlicheAttribute/geschicklichkeit"/>
+        </mods>
+        <mods xmi:id="_qQwjH-RoEe2EtdvPGzsRdw" wert="-40">
+          <attribut href="http://urszeidler.de/shr5/1.0#//SpezielleAttribute/essenz"/>
+        </mods>
+        <localizations xmi:id="_qQwjIORoEe2EtdvPGzsRdw" local="de" name="Muskelstraffung 2"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </koerperMods>
+      <koerperMods xsi:type="shr5:BioWare" xmi:id="_qQwjIeRoEe2EtdvPGzsRdw" beschreibung=" Orthoskin besteht aus einem Netz von Biofasern in der Haut, das  das &#xc4;quivalent pers&#xf6;nlicher Panzerung liefert und gleichzeitig praktisch nicht von  nat&#xfc;rlicher Haut zu unterscheiden ist. Orthoskin addiert ihre Stufe zum Panzerungswert des Charakters und ist kumulativ mit anderer Panzerung, ohne sich auf die Belastung auszuwirken. Orthoskin kann nicht mit Bodytech f&#xfc;r  die Haut kombiniert werden, die Panzerung verleiht, wie etwa  Dermalpanzerung." name="Orthoskin 2" parentId="96e4809a-71e6-4b98-9740-c6c44bc33aa9" page="459" verfuegbarkeit="8R" wertValue="12000">
+        <mods xmi:id="_qQwjIuRoEe2EtdvPGzsRdw" wert="2">
+          <attribut href="http://urszeidler.de/shr5/1.0#//Panzerung/panzer"/>
+        </mods>
+        <mods xmi:id="_qQwjI-RoEe2EtdvPGzsRdw" wert="-50">
+          <attribut href="http://urszeidler.de/shr5/1.0#//SpezielleAttribute/essenz"/>
+        </mods>
+        <localizations xmi:id="_qQwjJORoEe2EtdvPGzsRdw" local="de" name="Orthoskin 2"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </koerperMods>
+      <koerperMods xsi:type="shr5:BioWare" xmi:id="_qQwjJeRoEe2EtdvPGzsRdw" beschreibung="Thrombozytenfabrik: Eine Thrombozytenfabrik erh&#xf6;ht die &#xA;F&#xe4;higkeit des K&#xf6;rpers, mit K&#xf6;rperlichem Schaden fertig zu &#xA;werden, indem sie die Produktion von Blutpl&#xe4;ttchen im Kno-&#xA;chenmark und ihre Konzentration im Blut erh&#xf6;ht, was dabei &#xA;hilft, Blutungen schneller zu stoppen. Jedes Mal, wenn der &#xA;Charakter 2 oder mehr K&#xe4;stchen Schaden auf seinem K&#xf6;rper-&#xA;lichen Zustandsmonitor erleiden w&#xfc;rde, wird der Schaden um &#xA;ein K&#xe4;stchen gesenkt." name="Platelet Factories" parentId="8c75648c-19d2-4734-b107-c04bb0e1904a" page="459" verfuegbarkeit="12" wertValue="17000">
+        <mods xmi:id="_qQwjJuRoEe2EtdvPGzsRdw" wert="-20">
+          <attribut href="http://urszeidler.de/shr5/1.0#//SpezielleAttribute/essenz"/>
+        </mods>
+        <localizations xmi:id="_qQwjJ-RoEe2EtdvPGzsRdw" local="de" name="Thrombozytenfabrik"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </koerperMods>
+      <koerperMods xsi:type="shr5:Cyberware" xmi:id="_qQwjKORoEe2EtdvPGzsRdw" beschreibung="Cyberaugen bieten volle Sehsch&#xe4;rfe auf beiden Augen und sind serienm&#xe4;&#xdf;ig mit einer Bildverbindung und einer eingebauten Kamera ausgestattet. Au&#xdf;erdem bieten sie Kapazit&#xe4;t f&#xfc;r die Aufnahme von Sichtverst&#xe4;rkungen." name="Cybereyes Basic System 3" parentId="8e414ade-2764-4dc7-bdc4-83bb4a086034" page="453" verfuegbarkeit="9" wertValue="10000" cyberwareCapacity="12" type="eyeware">
+        <localizations xmi:id="_qQwjKeRoEe2EtdvPGzsRdw" local="de" name="Cyberaugen-Basissystem 3"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+          <mods xmi:id="_qQwjK-RoEe2EtdvPGzsRdw" wert="-40">
+            <attribut href="http://urszeidler.de/shr5/1.0#//SpezielleAttribute/essenz"/>
+          </mods>
+        <einbau xmi:id="_qQwjKuRoEe2EtdvPGzsRdw" verfuegbarkeit="4" wertValue="1000" name="Flare Compensation" parentId="5921a6ac-1e20-483b-b210-dc84a14d3045" page="453" capacityUse="1" type="eyeware">
+          <localizations xmi:id="_qQwjLORoEe2EtdvPGzsRdw" local="de" name="Blitzkompensation"/>
+          <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+        </einbau>
+        <einbau xmi:id="_qQwjLeRoEe2EtdvPGzsRdw" verfuegbarkeit="4" wertValue="1500" name="Low-Light Vision" parentId="97910ef7-dc30-4a87-8314-d1e0021dc39c" page="453" capacityUse="1" type="eyeware">
+          <mods xmi:id="_qQwjLuRoEe2EtdvPGzsRdw" wert="1">
+            <attribut href="http://urszeidler.de/shr5/1.0#//Sichtverhaeltnisse/restlichtverstaerkung"/>
+          </mods>
+          <localizations xmi:id="_qQwjL-RoEe2EtdvPGzsRdw" local="de" name="Restlichtverst&#xe4;rkung"/>
+          <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+        </einbau>
+        <einbau xmi:id="_qQwjMORoEe2EtdvPGzsRdw" verfuegbarkeit="4" wertValue="1500" name="Infrared Vision" parentId="_C9XwYN-4Ee2Z3fe62OlPrA" page="453" capacityUse="2" type="eyeware">
+          <mods xmi:id="_qQwjMeRoEe2EtdvPGzsRdw" wert="1">
+            <attribut href="http://urszeidler.de/shr5/1.0#//Sichtverhaeltnisse/infrarot"/>
+          </mods>
+          <localizations xmi:id="_qQwjMuRoEe2EtdvPGzsRdw" local="de" name="Infrarotsicht"/>
+          <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+        </einbau>
+        <einbau xmi:id="_qQwjM-RoEe2EtdvPGzsRdw" verfuegbarkeit="6" wertValue="8000" beschreibung="Dieses Zubeh&#xf6;r sch&#xe4;rft die Sicht eines Charakters auf alle Entfernungen und bietet ihm eine Sehsch&#xe4;rfe, die eher der eines durchschnittlichen Falken als der eines durchschnittlichen Metamenschen &#xe4;hnelt. Sichtverbesserung addiert ihre Stufe als positiven Modifikator auf das Limit bei visuellen Wahrnehmungsproben." name="Sichtverbesserung 2" parentId="5921a6ac-1e20-483b-b210-dc84a14d3045" page="453" capacityUse="2" type="eyeware">
+          <localizations xmi:id="_qQwjNORoEe2EtdvPGzsRdw" local="de" name="Sichtverbesserung 2"/>
+          <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+        </einbau>
+        <einbau xmi:id="_qQwjNeRoEe2EtdvPGzsRdw" verfuegbarkeit="4" wertValue="2000" beschreibung="Diese Zoomfunktion vergr&#xf6;&#xdf;ert die Sicht digital um das bis zu 50-fache, wodurch man weit entfernte Ziele besser sehen kann.&#xA;Reduziert den Entfernungsmodifikator um 1 Kategorie." name="Sichtvergr&#xf6;&#xdf;erung" parentId="5921a6ac-1e20-483b-b210-dc84a14d3045" page="453" capacityUse="2" type="eyeware">
+          <localizations xmi:id="_qQwjNuRoEe2EtdvPGzsRdw" local="de" name="Sichtvergr&#xf6;&#xdf;erung"/>
+          <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+        </einbau>
+      </koerperMods>
+      <eigenschaften xmi:id="_qQwjN-RoEe2EtdvPGzsRdw" beschreibung="Charaktere mit dem Vorteil Z&#xe4;higkeit halten mehr Schaden&#xA;aus als andere. Sie erhalten einen W&#xfc;rfelpoolmodifikator von&#xA;+1 auf ihre Konstitution bei Schadenswiderstandsproben." name="Toughness" parentId="00cc6499-db13-447e-8116-278d317a9e31" page="77" karmaKosten="9">
+        <mods xmi:id="_qQwjOORoEe2EtdvPGzsRdw" wert="1">
+          <attribut href="http://urszeidler.de/shr5/1.0#//ProbenModifikatoren/schadenswiederstand"/>
+        </mods>
+        <localizations xmi:id="_qQwjOeRoEe2EtdvPGzsRdw" local="de" name="Z&#xe4;higkeit"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </eigenschaften>
+      <eigenschaften xmi:id="_qQwjOuRoEe2EtdvPGzsRdw" beschreibung="Ein beidh&#xe4;ndiger Charakter kann Gegenst&#xe4;nde mit beiden&#xA;H&#xe4;nden gleich gut benutzen. Ohne diesen Vorteil erh&#xe4;lt man&#xA;bei jeder Handlung (zum Beispiel beim Schie&#xdf;en), die nur mit&#xA;der Nebenhand durchgef&#xfc;hrt wird, einen W&#xfc;rfelpoolmodifi-&#xA;kator von -2 (s. Angreifer benutzt Nebenhand, S. 179)." name="Ambidextrous" parentId="68cfe94a-fa7e-4129-a9b9-b5d73e3ced99" page="71" karmaKosten="4">
+        <localizations xmi:id="_qQwjO-RoEe2EtdvPGzsRdw" local="de" name="Beidh&#xe4;ndigkeit"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </eigenschaften>
+      <eigenschaften xmi:id="_qQwjPORoEe2EtdvPGzsRdw" beschreibung="Ein Charakter mit diesem Vorteil besitzt eine angeborene&#xA;Kombination von Fitness, Gleichgewichtssinn und athleti-&#xA;schem oder akrobatischem Talent. Er ist vielleicht kein Welt-&#xA;klasseathlet und m&#xfc;sste erst durch Training alles aus sich&#xA;herausholen, ist aber f&#xfc;r seine Gr&#xf6;&#xdf;e und Gewichtsklasse in&#xA;hervorragender k&#xf6;rperlicher Verfassung. Ein Bewegungsta-&#xA;lent erh&#xe4;lt einen W&#xfc;rfelpoolmodifikator von +2 auf alle Lau-&#xA;fen- und Akrobatikproben." name="Natural Athlete" parentId="225f0d31-8c03-4283-9a22-558ab01a6c47" page="76" karmaKosten="7">
+        <mods xmi:id="_qQwjPeRoEe2EtdvPGzsRdw" wert="2">
+          <modifyable xsi:type="shr5:Fertigkeit" href="platform:/resource/shr5Resource/shr5-1.shr5#1531b2d8-6116-4be4-87b0-232dba1fc447"/>
+        </mods>
+        <mods xmi:id="_qQwjPuRoEe2EtdvPGzsRdw" wert="2">
+          <modifyable xsi:type="shr5:Fertigkeit" href="platform:/resource/shr5Resource/shr5-1.shr5#a9fa961d-07e5-46da-8edc-403ae3e6cc75"/>
+        </mods>
+        <localizations xmi:id="_qQwjP-RoEe2EtdvPGzsRdw" local="de" name="Bewegungstalent" page="84"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </eigenschaften>
+      <eigenschaften xmi:id="_qQwjQORoEe2EtdvPGzsRdw" beschreibung="Der Charakter erh&#xe4;lt f&#xfc;r alle seine Genesungsproben sowie&#xA;f&#xfc;r alle Proben bei Heilung, die f&#xfc;r ihn abgelegt werden (ein-&#xA;schlie&#xdf;lich magischer Heilung), einen W&#xfc;rfelpoolmodifikator&#xA;von +2." name="Quick Healer" parentId="291efdb6-a8b8-49ce-b2be-72f9d3f8a243" page="77" karmaKosten="3">
+        <mods xmi:id="_qQwjQeRoEe2EtdvPGzsRdw" wert="2">
+          <attribut href="http://urszeidler.de/shr5/1.0#//ProbenModifikatoren/heilung"/>
+        </mods>
+        <localizations xmi:id="_qQwjQuRoEe2EtdvPGzsRdw" local="de" name="Schnellheilung"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </eigenschaften>
+      <eigenschaften xmi:id="_FfcTsAPXEe6SQ9KwvYZQrA" name="Dependent (Inconvenience)" parentId="cc857826-3bb2-466d-987b-7d56a337bc08" page="80" karmaKosten="-6">
+        <localizations xmi:id="_Ffc6wAPXEe6SQ9KwvYZQrA" local="de" name="Verpflichtung (unangenehm)"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </eigenschaften>
+    </persona>
+    <inventar xsi:type="shr5:Nahkampfwaffe" xmi:id="_qQwjReRoEe2EtdvPGzsRdw" parentId="8f266b4c-4035-4ba3-aa89-3289d0f42ce1" page="422" verfuegbarkeit="9R" wertValue="1000" beschreibung="Das legend&#xe4;re zweih&#xe4;ndige Schwert der Samurai.&#xA;Das Katana ist nicht nur zum Synonym f&#xfc;r Stra&#xdf;ensamurais, sondern sogar f&#xfc;r Shadowrunner im Allgemeinen geworden, zumindest in den Trids: Jeder hat dort ein Katana, vom Dekker bis zum Magier. Aber nur weil diese Waffe ein bl&#xf6;des Klischee ist, macht sie das nicht weniger gef&#xe4;hrlich oder weniger hilfreich in einem Kampf." image="/shr5Resource/images/katana.png" name="Katana" schadenscode="(STR+3)P" praezision="7" durchschlagsKraft="-3" reichweite="1">
+      <localizations xmi:id="_qQwjRuRoEe2EtdvPGzsRdw" local="de" name="Katana"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#48763fa5-4b89-48c7-80ff-d0a2761de4c0"/>
+    </inventar>
+    <inventar xsi:type="shr5:Kleidung" xmi:id="_qQwjR-RoEe2EtdvPGzsRdw" parentId="36a4cd30-c32c-44d0-847a-0c15fb51072a" page="437" verfuegbarkeit="2" wertValue="1000" beschreibung="Die beliebteste Panzerung auf den Stra&#xdf;en gibt es in allen Stilen, die man sich nur vorstellen kann. Sie bietet guten Schutz, ohne zu viel Aufmerksamkeit auf sich zu ziehen. Aber denken Sie nicht einmal daran, sie auf einer Dinnerparty zu tragen." name="Armor Jacket" ruestung="12">
+      <localizations xmi:id="_qQwjSORoEe2EtdvPGzsRdw" local="de" name="Panzerjacke"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQwjSeRoEe2EtdvPGzsRdw" parentId="fd6e194b-89ea-4030-9203-87341442eadb" page="438" verfuegbarkeit="2" wertValue="100" beschreibung="Helme gibt es in vielen verschiedenen Formen und Gr&#xf6;&#xdf;en, und sie sch&#xfc;tzen die R&#xfc;be vor Verletzungen. Sie haben eine Kapazit&#xe4;t von 6, um mit Zubeh&#xf6;r wie Trodennetzen und Sichtverst&#xe4;rkungen ausger&#xfc;stet zu werden." name="Helmet">
+      <localizations xmi:id="_qQwjSuRoEe2EtdvPGzsRdw" local="de" name="Helm"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <mods xmi:id="_qQwjS-RoEe2EtdvPGzsRdw" wert="2">
+        <attribut href="http://urszeidler.de/shr5/1.0#//Panzerung/panzer"/>
+      </mods>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQwjTORoEe2EtdvPGzsRdw" parentId="f5ac4b53-82ad-4a2f-8f3d-990e075951f7" page="447" verfuegbarkeit="0" wertValue="20" beschreibung="Ein Brecheisen verdoppelt die effektive St&#xe4;rke eines Charakters, wenn er versucht, eine T&#xfc;r oder einen Beh&#xe4;lter aufzubrechen." name="Chisel" kategorie="Breaking and Entering Gear">
+      <localizations xmi:id="_qQwjTeRoEe2EtdvPGzsRdw" local="de" name="Brecheisen"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Credstick" xmi:id="_qQwjU-RoEe2EtdvPGzsRdw" parentId="_ELzRUDnTEeSe6_w6Jrbqxg" page="443" verfuegbarkeit="0" wertValue="5" name="Standard" maxValue="5000">
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <transactionlog xmi:id="_qQwjVORoEe2EtdvPGzsRdw" amount="5695" description="Initale Transaction von 5695."/>
+    </inventar>
+    <inventar xsi:type="shr5:Credstick" xmi:id="_qQwjVeRoEe2EtdvPGzsRdw" parentId="_ELzRUDnTEeSe6_w6Jrbqxg" page="443" verfuegbarkeit="0" wertValue="5" name="Standard" maxValue="5000">
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Credstick" xmi:id="_qQwjVuRoEe2EtdvPGzsRdw" parentId="_ELzRUjnTEeSe6_w6Jrbqxg" page="443" verfuegbarkeit="5" wertValue="100" name="Gold" maxValue="100000">
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Nahkampfwaffe" xmi:id="_qQwjV-RoEe2EtdvPGzsRdw" parentId="e5e5e025-8622-406c-a2bb-030ad5392d79" page="422" verfuegbarkeit="0" wertValue="100" beschreibung="Eine hochwertige Klinge &#x2013; gerade auf der einen Klingenseite, gezahnt auf der anderen &#x2013; mit mehreren Zubeh&#xf6;rteilen, einschlie&#xdf;lich einem GPS, einem Multitool im Miniaturformat, einem Mikrofeuerzeug und einem verborgenen Fach im Griff. Die Seiten der Klinge sind mit einer ungiftigen Chemikalie behandelt, die die Klinge im inerten Zustand schw&#xe4;rzt, um unerw&#xfc;nschte Lichtbrechungen zu vermeiden aber aktiviert werden kann, um f&#xfc;r zwei Stunden phospho-&#xA;reszierendes Licht zu erzeugen. Alle Messer k&#xf6;nnen Fleisch schneiden, aber ein &#xdc;berlebensmesser ist besser darin, Seil und Holz zu schneiden oder anders als Werkzeug eingesetzt zu werden. Das &#xdc;berlebensmesser ist die Art von Spielzeug, das jeder Profi braucht." name="Survival Knife" schadenscode="(STR+2)P" praezision="5" durchschlagsKraft="-1">
+      <localizations xmi:id="_qQwjWORoEe2EtdvPGzsRdw" local="de" name="&#xdc;berlebensmesser"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#48763fa5-4b89-48c7-80ff-d0a2761de4c0"/>
+    </inventar>
+    <inventar xsi:type="shr5:Feuerwaffe" xmi:id="_qQwjWeRoEe2EtdvPGzsRdw" parentId="3a7a90ce-fbb5-4599-a857-b9849eb9769c" page="428" verfuegbarkeit="11F" wertValue="2650" beschreibung="Das Alpha wurde speziell f&#xfc;r die Firewatch-Spezialeinheiten von Ares entwickelt und ist seitdem auf der ganzen Welt ein Bestseller, der sogar von den Special Forces der UCAS verwendet wird. Teilweise liegt das an seiner au&#xdf;ergew&#xf6;hnlich hohen Markenwiedererkennung, andererseits nat&#xfc;rlich auch an seinem Unterlauf-Granatwerfer, dem&#xA;Smartgunsystem und einem teuren Kammerdesign, das 2 Punkte R&#xfc;cksto&#xdf;kompensation gew&#xe4;hrt." name="Ares Alpha" schadenscode="11P" praezision="5" durchschlagsKraft="-2" munitionstyp="Streifen" kapazitaet="42" rueckstoss="2">
+      <localizations xmi:id="_qQwjWuRoEe2EtdvPGzsRdw" local="de" name="Ares Alpha"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#788b387b-ee41-4e6a-bf22-481a8cc4cf9f"/>
+      <reichweite href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwjnTEeSe6_w6Jrbqxg"/>
+      <modie>HM</modie>
+      <modie>SM</modie>
+      <modie>AM</modie>
+      <erweiterung>Lauf</erweiterung>
+      <erweiterung>Oben</erweiterung>
+      <erweiterung>Unten</erweiterung>
+      <einbau xmi:id="_qQwjW-RoEe2EtdvPGzsRdw" name="Smartgun System, Internal" parentId="d57d2c64-1f61-4f5f-a465-8ce0dfacec6a" page="433">
+        <localizations xmi:id="_qQwjXORoEe2EtdvPGzsRdw" local="de" name="Smartgunsystem, Internal"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </einbau>
+      <magazin xmi:id="_qQwjXeRoEe2EtdvPGzsRdw" page="428" name="Ares Alpha ammunition" type="_qQwjWeRoEe2EtdvPGzsRdw">
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </magazin>
+    </inventar>
+    <inventar xsi:type="shr5:Feuerwaffe" xmi:id="_qQwjXuRoEe2EtdvPGzsRdw" parentId="971c711b-db32-4339-9203-865ef38f350e" page="426" verfuegbarkeit="5R" wertValue="725" beschreibung="Die neueste Generation der &#x2013; besonders bei S&#xf6;ldnern und Shadowrunnern &#x2013; beliebtesten Handfeuerwaffe der Welt. Die Ares Predator V verf&#xfc;gt &#xfc;ber eine verbesserte Ergonomie und Handhabung sowie ein integriertes Smartgunsystem. Einige Leute sagen, dass die Ares Predator V nicht besser sei als andere Pistolen ihrer Klasse, aber niemand kann bestreiten, dass sie eine bessere Markenwiedererkennung hat" name="Ares Predator V" schadenscode="8P" praezision="5" durchschlagsKraft="-1" munitionstyp="Streifen" kapazitaet="15">
+      <localizations xmi:id="_qQwjX-RoEe2EtdvPGzsRdw" local="de" name="Ares Predator V"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#adf31a50-b228-4e09-a09c-46ab9f5e59a1"/>
+      <reichweite href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFDsznTEeSe6_w6Jrbqxg"/>
+      <modie>HM</modie>
+      <erweiterung>Lauf</erweiterung>
+      <erweiterung>Oben</erweiterung>
+      <einbau xmi:id="_qQwjYORoEe2EtdvPGzsRdw" name="Smartgun System, Internal" parentId="d57d2c64-1f61-4f5f-a465-8ce0dfacec6a" page="433">
+        <localizations xmi:id="_qQwjYeRoEe2EtdvPGzsRdw" local="de" name="Smartgunsystem, Internal"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </einbau>
+      <magazin xmi:id="_qQwjYuRoEe2EtdvPGzsRdw" page="426" name="Ares Predator V ammunition" type="_qQwjXuRoEe2EtdvPGzsRdw">
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </magazin>
+    </inventar>
+    <inventar xsi:type="shr5:Feuerwaffe" xmi:id="_qQwjY-RoEe2EtdvPGzsRdw" parentId="017d8327-3bce-420a-af24-a2bed3ab0e83" page="427" verfuegbarkeit="6R" wertValue="800" beschreibung="Eine Knarre der Spitzenklasse. Die Ingram Smartgun ist seit den 2050ern als Waffe der Wahl vieler legend&#xe4;rer Stra&#xdf;ensamurai ber&#xfc;hmt und ist mit einem Gasventilsystem 2, einem Smartgunsystem, einer ausziehbaren Schulterst&#xfc;tze und einem integrierten Schalld&#xe4;mpfer ausgestattet." name="Ingram Smartgun X" schadenscode="8P" praezision="4" munitionstyp="Streifen" kapazitaet="32" rueckstoss="2">
+      <localizations xmi:id="_qQxKAORoEe2EtdvPGzsRdw" local="de" name="Ingram Smartgun X"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#788b387b-ee41-4e6a-bf22-481a8cc4cf9f"/>
+      <reichweite href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwTnTEeSe6_w6Jrbqxg"/>
+      <modie>SM</modie>
+      <modie>AM</modie>
+      <erweiterung>Lauf</erweiterung>
+      <erweiterung>Oben</erweiterung>
+      <einbau xmi:id="_qQxKAeRoEe2EtdvPGzsRdw" name="Smartgun System, Internal" parentId="d57d2c64-1f61-4f5f-a465-8ce0dfacec6a" page="433">
+        <localizations xmi:id="_qQxKAuRoEe2EtdvPGzsRdw" local="de" name="Smartgunsystem, Internal"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </einbau>
+      <einbau xmi:id="_qQxKA-RoEe2EtdvPGzsRdw" name="Sound Suppressor" parentId="3c329adb-7c13-4d2c-b25c-49be89173fa1" page="432">
+        <localizations xmi:id="_qQxKBORoEe2EtdvPGzsRdw" local="de" name="Schallunterdr&#xfc;cker" page="432"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </einbau>
+      <magazin xmi:id="_qQxKBeRoEe2EtdvPGzsRdw" page="427" name="Ingram Smartgun X ammunition" type="_qQwjY-RoEe2EtdvPGzsRdw">
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </magazin>
+    </inventar>
+    <inventar xsi:type="shr5:Munition" xmi:id="_qQxKBuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="200" proAnzahl="10">
+      <localizations xmi:id="_qQxKB-RoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFDsznTEeSe6_w6Jrbqxg"/>
+    </inventar>
+    <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCORoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="400" proAnzahl="10">
+      <localizations xmi:id="_qQxKCeRoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwTnTEeSe6_w6Jrbqxg"/>
+    </inventar>
+    <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="600" proAnzahl="10">
+      <localizations xmi:id="_qQxKC-RoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwjnTEeSe6_w6Jrbqxg"/>
+    </inventar>
+    <inventar xsi:type="shr5:Granate" xmi:id="_qQxKDORoEe2EtdvPGzsRdw" parentId="f4b92e14-fe1f-4be4-ad73-aed10e1f73b4" page="435" verfuegbarkeit="6R" wertValue="100" beschreibung="Diese &#x201e;Bet&#xe4;ubungs&#x201d;-Granaten explodieren in einem blendend hellen Licht und mit einer lauten Druck-&#xA;welle, die sich gleichm&#xe4;&#xdf;ig &#xfc;ber einen Radius von 10 Metern ausbreitet." name="Flash-Bang" schadenscode="10" schadesTyp="geistig" durchschlagsKraft="-4" anzahl="10" blast="10m">
+      <localizations xmi:id="_qQxKDeRoEe2EtdvPGzsRdw" local="de" name="Schockgranate" page="438"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <reichweite href="platform:/resource/shr5Resource/shr5-1.shr5#_ENG45DnTEeSe6_w6Jrbqxg"/>
+    </inventar>
+    <inventar xsi:type="shr5:Granate" xmi:id="_qQxKDuRoEe2EtdvPGzsRdw" parentId="f3472dc1-4c7b-403a-8001-6441bb65a687" page="435" verfuegbarkeit="6R" wertValue="60" beschreibung="Diese Granate ist identisch mit der Rauchgranate, au&#xdf;er dass der Rauch hei&#xdf;e Partikel enth&#xe4;lt, die&#xA;Infrarotsicht behindern. Wenden Sie die Sichtbarkeitsmodifikatoren f&#xfc;r IR-Rauch (S. 176) an. Die Wolke existiert f&#xfc;r etwa 4 Kampfrunden (k&#xfc;rzer bei Wind, l&#xe4;nger in geschlossenen R&#xe4;umen mit schlechter L&#xfc;ftung, nach Ma&#xdf;gabe des Spielleiters)." name="Thermal Smoke" schadenscode="-" schadesTyp="speziell" anzahl="10" blast="10 m Radius">
+      <localizations xmi:id="_qQxKD-RoEe2EtdvPGzsRdw" local="de" name="Granate: IR-Rauch"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <reichweite href="platform:/resource/shr5Resource/shr5-1.shr5#_ENG45DnTEeSe6_w6Jrbqxg"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKEORoEe2EtdvPGzsRdw" parentId="27f9775d-cd14-4900-827f-ba00d26e0c67" page="449" verfuegbarkeit="4" wertValue="200" beschreibung="Eine Auswahl von &#xdc;berlebensausr&#xfc;stung in einer widerstandsf&#xe4;higen Tasche. Enth&#xe4;lt ein Messer, ein Feuerzeug, Streichh&#xf6;lzer, einen Kompass, eine leichte Isolationsdecke, Nahrungsriegel f&#xfc;r mehrere Tage, eine Wasserreinigungseinheit und noch mehr. Gut f&#xfc;r die Notfalltasche." name="Survival Kit" kategorie="Survival Gear">
+      <localizations xmi:id="_qQxKEeRoEe2EtdvPGzsRdw" local="de" name="Suvival-Kiste" page="449"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKEuRoEe2EtdvPGzsRdw" parentId="76890101-9f90-41db-a6f0-6f5fd4802896" page="449" verfuegbarkeit="8F" wertValue="85" beschreibung="Camouflageseil bis zu 400 Kilogramm." name="Stealth Rope (100m)" kategorie="Grapple Gun">
+      <localizations xmi:id="_qQxKE-RoEe2EtdvPGzsRdw" local="de" name="Camouflageseil (100m)"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKFORoEe2EtdvPGzsRdw" parentId="0fdeb240-743c-4a9d-9cf1-fef0990575bb" page="448" verfuegbarkeit="4R" wertValue="250" beschreibung="Diese mechanischen Einbruchswerkzeuge sind in den letzten Jahrhunderten nur marginal verbessert worden. Sie sind notwendig f&#xfc;r das Knacken von mechanischen Schl&#xf6;ssern." name="Lockpick Set" kategorie="Breaking and Entering Gear">
+      <localizations xmi:id="_qQxKFeRoEe2EtdvPGzsRdw" local="de" name="Dietrich-Set"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKFuRoEe2EtdvPGzsRdw" parentId="b9812675-b4c3-43ce-b564-c47a5f66b0fc" page="447" verfuegbarkeit="0" wertValue="20" name="Restraint, Metal" kategorie="Security Devices">
+      <localizations xmi:id="_qQxKF-RoEe2EtdvPGzsRdw" local="de" name="Handschellen, Metall"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKGORoEe2EtdvPGzsRdw" parentId="d1fca845-ae01-4b39-a176-1506da699e0e" page="441" verfuegbarkeit="2" wertValue="100" beschreibung="Dieses klassische Kurzstrecken-Kommunikationsger&#xe4;t wird von Profis seit den 2050ern gesch&#xe4;tzt.&#xA;Er tut nichts Besonderes, sondern l&#xe4;sst einen einfach per Stimme mit anderen Mikro-Transceivern und Kommlinks &#x2013; die man selbst (und die andere Person) ausw&#xe4;hlt &#x2013; innerhalb einer Entfernung von einem Kilometer kommunizieren. Der Mikro-Transceiver besteht aus einem Ohrst&#xf6;psel und einem selbst haftenden subvokalen Mikrofon (S. 443), die beide in schwer&#xA;zu entdeckenden Designs erh&#xe4;ltlich sind." name="Micro-Transceiver" kategorie="Communications and Countermeasures">
+      <localizations xmi:id="_qQxKGeRoEe2EtdvPGzsRdw" local="de" name="Mikro-Transceiver"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKGuRoEe2EtdvPGzsRdw" parentId="a210be88-be16-4d66-afcb-7d58b8e1397f" page="448" verfuegbarkeit="2" wertValue="250" beschreibung="Dieses tragbare Schwei&#xdf;ger&#xe4;t erzeugt einen kleinen Lichtbogen, um Metalle zu schmelzen, entweder um durch Metall zu schneiden oder sie zusammenzuschwei&#xdf;en. Seine Energiequelle&#xA;reicht f&#xfc;r 30 Minuten Betrieb. Der Lichtbogen erzeugt zwar eine gro&#xdf;e Hitze, ist aber viel zu klein, um eine gute Waffe abzugeben (das w&#xe4;re, als w&#xfc;rde man versuchen, jemanden mit einem Feuerzeug zu stechen).&#xA;Das Mini-Schwei&#xdf;ger&#xe4;t hat einen Schadenscode von 25, wenn man es verwendet, um durch Barrieren zu schneiden." image="/shr5Resource/images/Aliens-Portable-Hand-Welder-1.jpg" name="Miniwelder" kategorie="Breaking and Entering Gear">
+      <localizations xmi:id="_qQxKG-RoEe2EtdvPGzsRdw" local="de" name="Mini-Schwei&#xdf;ger&#xe4;t" page="452"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKHORoEe2EtdvPGzsRdw" parentId="97f888dd-7e0d-4f33-b4cc-396cddecdf62" page="448" verfuegbarkeit="2" wertValue="80" name="Miniwelder Fuel Canister" kategorie="Breaking and Entering Gear">
+      <localizations xmi:id="_qQxKHeRoEe2EtdvPGzsRdw" local="de" name="Mini-Schwei&#xdf;ger&#xe4;t Benzin"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKHuRoEe2EtdvPGzsRdw" parentId="241e831d-230a-403b-a4a1-1e601b1afdc3" page="449" verfuegbarkeit="0" wertValue="100" beschreibung="Eine Atemschutzmaske ist eine Filtermaske, die &#xfc;ber Mund und Nase getragen wird und vor To-&#xA;xinen mit Inhalationsvektor sch&#xfc;tzt (s. Toxine, S. 410). Sie addiert ihre Stufe zu Toxinwiderstandsproben gegen Toxine mit Inhalationsvektor." name="Respirator 2" kategorie="Survival Gear" stufe="2">
+      <localizations xmi:id="_qQxKH-RoEe2EtdvPGzsRdw" local="de" name="Atemschutzmaske" page="453"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKIORoEe2EtdvPGzsRdw" parentId="f057b962-1439-4f8e-aa35-2e432a1c833d" page="432" verfuegbarkeit="4" wertValue="175" beschreibung="Dieses leicht zug&#xe4;ngliche Holster kann jede Waffe aufnehmen, die nicht gr&#xf6;&#xdf;er als eine Automatikpistole ist. Es senkt den Schwellenwert f&#xfc;r das Schnellziehen der geholsterten Waffe um 1 (s. Schnellziehen, S. 167)." name="Quick-Draw Holster" kategorie="Armor Enhancements">
+      <localizations xmi:id="_qQxKIeRoEe2EtdvPGzsRdw" local="de" name="Schnellziehholster"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKIuRoEe2EtdvPGzsRdw" parentId="_7Hds0AFxEeWgxfrTimxKgg" page="447" verfuegbarkeit="8R" wertValue="1500" beschreibung="Diese Sperrpistole ist eine schnelle und effektive Methode, um mechanische Schl&#xf6;sser zu umgehen. Die Stufe des Automatischen Dietrichs wird zum Limit des Charakters addiert, wenn er ein mechanisches Schloss knackt." name="Autopicker 3" kategorie="Breaking and Entering Gear" stufe="3">
+      <localizations xmi:id="_qQxKI-RoEe2EtdvPGzsRdw" local="de" name="Automatischer Dietrich 3"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKJORoEe2EtdvPGzsRdw" parentId="e8e7b222-99da-4a4f-9c4e-8ffa61838017" page="431" verfuegbarkeit="2" wertValue="150" beschreibung="Dieses kleine Holster kann am Fu&#xdf;kn&#xf6;chel, am Unterarm, im Kreuz oder sonst wo getragen werden, wo es unwahrscheinlich ist, dass man es entdeckt. Das Tarnholster addiert einen Modifikator von -1 zum Tarnmodifikator (S. 422) des Gegenstands. Nur Pistolen und Taser passen in ein Tarnholster." name="Concealable Holster" kategorie="Armor Enhancements">
+      <localizations xmi:id="_qQxKJeRoEe2EtdvPGzsRdw" local="de" name="Tarnholster"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKJuRoEe2EtdvPGzsRdw" parentId="_x7dlcLxTEeSEV4z_vgu7UQ" page="441" verfuegbarkeit="12F" wertValue="800" beschreibung="Dieses Ger&#xe4;t flutet den &#xc4;ther mit elektromagnetischen St&#xf6;rsignalen, um WiFi- und Funkkommunikation zu blockieren. Der St&#xf6;rsender erzeugt einen Rauschenwert in H&#xf6;he seiner Ger&#xe4;testufe. Der Bereichsst&#xf6;rsender beeinflusst einen kugelf&#xf6;rmigen Bereich &#x2013; seine Stufe wird alle 5 Meter vom Zentrum des Bereichs um 1 gesenkt. Der zielgerichtete St&#xf6;rsender beeinflusst einen kegelf&#xf6;rmigen Bereich mit einem Winkel von 30 Grad &#x2013; seine Stufe wird alle 20 Meter vom Zentrum des Bereichs um 1 gesenkt. Der St&#xf6;rsender beeinflusst&#xA;alle Ger&#xe4;te (und Personas auf diesen Ger&#xe4;ten) in seinem St&#xf6;rbereich. W&#xe4;nde und andere Hindernisse k&#xf6;nnen das St&#xf6;rsignal an der Ausbreitung hindern oder seine Wirkung abschw&#xe4;chen&#xA;(nach Ma&#xdf;gabe des Spielleiters). F&#xfc;r Ger&#xe4;te, die keine Matrixhandlungen ausf&#xfc;hren, gilt: Wenn der Rauschenwert des St&#xf6;rsenders h&#xf6;her ist als die Ger&#xe4;testufe (plus Rauschunterdr&#xfc;k-&#xA;kung) eines Ger&#xe4;ts im Wirkungsbereich, verliert dieses Ger&#xe4;t so lange seine WiFi-Funktionalit&#xe4;t &#x2013; was zum Beispiel Kommlinks f&#xfc;r die Kommunikation nutzlos machen kann." name="Jammer, Area 4" kategorie="Communications and Countermeasures" stufe="4">
+      <localizations xmi:id="_qQxKJ-RoEe2EtdvPGzsRdw" local="de" name="St&#xf6;rsender, Area 4"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKKORoEe2EtdvPGzsRdw" parentId="d0eb5971-03d6-4822-9fb5-c524bf16bf62" page="441" verfuegbarkeit="6R" wertValue="450" beschreibung="Dieses Handger&#xe4;t erzeugt ein starkes elektromagnetisches Feld, das perfekt f&#xfc;r das Ausbrennen von RFID-Chips und anderer ungesch&#xfc;tzter Elektronik ist. Es ist wahrscheinlich stark genug, um ein Kommlink zu zerst&#xf6;ren, und man sollte es &#x2013; nur f&#xfc;r den Fall der F&#xe4;lle &#x2013; auch nicht zu nahe an sein Cyberdeck lassen. Wenn man den L&#xf6;scher in eine Entfer- nung von maximal 5 Millimeter zu einem elektronischen Ger&#xe4;t bringt und den Knopf dr&#xfc;ckt, erleidet das Ger&#xe4;t 10 K&#xe4;stchen Matrixschaden (dem normal widerstanden wird). Die extrem kurze Reichweite macht es schwierig, den RFID-L&#xf6;scher gegen Ziele wie Fahrzeuge, die meisten Drohnen, Magschl&#xf6;sser und Cyberware anzuwenden (und zu dem Zeitpunkt, an dem man sie ge&#xf6;ffnet hat, um an die Elektronikinnereien zu kommen, hat man sowieso schon eine Menge Schaden angerichtet). Der RFID-L&#xf6;scher hat eine Ladung und kann an einer Steckdose in nerhalb von 10 Sekunden wiederaufgeladen werden." name="Tag Eraser" kategorie="Communications and Countermeasures">
+      <localizations xmi:id="_qQxKKeRoEe2EtdvPGzsRdw" local="de" name="RFID-L&#xf6;scher"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKKuRoEe2EtdvPGzsRdw" parentId="b9812675-b4c3-43ce-b564-c47a5f66b0fc" page="447" verfuegbarkeit="0" wertValue="20" beschreibung="Normale Metallhandschellen (Panzerung 16, Struktur 2) verf&#xfc;gen &#xfc;ber ein mechanisches oder ein WiFi-kontrolliertes Schloss (s. Barrieren, S. 196)." name="Restraint, Metal" kategorie="Security Devices">
+      <localizations xmi:id="_qQxKK-RoEe2EtdvPGzsRdw" local="de" name="Handschellen, Metall"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKLORoEe2EtdvPGzsRdw" parentId="b9812675-b4c3-43ce-b564-c47a5f66b0fc" page="447" verfuegbarkeit="0" wertValue="20" beschreibung="Normale Metallhandschellen (Panzerung 16, Struktur 2) verf&#xfc;gen &#xfc;ber ein mechanisches oder ein WiFi-kontrolliertes Schloss (s. Barrieren, S. 196)." name="Restraint, Metal" kategorie="Security Devices">
+      <localizations xmi:id="_qQxKLeRoEe2EtdvPGzsRdw" local="de" name="Handschellen, Metall"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Kleidung" xmi:id="_qQxKLuRoEe2EtdvPGzsRdw" parentId="5a650844-8f24-48e7-829f-0443d9ff5cf7" page="437" verfuegbarkeit="8" wertValue="1500" beschreibung="Dieser  diskret gepanzerte Gesch&#xe4;ftsanzug ist bei  Mr. Johnsons, Unterh&#xe4;ndlern und Schiebern beliebt, die hochklassigen Schutz  gepaart mit Stil haben wollen. Er enth&#xe4;lt  ein Tarnholster (S. 436) im Jackett." name="Actioneer Business Clothes" ruestung="8">
+      <localizations xmi:id="_qQxKL-RoEe2EtdvPGzsRdw" local="de" name="Actioneer Gesch&#xe4;ftsanzug"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKMeRoEe2EtdvPGzsRdw" parentId="22ceb53b-7863-424b-8ee5-d04bb520d97d" page="444" verfuegbarkeit="8" wertValue="250" beschreibung="Dieses Glasfaserkabel ist mindestens einen Meter lang, wobei die ersten 20 Zentimeter auf jeder Seite aus myomerischem Seil (S. 454) und einer optischen Linse bestehen. Es erlaubt dem Benutzer, um die Ecke, unter T&#xfc;rspalten hindurch oder in enge Spalte hineinzuschauen. Endoskope sind in mehreren L&#xe4;ngen erh&#xe4;ltlich, allerdings k&#xf6;nnen l&#xe4;ngere Segmente unhandlich sein." name="Endoscope" kategorie="Vision Devices">
+      <localizations xmi:id="_qQxKMuRoEe2EtdvPGzsRdw" local="de" name="Endoskop"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKM-RoEe2EtdvPGzsRdw" parentId="14243f3e-8d05-480d-8e74-b90ee615e6ff" page="449" verfuegbarkeit="10" wertValue="200" beschreibung="Dieses Seil besteht aus einer speziellen Myomerfaser und kann (bis zu einer maximalen L&#xe4;nge von 30 Metern) ferngesteuert bewegt werden. Zum Beispiel kann man es sich wie eine Schlange um ein Hindernis winden oder sich an einen Vorsprung binden lassen. Das Seil bewegt sich mit einer Rate von 2 Metern pro Kampfrunde." name="Myomeric Rope (10m)" kategorie="Grapple Gun">
+      <localizations xmi:id="_qQxKNORoEe2EtdvPGzsRdw" local="de" name="Myomerisches Seil  (10m)"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKNeRoEe2EtdvPGzsRdw" parentId="ae9c37df-6d82-44c1-aa21-6c87e45e2dc1" page="450" verfuegbarkeit="Rating" wertValue="1500" beschreibung="Das Medkit enth&#xe4;lt Medikamente, Verb&#xe4;nde, Werkzeuge und ein (redseliges) Arzt-Expertensystem, das den Nutzer bez&#xfc;glich der Behandlung der g&#xe4;ngigsten medizinischen Notf&#xe4;lle (einschlie&#xdf;lich Knochenbr&#xfc;chen, Schusswunden, chemischen Wunden und Vergiftung sowie der Be-" name="Medkit 6" kategorie="Biotech" stufe="6">
+      <localizations xmi:id="_qQxKNuRoEe2EtdvPGzsRdw" local="de" name="Medkit 6"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_qQxKN-RoEe2EtdvPGzsRdw" parentId="76aca45d-0d4f-45a3-a532-c47ac0b26b89" page="450" verfuegbarkeit="0" wertValue="100" name="Medkit Supplies" kategorie="Biotech">
+      <localizations xmi:id="_qQxKOORoEe2EtdvPGzsRdw" local="de" name="Medkit-Nachf&#xfc;llpack"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Munition" xmi:id="_t_tdYAPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="50" proAnzahl="10" armorMod="1">
+      <localizations xmi:id="_t_tdYQPXEe6SQ9KwvYZQrA" local="de" name="Munition: Gelgeschosse"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFDsznTEeSe6_w6Jrbqxg"/>
+    </inventar>
+    <inventar xsi:type="shr5:Munition" xmi:id="_t_uEcAPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="100" proAnzahl="10" armorMod="1">
+      <localizations xmi:id="_t_uEcQPXEe6SQ9KwvYZQrA" local="de" name="Munition: Gelgeschosse"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwTnTEeSe6_w6Jrbqxg"/>
+    </inventar>
+    <inventar xsi:type="shr5:Munition" xmi:id="_t_uEcgPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="150" proAnzahl="10" armorMod="1">
+      <localizations xmi:id="_t_uEcwPXEe6SQ9KwvYZQrA" local="de" name="Munition: Gelgeschosse"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwjnTEeSe6_w6Jrbqxg"/>
+    </inventar>
+    <inventar xsi:type="shr5:Munition" xmi:id="_oqmkcAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Ammo: Explosive Rounds" anzahl="100" proAnzahl="10" damageMod="1" armorMod="-1">
+      <localizations xmi:id="_oqmkcQPYEe6SQ9KwvYZQrA" local="de" name="Munition: Explosivgeschosse"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwTnTEeSe6_w6Jrbqxg"/>
+    </inventar>
+    <inventar xsi:type="shr5:Munition" xmi:id="_oqnLgAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Explosive Rounds" anzahl="100" proAnzahl="10" damageMod="1" armorMod="-1">
+      <localizations xmi:id="_oqnLgQPYEe6SQ9KwvYZQrA" local="de" name="Munition: Explosivgeschosse"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFDsznTEeSe6_w6Jrbqxg"/>
+    </inventar>
+    <inventar xsi:type="shr5:Munition" xmi:id="_oqoZoAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Explosive Rounds" anzahl="200" proAnzahl="10" damageMod="1" armorMod="-1">
+      <localizations xmi:id="_oqoZoQPYEe6SQ9KwvYZQrA" local="de" name="Munition: Explosivgeschosse"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwjnTEeSe6_w6Jrbqxg"/>
+    </inventar>
+    <inventar xsi:type="shr5:Magazin" xmi:id="_rhYc8APbEe6ry676G8SKSw" parentId="_PErXUD_REeSRYrHAmMULWA" page="433" verfuegbarkeit="4" wertValue="5" name="Spare Clip">
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_JoEq4FDLEeSjN8rIya5QCA"/>
+    </inventar>
+    <inventar xsi:type="shr5:Magazin" xmi:id="_rhcHUAPbEe6ry676G8SKSw" parentId="_PErXUD_REeSRYrHAmMULWA" page="433" verfuegbarkeit="4" wertValue="5" name="Spare Clip">
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_JoEq4FDLEeSjN8rIya5QCA"/>
+    </inventar>
+    <inventar xsi:type="shr5:Magazin" xmi:id="_rhcuYAPbEe6ry676G8SKSw" parentId="_PErXUD_REeSRYrHAmMULWA" page="433" verfuegbarkeit="4" wertValue="5" name="Spare Clip">
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_QSOfIJP9EeSg7ale_kHbpw"/>
+    </inventar>
+    <inventar xsi:type="shr5:Magazin" xmi:id="_rhd8gAPbEe6ry676G8SKSw" parentId="_PErXUD_REeSRYrHAmMULWA" page="433" verfuegbarkeit="4" wertValue="5" name="Spare Clip">
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_QSOfIJP9EeSg7ale_kHbpw"/>
+    </inventar>
+    <inventar xsi:type="shr5:Magazin" xmi:id="_rhejkAPbEe6ry676G8SKSw" parentId="_PErXUD_REeSRYrHAmMULWA" page="433" verfuegbarkeit="4" wertValue="5" name="Spare Clip">
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_6j4LkJK4EeSxvrTnLBRm7A"/>
+    </inventar>
+    <inventar xsi:type="shr5:Magazin" xmi:id="_rhfKoAPbEe6ry676G8SKSw" parentId="_PErXUD_REeSRYrHAmMULWA" page="433" verfuegbarkeit="4" wertValue="5" name="Spare Clip">
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_RKUwxu8dEe2z9bAoVYduZw"/>
+    </inventar>
+    <contracts xsi:type="shr5:Lifestyle" xmi:id="_qQxKOeRoEe2EtdvPGzsRdw" name="Middle" parentId="90f6f4c2-9968-42e1-ba79-e2bf530de32e" page="373" verfuegbarkeit="" wertValue="5000" faelligkeitsIntervall="1" unit="month">
+      <localizations xmi:id="_qQxKOuRoEe2EtdvPGzsRdw" local="de" name="Mittelschicht"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <options xmi:id="_qQxKO-RoEe2EtdvPGzsRdw" name="Garage" parentId="_ENlaADnTEeSe6_w6Jrbqxg" page="374" wertValue="500">
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </options>
+    </contracts>
+    <contracts xsi:type="shr5:Sin" xmi:id="_qQxKPORoEe2EtdvPGzsRdw" name="Faked SIN 3" parentId="_e-eioIXPEeS_sOkeVG-YrA" page="447" verfuegbarkeit="9V" wertValue="2500" stufe="3" gefaelscht="true" licences="_kJwAoOTlEe2EtdvPGzsRdw _kJwnsOTlEe2EtdvPGzsRdw">
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </contracts>
+    <contracts xsi:type="shr5:Sin" xmi:id="_qQxKPeRoEe2EtdvPGzsRdw" name="Faked SIN 2" parentId="_KooD0IXPEeS_sOkeVG-YrA" page="447" verfuegbarkeit="6V" wertValue="2500" stufe="2" gefaelscht="true">
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </contracts>
+    <contracts xsi:type="shr5:Lizenz" xmi:id="_kJwAoOTlEe2EtdvPGzsRdw" name="Gun Licence 3" parentId="_B0mxcN0CEeOvVYoRsPZlnA" wertValue="800" stufe="3" gefaelscht="true" lizenGegenstand="Predator" lizenzTraeger="_qQxKPORoEe2EtdvPGzsRdw"/>
+    <contracts xsi:type="shr5:Lizenz" xmi:id="_kJwnsOTlEe2EtdvPGzsRdw" name="Driver Licence 3" parentId="_B02CAN0CEeOvVYoRsPZlnA" wertValue="800" stufe="3" gefaelscht="true" lizenGegenstand="Driver Licence" lizenzTraeger="_qQxKPORoEe2EtdvPGzsRdw"/>
+    <connections xmi:id="_qQxKPuRoEe2EtdvPGzsRdw" influence="2" loyality="2" character="_6rWakAR8Ee6fFtSBGWRFoA"/>
+    <connections xmi:id="_qQxKP-RoEe2EtdvPGzsRdw" influence="1" loyality="1" character="_gnAYoARgEe66EcT05mHZow"/>
+    <connections xmi:id="_qQxKQORoEe2EtdvPGzsRdw" influence="3" loyality="2" character="_7VNFcO9rEe2MboZfG-JfyQ"/>
+    <vehicels xsi:type="shr5:Bodenfahrzeug" xmi:id="_qQxKQeRoEe2EtdvPGzsRdw" beschreibung="Dies ist ein unverw&#xfc;stliches Gel&#xe4;ndemotorrad, das bei Motocrossrennen und anderen Extremsportevents genutzt wird. Foto- und Videoaufnahmen zeigen das Motorrad und seinen Fahrer meistens staub- und schlamm verkrustet. &#xA;Es ist beliebt bei Leuten, die nach einem Kick suchen, Wildnisfans und Drogenschmugglern, die nur wenig Frachtraum brauchen." name="Yamaha Growler (Off-Road Bike)" parentId="2df83d3e-78bb-4b42-b19f-78df8588e981" page="462" verfuegbarkeit="0" wertValue="5000" handling="4" geschwindigkeit="3" beschleunigung="1" rumpf="5" pilot="1" sensor="1" fahrzeugTyp="Bikes" panzer="5" sitze="1" handlingGelaende="5">
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </vehicels>
+    <nativeLanguage href="platform:/resource/shr5Resource/shr5-1.shr5#a72084f6-3a4c-4c23-82aa-4697e543ee0b"/>
+    <generatorSrc xsi:type="shr5mngt:Shr5Generator" xmi:id="_qQxKQuRoEe2EtdvPGzsRdw" character="_qQwi8ORoEe2EtdvPGzsRdw" state="commited" characterName="Leon Blumental (Trotz)">
+      <generator xsi:type="shr5mngt:Shr5System" href="platform:/resource/shr5Resource/shr5-1.shr5#_BssLkN0CEeOvVYoRsPZlnA"/>
+      <selectedGroup href="platform:/resource/shr5Resource/shr5-1.shr5#_QJXf0ONWEe2VhtFye-_2Dg"/>
+      <resourcen href="platform:/resource/shr5Resource/shr5-1.shr5#_BtL60N0CEeOvVYoRsPZlnA"/>
+      <skills href="platform:/resource/shr5Resource/shr5-1.shr5#_BtGbQt0CEeOvVYoRsPZlnA"/>
+      <attribute href="platform:/resource/shr5Resource/shr5-1.shr5#_Bs4Y0d0CEeOvVYoRsPZlnA"/>
+      <metaType href="platform:/resource/shr5Resource/shr5-1.shr5#_Bs3xwN0CEeOvVYoRsPZlnA"/>
+      <magic xsi:type="shr5mngt:Mudan" href="platform:/resource/shr5Resource/shr5-1.shr5#_BtNwAN0CEeOvVYoRsPZlnA"/>
+    </generatorSrc>
+    <diary xmi:id="_qQxKQ-RoEe2EtdvPGzsRdw"/>
+  </members>
+  <members xsi:type="shr5mngt:NonPlayerCharacter" xmi:id="_7VNFcO9rEe2MboZfG-JfyQ" chracterSource="_xXEoYO9rEe2MboZfG-JfyQ" sex="male">
+    <persona xsi:type="shr5:MudanPersona" xmi:id="_7VNFce9rEe2MboZfG-JfyQ" beschreibung="F&#xfc;r jemanden, den es offiziell eigentlich gar nicht gibt, kommt Mr. Johnson ganz sch&#xf6;n herum. Und das ist auch gut  so, denn ohne ihn w&#xe4;ren alle Shadowrunner arbeitslos. Er ist  das Bindeglied zwischen Schatten und Konzernen, und er ist  es auch, der alles ins Rollen bringt. Er ist derjenige, der sich  die Finger schmutzig macht, damit die Konzerne und Regierungen es nicht m&#xfc;ssen. Er sorgt f&#xfc;r das &#x201e;abstreitbar&#x201c; in &#x201e;abstreitbare Aktivposten&#x201c;.&#xA;Mr. Johnson f&#xfc;hrt die Vorbesprechung, heuert die Talente  an und zahlt f&#xfc;r die Ergebnisse. Er liefert Ihnen die Informationen, die Sie f&#xfc;r den Job, f&#xfc;r den er Sie anheuert, brauchen &#x2013;  oder zumindest die Informationen, von denen er glaubt, dass  Sie sie brauchen. Und er kann Ihnen manche der speziellen  Ausr&#xfc;stungsgegenst&#xe4;nde beschaffen, die Sie f&#xfc;r den Einsatz  ben&#xf6;tigen.&#xA;Er hat hervorragende Beziehungen und ein gutes Ged&#xe4;chtnis. Zwar steht er im Ruf, gerne seine freiberufichen Einsatzkr&#xe4;fte zu hintergehen, aber das ist gr&#xf6;&#xdf;tenteils nur eine urbane Legende. Wenn Sie ihn gut behandeln, wird er im Allgemeinen den Gefallen erwidern. Aber wenn Sie ihn &#xfc;bers  Ohr hauen, kann es leicht sein, dass Sie in nicht allzu ferner  Zukunft selbst zur Zielperson eines seiner Runs werden." name="trotz Schieber" edgeBasis="3" konstitutionBasis="3" geschicklichkeitBasis="3" reaktionBasis="3" staerkeBasis="3" charismaBasis="5" willenskraftBasis="4" intuitionBasis="5" logikBasis="4">
+      <fertigkeiten xmi:id="_aAFeYO9sEe2MboZfG-JfyQ" stufe="6">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#1c14bf0d-cc69-4126-9a95-1f2429c11aa5"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_d7x34O9sEe2MboZfG-JfyQ" stufe="4">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#9de43fad-b365-4e73-bc06-91dd571b858a"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_g4zCoO9sEe2MboZfG-JfyQ" stufe="7">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#b20acd11-f102-40f3-a641-e3c420fbdb91"/>
+        <spezialisierungen href="platform:/resource/shr5Resource/shr5-1.shr5#_EL-3iDnTEeSe6_w6Jrbqxg"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_k-EO4O9sEe2MboZfG-JfyQ" stufe="5">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#adf31a50-b228-4e09-a09c-46ab9f5e59a1"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_m7vcgO9sEe2MboZfG-JfyQ" stufe="4">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#6d7f48d3-84a1-4fce-90d3-58d566f70fa6"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_o6F_kO9sEe2MboZfG-JfyQ" stufe="8">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#729c9cee-ef8f-492d-aa7f-17ec1bc3816e"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_qufVYO9sEe2MboZfG-JfyQ" stufe="5">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#04e1eb3e-e82d-485b-a7fd-1e677df2a070"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_AWNEsO9tEe2MboZfG-JfyQ" stufe="5">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#b1d33738-a93a-46f3-a64a-0fc329ab1740"/>
+      </fertigkeiten>
+      <spezies href="platform:/resource/shr5Resource/shr5-1.shr5#a53d885d-a4a4-443d-b6a6-b0a55b0a96c7"/>
+    </persona>
+    <generatorSrc xsi:type="shr5mngt:FreeStyleGenerator" xmi:id="_xXEoYO9rEe2MboZfG-JfyQ" character="_7VNFcO9rEe2MboZfG-JfyQ" state="commited" characterName="Schieber">
+      <generator xsi:type="shr5mngt:FreeStyle" href="platform:/resource/shr5Resource/shr5-1.shr5#_BtTPkN0CEeOvVYoRsPZlnA"/>
+      <selectedGroup href="platform:/resource/shr5Resource/shr5-1.shr5#_CB_tQL9LEeS9maZrSgWaVQ"/>
+      <selectedSpecies href="platform:/resource/shr5Resource/shr5-1.shr5#a53d885d-a4a4-443d-b6a6-b0a55b0a96c7"/>
+      <selectedType href="http://urszeidler.de/shr5/1.0#//MudanPersona"/>
+    </generatorSrc>
+  </members>
+  <members xsi:type="shr5mngt:NonPlayerCharacter" xmi:id="_gnAYoARgEe66EcT05mHZow">
+    <persona xsi:type="shr5:MudanPersona" xmi:id="_gnAYoQRgEe66EcT05mHZow" beschreibung="Ein Barkeeper kennt jeden, und er kann einem verraten, wer  sich schon l&#xe4;nger nicht mehr hat blicken lassen, wessen Blagen jetzt schon wieder von zu Hause weggelaufen sind und  wessen Frau es mit dem Nachbarn treibt &#x2013; so gut wie alles,  was man m&#xf6;glicherweise wissen muss. Er kann einen auch  mit der &#xf6;rtlichen Ger&#xfc;chtek&#xfc;che in Kontakt bringen, und vielleicht wei&#xdf; er etwas potenziell Lukratives, das einer seiner  Kunden im Gin-Tonic-Rausch ausgeplaudert hat. Er kann Neulinge mit den Lieferanten verschiedenster Waren und Dienstleistungen zusammenbringen. Aber all das kostet nat&#xfc;rlich  etwas &#x2013; manchmal eine Bargeldspende, manchmal eine Lokalrunde, um die Stimmung zu heben.&#xA;Aber er ist auch f&#xfc;r seine Diskretion bekannt. Ohne wirklich  guten Grund wird er nichts weitererz&#xe4;hlen. Wie gesagt, er hat  seinen Preis &#x2013; aber in der Regel lohnt es sich, ihn (und manchmal auch seine G&#xe4;ste) bei Laune zu halten.&#xA; &#xA;&#xc4;hnliche Connections: Bar-/Nachtclub-Besitzer, Kellnerin, Rausschmei&#xdf;er, Stripperin Ein Barkeeper serviert Getr&#xe4;nke. " name="T&#xfc;rsteher" edgeBasis="2" konstitutionBasis="3" geschicklichkeitBasis="4" reaktionBasis="3" staerkeBasis="3" charismaBasis="4" willenskraftBasis="4" intuitionBasis="3" logikBasis="3">
+      <fertigkeiten xmi:id="_gnAYogRgEe66EcT05mHZow" stufe="6">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#b20acd11-f102-40f3-a641-e3c420fbdb91"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_gnA_sARgEe66EcT05mHZow" stufe="4">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#64088b25-de37-4d71-8800-4a430fde08af"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_gnA_sQRgEe66EcT05mHZow" stufe="5">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#729c9cee-ef8f-492d-aa7f-17ec1bc3816e"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_gnA_sgRgEe66EcT05mHZow" stufe="4">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#adf31a50-b228-4e09-a09c-46ab9f5e59a1"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_gnA_swRgEe66EcT05mHZow" stufe="4">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#4fcd40cb-4b02-4b7e-afcb-f44d46cd5706"/>
+      </fertigkeiten>
+      <spezies href="platform:/resource/shr5Resource/shr5-1.shr5#a53d885d-a4a4-443d-b6a6-b0a55b0a96c7"/>
+    </persona>
+  </members>
+  <members xsi:type="shr5mngt:NonPlayerCharacter" xmi:id="_6rWakAR8Ee6fFtSBGWRFoA" chracterSource="_6rWarAR8Ee6fFtSBGWRFoA" choosenLifestyle="_6rWaqgR8Ee6fFtSBGWRFoA">
+    <persona xsi:type="shr5:MudanPersona" xmi:id="_6rWakQR8Ee6fFtSBGWRFoA" image="/shr5Resource/images/ganger.png" name="Gangers &amp; street scum trotz" edgeBasis="2" konstitutionBasis="4" geschicklichkeitBasis="4" reaktionBasis="3" staerkeBasis="4" charismaBasis="3" willenskraftBasis="3" intuitionBasis="3" logikBasis="2">
+      <fertigkeiten xmi:id="_6rWakgR8Ee6fFtSBGWRFoA" stufe="4">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#48763fa5-4b89-48c7-80ff-d0a2761de4c0"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_6rWakwR8Ee6fFtSBGWRFoA" stufe="3">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#cd9f6bf7-fa48-464b-9a8f-c7ce26713a72"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_6rWalAR8Ee6fFtSBGWRFoA" stufe="3">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#b20acd11-f102-40f3-a641-e3c420fbdb91"/>
+        <spezialisierungen href="platform:/resource/shr5Resource/shr5-1.shr5#_EL_ekznTEeSe6_w6Jrbqxg"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_6rWalQR8Ee6fFtSBGWRFoA" stufe="4">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#9de43fad-b365-4e73-bc06-91dd571b858a"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_6rWalgR8Ee6fFtSBGWRFoA" stufe="4">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#adf31a50-b228-4e09-a09c-46ab9f5e59a1"/>
+      </fertigkeiten>
+      <fertigkeiten xmi:id="_6rWalwR8Ee6fFtSBGWRFoA" stufe="3">
+        <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#4fcd40cb-4b02-4b7e-afcb-f44d46cd5706"/>
+      </fertigkeiten>
+      <spezies href="platform:/resource/shr5Resource/shr5-1.shr5#a53d885d-a4a4-443d-b6a6-b0a55b0a96c7"/>
+      <eigenschaften xmi:id="_6rWamAR8Ee6fFtSBGWRFoA" name="Toughness" parentId="00cc6499-db13-447e-8116-278d317a9e31" page="77" karmaKosten="9">
+        <mods xmi:id="_6rWamQR8Ee6fFtSBGWRFoA" wert="1">
+          <attribut href="http://urszeidler.de/shr5/1.0#//ProbenModifikatoren/schadenswiederstand"/>
+        </mods>
+        <localizations xmi:id="_6rWamgR8Ee6fFtSBGWRFoA" local="de" name="Z&#xe4;higkeit"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </eigenschaften>
+    </persona>
+    <inventar xsi:type="shr5:Feuerwaffe" xmi:id="_6rWamwR8Ee6fFtSBGWRFoA" parentId="6fb39402-3ae3-4a21-9ed1-50b2c2e1b2c8" page="426" verfuegbarkeit="4R" wertValue="640" name="Browning Ultra-Power" schadenscode="8P" praezision="5" durchschlagsKraft="-1" munitionstyp="Streifen" kapazitaet="10">
+      <localizations xmi:id="_6rWanAR8Ee6fFtSBGWRFoA" local="de" name="Browning Ultra-Power"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <mods xmi:id="_6rWanQR8Ee6fFtSBGWRFoA" wert="1">
+        <attribut href="http://urszeidler.de/shr5/1.0#//FernkampfwaffenModifikatoren/lasterPointer"/>
+      </mods>
+      <reichweite href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFDsznTEeSe6_w6Jrbqxg"/>
+      <modie>HM</modie>
+      <erweiterung>Lauf</erweiterung>
+      <erweiterung>Oben</erweiterung>
+      <einbau xmi:id="_6rWangR8Ee6fFtSBGWRFoA" name="Laser Sight" parentId="521f9c2e-dfb2-42a6-b707-9808ae4885de" page="432">
+        <localizations xmi:id="_6rWanwR8Ee6fFtSBGWRFoA" local="de" name="Lasermarkierer"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </einbau>
+      <magazin xmi:id="_6rWaoAR8Ee6fFtSBGWRFoA" page="426" name="Browning Ultra-Power ammunition" type="_6rWamwR8Ee6fFtSBGWRFoA" bullets="_6rWapQR8Ee6fFtSBGWRFoA _6rWapQR8Ee6fFtSBGWRFoA _6rWapQR8Ee6fFtSBGWRFoA _6rWapQR8Ee6fFtSBGWRFoA _6rWapQR8Ee6fFtSBGWRFoA _6rWapQR8Ee6fFtSBGWRFoA _6rWapQR8Ee6fFtSBGWRFoA _6rWapQR8Ee6fFtSBGWRFoA _6rWapQR8Ee6fFtSBGWRFoA _6rWapQR8Ee6fFtSBGWRFoA">
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </magazin>
+    </inventar>
+    <inventar xsi:type="shr5:Nahkampfwaffe" xmi:id="_6rWaoQR8Ee6fFtSBGWRFoA" parentId="eb16de72-e646-4880-aa5b-21a5a0a2b342" page="422" verfuegbarkeit="0" wertValue="10" name="Knife" schadenscode="(STR+1)P" praezision="5" durchschlagsKraft="-1">
+      <localizations xmi:id="_6rWaogR8Ee6fFtSBGWRFoA" local="de" name="Messer"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#48763fa5-4b89-48c7-80ff-d0a2761de4c0"/>
+      <spezialisierung href="platform:/resource/shr5Resource/shr5-1.shr5#_EL5X8znTEeSe6_w6Jrbqxg"/>
+    </inventar>
+    <inventar xsi:type="shr5:Commlink" xmi:id="_6rWaowR8Ee6fFtSBGWRFoA" parentId="89a0f3c9-5ef6-41cd-981f-4ac690ee2ab3" page="438" verfuegbarkeit="2" wertValue="100" name="Meta Link" deviceRating="1">
+      <localizations xmi:id="_6rWapAR8Ee6fFtSBGWRFoA" local="de" name="Meta Link"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </inventar>
+    <inventar xsi:type="shr5:Munition" xmi:id="_6rWapQR8Ee6fFtSBGWRFoA" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Ammo: Regular Ammo" anzahl="30" proAnzahl="10">
+      <localizations xmi:id="_6rWapgR8Ee6fFtSBGWRFoA" local="de" name="Munition: Standardmunition"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFDsznTEeSe6_w6Jrbqxg"/>
+    </inventar>
+    <inventar xsi:type="shr5:SubstanceContainer" xmi:id="_6rWapwR8Ee6fFtSBGWRFoA" wertValue="0" name="bliss">
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <substance xsi:type="shr5:Drug" xmi:id="_6rWaqAR8Ee6fFtSBGWRFoA" name="Bliss" parentId="c01b24b0-ed09-4044-95ec-bc7628b10f5e" page="411" verfuegbarkeit="3F" wertValue="15" anzahl="2" proAnzahl="10">
+        <localizations xmi:id="_6rWaqQR8Ee6fFtSBGWRFoA" local="de" name="Bliss"/>
+        <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      </substance>
+    </inventar>
+    <contracts xsi:type="shr5:Lifestyle" xmi:id="_6rWaqgR8Ee6fFtSBGWRFoA" name="Street" parentId="c939f8e8-bee5-4d8a-b3c7-5be9d5f1f590" page="373" verfuegbarkeit="">
+      <localizations xmi:id="_6rWaqwR8Ee6fFtSBGWRFoA" local="de" name="Stra&#xdf;e"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+    </contracts>
+    <nativeLanguage href="platform:/resource/shr5Resource/shr5-1.shr5#907a3a8f-2c40-4543-a5a9-891bcde41f6b"/>
+    <generatorSrc xsi:type="shr5mngt:FreeStyleGenerator" xmi:id="_6rWarAR8Ee6fFtSBGWRFoA" character="_6rWakAR8Ee6fFtSBGWRFoA" state="commited" characterName="Gangers &amp; street scum">
+      <generator xsi:type="shr5mngt:FreeStyle" href="platform:/resource/shr5Resource/shr5-1.shr5#_BtTPkN0CEeOvVYoRsPZlnA"/>
+      <selectedGroup href="platform:/resource/shr5Resource/shr5-1.shr5#_B1HHwd0CEeOvVYoRsPZlnA"/>
+      <selectedSpecies href="platform:/resource/shr5Resource/shr5-1.shr5#a53d885d-a4a4-443d-b6a6-b0a55b0a96c7"/>
+      <selectedType href="http://urszeidler.de/shr5/1.0#//MudanPersona"/>
+    </generatorSrc>
+  </members>
+</shr5mngt:CharacterGroup>
