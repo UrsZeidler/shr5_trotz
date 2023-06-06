@@ -481,7 +481,7 @@
   <contracts xsi:type="shr5:Lizenz" xmi:id="_kJwnsOTlEe2EtdvPGzsRdw" name="Driver Licence 3" parentId="_B02CAN0CEeOvVYoRsPZlnA" wertValue="800" stufe="3" gefaelscht="true" lizenGegenstand="Driver Licence" lizenzTraeger="_qQxKPORoEe2EtdvPGzsRdw"/>
   <connections xmi:id="_qQxKPuRoEe2EtdvPGzsRdw" influence="2" loyality="2"/>
   <connections xmi:id="_qQxKP-RoEe2EtdvPGzsRdw" influence="1" loyality="1"/>
-  <connections xmi:id="_qQxKQORoEe2EtdvPGzsRdw" influence="3" loyality="1"/>
+  <connections xmi:id="_qQxKQORoEe2EtdvPGzsRdw" influence="3" loyality="2"/>
   <vehicels xsi:type="shr5:Bodenfahrzeug" xmi:id="_qQxKQeRoEe2EtdvPGzsRdw" beschreibung="Dies ist ein unverw&#xfc;stliches Gel&#xe4;ndemotorrad, das bei Motocrossrennen und anderen Extremsportevents genutzt wird. Foto- und Videoaufnahmen zeigen das Motorrad und seinen Fahrer meistens staub- und schlamm verkrustet. &#xA;Es ist beliebt bei Leuten, die nach einem Kick suchen, Wildnisfans und Drogenschmugglern, die nur wenig Frachtraum brauchen." name="Yamaha Growler (Off-Road Bike)" parentId="2df83d3e-78bb-4b42-b19f-78df8588e981" page="462" verfuegbarkeit="0" wertValue="5000" handling="4" geschwindigkeit="3" beschleunigung="1" rumpf="5" pilot="1" sensor="1" fahrzeugTyp="Bikes" panzer="5" sitze="1" handlingGelaende="5">
     <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
   </vehicels>
