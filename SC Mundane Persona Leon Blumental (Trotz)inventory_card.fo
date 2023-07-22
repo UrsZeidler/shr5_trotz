@@ -3297,6 +3297,74 @@
 		     <fo:table-row >
 		      <fo:table-cell  font-weight="bold">
 		       <fo:block >
+		 Slap Patch, Stim Patch</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="10">
+		      <fo:table-cell  >
+		       <fo:block >
+		Biotech</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row font-size="10">
+		      <fo:table-cell  >
+		       <fo:block >
+		Verfügbarkeit: Rating * 2 Wert: 150 ¥</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		
+				</fo:block  >
+		      </fo:table-cell>
+		     </fo:table-row>
+		   </fo:table-body>
+		   </fo:table>
+		  <fo:table  font-size="12">
+		    <fo:table-column />
+		    <fo:table-column />
+		    <fo:table-body  >
+		    <fo:table-row  >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
+		notes</fo:block>
+		      </fo:table-cell>
+		     <fo:table-cell text-align="center" >
+		       <fo:block  >
+		
+		       </fo:block >
+		    </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row font-size="10"   wrap-option="wrap">
+		      <fo:table-cell number-columns-spanned="2">
+		       <fo:block >
+		10x</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		    <fo:table-row font-size="9" font-style="italic"  >
+		      <fo:table-cell number-columns-spanned="2">
+		       <fo:block margin-top="1pt" >
+		Quellenbuch Shadowrun 5th Edition page 451</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		    </fo:table-body>
+		   </fo:table>
+				</fo:block  >
+		</fo:block-container>
+		
+		<fo:block-container   margin-top="2mm" keep-together.within-page="always" border-right-style="solid" 
+		  border-left-style="solid" border-top-color="rgb(0,0,0)" 
+		  border-bottom-style="solid" border-top-style="solid" 
+		  border-left-width="1pt" border-top-width="1pt" border-left-color="rgb(0,0,0)" 
+		  border-right-color="rgb(0,0,0)" border-bottom-color="rgb(0,0,0)" border-right-width="1pt"  >		
+			<fo:block >
+		 <fo:table  font-size="12">
+		    <fo:table-column  />
+		    <fo:table-body  >
+		     <fo:table-row >
+		      <fo:table-cell  font-weight="bold">
+		       <fo:block >
 		 Störsender, Area 4</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
@@ -4086,7 +4154,7 @@
 		     <fo:table-row font-size="9" >
 		      <fo:table-cell>
 		       <fo:block  >
-		   </fo:block>
+		   Dieses Zubehör schützt sowohl vor blendenden Lichtblitzen als auch vor einfachem blendendem Licht. Es verringert die Sichtmodifikatoren für blendendes Licht und senkt den Malus durch Blitzlichter, wie etwa durch ein Flash-Pack.</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
 		
@@ -4099,7 +4167,7 @@
 		     <fo:table-row font-size="9" >
 		      <fo:table-cell>
 		       <fo:block  >
-		   </fo:block>
+		   Dieses Zubehör erlaubt es einem, sogar dann noch normal zu sehen, wenn die einzige Lichtquelle die Sterne am Himmel sind. Es hilft allerdings nicht in totaler Dunkelheit.</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
 		
@@ -4112,7 +4180,7 @@
 		     <fo:table-row font-size="9" >
 		      <fo:table-cell>
 		       <fo:block  >
-		   </fo:block>
+		   Diese Sichtverstärkung ermöglicht das Sehen im infraroten Spektrum, wodurch man Hitzemuster erkennen kann. Das ist eine sehr praktische Methode, um Lebewesen in völliger Dunkelheit zu entdecken, um zu prüfen, ob ein Motor oder eine Maschine vor Kurzem gelaufen ist, und für ähnliche Zwecke.</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
 		
@@ -4505,7 +4573,9 @@
 		    <fo:table-row font-size="10"   wrap-option="wrap">
 		      <fo:table-cell number-columns-spanned="2">
 		       <fo:block >
-		</fo:block>
+		Für 6 Karma stört die Verpflichtung regelmäßig: Sie braucht regelmäßige Zuwendung, mischt sich ein oder lebt im selben Haushalt. Beispiele dafür sind Ehepartner oder Verwandte, die im selben Haushalt leben, Kinder mit geteiltem Sorgerecht,
+		die (jedes zweite Wochenende) betreut werden, Kleinkinder oder junge Geschwister, um die man sich kümmern muss. Die Lebensstilkosten des Charakters steigen um 20 %.
+		In diesem Falle handelt es sich um Trotz Mutter und die Gruppe der Anachisten der sie angehört.</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
 		    <fo:table-row font-size="9" font-style="italic"  >
@@ -5032,7 +5102,7 @@
 		     <fo:table-row>
 		      <fo:table-cell>
 		       <fo:block  >
-		Regular Ammo 600</fo:block>
+		Regular Ammo 800</fo:block>
 		      </fo:table-cell>
 		      <fo:table-cell>
 		       <fo:block  >
@@ -5499,7 +5569,7 @@
 		     <fo:table-row>
 		      <fo:table-cell>
 		       <fo:block  >
-		Regular Ammo 200</fo:block>
+		Regular Ammo 300</fo:block>
 		      </fo:table-cell>
 		      <fo:table-cell>
 		       <fo:block  >
@@ -6034,7 +6104,7 @@
 		     <fo:table-row>
 		      <fo:table-cell>
 		       <fo:block  >
-		Regular Ammo 400</fo:block>
+		Regular Ammo 500</fo:block>
 		      </fo:table-cell>
 		      <fo:table-cell>
 		       <fo:block  >

@@ -306,17 +306,17 @@
         <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       </magazin>
     </inventar>
-    <inventar xsi:type="shr5:Munition" xmi:id="_qQxKBuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="200" proAnzahl="10">
+    <inventar xsi:type="shr5:Munition" xmi:id="_qQxKBuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="300" proAnzahl="10">
       <localizations xmi:id="_qQxKB-RoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFDsznTEeSe6_w6Jrbqxg"/>
     </inventar>
-    <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCORoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="400" proAnzahl="10">
+    <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCORoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="500" proAnzahl="10">
       <localizations xmi:id="_qQxKCeRoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwTnTEeSe6_w6Jrbqxg"/>
     </inventar>
-    <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="600" proAnzahl="10">
+    <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="800" proAnzahl="10">
       <localizations xmi:id="_qQxKC-RoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwjnTEeSe6_w6Jrbqxg"/>
@@ -426,17 +426,17 @@
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwjnTEeSe6_w6Jrbqxg"/>
     </inventar>
-    <inventar xsi:type="shr5:Munition" xmi:id="_oqmkcAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Ammo: Explosive Rounds" anzahl="50" proAnzahl="10" damageMod="1" armorMod="-1">
+    <inventar xsi:type="shr5:Munition" xmi:id="_oqmkcAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Ammo: Explosive Rounds" anzahl="100" proAnzahl="10" damageMod="1" armorMod="-1">
       <localizations xmi:id="_oqmkcQPYEe6SQ9KwvYZQrA" local="de" name="Munition: Explosivgeschosse"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwTnTEeSe6_w6Jrbqxg"/>
     </inventar>
-    <inventar xsi:type="shr5:Munition" xmi:id="_oqnLgAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Explosive Rounds" anzahl="50" proAnzahl="10" damageMod="1" armorMod="-1">
+    <inventar xsi:type="shr5:Munition" xmi:id="_oqnLgAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Explosive Rounds" anzahl="100" proAnzahl="10" damageMod="1" armorMod="-1">
       <localizations xmi:id="_oqnLgQPYEe6SQ9KwvYZQrA" local="de" name="Munition: Explosivgeschosse"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFDsznTEeSe6_w6Jrbqxg"/>
     </inventar>
-    <inventar xsi:type="shr5:Munition" xmi:id="_oqoZoAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Explosive Rounds" anzahl="100" proAnzahl="10" damageMod="1" armorMod="-1">
+    <inventar xsi:type="shr5:Munition" xmi:id="_oqoZoAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" verfuegbarkeit="9F" wertValue="80" name="Explosive Rounds" anzahl="200" proAnzahl="10" damageMod="1" armorMod="-1">
       <localizations xmi:id="_oqoZoQPYEe6SQ9KwvYZQrA" local="de" name="Munition: Explosivgeschosse"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwjnTEeSe6_w6Jrbqxg"/>
@@ -463,7 +463,11 @@
     </inventar>
     <inventar xsi:type="shr5:Magazin" xmi:id="_rhfKoAPbEe6ry676G8SKSw" parentId="_PErXUD_REeSRYrHAmMULWA" page="433" verfuegbarkeit="4" wertValue="5" name="Spare Clip">
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
-      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_RKUwxu8dEe2z9bAoVYduZw"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_6j4LkJK4EeSxvrTnLBRm7A"/>
+    </inventar>
+    <inventar xsi:type="shr5:Gegenstand" xmi:id="_kLG4kCfuEe6qXpPvoYg_BQ" parentId="320bd9e3-e261-4a45-aa03-c740b6855e73" page="451" verfuegbarkeit="Rating * 2" wertValue="150" beschreibung="10x" name="Stim Patch" kategorie="Biotech" stufe="6">
+      <localizations xmi:id="_kLG4kSfuEe6qXpPvoYg_BQ" local="de" name="Slap Patch, Stim Patch"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
     </inventar>
     <contracts xsi:type="shr5:Lifestyle" xmi:id="_qQxKOeRoEe2EtdvPGzsRdw" name="Middle" parentId="90f6f4c2-9968-42e1-ba79-e2bf530de32e" page="373" verfuegbarkeit="" wertValue="5000" faelligkeitsIntervall="1" unit="month">
       <localizations xmi:id="_qQxKOuRoEe2EtdvPGzsRdw" local="de" name="Mittelschicht"/>
