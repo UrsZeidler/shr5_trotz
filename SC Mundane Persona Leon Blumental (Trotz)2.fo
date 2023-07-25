@@ -12,12 +12,17 @@
 	<fo:layout-master-set>
 		<fo:simple-page-master page-height="297mm"
 			master-name="A4_210_x_297_mm" page-width="210mm">
-			<fo:region-body margin-left="10mm" background-color="transparent"
-				region-name="xsl-region-body" margin-bottom="15mm" margin-top="10mm"
-				margin-right="10mm" />
 
-
+			<fo:region-body margin-left="15mm" 
+				region-name="xsl-region-body" margin-bottom="15mm" margin-top="15mm"
+				margin-right="5mm" />
+                    <fo:region-before region-name="kopf" extent="25mm" />
             <fo:region-after region-name="xsl-region-after"  extent="15mm"/>
+                    <fo:region-start extent="25mm"  />
+                    <fo:region-end extent="15mm" />
+
+
+
 
 		</fo:simple-page-master>
 	</fo:layout-master-set>
@@ -126,7 +131,7 @@ Weight</fo:block>
 <fo:block  >
 <fo:leader 
 	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
+	rule-style="solid" rule-thickness="0.5px"/>
 </fo:block>
       </fo:table-cell>
     </fo:table-row >
@@ -207,7 +212,7 @@ Lifting/Carrying</fo:block>
 <fo:block  >
 <fo:leader 
 	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
+	rule-style="solid" rule-thickness="0.5px"/>
 </fo:block>
       </fo:table-cell>
     </fo:table-row >
@@ -439,7 +444,7 @@ Essenz</fo:block>
       </fo:table-cell> 
       <fo:table-cell>
        <fo:block  >
-1.25</fo:block>
+1.5</fo:block>
       </fo:table-cell>
     </fo:table-row >
 
@@ -448,7 +453,7 @@ Essenz</fo:block>
 <fo:block  >
 <fo:leader 
 	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
+	rule-style="solid" rule-thickness="0.5px"/>
 </fo:block>
       </fo:table-cell>
     </fo:table-row >
@@ -468,7 +473,7 @@ Initative</fo:block>
 <fo:block  >
 <fo:leader 
 	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
+	rule-style="solid" rule-thickness="0.5px"/>
 </fo:block>
       </fo:table-cell>
     </fo:table-row >
@@ -1113,19 +1118,19 @@ Contacts</fo:block></fo:block>
     <fo:table-row>
       <fo:table-cell number-columns-spanned="2">
        <fo:block  >
-  unset [2/2]</fo:block>
+ NSC Mundane Persona Gangers &amp; street scum trotz [2/2]</fo:block>
       </fo:table-cell>
    </fo:table-row>
     <fo:table-row>
       <fo:table-cell number-columns-spanned="2">
        <fo:block  >
-  unset [1/1]</fo:block>
+ NSC Mundane Persona Türsteher [1/1]</fo:block>
       </fo:table-cell>
    </fo:table-row>
     <fo:table-row>
       <fo:table-cell number-columns-spanned="2">
        <fo:block  >
-  unset [3/1]</fo:block>
+ NSC Mundane Persona trotz Schieber [3/2]</fo:block>
       </fo:table-cell>
    </fo:table-row>
    </fo:table-body>
@@ -1178,7 +1183,7 @@ Eigenschaften</fo:block></fo:block>
     <fo:table-row>
       <fo:table-cell number-columns-spanned="2">
        <fo:block  >
- Allergie (selten, leicht)</fo:block>
+ Verpflichtung (unangenehm)</fo:block>
       </fo:table-cell>
    </fo:table-row>
    </fo:table-body>
@@ -1207,31 +1212,11 @@ Eigenschaften</fo:block></fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Essenz</fo:block>
+Schadenswiederstand</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
--475</fo:block>
-      </fo:table-cell>
-   </fo:table-row>
-    <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Panzer</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-5</fo:block>
-      </fo:table-cell>
-   </fo:table-row>
-    <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Geschicklichkeit</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-2</fo:block>
+3</fo:block>
       </fo:table-cell>
    </fo:table-row>
     <fo:table-row>
@@ -1247,21 +1232,11 @@ Restlichtverstaerkung</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Infrarot</fo:block>
+Eigenschaften Bewegungstalent</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-1</fo:block>
-      </fo:table-cell>
-   </fo:table-row>
-    <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Stärke</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-2</fo:block>
+4</fo:block>
       </fo:table-cell>
    </fo:table-row>
     <fo:table-row>
@@ -1277,7 +1252,7 @@ Initativ Wuerfel</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Reaktion</fo:block>
+Heilung</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -1287,17 +1262,7 @@ Reaktion</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Schadenswiederstand</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-3</fo:block>
-      </fo:table-cell>
-   </fo:table-row>
-    <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Eigenschaften Bewegungstalent</fo:block>
+Panzer</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -1307,7 +1272,47 @@ Eigenschaften Bewegungstalent</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Heilung</fo:block>
+Geschicklichkeit</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Essenz</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+-450</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Stärke</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+2</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Infrarot</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+1</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Reaktion</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -1821,7 +1826,7 @@ extrem</fo:block>
 <fo:block  >
 <fo:leader 
 	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
+	rule-style="solid" rule-thickness="0.5px"/>
 </fo:block>
       </fo:table-cell>
     </fo:table-row >
@@ -2110,7 +2115,7 @@ extrem</fo:block>
 <fo:block  >
 <fo:leader 
 	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
+	rule-style="solid" rule-thickness="0.5px"/>
 </fo:block>
       </fo:table-cell>
     </fo:table-row >
@@ -2524,7 +2529,7 @@ extrem</fo:block>
 <fo:block  >
 <fo:leader 
 	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
+	rule-style="solid" rule-thickness="0.5px"/>
 </fo:block>
       </fo:table-cell>
     </fo:table-row >
@@ -2645,7 +2650,7 @@ extrem</fo:block>
 <fo:block  >
 <fo:leader 
 	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
+	rule-style="solid" rule-thickness="0.5px"/>
 </fo:block>
       </fo:table-cell>
     </fo:table-row >
@@ -2766,7 +2771,7 @@ extrem</fo:block>
 <fo:block  >
 <fo:leader 
 	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
+	rule-style="solid" rule-thickness="0.5px"/>
 </fo:block>
       </fo:table-cell>
     </fo:table-row >
@@ -2863,7 +2868,7 @@ reach</fo:block>
 <fo:block  >
 <fo:leader 
 	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
+	rule-style="solid" rule-thickness="0.5px"/>
 </fo:block>
       </fo:table-cell>
     </fo:table-row >
@@ -2939,7 +2944,7 @@ reach</fo:block>
 <fo:block  >
 <fo:leader 
 	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
+	rule-style="solid" rule-thickness="0.5px"/>
 </fo:block>
       </fo:table-cell>
     </fo:table-row >
@@ -3019,6 +3024,42 @@ Streifen Ares Alpha (0/42)</fo:block>
       <fo:table-cell number-columns-spanned="2">
        <fo:block  >
 Streifen Ares Predator V (0/15)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ingram Smartgun X (0/32)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ares Predator V (0/15)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ares Predator V (0/15)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ares Alpha (0/42)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ares Alpha (0/42)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ingram Smartgun X (0/32)</fo:block>
       </fo:table-cell>
    </fo:table-row>
     <fo:table-row>
@@ -3266,7 +3307,7 @@ Panzer</fo:block>
 <fo:block  >
 <fo:leader 
 	leader-pattern="rule" leader-length.optimum="100%"
-	rule-style="solid" rule-thickness="1px"/>
+	rule-style="solid" rule-thickness="0.5px"/>
 </fo:block>
       </fo:table-cell>
     </fo:table-row >
@@ -3359,11 +3400,11 @@ Bioware Muskelstraffung 2</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Bioware Orthoskin 3</fo:block>
+Bioware Orthoskin 2</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
--0.75</fo:block>
+-0.5</fo:block>
       </fo:table-cell>
    </fo:table-row>
     <fo:table-row>
@@ -3593,6 +3634,42 @@ Streifen Ares Alpha (0/42)</fo:block>
       <fo:table-cell number-columns-spanned="2">
        <fo:block  >
 Streifen Ares Predator V (0/15)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ingram Smartgun X (0/32)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ares Predator V (0/15)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ares Predator V (0/15)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ares Alpha (0/42)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ares Alpha (0/42)</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Streifen Ingram Smartgun X (0/32)</fo:block>
       </fo:table-cell>
    </fo:table-row>
     <fo:table-row>

@@ -1,0 +1,85 @@
+[b]Basic Data[/b]
+Name: [i]Gangers & street scum trotz[/i]  Geschlecht : [i]weiblich[/i]
+Spezies: [i]Human[/i] Type: [i]Mundane Persona[/i]
+
+
+Muttersprache: Sprachfertigkeit Englisch
+Date of birth: unset
+Karma erworben: 0  Momentanes Karma: 0
+Straßen Ruf: 0  Schlechter Ruf: 0
+Height: 0 cm  Weight: 0 kg
+
+[b]Attributes[/b]
+Konstitution................... 4
+Geschicklichkeit............... 4
+Reaktion....................... 3
+Stärke......................... 4
+Willenskraft................... 3
+Logik.......................... 2
+Intuition...................... 3
+Charisma....................... 3
+Edge........................... 2
+
+Essenz......................... 6.0
+Initative...................... 6+1w6
+Condition...................... 10/10
+Panzer......................... 0
+Selbstbeherrschung............. 6
+Menschenkenntnis............... 6
+Errinerungsvermoegen........... 5
+Lifting/Carrying............... 60/40
+Movement....................... 8/16/2
+
+Limits
+Koerperlich 5 / Geistig 4 / Sozial 5
+
+[b]Fertigkeits Gruppen[/b]
+
+
+[b]Fertigkeite[/b]
+Fertigkeit Klingenwaffen....... 4
+Fertigkeit Knüppel............. 3
+Fertigkeit Gebräuche........... 3
+Fertigkeit Einschüchtern....... 4
+Fertigkeit Pistolen............ 4
+Fertigkeit Waffenloser Kampf... 3
+
+
+[b]Knowledge Skills[/b]
+
+
+
+[b]Eigenschaften[/b]
+Eigenschaften Zähigkeit........9
+
+sum :..........................9
+
+
+[b]Inventar[/b]
+Feuerwaffe Browning Ultra-Power 640 ¥
+Nahkampfwaffe Messer........... 10 ¥
+Kommlink Meta Link............. 100 ¥
+
+Munition: Standardmunition (Reichweite Schwere Pisolen) 30 60 ¥
+Substanzbehälter bliss......... 0 ¥
+
+sum :.......................... 810
+
+[b]Vertäge[/b]
+Lifestyle Straße...............  ¥/0 ¥
+
+
+sum :.......................... 0
+
+
+
+
+
+[b]Notes[/b]
+
+
+
+
+[b]Credsticks[/b]
+
+

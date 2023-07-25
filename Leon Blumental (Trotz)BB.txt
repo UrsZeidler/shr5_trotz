@@ -20,10 +20,10 @@ Intuition...................... 5
 Charisma....................... 1
 Edge........................... 5
 
-Essenz......................... 1.25
+Essenz......................... 1.5
 Initative...................... 12+3w6
 Condition...................... 10/9
-Panzer......................... 5
+Panzer......................... 4
 Selbstbeherrschung............. 3
 Menschenkenntnis............... 6
 Errinerungsvermoegen........... 4
@@ -71,9 +71,9 @@ Eigenschaften Zähigkeit........9
 Eigenschaften Beidhändigkeit...4
 Eigenschaften Bewegungstalent..7
 Eigenschaften Schnellheilung...3
-Eigenschaften Allergie (selten, leicht)-5
+Eigenschaften Verpflichtung (unangenehm)-6
 
-sum :..........................18
+sum :..........................17
 [b]Körper Mods[/b]
 Bioware Synapsenbeschleuniger 2190000
 Cyberware Smartlink, Smartgunverbindung4000
@@ -81,11 +81,11 @@ Bioware Schadenskompensator 4..8000
 Cyberware Kompositknochen (Aluminium)18000
 Bioware Muskelverstärkung 2....62000
 Bioware Muskelstraffung 2......64000
-Bioware Orthoskin 3............18000
+Bioware Orthoskin 2............12000
 Bioware Thrombozytenfabrik.....17000
 Cyberware Cyberaugen-Basissystem 324000
 
-sum :..........................405.000
+sum :..........................399.000
 
 [b]Inventar[/b]
 Nahkampfwaffe Katana........... 1.000 ¥
@@ -99,9 +99,9 @@ Nahkampfwaffe Überlebensmesser 100 ¥
 Feuerwaffe Ares Alpha.......... 2.650 ¥
 Feuerwaffe Ares Predator V..... 725 ¥
 Feuerwaffe Ingram Smartgun X... 800 ¥
-Munition: Standardmunition (Reichweite Schwere Pisolen) 200 400 ¥
-Munition: Standardmunition (Reichweite Submachine Guns) 200 400 ¥
-Munition: Standardmunition (Reichweite Assault Rifles) 200 400 ¥
+Munition: Standardmunition (Reichweite Schwere Pisolen) 300 600 ¥
+Munition: Standardmunition (Reichweite Submachine Guns) 500 1.000 ¥
+Munition: Standardmunition (Reichweite Assault Rifles) 800 1.600 ¥
 Granate Schockgranate [10]..... 1.000 ¥
 Granate Granate: IR-Rauch [10] 600 ¥
 Gegenstand Suvival-Kiste....... 200 ¥
@@ -124,8 +124,21 @@ Gegenstand Endoskop............ 250 ¥
 Gegenstand Myomerisches Seil  (10m) 200 ¥
 Gegenstand Medkit 6............ 1.500 ¥
 Gegenstand Medkit-Nachfüllpack 100 ¥
+Munition: Gelgeschosse (Reichweite Schwere Pisolen) 50 125 ¥
+Munition: Gelgeschosse (Reichweite Submachine Guns) 100 250 ¥
+Munition: Gelgeschosse (Reichweite Assault Rifles) 150 375 ¥
+Munition: Explosivgeschosse (Reichweite Submachine Guns) 100 800 ¥
+Munition: Explosivgeschosse (Reichweite Schwere Pisolen) 100 800 ¥
+Munition: Explosivgeschosse (Reichweite Assault Rifles) 200 1.600 ¥
+Streifen Ares Predator V (0/15) 5 ¥
+Streifen Ares Predator V (0/15) 5 ¥
+Streifen Ares Alpha (0/42)..... 5 ¥
+Streifen Ares Alpha (0/42)..... 5 ¥
+Streifen Ingram Smartgun X (0/32) 5 ¥
+Streifen Ingram Smartgun X (0/32) 5 ¥
+Gegenstand Slap Patch, Stim Patch 150 ¥
 
-sum :.......................... 17.055
+sum :.......................... 23.185
 
 [b]Vertäge[/b]
 Lifestyle Mittelschicht........ 5.000 ¥/5.500 ¥
@@ -143,9 +156,9 @@ Lizenz Driver Licence 3........ 2.400 ¥
 sum :.......................... 22.800
 
 [b]Connections[/b]
-Connection  unset [2/2]........  2/2
-Connection  unset [1/1]........  1/1
-Connection  unset [3/1]........  3/1
+Connection NSC Mundane Persona Gangers & street scum trotz [2/2]  2/2
+Connection NSC Mundane Persona Türsteher [1/1]  1/1
+Connection NSC Mundane Persona trotz Schieber [3/2]  3/2
 
 
 [b]Fahrzeuge[/b]
@@ -222,6 +235,8 @@ Myomeric Rope (10m)
 [i]Dieses Seil besteht aus einer speziellen Myomerfaser und kann (bis zu einer maximalen Länge von 30 Metern) ferngesteuert bewegt werden. Zum Beispiel kann man es sich wie eine Schlange um ein Hindernis winden oder sich an einen Vorsprung binden lassen. Das Seil bewegt sich mit einer Rate von 2 Metern pro Kampfrunde.[/i]
 Medkit 6
 [i]Das Medkit enthält Medikamente, Verbände, Werkzeuge und ein (redseliges) Arzt-Expertensystem, das den Nutzer bezüglich der Behandlung der gängigsten medizinischen Notfälle (einschließlich Knochenbrüchen, Schusswunden, chemischen Wunden und Vergiftung sowie der Be-[/i]
+Stim Patch
+[i]10x[/i]
 Yamaha Growler (Off-Road Bike)
 [i]Dies ist ein unverwüstliches Geländemotorrad, das bei Motocrossrennen und anderen Extremsportevents genutzt wird. Foto- und Videoaufnahmen zeigen das Motorrad und seinen Fahrer meistens staub- und schlamm verkrustet. 
 Es ist beliebt bei Leuten, die nach einem Kick suchen, Wildnisfans und Drogenschmugglern, die nur wenig Frachtraum brauchen.[/i]

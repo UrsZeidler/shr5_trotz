@@ -1,0 +1,73 @@
+[b]Basic Data[/b]
+Name: [i]Türsteher[/i]  Geschlecht : [i]weiblich[/i]
+Spezies: [i]Human[/i] Type: [i]Mundane Persona[/i]
+
+[quote]Ein Barkeeper kennt jeden, und er kann einem verraten, wer  sich schon länger nicht mehr hat blicken lassen, wessen Blagen jetzt schon wieder von zu Hause weggelaufen sind und  wessen Frau es mit dem Nachbarn treibt – so gut wie alles,  was man möglicherweise wissen muss. Er kann einen auch  mit der örtlichen Gerüchteküche in Kontakt bringen, und vielleicht weiß er etwas potenziell Lukratives, das einer seiner  Kunden im Gin-Tonic-Rausch ausgeplaudert hat. Er kann Neulinge mit den Lieferanten verschiedenster Waren und Dienstleistungen zusammenbringen. Aber all das kostet natürlich  etwas – manchmal eine Bargeldspende, manchmal eine Lokalrunde, um die Stimmung zu heben.
+Aber er ist auch für seine Diskretion bekannt. Ohne wirklich  guten Grund wird er nichts weitererzählen. Wie gesagt, er hat  seinen Preis – aber in der Regel lohnt es sich, ihn (und manchmal auch seine Gäste) bei Laune zu halten.
+ 
+Ähnliche Connections: Bar-/Nachtclub-Besitzer, Kellnerin, Rausschmeißer, Stripperin Ein Barkeeper serviert Getränke. [/quote]
+
+Muttersprache: 
+Date of birth: unset
+Karma erworben: 0  Momentanes Karma: 0
+Straßen Ruf: 0  Schlechter Ruf: 0
+Height: 0 cm  Weight: 0 kg
+
+[b]Attributes[/b]
+Konstitution................... 3
+Geschicklichkeit............... 4
+Reaktion....................... 3
+Stärke......................... 3
+Willenskraft................... 4
+Logik.......................... 3
+Intuition...................... 3
+Charisma....................... 4
+Edge........................... 2
+
+Essenz......................... 6.0
+Initative...................... 6+1w6
+Condition...................... 10/10
+Panzer......................... 0
+Selbstbeherrschung............. 8
+Menschenkenntnis............... 7
+Errinerungsvermoegen........... 7
+Lifting/Carrying............... 45/30
+Movement....................... 8/16/2
+
+Limits
+Koerperlich 4 / Geistig 5 / Sozial 6
+
+[b]Fertigkeits Gruppen[/b]
+
+
+[b]Fertigkeite[/b]
+Fertigkeit Gebräuche........... 6
+Fertigkeit Gewehre............. 4
+Fertigkeit Verhandlung......... 5
+Fertigkeit Pistolen............ 4
+Fertigkeit Waffenloser Kampf... 4
+
+
+[b]Knowledge Skills[/b]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[b]Notes[/b]
+
+
+
+
+[b]Credsticks[/b]
+
+

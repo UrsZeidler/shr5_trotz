@@ -1,0 +1,75 @@
+[b]Basic Data[/b]
+Name: [i]trotz Schieber[/i]  Geschlecht : [i]männlich[/i]
+Spezies: [i]Human[/i] Type: [i]Mundane Persona[/i]
+
+[quote]Für jemanden, den es offiziell eigentlich gar nicht gibt, kommt Mr. Johnson ganz schön herum. Und das ist auch gut  so, denn ohne ihn wären alle Shadowrunner arbeitslos. Er ist  das Bindeglied zwischen Schatten und Konzernen, und er ist  es auch, der alles ins Rollen bringt. Er ist derjenige, der sich  die Finger schmutzig macht, damit die Konzerne und Regierungen es nicht müssen. Er sorgt für das „abstreitbar“ in „abstreitbare Aktivposten“.
+Mr. Johnson führt die Vorbesprechung, heuert die Talente  an und zahlt für die Ergebnisse. Er liefert Ihnen die Informationen, die Sie für den Job, für den er Sie anheuert, brauchen –  oder zumindest die Informationen, von denen er glaubt, dass  Sie sie brauchen. Und er kann Ihnen manche der speziellen  Ausrüstungsgegenstände beschaffen, die Sie für den Einsatz  benötigen.
+Er hat hervorragende Beziehungen und ein gutes Gedächtnis. Zwar steht er im Ruf, gerne seine freiberufichen Einsatzkräfte zu hintergehen, aber das ist größtenteils nur eine urbane Legende. Wenn Sie ihn gut behandeln, wird er im Allgemeinen den Gefallen erwidern. Aber wenn Sie ihn übers  Ohr hauen, kann es leicht sein, dass Sie in nicht allzu ferner  Zukunft selbst zur Zielperson eines seiner Runs werden.[/quote]
+
+Muttersprache: 
+Date of birth: unset
+Karma erworben: 0  Momentanes Karma: 0
+Straßen Ruf: 0  Schlechter Ruf: 0
+Height: 0 cm  Weight: 0 kg
+
+[b]Attributes[/b]
+Konstitution................... 3
+Geschicklichkeit............... 3
+Reaktion....................... 3
+Stärke......................... 3
+Willenskraft................... 4
+Logik.......................... 4
+Intuition...................... 5
+Charisma....................... 5
+Edge........................... 3
+
+Essenz......................... 6.0
+Initative...................... 8+1w6
+Condition...................... 10/10
+Panzer......................... 0
+Selbstbeherrschung............. 9
+Menschenkenntnis............... 10
+Errinerungsvermoegen........... 8
+Lifting/Carrying............... 45/30
+Movement....................... 6/12/2
+
+Limits
+Koerperlich 4 / Geistig 6 / Sozial 7
+
+[b]Fertigkeits Gruppen[/b]
+
+
+[b]Fertigkeite[/b]
+Fertigkeit Computer............ 6
+Fertigkeit Einschüchtern....... 4
+Fertigkeit Gebräuche........... 7
+Fertigkeit Pistolen............ 5
+Fertigkeit Überreden........... 4
+Fertigkeit Verhandlung......... 8
+Fertigkeit Wahrnehmung......... 5
+
+
+[b]Knowledge Skills[/b]
+Wissensfertigkeit Wirtschaft... 5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[b]Notes[/b]
+
+
+
+
+[b]Credsticks[/b]
+
+
