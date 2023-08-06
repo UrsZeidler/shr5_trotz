@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <shr5mngt:CharacterGroup xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:shr5="http://urszeidler.de/shr5/1.0" xmlns:shr5mngt="http://urszeidler.de/shr5mngt/1.0" xmi:id="_DATO8ARfEe66EcT05mHZow" name="trotz's netz">
-  <members xsi:type="shr5mngt:PlayerCharacter" xmi:id="_qQwi8ORoEe2EtdvPGzsRdw" chracterSource="_qQxKQuRoEe2EtdvPGzsRdw" choosenLifestyle="_qQxKOeRoEe2EtdvPGzsRdw" sex="male" height="185" dateofbirth="2045-05-09T22:07:08.886+0200" weight="91">
+  <members xsi:type="shr5mngt:PlayerCharacter" xmi:id="_qQwi8ORoEe2EtdvPGzsRdw" chracterSource="_qQxKQuRoEe2EtdvPGzsRdw" choosenLifestyle="_qQxKOeRoEe2EtdvPGzsRdw" sex="male" height="185" dateofbirth="2040-08-20T22:07:08.886+0200" weight="91">
     <persona xsi:type="shr5:MudanPersona" xmi:id="_qQwi8eRoEe2EtdvPGzsRdw" image="/home/urs/Downloads/myJ1YCBY.jpeg" name="Leon Blumental (Trotz)" edgeBasis="5" konstitutionBasis="4" geschicklichkeitBasis="6" reaktionBasis="5" staerkeBasis="3" charismaBasis="1" willenskraftBasis="2" intuitionBasis="5" logikBasis="2">
       <fertigkeiten xmi:id="_qQwi8uRoEe2EtdvPGzsRdw" stufe="5">
         <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#48763fa5-4b89-48c7-80ff-d0a2761de4c0"/>
@@ -215,6 +215,7 @@
         <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       </eigenschaften>
     </persona>
+    <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_f9gG4C_JEe6Yv_QOTV_JWQ" date="2064-11-02T17:51:44.000+0100" changeApplied="true" dateApplied="2023-07-31T19:42:07.818+0200" karma="3"/>
     <inventar xsi:type="shr5:Nahkampfwaffe" xmi:id="_qQwjReRoEe2EtdvPGzsRdw" parentId="8f266b4c-4035-4ba3-aa89-3289d0f42ce1" page="422" verfuegbarkeit="9R" wertValue="1000" beschreibung="Das legend&#xe4;re zweih&#xe4;ndige Schwert der Samurai.&#xA;Das Katana ist nicht nur zum Synonym f&#xfc;r Stra&#xdf;ensamurais, sondern sogar f&#xfc;r Shadowrunner im Allgemeinen geworden, zumindest in den Trids: Jeder hat dort ein Katana, vom Dekker bis zum Magier. Aber nur weil diese Waffe ein bl&#xf6;des Klischee ist, macht sie das nicht weniger gef&#xe4;hrlich oder weniger hilfreich in einem Kampf." image="/shr5Resource/images/katana.png" name="Katana" schadenscode="(STR+3)P" praezision="7" durchschlagsKraft="-3" reichweite="1">
       <localizations xmi:id="_qQwjRuRoEe2EtdvPGzsRdw" local="de" name="Katana"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
@@ -469,6 +470,19 @@
       <localizations xmi:id="_kLG4kSfuEe6qXpPvoYg_BQ" local="de" name="Slap Patch, Stim Patch"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
     </inventar>
+    <inventar xsi:type="shr5:Munition" xmi:id="_gL-h0DQpEe6woufsDo9wGQ" parentId="ef9c8aae-26df-4fe6-88b3-79fbb5eb77c5" page="434" verfuegbarkeit="12F" wertValue="120" name="APDS" anzahl="30" proAnzahl="10" armorMod="-4">
+      <localizations xmi:id="_gL-h0TQpEe6woufsDo9wGQ" local="de" name="Munition: APDS"/>
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFDsznTEeSe6_w6Jrbqxg"/>
+    </inventar>
+    <inventar xsi:type="shr5:Magazin" xmi:id="_vQg4ADQpEe6woufsDo9wGQ" parentId="_kfiKtJH0EeSAavuXEODnew" page="426" name="Spare Clip">
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_JoEq4FDLEeSjN8rIya5QCA"/>
+    </inventar>
+    <inventar xsi:type="shr5:Magazin" xmi:id="_vQitMDQpEe6woufsDo9wGQ" parentId="_kfiKtJH0EeSAavuXEODnew" page="426" name="Spare Clip">
+      <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_JoEq4FDLEeSjN8rIya5QCA"/>
+    </inventar>
     <contracts xsi:type="shr5:Lifestyle" xmi:id="_qQxKOeRoEe2EtdvPGzsRdw" name="Middle" parentId="90f6f4c2-9968-42e1-ba79-e2bf530de32e" page="373" verfuegbarkeit="" wertValue="5000" faelligkeitsIntervall="1" unit="month">
       <localizations xmi:id="_qQxKOuRoEe2EtdvPGzsRdw" local="de" name="Mittelschicht"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
@@ -500,7 +514,9 @@
       <metaType href="platform:/resource/shr5Resource/shr5-1.shr5#_Bs3xwN0CEeOvVYoRsPZlnA"/>
       <magic xsi:type="shr5mngt:Mudan" href="platform:/resource/shr5Resource/shr5-1.shr5#_BtNwAN0CEeOvVYoRsPZlnA"/>
     </generatorSrc>
-    <diary xmi:id="_qQxKQ-RoEe2EtdvPGzsRdw"/>
+    <diary xmi:id="_qQxKQ-RoEe2EtdvPGzsRdw" characterDate="2064-11-02T17:51:44.000+0100">
+      <entries xmi:id="_FUnjwC_JEe6Yv_QOTV_JWQ" date="2064-11-02T17:51:44.000+0100" message="Ich war so unterwegs, oben bei der Sealda Krupp Archologie.&#xA;Da sehe ich doch wie ein Hubschauber hinter einen 'Flugwese' hereillt.&#xA;"/>
+    </diary>
   </members>
   <members xsi:type="shr5mngt:NonPlayerCharacter" xmi:id="_7VNFcO9rEe2MboZfG-JfyQ" chracterSource="_xXEoYO9rEe2MboZfG-JfyQ" sex="male">
     <persona xsi:type="shr5:MudanPersona" xmi:id="_7VNFce9rEe2MboZfG-JfyQ" beschreibung="F&#xfc;r jemanden, den es offiziell eigentlich gar nicht gibt, kommt Mr. Johnson ganz sch&#xf6;n herum. Und das ist auch gut  so, denn ohne ihn w&#xe4;ren alle Shadowrunner arbeitslos. Er ist  das Bindeglied zwischen Schatten und Konzernen, und er ist  es auch, der alles ins Rollen bringt. Er ist derjenige, der sich  die Finger schmutzig macht, damit die Konzerne und Regierungen es nicht m&#xfc;ssen. Er sorgt f&#xfc;r das &#x201e;abstreitbar&#x201c; in &#x201e;abstreitbare Aktivposten&#x201c;.&#xA;Mr. Johnson f&#xfc;hrt die Vorbesprechung, heuert die Talente  an und zahlt f&#xfc;r die Ergebnisse. Er liefert Ihnen die Informationen, die Sie f&#xfc;r den Job, f&#xfc;r den er Sie anheuert, brauchen &#x2013;  oder zumindest die Informationen, von denen er glaubt, dass  Sie sie brauchen. Und er kann Ihnen manche der speziellen  Ausr&#xfc;stungsgegenst&#xe4;nde beschaffen, die Sie f&#xfc;r den Einsatz  ben&#xf6;tigen.&#xA;Er hat hervorragende Beziehungen und ein gutes Ged&#xe4;chtnis. Zwar steht er im Ruf, gerne seine freiberufichen Einsatzkr&#xe4;fte zu hintergehen, aber das ist gr&#xf6;&#xdf;tenteils nur eine urbane Legende. Wenn Sie ihn gut behandeln, wird er im Allgemeinen den Gefallen erwidern. Aber wenn Sie ihn &#xfc;bers  Ohr hauen, kann es leicht sein, dass Sie in nicht allzu ferner  Zukunft selbst zur Zielperson eines seiner Runs werden." name="trotz Schieber" edgeBasis="3" konstitutionBasis="3" geschicklichkeitBasis="3" reaktionBasis="3" staerkeBasis="3" charismaBasis="5" willenskraftBasis="4" intuitionBasis="5" logikBasis="4">
