@@ -27160,6 +27160,7 @@
           </eigenschaften>
         </persona>
         <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_f9gG4C_JEe6Yv_QOTV_JWQ" date="2064-11-02T17:51:44.000+0100" changeApplied="true" dateApplied="2023-07-31T19:42:07.818+0200" karma="3"/>
+        <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_xJeRkGWpEe6Mo86crfi21A" date="2064-11-04T17:51:44.000+0100" changeApplied="true" dateApplied="2023-10-08T09:10:45.731+0200" karma="6"/>
         <inventar xsi:type="shr5:Nahkampfwaffe" xmi:id="_qQwjReRoEe2EtdvPGzsRdw" parentId="8f266b4c-4035-4ba3-aa89-3289d0f42ce1" page="422" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="9R" wertValue="1000" beschreibung="Das legendäre zweihändige Schwert der Samurai.&#xA;Das Katana ist nicht nur zum Synonym für Straßensamurais, sondern sogar für Shadowrunner im Allgemeinen geworden, zumindest in den Trids: Jeder hat dort ein Katana, vom Dekker bis zum Magier. Aber nur weil diese Waffe ein blödes Klischee ist, macht sie das nicht weniger gefährlich oder weniger hilfreich in einem Kampf." image="/shr5Resource/images/katana.png" name="Katana" fertigkeit="48763fa5-4b89-48c7-80ff-d0a2761de4c0" schadenscode="(STR+3)P" praezision="7" durchschlagsKraft="-3" reichweite="1">
           <localizations xmi:id="_qQwjRuRoEe2EtdvPGzsRdw" local="de" name="Katana"/>
         </inventar>
@@ -27344,6 +27345,7 @@
         </generatorSrc>
         <diary xmi:id="_qQxKQ-RoEe2EtdvPGzsRdw" characterDate="2064-11-02T17:51:44.000+0100">
           <entries xmi:id="_FUnjwC_JEe6Yv_QOTV_JWQ" date="2064-11-02T17:51:44.000+0100" message="Ich war so unterwegs, oben bei der Sealda Krupp Archologie.&#xA;Da sehe ich doch wie ein Hubschauber hinter einen 'Flugwese' hereillt.&#xA;"/>
+          <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_zPHIYGWpEe6Mo86crfi21A" date="2064-11-04T17:51:44.000+0100" message="Karma Gaint : 6" change="_xJeRkGWpEe6Mo86crfi21A"/>
         </diary>
       </members>
       <members xsi:type="shr5mngt:NonPlayerCharacter" xmi:id="_7VNFcO9rEe2MboZfG-JfyQ" chracterSource="_xXEoYO9rEe2MboZfG-JfyQ" sex="male">
