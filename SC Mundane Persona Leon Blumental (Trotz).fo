@@ -97,7 +97,7 @@ Date of birth</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-09.05.45</fo:block>
+20.08.40</fo:block>
       </fo:table-cell>
      </fo:table-row>
      <fo:table-row>
@@ -143,7 +143,7 @@ Karma erworben</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-0</fo:block>
+9</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -151,7 +151,7 @@ Momentanes Karma</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-0</fo:block>
+9</fo:block>
       </fo:table-cell>
      </fo:table-row>
 
@@ -1183,21 +1183,11 @@ Modifications</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Schadenswiederstand</fo:block>
+Geschicklichkeit</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
-3</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Restlichtverstaerkung</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-1</fo:block>
+2</fo:block>
       </fo:table-cell>
      </fo:table-row>
      <fo:table-row>
@@ -1214,36 +1204,6 @@ Eigenschaften Bewegungstalent</fo:block>
       <fo:table-cell>
        <fo:block  >
 Initativ Wuerfel</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-2</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Heilung</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-2</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Panzer</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-4</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Geschicklichkeit</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
@@ -1273,11 +1233,21 @@ Stärke</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Infrarot</fo:block>
+Restlichtverstaerkung</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
 1</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Heilung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2</fo:block>
       </fo:table-cell>
      </fo:table-row>
      <fo:table-row>
@@ -1288,6 +1258,36 @@ Reaktion</fo:block>
       <fo:table-cell>
        <fo:block text-align="right"  >
 2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Panzer</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+4</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Infrarot</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Schadenswiederstand</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
       </fo:table-cell>
      </fo:table-row>
     </fo:table-body>
@@ -2240,20 +2240,6 @@ SR5</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Credstick Standard</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-SR5</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-443</fo:block>
-      </fo:table-cell>
-   </fo:table-row>
-    <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
 Credstick Gold</fo:block>
       </fo:table-cell>
       <fo:table-cell>
@@ -2853,6 +2839,48 @@ SR5</fo:block>
 451</fo:block>
       </fo:table-cell>
    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: APDS (Reichweite Schwere Pisolen) 15</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+434</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Streifen Ares Predator V (0/15)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+426</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Bargeld Beutel</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+443</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
    </fo:table-body>
    </fo:table>
 <!--
@@ -2898,16 +2926,6 @@ Gegenstand Brecheisen</fo:block>
       <fo:table-cell>
        <fo:block text-align="right"  >
 20 ¥</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Credstick Standard</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-5 ¥</fo:block>
       </fo:table-cell>
      </fo:table-row>
      <fo:table-row>
@@ -3350,6 +3368,36 @@ Gegenstand Slap Patch, Stim Patch</fo:block>
 150 ¥</fo:block>
       </fo:table-cell>
      </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Munition: APDS (Reichweite Schwere Pisolen) 15</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+240 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Streifen Ares Predator V (0/15)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+ ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Bargeld Beutel</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
     </fo:table-body>
    </fo:table>
 -->
@@ -3567,6 +3615,9 @@ Streifen Ingram Smartgun X (0/32)
 		</fo:block  >
 		<fo:block font-size="small"  >
 Streifen Ingram Smartgun X (0/32)
+		</fo:block  >
+		<fo:block font-size="small"  >
+Streifen Ares Predator V (0/15)
 		</fo:block  >
 <fo:block  >
 <fo:leader 
@@ -5234,6 +5285,30 @@ koerperlich</fo:block>
 
      </fo:table-row>
 
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+APDS (Reichweite Schwere Pisolen) 15</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+15</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+0</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+-4</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+koerperlich</fo:block>
+      </fo:table-cell>
+
+     </fo:table-row>
+
 
    </fo:table-body>
    </fo:table>
@@ -5247,43 +5322,6 @@ koerperlich</fo:block>
        <fo:block  >
  <fo:block font-weight="bold" >
 Credsticks</fo:block>
-  <fo:block  >
-Credstick Standard</fo:block>
-   <fo:table font-size="small">
-    <fo:table-column column-width="10%" />
-    <fo:table-column  />
-    <fo:table-column column-width="30%" />
-    <fo:table-body  >
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-unset</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block  >
-Initale Transaction von 5695.</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-5.695 ¥</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-Saldo</fo:block>
-      </fo:table-cell>
-      <fo:table-cell  font-weight="bold" >
-       <fo:block text-align="right"  font-weight="bold"  >
-5.695 ¥</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-    </fo:table-body>
-   </fo:table>
   <fo:block  >
 Credstick Standard</fo:block>
    <fo:table font-size="small">
@@ -5330,6 +5368,57 @@ Saldo</fo:block>
      </fo:table-row>
     </fo:table-body>
    </fo:table>
+  <fo:block  >
+Credstick Bargeld Beutel</fo:block>
+   <fo:table font-size="small">
+    <fo:table-column column-width="10%" />
+    <fo:table-column  />
+    <fo:table-column column-width="30%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+08.11.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Job Blutmagier</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+333.350 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+13.11.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+An Mutter und Gruppe</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-30.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+Saldo</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-weight="bold" >
+       <fo:block text-align="right"  font-weight="bold"  >
+303.350 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
 
 		</fo:block  >
       </fo:table-cell>
@@ -5338,6 +5427,230 @@ Saldo</fo:block>
    </fo:table>
 
 
+<!-- diary -->
+  <fo:table break-before="page">
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+<fo:block margin-top="10pt" break-before="page" ></fo:block  >
+ <fo:table font-size="small" keep-together="always">
+    <fo:table-column column-width="10%" />
+   <fo:table-column column-width="10%" />
+   <fo:table-column  />
+   <fo:table-column column-width="10%" />
+    <fo:table-body  >
+     	<fo:table-row>
+      		<fo:table-cell>
+ <fo:block font-weight="bold" >
+Changes</fo:block>
+      		</fo:table-cell>
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell   font-style="italic" >
+       <fo:block >
+Date</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell  font-size="small" font-style="italic" >
+       <fo:block >
+Änderung angewendet</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell  font-size="small" font-style="italic" >
+       <fo:block >
+Character Change</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell  font-size="small" font-style="italic"  >
+       <fo:block text-align="right"  font-size="small" font-style="italic"   >
+Karma Kosten</fo:block>
+      </fo:table-cell>	
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+02.11.64</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+31.07.23</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 3</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+04.11.64</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+08.10.23</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 6</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+6</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+unset</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+unset</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Attribute Change Charisma Basis 1-&gt;2</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-10</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+  	 </fo:table-body>
+  	 </fo:table>
+
+
+       <fo:block  >
+<fo:block  >
+<fo:leader 
+	leader-pattern="rule" leader-length.optimum="100%"
+	rule-style="solid" rule-thickness="0.5px"/>
+</fo:block>
+ <fo:block font-weight="bold" >
+diary</fo:block>
+  <fo:table font-size="small">
+    <fo:table-column  />
+    <fo:table-body  >
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+02.11.64, 17:51</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Ich war so unterwegs, oben bei der Sealda Krupp Archologie.
+Da sehe ich doch wie ein Hubschauber hinter einen &apos;Flugwese&apos; hereillt.
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+04.11.64, 17:51</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Karma Gaint : 6</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+04.11.64, 17:51</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Attribute Change Charisma Basis 1-&gt;2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+08.11.64, 17:51 - 14.11.64, 17:51</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+02.11.64, 17:51</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+		</fo:block  >
+      </fo:table-cell>
+     </fo:table-row>
+   </fo:table-body>
+   </fo:table>
 
 
 

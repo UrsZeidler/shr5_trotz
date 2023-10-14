@@ -27161,6 +27161,9 @@
         </persona>
         <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_f9gG4C_JEe6Yv_QOTV_JWQ" date="2064-11-02T17:51:44.000+0100" changeApplied="true" dateApplied="2023-07-31T19:42:07.818+0200" karma="3"/>
         <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_xJeRkGWpEe6Mo86crfi21A" date="2064-11-04T17:51:44.000+0100" changeApplied="true" dateApplied="2023-10-08T09:10:45.731+0200" karma="6"/>
+        <changes xsi:type="shr5mngt:AttributeChange" xmi:id="_Sxf3QGpvEe6__bQ-1TqW9A" from="1" to="2">
+          <attibute href="http://urszeidler.de/shr5/1.0#//AbstraktPersona/charismaBasis"/>
+        </changes>
         <inventar xsi:type="shr5:Nahkampfwaffe" xmi:id="_qQwjReRoEe2EtdvPGzsRdw" parentId="8f266b4c-4035-4ba3-aa89-3289d0f42ce1" page="422" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="9R" wertValue="1000" beschreibung="Das legendäre zweihändige Schwert der Samurai.&#xA;Das Katana ist nicht nur zum Synonym für Straßensamurais, sondern sogar für Shadowrunner im Allgemeinen geworden, zumindest in den Trids: Jeder hat dort ein Katana, vom Dekker bis zum Magier. Aber nur weil diese Waffe ein blödes Klischee ist, macht sie das nicht weniger gefährlich oder weniger hilfreich in einem Kampf." image="/shr5Resource/images/katana.png" name="Katana" fertigkeit="48763fa5-4b89-48c7-80ff-d0a2761de4c0" schadenscode="(STR+3)P" praezision="7" durchschlagsKraft="-3" reichweite="1">
           <localizations xmi:id="_qQwjRuRoEe2EtdvPGzsRdw" local="de" name="Katana"/>
         </inventar>
@@ -27323,11 +27326,14 @@
         <inventar xsi:type="shr5:Gegenstand" xmi:id="_kLG4kCfuEe6qXpPvoYg_BQ" parentId="320bd9e3-e261-4a45-aa03-c740b6855e73" page="451" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="Rating * 2" wertValue="150" beschreibung="10x" name="Stim Patch" kategorie="Biotech" stufe="6">
           <localizations xmi:id="_kLG4kSfuEe6qXpPvoYg_BQ" local="de" name="Slap Patch, Stim Patch"/>
         </inventar>
-        <inventar xsi:type="shr5:Munition" xmi:id="_gL-h0DQpEe6woufsDo9wGQ" parentId="ef9c8aae-26df-4fe6-88b3-79fbb5eb77c5" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="12F" wertValue="120" name="APDS" anzahl="30" proAnzahl="10" armorMod="-4" type="_ENFDsznTEeSe6_w6Jrbqxg">
+        <inventar xsi:type="shr5:Munition" xmi:id="_gL-h0DQpEe6woufsDo9wGQ" parentId="ef9c8aae-26df-4fe6-88b3-79fbb5eb77c5" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="12F" wertValue="120" name="APDS" anzahl="15" proAnzahl="10" armorMod="-4" type="_ENFDsznTEeSe6_w6Jrbqxg">
           <localizations xmi:id="_gL-h0TQpEe6woufsDo9wGQ" local="de" name="Munition: APDS"/>
         </inventar>
         <inventar xsi:type="shr5:Magazin" xmi:id="_vQg4ADQpEe6woufsDo9wGQ" parentId="_kfiKtJH0EeSAavuXEODnew" page="426" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" name="Spare Clip" type="_JoEq4FDLEeSjN8rIya5QCA"/>
-        <inventar xsi:type="shr5:Magazin" xmi:id="_vQitMDQpEe6woufsDo9wGQ" parentId="_kfiKtJH0EeSAavuXEODnew" page="426" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" name="Spare Clip" type="_JoEq4FDLEeSjN8rIya5QCA"/>
+        <inventar xsi:type="shr5:Credstick" xmi:id="_FyWDwGpwEe6__bQ-1TqW9A" parentId="_ELz4YDnTEeSe6_w6Jrbqxg" page="443" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="10" wertValue="500" name="Bargeld Beutel" maxValue="500000">
+          <transactionlog xmi:id="_NBmfwGpwEe6__bQ-1TqW9A" amount="333350" date="2064-11-08T17:51:44.000+0100" description="Job Blutmagier"/>
+          <transactionlog xmi:id="_lUKrwGpwEe6__bQ-1TqW9A" amount="-30000" date="2064-11-13T17:51:44.000+0100" description="An Mutter und Gruppe"/>
+        </inventar>
         <contracts xsi:type="shr5:Lifestyle" xmi:id="_qQxKOeRoEe2EtdvPGzsRdw" name="Middle" parentId="90f6f4c2-9968-42e1-ba79-e2bf530de32e" page="373" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="" wertValue="5000" faelligkeitsIntervall="1" unit="month">
           <localizations xmi:id="_qQxKOuRoEe2EtdvPGzsRdw" local="de" name="Mittelschicht"/>
           <options xmi:id="_qQxKO-RoEe2EtdvPGzsRdw" name="Garage" parentId="_ENlaADnTEeSe6_w6Jrbqxg" page="374" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" wertValue="500"/>
@@ -27344,8 +27350,12 @@
           <selectedGroup href="#_QJXf0ONWEe2VhtFye-_2Dg"/>
         </generatorSrc>
         <diary xmi:id="_qQxKQ-RoEe2EtdvPGzsRdw" characterDate="2064-11-02T17:51:44.000+0100">
+          <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_m7pxgGpxEe6__bQ-1TqW9A" date="2064-11-02T17:51:44.000+0100" change="_bSbEYO-KEeSvgoopBS9psw"/>
           <entries xmi:id="_FUnjwC_JEe6Yv_QOTV_JWQ" date="2064-11-02T17:51:44.000+0100" message="Ich war so unterwegs, oben bei der Sealda Krupp Archologie.&#xA;Da sehe ich doch wie ein Hubschauber hinter einen 'Flugwese' hereillt.&#xA;"/>
           <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_zPHIYGWpEe6Mo86crfi21A" date="2064-11-04T17:51:44.000+0100" message="Karma Gaint : 6" change="_xJeRkGWpEe6Mo86crfi21A"/>
+          <entries xsi:type="shr5mngt:TrainingsTime" xmi:id="_QxIiAGpvEe6__bQ-1TqW9A" date="2064-11-04T17:51:44.000+0100" change="_Sxf3QGpvEe6__bQ-1TqW9A">
+            <training xmi:id="_X0IDoGpvEe6__bQ-1TqW9A" start="2064-11-08T17:51:44.000+0100" end="2064-11-14T17:51:44.000+0100"/>
+          </entries>
         </diary>
       </members>
       <members xsi:type="shr5mngt:NonPlayerCharacter" xmi:id="_7VNFcO9rEe2MboZfG-JfyQ" chracterSource="_xXEoYO9rEe2MboZfG-JfyQ" sex="male">
