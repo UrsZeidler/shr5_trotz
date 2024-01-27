@@ -4,9 +4,9 @@ Spezies: [i]Human[/i] Type: [i]Mundane Persona[/i]
 
 
 Muttersprache: Sprachfertigkeit Deutsch
-Date of birth: 09.05.45  Age: -1
-Karma erworben: 0  Momentanes Karma: 0
-Straßen Ruf: 0  Schlechter Ruf: 0
+Date of birth: 20.08.40  Age: 24
+Karma erworben: 14  Momentanes Karma: 4
+Straßen Ruf: 1  Schlechter Ruf: 0
 Height: 185 cm  Weight: 91 kg
 
 [b]Attributes[/b]
@@ -17,21 +17,21 @@ Stärke......................... 3(5)
 Willenskraft................... 2
 Logik.......................... 2
 Intuition...................... 5
-Charisma....................... 1
+Charisma....................... 2
 Edge........................... 5
 
 Essenz......................... 1.5
 Initative...................... 12+3w6
 Condition...................... 10/9
 Panzer......................... 4
-Selbstbeherrschung............. 3
-Menschenkenntnis............... 6
+Selbstbeherrschung............. 4
+Menschenkenntnis............... 7
 Errinerungsvermoegen........... 4
 Lifting/Carrying............... 75/50
 Movement....................... 16/32/2
 
 Limits
-Koerperlich 7 / Geistig 4 / Sozial 2
+Koerperlich 7 / Geistig 4 / Sozial 3
 
 [b]Fertigkeits Gruppen[/b]
 Fertigkeits Gruppe Athletics... 1
@@ -99,8 +99,8 @@ Nahkampfwaffe Überlebensmesser 100 ¥
 Feuerwaffe Ares Alpha.......... 2.650 ¥
 Feuerwaffe Ares Predator V..... 725 ¥
 Feuerwaffe Ingram Smartgun X... 800 ¥
-Munition: Standardmunition (Reichweite Schwere Pisolen) 300 600 ¥
-Munition: Standardmunition (Reichweite Submachine Guns) 500 1.000 ¥
+Munition: Standardmunition (Reichweite Schwere Pisolen) 294 580 ¥
+Munition: Standardmunition (Reichweite Submachine Guns) 479 960 ¥
 Munition: Standardmunition (Reichweite Assault Rifles) 800 1.600 ¥
 Granate Schockgranate [10]..... 1.000 ¥
 Granate Granate: IR-Rauch [10] 600 ¥
@@ -126,7 +126,7 @@ Gegenstand Medkit 6............ 1.500 ¥
 Gegenstand Medkit-Nachfüllpack 100 ¥
 Munition: Gelgeschosse (Reichweite Schwere Pisolen) 50 125 ¥
 Munition: Gelgeschosse (Reichweite Submachine Guns) 100 250 ¥
-Munition: Gelgeschosse (Reichweite Assault Rifles) 150 375 ¥
+Munition: Gelgeschosse (Reichweite Assault Rifles) 143 350 ¥
 Munition: Explosivgeschosse (Reichweite Submachine Guns) 100 800 ¥
 Munition: Explosivgeschosse (Reichweite Schwere Pisolen) 100 800 ¥
 Munition: Explosivgeschosse (Reichweite Assault Rifles) 200 1.600 ¥
@@ -137,8 +137,11 @@ Streifen Ares Alpha (0/42)..... 5 ¥
 Streifen Ingram Smartgun X (0/32) 5 ¥
 Streifen Ingram Smartgun X (0/32) 5 ¥
 Gegenstand Slap Patch, Stim Patch 150 ¥
+Munition: APDS (Reichweite Schwere Pisolen) 15 240 ¥
+Streifen Ares Predator V (0/15)  ¥
+Credstick Bargeld Beutel....... 500 ¥
 
-sum :.......................... 23.185
+sum :.......................... 23.840
 
 [b]Vertäge[/b]
 Lifestyle Mittelschicht........ 5.000 ¥/5.500 ¥
@@ -242,9 +245,31 @@ Yamaha Growler (Off-Road Bike)
 Es ist beliebt bei Leuten, die nach einem Kick suchen, Wildnisfans und Drogenschmugglern, die nur wenig Frachtraum brauchen.[/i]
 
 [b]Diary[/b]
-Current Date: 
+Current Date: Sat Nov 29 17:51:44 CET 2064
+02.11.64: [i][/i]
+02.11.64: [i]Ich war so unterwegs, oben bei der Sealda Krupp Archologie.
+Da sehe ich doch wie ein Hubschauber hinter einen 'Flugwese' hereillt.
+[/i]
+04.11.64: [i]Karma Gaint : 6[/i]
+04.11.64: Attribute Change Charisma Basis 1->2
+	08.11.64 - 14.11.64 : 7 Days_Trained
+	16.11.64 - 22.11.64 : 7 Days_Trained
+
+15.11.64: [i]Karma Gaint : 5[/i]
+15.11.64: [i]Wir machen einen spotanen run, 
+in dem wir versuchen ein paar chummers zu Retten aus einem ehmaligen Verstekten Lager,, wir bekommen ein wenig Gold, aber das Lager wird von sog. 'cleanern' gesprengt.
+Die chummer sind verloren.[/i]
+22.11.64: Attribute Change Willenskraft Basis 2->3
+	22.11.64 - 29.11.64 : 8 Days_Trained
 
 
+
+[b]Steigerungen[/b]
+02.11.64 Karma Gaint : 3                      
+04.11.64 Karma Gaint : 6                      
+22.11.64 Attribute Change Charisma Basis 1->2 -10
+15.11.64 Karma Gaint : 5                      
+unset Attribute Change Willenskraft Basis 2->3 -15
 
 
 [b]Credsticks[/b]
@@ -257,6 +282,13 @@ Saldo :........................ 0 ¥
 
 Credstick: Credstick Gold......
 Saldo :........................ 0 ¥
+
+Credstick: Credstick Bargeld Beutel
+08.11.64 [i]Job Blutmagier[/i] 333.350 ¥
+13.11.64 [i]An Mutter und Gruppe[/i] -30.000 ¥
+15.11.64 [i]250 g Gold[/i]  ¥
+29.11.64 [i]-25G Gold für mutter[/i]  ¥
+Saldo :........................ 303.350 ¥
 
 
 

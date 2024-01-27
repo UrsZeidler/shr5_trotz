@@ -27015,7 +27015,7 @@
     </groups>
     <groups xmi:id="_DATO8ARfEe66EcT05mHZow" name="trotz's netz">
       <members xsi:type="shr5mngt:PlayerCharacter" xmi:id="_qQwi8ORoEe2EtdvPGzsRdw" chracterSource="_qQxKQuRoEe2EtdvPGzsRdw" choosenLifestyle="_qQxKOeRoEe2EtdvPGzsRdw" nativeLanguage="a72084f6-3a4c-4c23-82aa-4697e543ee0b" sex="male" height="185" dateofbirth="2040-08-20T22:07:08.886+0200" weight="91">
-        <persona xsi:type="shr5:MudanPersona" xmi:id="_qQwi8eRoEe2EtdvPGzsRdw" image="/home/urs/Downloads/myJ1YCBY.jpeg" name="Leon Blumental (Trotz)" edgeBasis="5" konstitutionBasis="4" geschicklichkeitBasis="6" reaktionBasis="5" staerkeBasis="3" charismaBasis="1" willenskraftBasis="2" intuitionBasis="5" logikBasis="2" spezies="a53d885d-a4a4-443d-b6a6-b0a55b0a96c7">
+        <persona xsi:type="shr5:MudanPersona" xmi:id="_qQwi8eRoEe2EtdvPGzsRdw" image="/home/urs/Downloads/myJ1YCBY.jpeg" name="Leon Blumental (Trotz)" edgeBasis="5" konstitutionBasis="4" geschicklichkeitBasis="6" reaktionBasis="5" staerkeBasis="3" charismaBasis="2" willenskraftBasis="2" intuitionBasis="5" logikBasis="2" spezies="a53d885d-a4a4-443d-b6a6-b0a55b0a96c7">
           <fertigkeiten xmi:id="_qQwi8uRoEe2EtdvPGzsRdw" stufe="5" fertigkeit="48763fa5-4b89-48c7-80ff-d0a2761de4c0"/>
           <fertigkeiten xmi:id="_qQwi8-RoEe2EtdvPGzsRdw" stufe="3" fertigkeit="4fcd40cb-4b02-4b7e-afcb-f44d46cd5706"/>
           <fertigkeiten xmi:id="_qQwi9ORoEe2EtdvPGzsRdw" stufe="3" fertigkeit="adf31a50-b228-4e09-a09c-46ab9f5e59a1"/>
@@ -27161,8 +27161,12 @@
         </persona>
         <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_f9gG4C_JEe6Yv_QOTV_JWQ" date="2064-11-02T17:51:44.000+0100" changeApplied="true" dateApplied="2023-07-31T19:42:07.818+0200" karma="3"/>
         <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_xJeRkGWpEe6Mo86crfi21A" date="2064-11-04T17:51:44.000+0100" changeApplied="true" dateApplied="2023-10-08T09:10:45.731+0200" karma="6"/>
-        <changes xsi:type="shr5mngt:AttributeChange" xmi:id="_Sxf3QGpvEe6__bQ-1TqW9A" from="1" to="2">
+        <changes xsi:type="shr5mngt:AttributeChange" xmi:id="_Sxf3QGpvEe6__bQ-1TqW9A" date="2064-11-22T17:51:44.000+0100" changeApplied="true" dateApplied="2024-01-27T09:45:11.511+0100" from="1" to="2">
           <attibute href="http://urszeidler.de/shr5/1.0#//AbstraktPersona/charismaBasis"/>
+        </changes>
+        <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_k_AcAJHsEe6HDs6v_fSHnA" date="2064-11-15T17:51:44.000+0100" changeApplied="true" dateApplied="2023-12-03T16:00:02.298+0100" karma="5"/>
+        <changes xsi:type="shr5mngt:AttributeChange" xmi:id="_jcYrMLz4Ee6bwJTjOiRnFA" from="2" to="3">
+          <attibute href="http://urszeidler.de/shr5/1.0#//AbstraktPersona/willenskraftBasis"/>
         </changes>
         <inventar xsi:type="shr5:Nahkampfwaffe" xmi:id="_qQwjReRoEe2EtdvPGzsRdw" parentId="8f266b4c-4035-4ba3-aa89-3289d0f42ce1" page="422" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="9R" wertValue="1000" beschreibung="Das legendäre zweihändige Schwert der Samurai.&#xA;Das Katana ist nicht nur zum Synonym für Straßensamurais, sondern sogar für Shadowrunner im Allgemeinen geworden, zumindest in den Trids: Jeder hat dort ein Katana, vom Dekker bis zum Magier. Aber nur weil diese Waffe ein blödes Klischee ist, macht sie das nicht weniger gefährlich oder weniger hilfreich in einem Kampf." image="/shr5Resource/images/katana.png" name="Katana" fertigkeit="48763fa5-4b89-48c7-80ff-d0a2761de4c0" schadenscode="(STR+3)P" praezision="7" durchschlagsKraft="-3" reichweite="1">
           <localizations xmi:id="_qQwjRuRoEe2EtdvPGzsRdw" local="de" name="Katana"/>
@@ -27224,10 +27228,10 @@
           </einbau>
           <magazin xmi:id="_qQxKBeRoEe2EtdvPGzsRdw" page="427" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" name="Ingram Smartgun X ammunition" type="_qQwjY-RoEe2EtdvPGzsRdw"/>
         </inventar>
-        <inventar xsi:type="shr5:Munition" xmi:id="_qQxKBuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="300" proAnzahl="10" type="_ENFDsznTEeSe6_w6Jrbqxg">
+        <inventar xsi:type="shr5:Munition" xmi:id="_qQxKBuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="294" proAnzahl="10" type="_ENFDsznTEeSe6_w6Jrbqxg">
           <localizations xmi:id="_qQxKB-RoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
         </inventar>
-        <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCORoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="500" proAnzahl="10" type="_ENFqwTnTEeSe6_w6Jrbqxg">
+        <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCORoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="479" proAnzahl="10" type="_ENFqwTnTEeSe6_w6Jrbqxg">
           <localizations xmi:id="_qQxKCeRoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
         </inventar>
         <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="800" proAnzahl="10" type="_ENFqwjnTEeSe6_w6Jrbqxg">
@@ -27305,7 +27309,7 @@
         <inventar xsi:type="shr5:Munition" xmi:id="_t_uEcAPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="100" proAnzahl="10" armorMod="1" type="_ENFqwTnTEeSe6_w6Jrbqxg">
           <localizations xmi:id="_t_uEcQPXEe6SQ9KwvYZQrA" local="de" name="Munition: Gelgeschosse"/>
         </inventar>
-        <inventar xsi:type="shr5:Munition" xmi:id="_t_uEcgPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="150" proAnzahl="10" armorMod="1" type="_ENFqwjnTEeSe6_w6Jrbqxg">
+        <inventar xsi:type="shr5:Munition" xmi:id="_t_uEcgPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="143" proAnzahl="10" armorMod="1" type="_ENFqwjnTEeSe6_w6Jrbqxg">
           <localizations xmi:id="_t_uEcwPXEe6SQ9KwvYZQrA" local="de" name="Munition: Gelgeschosse"/>
         </inventar>
         <inventar xsi:type="shr5:Munition" xmi:id="_oqmkcAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="9F" wertValue="80" name="Ammo: Explosive Rounds" anzahl="100" proAnzahl="10" damageMod="1" armorMod="-1" type="_ENFqwTnTEeSe6_w6Jrbqxg">
@@ -27333,6 +27337,8 @@
         <inventar xsi:type="shr5:Credstick" xmi:id="_FyWDwGpwEe6__bQ-1TqW9A" parentId="_ELz4YDnTEeSe6_w6Jrbqxg" page="443" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="10" wertValue="500" name="Bargeld Beutel" maxValue="500000">
           <transactionlog xmi:id="_NBmfwGpwEe6__bQ-1TqW9A" amount="333350" date="2064-11-08T17:51:44.000+0100" description="Job Blutmagier"/>
           <transactionlog xmi:id="_lUKrwGpwEe6__bQ-1TqW9A" amount="-30000" date="2064-11-13T17:51:44.000+0100" description="An Mutter und Gruppe"/>
+          <transactionlog xmi:id="_Bg-AoJHtEe6HDs6v_fSHnA" date="2064-11-15T17:51:44.000+0100" description="250 g Gold"/>
+          <transactionlog xmi:id="_zefYsLz_Ee6bwJTjOiRnFA" date="2064-11-29T17:51:44.000+0100" description="-25G Gold für mutter"/>
         </inventar>
         <contracts xsi:type="shr5:Lifestyle" xmi:id="_qQxKOeRoEe2EtdvPGzsRdw" name="Middle" parentId="90f6f4c2-9968-42e1-ba79-e2bf530de32e" page="373" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="" wertValue="5000" faelligkeitsIntervall="1" unit="month">
           <localizations xmi:id="_qQxKOuRoEe2EtdvPGzsRdw" local="de" name="Mittelschicht"/>
@@ -27349,12 +27355,18 @@
         <generatorSrc xsi:type="shr5mngt:Shr5Generator" xmi:id="_qQxKQuRoEe2EtdvPGzsRdw" character="_qQwi8ORoEe2EtdvPGzsRdw" generator="_BssLkN0CEeOvVYoRsPZlnA" state="commited" characterName="Leon Blumental (Trotz)" resourcen="_BtL60N0CEeOvVYoRsPZlnA" skills="_BtGbQt0CEeOvVYoRsPZlnA" attribute="_Bs4Y0d0CEeOvVYoRsPZlnA" metaType="_Bs3xwN0CEeOvVYoRsPZlnA" magic="_BtNwAN0CEeOvVYoRsPZlnA">
           <selectedGroup href="#_QJXf0ONWEe2VhtFye-_2Dg"/>
         </generatorSrc>
-        <diary xmi:id="_qQxKQ-RoEe2EtdvPGzsRdw" characterDate="2064-11-02T17:51:44.000+0100">
+        <diary xmi:id="_qQxKQ-RoEe2EtdvPGzsRdw" characterDate="2064-11-29T17:51:44.000+0100">
           <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_m7pxgGpxEe6__bQ-1TqW9A" date="2064-11-02T17:51:44.000+0100" change="_bSbEYO-KEeSvgoopBS9psw"/>
           <entries xmi:id="_FUnjwC_JEe6Yv_QOTV_JWQ" date="2064-11-02T17:51:44.000+0100" message="Ich war so unterwegs, oben bei der Sealda Krupp Archologie.&#xA;Da sehe ich doch wie ein Hubschauber hinter einen 'Flugwese' hereillt.&#xA;"/>
           <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_zPHIYGWpEe6Mo86crfi21A" date="2064-11-04T17:51:44.000+0100" message="Karma Gaint : 6" change="_xJeRkGWpEe6Mo86crfi21A"/>
-          <entries xsi:type="shr5mngt:TrainingsTime" xmi:id="_QxIiAGpvEe6__bQ-1TqW9A" date="2064-11-04T17:51:44.000+0100" change="_Sxf3QGpvEe6__bQ-1TqW9A">
+          <entries xsi:type="shr5mngt:TrainingsTime" xmi:id="_QxIiAGpvEe6__bQ-1TqW9A" date="2064-11-04T17:51:44.000+0100" change="_Sxf3QGpvEe6__bQ-1TqW9A" trainingComplete="true">
             <training xmi:id="_X0IDoGpvEe6__bQ-1TqW9A" start="2064-11-08T17:51:44.000+0100" end="2064-11-14T17:51:44.000+0100"/>
+            <training xmi:id="_QNwMwLzwEe6bwJTjOiRnFA" start="2064-11-16T17:51:44.000+0100" end="2064-11-22T17:51:44.000+0100"/>
+          </entries>
+          <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_orNA8JHsEe6HDs6v_fSHnA" date="2064-11-15T17:51:44.000+0100" message="Karma Gaint : 5" change="_k_AcAJHsEe6HDs6v_fSHnA"/>
+          <entries xmi:id="_s1czsLz1Ee6bwJTjOiRnFA" date="2064-11-15T17:51:44.000+0100" message="Wir machen einen spotanen run, &#xA;in dem wir versuchen ein paar chummers zu Retten aus einem ehmaligen Verstekten Lager,, wir bekommen ein wenig Gold, aber das Lager wird von sog. 'cleanern' gesprengt.&#xA;Die chummer sind verloren."/>
+          <entries xsi:type="shr5mngt:TrainingsTime" xmi:id="_h4fPgLz4Ee6bwJTjOiRnFA" date="2064-11-22T17:51:44.000+0100" change="_jcYrMLz4Ee6bwJTjOiRnFA">
+            <training xmi:id="_ldIa8Lz4Ee6bwJTjOiRnFA" start="2064-11-22T17:51:44.000+0100" end="2064-11-29T17:51:44.000+0100"/>
           </entries>
         </diary>
       </members>

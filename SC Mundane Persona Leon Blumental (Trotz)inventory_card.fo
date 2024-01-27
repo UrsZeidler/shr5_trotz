@@ -17,7 +17,7 @@
 						region-name="xsl-region-body" margin-bottom="15mm" margin-top="15mm"
 						margin-right="5mm" />
 		                    <fo:region-before region-name="kopf" extent="25mm" />
-		            <fo:region-after region-name="xsl-region-after"  extent="15mm"/>
+		            <fo:region-after region-name="xsl-region-after"  extent="15mm" />
 		                    <fo:region-start extent="25mm"  />
 		                    <fo:region-end extent="15mm" />
 		
@@ -32,7 +32,7 @@
 				<fo:title>Inventory Cards SC Mundane Persona Leon Blumental (Trotz)</fo:title>
 			
 		        <fo:static-content flow-name="xsl-region-after">
-		            <fo:block font-size="x-small" margin-left="15mm">shr5rcp character sheet Inventory Cards SC Mundane Persona Leon Blumental (Trotz) page <fo:page-number/></fo:block>
+		            <fo:block font-size="x-small" margin-top="5mm" margin-left="5mm">shr5rcp character sheet Inventory Cards SC Mundane Persona Leon Blumental (Trotz) page <fo:page-number/> printed 27.01.24</fo:block>
 		        </fo:static-content>
 		
 				<fo:flow flow-name="xsl-region-body">
@@ -139,7 +139,7 @@
 		      </fo:table-cell> 
 		      <fo:table-cell>
 		       <fo:block >
-		1 
+		2 
 		</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
@@ -229,7 +229,7 @@
 		      </fo:table-cell>
 		      <fo:table-cell>
 		       <fo:block  >
-		3</fo:block>
+		4</fo:block>
 		      </fo:table-cell>
 		    </fo:table-row>
 			<fo:table-row>
@@ -239,7 +239,7 @@
 		      </fo:table-cell> 
 		      <fo:table-cell>
 		       <fo:block  >
-		6</fo:block>
+		7</fo:block>
 		      </fo:table-cell>
 		    </fo:table-row>
 			<fo:table-row>
@@ -307,7 +307,7 @@
 		      </fo:table-cell>
 		      <fo:table-cell>
 		       <fo:block  >
-		2</fo:block>
+		3</fo:block>
 		      </fo:table-cell>
 		    </fo:table-row>
 		
@@ -627,7 +627,7 @@
 		      </fo:table-cell>
 		      <fo:table-cell >
 		       <fo:block text-align="right" font-weight="bold" >
-		0</fo:block>
+		1</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
 		     <fo:table-row border-bottom-color="rgb(0,0,0)" border-bottom-style="solid" border-bottom-width="0.2pt"  >
@@ -645,7 +645,7 @@
 		      </fo:table-cell>
 		      <fo:table-cell >
 		       <fo:block text-align="right" font-weight="bold" >
-		0</fo:block>
+		1</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
 		     <fo:table-row border-bottom-color="rgb(0,0,0)" border-bottom-style="solid" border-bottom-width="0.2pt"  >
@@ -663,7 +663,7 @@
 		      </fo:table-cell>
 		      <fo:table-cell >
 		       <fo:block text-align="right" font-weight="bold" >
-		0</fo:block>
+		1</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
 		
@@ -942,7 +942,7 @@
 		      </fo:table-cell>
 		      <fo:table-cell >
 		       <fo:block text-align="right" font-weight="bold" >
-		2</fo:block>
+		3</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
 		     <fo:table-row border-bottom-color="rgb(0,0,0)" border-bottom-style="solid" border-bottom-width="0.2pt"  >
@@ -960,7 +960,7 @@
 		      </fo:table-cell>
 		      <fo:table-cell >
 		       <fo:block text-align="right" font-weight="bold" >
-		2</fo:block>
+		3</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
 		     <fo:table-row border-bottom-color="rgb(0,0,0)" border-bottom-style="solid" border-bottom-width="0.2pt"  >
@@ -978,7 +978,7 @@
 		      </fo:table-cell>
 		      <fo:table-cell >
 		       <fo:block text-align="right" font-weight="bold" >
-		2</fo:block>
+		3</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
 		
@@ -1283,7 +1283,7 @@
 		      </fo:table-cell>
 		      <fo:table-cell >
 		       <fo:block text-align="right" font-weight="bold" >
-		0</fo:block>
+		1</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
 		     <fo:table-row border-bottom-color="rgb(0,0,0)" border-bottom-style="solid" border-bottom-width="0.2pt"  >
@@ -1301,7 +1301,7 @@
 		      </fo:table-cell>
 		      <fo:table-cell >
 		       <fo:block text-align="right" font-weight="bold" >
-		0</fo:block>
+		1</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
 		     <fo:table-row border-bottom-color="rgb(0,0,0)" border-bottom-style="solid" border-bottom-width="0.2pt"  >
@@ -5112,7 +5112,7 @@
 		     <fo:table-row>
 		      <fo:table-cell>
 		       <fo:block  >
-		Gel Rounds 150</fo:block>
+		Gel Rounds 143</fo:block>
 		      </fo:table-cell>
 		      <fo:table-cell>
 		       <fo:block  >
@@ -5569,7 +5569,7 @@
 		     <fo:table-row>
 		      <fo:table-cell>
 		       <fo:block  >
-		Regular Ammo 300</fo:block>
+		Regular Ammo 294</fo:block>
 		      </fo:table-cell>
 		      <fo:table-cell>
 		       <fo:block  >
@@ -5594,6 +5594,16 @@
 		      <fo:table-cell>
 		       <fo:block  >
 		dk: -1 sch: 1  koerperlich</fo:block>
+		      </fo:table-cell>
+		     </fo:table-row>
+		     <fo:table-row>
+		      <fo:table-cell>
+		       <fo:block  >
+		APDS 15</fo:block>
+		      </fo:table-cell>
+		      <fo:table-cell>
+		       <fo:block  >
+		dk: -4 sch: 0  koerperlich</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
 		
@@ -6104,7 +6114,7 @@
 		     <fo:table-row>
 		      <fo:table-cell>
 		       <fo:block  >
-		Regular Ammo 500</fo:block>
+		Regular Ammo 479</fo:block>
 		      </fo:table-cell>
 		      <fo:table-cell>
 		       <fo:block  >
