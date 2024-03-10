@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ASCII"?>
 <shr5mngt:CharacterGroup xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:shr5="http://urszeidler.de/shr5/1.0" xmlns:shr5mngt="http://urszeidler.de/shr5mngt/1.0" xmi:id="_DATO8ARfEe66EcT05mHZow" name="trotz's netz">
   <members xsi:type="shr5mngt:PlayerCharacter" xmi:id="_qQwi8ORoEe2EtdvPGzsRdw" chracterSource="_qQxKQuRoEe2EtdvPGzsRdw" choosenLifestyle="_qQxKOeRoEe2EtdvPGzsRdw" sex="male" height="185" dateofbirth="2040-08-20T22:07:08.886+0200" weight="91">
-    <persona xsi:type="shr5:MudanPersona" xmi:id="_qQwi8eRoEe2EtdvPGzsRdw" image="/home/urs/Downloads/myJ1YCBY.jpeg" name="Leon Blumental (Trotz)" edgeBasis="5" konstitutionBasis="4" geschicklichkeitBasis="6" reaktionBasis="5" staerkeBasis="3" charismaBasis="1" willenskraftBasis="2" intuitionBasis="5" logikBasis="2">
+    <persona xsi:type="shr5:MudanPersona" xmi:id="_qQwi8eRoEe2EtdvPGzsRdw" image="/home/urs/Downloads/myJ1YCBY.jpeg" name="Leon Blumental (Trotz)" edgeBasis="5" konstitutionBasis="4" geschicklichkeitBasis="6" reaktionBasis="5" staerkeBasis="3" charismaBasis="2" willenskraftBasis="2" intuitionBasis="5" logikBasis="2">
       <fertigkeiten xmi:id="_qQwi8uRoEe2EtdvPGzsRdw" stufe="5">
         <fertigkeit href="platform:/resource/shr5Resource/shr5-1.shr5#48763fa5-4b89-48c7-80ff-d0a2761de4c0"/>
       </fertigkeiten>
@@ -152,10 +152,10 @@
       <koerperMods xsi:type="shr5:Cyberware" xmi:id="_qQwjKORoEe2EtdvPGzsRdw" beschreibung="Cyberaugen bieten volle Sehsch&#xe4;rfe auf beiden Augen und sind serienm&#xe4;&#xdf;ig mit einer Bildverbindung und einer eingebauten Kamera ausgestattet. Au&#xdf;erdem bieten sie Kapazit&#xe4;t f&#xfc;r die Aufnahme von Sichtverst&#xe4;rkungen." name="Cybereyes Basic System 3" parentId="8e414ade-2764-4dc7-bdc4-83bb4a086034" page="453" verfuegbarkeit="9" wertValue="10000" cyberwareCapacity="12" type="eyeware">
         <localizations xmi:id="_qQwjKeRoEe2EtdvPGzsRdw" local="de" name="Cyberaugen-Basissystem 3"/>
         <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
+        <einbau xmi:id="_qQwjKuRoEe2EtdvPGzsRdw" verfuegbarkeit="4" wertValue="1000" beschreibung="Dieses Zubeh&#xf6;r sch&#xfc;tzt sowohl vor blendenden Lichtblitzen als auch vor einfachem blendendem Licht. Es verringert die Sichtmodifikatoren f&#xfc;r blendendes Licht und senkt den Malus durch Blitzlichter, wie etwa durch ein Flash-Pack." name="Flare Compensation" parentId="5921a6ac-1e20-483b-b210-dc84a14d3045" page="453" capacityUse="1" type="eyeware">
           <mods xmi:id="_qQwjK-RoEe2EtdvPGzsRdw" wert="-40">
             <attribut href="http://urszeidler.de/shr5/1.0#//SpezielleAttribute/essenz"/>
           </mods>
-        <einbau xmi:id="_qQwjKuRoEe2EtdvPGzsRdw" verfuegbarkeit="4" wertValue="1000" beschreibung="Dieses Zubeh&#xf6;r sch&#xfc;tzt sowohl vor blendenden Lichtblitzen als auch vor einfachem blendendem Licht. Es verringert die Sichtmodifikatoren f&#xfc;r blendendes Licht und senkt den Malus durch Blitzlichter, wie etwa durch ein Flash-Pack." name="Flare Compensation" parentId="5921a6ac-1e20-483b-b210-dc84a14d3045" page="453" capacityUse="1" type="eyeware">
           <localizations xmi:id="_qQwjLORoEe2EtdvPGzsRdw" local="de" name="Blitzkompensation"/>
           <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
         </einbau>
@@ -216,6 +216,15 @@
       </eigenschaften>
     </persona>
     <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_f9gG4C_JEe6Yv_QOTV_JWQ" date="2064-11-02T17:51:44.000+0100" changeApplied="true" dateApplied="2023-07-31T19:42:07.818+0200" karma="3"/>
+    <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_xJeRkGWpEe6Mo86crfi21A" date="2064-11-04T17:51:44.000+0100" changeApplied="true" dateApplied="2023-10-08T09:10:45.731+0200" karma="6"/>
+    <changes xsi:type="shr5mngt:AttributeChange" xmi:id="_Sxf3QGpvEe6__bQ-1TqW9A" date="2064-11-22T17:51:44.000+0100" changeApplied="true" dateApplied="2024-01-27T09:45:11.511+0100" from="1" to="2">
+      <attibute href="http://urszeidler.de/shr5/1.0#//AbstraktPersona/charismaBasis"/>
+    </changes>
+    <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_k_AcAJHsEe6HDs6v_fSHnA" date="2064-11-15T17:51:44.000+0100" changeApplied="true" dateApplied="2023-12-03T16:00:02.298+0100" karma="5"/>
+    <changes xsi:type="shr5mngt:AttributeChange" xmi:id="_jcYrMLz4Ee6bwJTjOiRnFA" from="2" to="3">
+      <attibute href="http://urszeidler.de/shr5/1.0#//AbstraktPersona/willenskraftBasis"/>
+    </changes>
+    <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_yopy8N7XEe6EC7PAlQp5Ew" date="2064-12-01T17:51:44.000+0100" changeApplied="true" dateApplied="2024-03-10T13:15:01.058+0100" karma="6"/>
     <inventar xsi:type="shr5:Nahkampfwaffe" xmi:id="_qQwjReRoEe2EtdvPGzsRdw" parentId="8f266b4c-4035-4ba3-aa89-3289d0f42ce1" page="422" verfuegbarkeit="9R" wertValue="1000" beschreibung="Das legend&#xe4;re zweih&#xe4;ndige Schwert der Samurai.&#xA;Das Katana ist nicht nur zum Synonym f&#xfc;r Stra&#xdf;ensamurais, sondern sogar f&#xfc;r Shadowrunner im Allgemeinen geworden, zumindest in den Trids: Jeder hat dort ein Katana, vom Dekker bis zum Magier. Aber nur weil diese Waffe ein bl&#xf6;des Klischee ist, macht sie das nicht weniger gef&#xe4;hrlich oder weniger hilfreich in einem Kampf." image="/shr5Resource/images/katana.png" name="Katana" schadenscode="(STR+3)P" praezision="7" durchschlagsKraft="-3" reichweite="1">
       <localizations xmi:id="_qQwjRuRoEe2EtdvPGzsRdw" local="de" name="Katana"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
@@ -307,22 +316,22 @@
         <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       </magazin>
     </inventar>
-    <inventar xsi:type="shr5:Munition" xmi:id="_qQxKBuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="300" proAnzahl="10">
+    <inventar xsi:type="shr5:Munition" xmi:id="_qQxKBuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="294" proAnzahl="10">
       <localizations xmi:id="_qQxKB-RoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFDsznTEeSe6_w6Jrbqxg"/>
     </inventar>
-    <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCORoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="500" proAnzahl="10">
+    <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCORoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="435" proAnzahl="10">
       <localizations xmi:id="_qQxKCeRoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwTnTEeSe6_w6Jrbqxg"/>
     </inventar>
-    <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="800" proAnzahl="10">
+    <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="780" proAnzahl="10">
       <localizations xmi:id="_qQxKC-RoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwjnTEeSe6_w6Jrbqxg"/>
     </inventar>
-    <inventar xsi:type="shr5:Granate" xmi:id="_qQxKDORoEe2EtdvPGzsRdw" parentId="f4b92e14-fe1f-4be4-ad73-aed10e1f73b4" page="435" verfuegbarkeit="6R" wertValue="100" beschreibung="Diese &#x201e;Bet&#xe4;ubungs&#x201d;-Granaten explodieren in einem blendend hellen Licht und mit einer lauten Druck-&#xA;welle, die sich gleichm&#xe4;&#xdf;ig &#xfc;ber einen Radius von 10 Metern ausbreitet." name="Flash-Bang" schadenscode="10" schadesTyp="geistig" durchschlagsKraft="-4" anzahl="10" blast="10m">
+    <inventar xsi:type="shr5:Granate" xmi:id="_qQxKDORoEe2EtdvPGzsRdw" parentId="f4b92e14-fe1f-4be4-ad73-aed10e1f73b4" page="435" verfuegbarkeit="6R" wertValue="100" beschreibung="Diese &#x201e;Bet&#xe4;ubungs&#x201d;-Granaten explodieren in einem blendend hellen Licht und mit einer lauten Druck-&#xA;welle, die sich gleichm&#xe4;&#xdf;ig &#xfc;ber einen Radius von 10 Metern ausbreitet." name="Flash-Bang" schadenscode="10" schadesTyp="geistig" durchschlagsKraft="-4" anzahl="6" blast="10m">
       <localizations xmi:id="_qQxKDeRoEe2EtdvPGzsRdw" local="de" name="Schockgranate" page="438"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <reichweite href="platform:/resource/shr5Resource/shr5-1.shr5#_ENG45DnTEeSe6_w6Jrbqxg"/>
@@ -422,7 +431,7 @@
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwTnTEeSe6_w6Jrbqxg"/>
     </inventar>
-    <inventar xsi:type="shr5:Munition" xmi:id="_t_uEcgPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="150" proAnzahl="10" armorMod="1">
+    <inventar xsi:type="shr5:Munition" xmi:id="_t_uEcgPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="143" proAnzahl="10" armorMod="1">
       <localizations xmi:id="_t_uEcwPXEe6SQ9KwvYZQrA" local="de" name="Munition: Gelgeschosse"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFqwjnTEeSe6_w6Jrbqxg"/>
@@ -470,7 +479,7 @@
       <localizations xmi:id="_kLG4kSfuEe6qXpPvoYg_BQ" local="de" name="Slap Patch, Stim Patch"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
     </inventar>
-    <inventar xsi:type="shr5:Munition" xmi:id="_gL-h0DQpEe6woufsDo9wGQ" parentId="ef9c8aae-26df-4fe6-88b3-79fbb5eb77c5" page="434" verfuegbarkeit="12F" wertValue="120" name="APDS" anzahl="30" proAnzahl="10" armorMod="-4">
+    <inventar xsi:type="shr5:Munition" xmi:id="_gL-h0DQpEe6woufsDo9wGQ" parentId="ef9c8aae-26df-4fe6-88b3-79fbb5eb77c5" page="434" verfuegbarkeit="12F" wertValue="120" name="APDS" anzahl="15" proAnzahl="10" armorMod="-4">
       <localizations xmi:id="_gL-h0TQpEe6woufsDo9wGQ" local="de" name="Munition: APDS"/>
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_ENFDsznTEeSe6_w6Jrbqxg"/>
@@ -479,9 +488,14 @@
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
       <type href="platform:/resource/shr5Resource/shr5-1.shr5#_JoEq4FDLEeSjN8rIya5QCA"/>
     </inventar>
-    <inventar xsi:type="shr5:Magazin" xmi:id="_vQitMDQpEe6woufsDo9wGQ" parentId="_kfiKtJH0EeSAavuXEODnew" page="426" name="Spare Clip">
+    <inventar xsi:type="shr5:Credstick" xmi:id="_FyWDwGpwEe6__bQ-1TqW9A" parentId="_ELz4YDnTEeSe6_w6Jrbqxg" page="443" verfuegbarkeit="10" wertValue="500" name="Bargeld Beutel" maxValue="500000">
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
-      <type href="platform:/resource/shr5Resource/shr5-1.shr5#_JoEq4FDLEeSjN8rIya5QCA"/>
+      <transactionlog xmi:id="_NBmfwGpwEe6__bQ-1TqW9A" amount="333350" date="2064-11-08T17:51:44.000+0100" description="Job Blutmagier"/>
+      <transactionlog xmi:id="_lUKrwGpwEe6__bQ-1TqW9A" amount="-30000" date="2064-11-13T17:51:44.000+0100" description="An Mutter und Gruppe"/>
+      <transactionlog xmi:id="_Bg-AoJHtEe6HDs6v_fSHnA" date="2064-11-15T17:51:44.000+0100" description="250 g Gold"/>
+      <transactionlog xmi:id="_zefYsLz_Ee6bwJTjOiRnFA" date="2064-11-29T17:51:44.000+0100" description="-25G Gold f&#xfc;r mutter"/>
+      <transactionlog xmi:id="_8PoUQN7XEe6EC7PAlQp5Ew" amount="-110" date="2064-12-29T17:51:44.000+0100" description="Benzin f&#xfc;r den Eintritt"/>
+      <transactionlog xmi:id="_D1erUN7YEe6EC7PAlQp5Ew" amount="5000" date="2064-12-02T17:51:44.000+0100" description="Bezahlung job"/>
     </inventar>
     <contracts xsi:type="shr5:Lifestyle" xmi:id="_qQxKOeRoEe2EtdvPGzsRdw" name="Middle" parentId="90f6f4c2-9968-42e1-ba79-e2bf530de32e" page="373" verfuegbarkeit="" wertValue="5000" faelligkeitsIntervall="1" unit="month">
       <localizations xmi:id="_qQxKOuRoEe2EtdvPGzsRdw" local="de" name="Mittelschicht"/>
@@ -501,6 +515,7 @@
     <connections xmi:id="_qQxKPuRoEe2EtdvPGzsRdw" influence="2" loyality="2" character="_6rWakAR8Ee6fFtSBGWRFoA"/>
     <connections xmi:id="_qQxKP-RoEe2EtdvPGzsRdw" influence="1" loyality="1" character="_gnAYoARgEe66EcT05mHZow"/>
     <connections xmi:id="_qQxKQORoEe2EtdvPGzsRdw" influence="3" loyality="2" character="_7VNFcO9rEe2MboZfG-JfyQ"/>
+    <connections xmi:id="_S2KtMN7hEe6EC7PAlQp5Ew" loyality="1" character="_E45hEN7hEe6EC7PAlQp5Ew"/>
     <vehicels xsi:type="shr5:Bodenfahrzeug" xmi:id="_qQxKQeRoEe2EtdvPGzsRdw" beschreibung="Dies ist ein unverw&#xfc;stliches Gel&#xe4;ndemotorrad, das bei Motocrossrennen und anderen Extremsportevents genutzt wird. Foto- und Videoaufnahmen zeigen das Motorrad und seinen Fahrer meistens staub- und schlamm verkrustet. &#xA;Es ist beliebt bei Leuten, die nach einem Kick suchen, Wildnisfans und Drogenschmugglern, die nur wenig Frachtraum brauchen." name="Yamaha Growler (Off-Road Bike)" parentId="2df83d3e-78bb-4b42-b19f-78df8588e981" page="462" verfuegbarkeit="0" wertValue="5000" handling="4" geschwindigkeit="3" beschleunigung="1" rumpf="5" pilot="1" sensor="1" fahrzeugTyp="Bikes" panzer="5" sitze="1" handlingGelaende="5">
       <srcBook href="platform:/resource/shr5Resource/shr5-1.shr5#f5ec713c-98cd-41f6-a0a4-4a8eaed55b66"/>
     </vehicels>
@@ -514,8 +529,25 @@
       <metaType href="platform:/resource/shr5Resource/shr5-1.shr5#_Bs3xwN0CEeOvVYoRsPZlnA"/>
       <magic xsi:type="shr5mngt:Mudan" href="platform:/resource/shr5Resource/shr5-1.shr5#_BtNwAN0CEeOvVYoRsPZlnA"/>
     </generatorSrc>
-    <diary xmi:id="_qQxKQ-RoEe2EtdvPGzsRdw" characterDate="2064-11-02T17:51:44.000+0100">
+    <diary xmi:id="_qQxKQ-RoEe2EtdvPGzsRdw" characterDate="2064-11-29T17:51:44.000+0100">
+      <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_m7pxgGpxEe6__bQ-1TqW9A" date="2064-11-02T17:51:44.000+0100">
+        <change xsi:type="shr5mngt:KarmaGaint" href="platform:/resource/shr5Resource/shr5-1.shr5#_bSbEYO-KEeSvgoopBS9psw"/>
+      </entries>
       <entries xmi:id="_FUnjwC_JEe6Yv_QOTV_JWQ" date="2064-11-02T17:51:44.000+0100" message="Ich war so unterwegs, oben bei der Sealda Krupp Archologie.&#xA;Da sehe ich doch wie ein Hubschauber hinter einen 'Flugwese' hereillt.&#xA;"/>
+      <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_zPHIYGWpEe6Mo86crfi21A" date="2064-11-04T17:51:44.000+0100" message="Karma Gaint : 6" change="_xJeRkGWpEe6Mo86crfi21A"/>
+      <entries xsi:type="shr5mngt:TrainingsTime" xmi:id="_QxIiAGpvEe6__bQ-1TqW9A" date="2064-11-04T17:51:44.000+0100" change="_Sxf3QGpvEe6__bQ-1TqW9A" trainingComplete="true">
+        <training xmi:id="_X0IDoGpvEe6__bQ-1TqW9A" start="2064-11-08T17:51:44.000+0100" end="2064-11-14T17:51:44.000+0100"/>
+        <training xmi:id="_QNwMwLzwEe6bwJTjOiRnFA" start="2064-11-16T17:51:44.000+0100" end="2064-11-22T17:51:44.000+0100"/>
+      </entries>
+      <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_orNA8JHsEe6HDs6v_fSHnA" date="2064-11-15T17:51:44.000+0100" message="Karma Gaint : 5" change="_k_AcAJHsEe6HDs6v_fSHnA"/>
+      <entries xmi:id="_s1czsLz1Ee6bwJTjOiRnFA" date="2064-11-15T17:51:44.000+0100" message="Wir machen einen spotanen run, &#xA;in dem wir versuchen ein paar chummers zu Retten aus einem ehmaligen Verstekten Lager,, wir bekommen ein wenig Gold, aber das Lager wird von sog. 'cleanern' gesprengt.&#xA;Die chummer sind verloren."/>
+      <entries xsi:type="shr5mngt:TrainingsTime" xmi:id="_h4fPgLz4Ee6bwJTjOiRnFA" date="2064-11-22T17:51:44.000+0100" change="_jcYrMLz4Ee6bwJTjOiRnFA">
+        <training xmi:id="_ldIa8Lz4Ee6bwJTjOiRnFA" start="2064-11-22T17:51:44.000+0100" end="2064-11-29T17:51:44.000+0100"/>
+      </entries>
+      <entries xmi:id="_2ALk4N7WEe6EC7PAlQp5Ew" date="2064-11-29T17:51:44.000+0100" message="Ich bin im Freudenstand mit den anderen, da lerne ich Wlof kenn.&#xA;Wir veribingen die Nacht."/>
+      <entries xmi:id="_HVHQYN7XEe6EC7PAlQp5Ew" date="2064-11-30T17:51:44.000+0100" message="Wir treffen uns mit John's Sohn.&#xA;Wir sollen Nimbuen Salamander brefeien die aisgewilderd werden sollen.&#xA;Es gibt schlappe 5.000 und ich mochte Johns Sohn noch nie."/>
+      <entries xmi:id="_gqinkN7XEe6EC7PAlQp5Ew" date="2064-12-01T17:51:44.000+0100" message="Wir dringen in das Anwesen ein, k&#xe4;mpfen uns vom Dach runter und clearen.&#xA;Johnson kommt und verl&#xe4;d. &#xA;Die Proteussicherheit schickt ein Wagen, wir schlagen sie in die Flucht und entkommen&#xA;bevor die Prometeus verst&#xe4;rkung kommt."/>
+      <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_0ZUfUN7XEe6EC7PAlQp5Ew" date="2064-12-01T17:51:44.000+0100" message="Karma Gaint : 6" change="_yopy8N7XEe6EC7PAlQp5Ew"/>
     </diary>
   </members>
   <members xsi:type="shr5mngt:NonPlayerCharacter" xmi:id="_7VNFcO9rEe2MboZfG-JfyQ" chracterSource="_xXEoYO9rEe2MboZfG-JfyQ" sex="male">
@@ -652,6 +684,17 @@
     <generatorSrc xsi:type="shr5mngt:FreeStyleGenerator" xmi:id="_6rWarAR8Ee6fFtSBGWRFoA" character="_6rWakAR8Ee6fFtSBGWRFoA" state="commited" characterName="Gangers &amp; street scum">
       <generator xsi:type="shr5mngt:FreeStyle" href="platform:/resource/shr5Resource/shr5-1.shr5#_BtTPkN0CEeOvVYoRsPZlnA"/>
       <selectedGroup href="platform:/resource/shr5Resource/shr5-1.shr5#_B1HHwd0CEeOvVYoRsPZlnA"/>
+      <selectedSpecies href="platform:/resource/shr5Resource/shr5-1.shr5#a53d885d-a4a4-443d-b6a6-b0a55b0a96c7"/>
+      <selectedType href="http://urszeidler.de/shr5/1.0#//MudanPersona"/>
+    </generatorSrc>
+  </members>
+  <members xsi:type="shr5mngt:NonPlayerCharacter" xmi:id="_E45hEN7hEe6EC7PAlQp5Ew" chracterSource="__EOMsN7gEe6EC7PAlQp5Ew">
+    <persona xsi:type="shr5:MudanPersona" xmi:id="_E45hEd7hEe6EC7PAlQp5Ew" beschreibung="Wolf ist Kopfgeldj&#xe4;gering aus dem UCAS.&#xA;Sie kommt immer mal gesch&#xe4;ftlich nach berlin." name="Wolf (Kopfgeldj&#xe4;gerin)" edgeBasis="2" konstitutionBasis="1" geschicklichkeitBasis="1" reaktionBasis="1" staerkeBasis="1" charismaBasis="1" willenskraftBasis="1" intuitionBasis="1" logikBasis="1">
+      <spezies href="platform:/resource/shr5Resource/shr5-1.shr5#a53d885d-a4a4-443d-b6a6-b0a55b0a96c7"/>
+    </persona>
+    <nativeLanguage href="platform:/resource/shr5Resource/shr5-1.shr5#907a3a8f-2c40-4543-a5a9-891bcde41f6b"/>
+    <generatorSrc xsi:type="shr5mngt:FreeStyleGenerator" xmi:id="__EOMsN7gEe6EC7PAlQp5Ew" character="_E45hEN7hEe6EC7PAlQp5Ew" state="commited" selectedGroup="_DATO8ARfEe66EcT05mHZow" characterName="Wolf (Kopfgeldj&#xe4;gerin)">
+      <generator xsi:type="shr5mngt:FreeStyle" href="platform:/resource/shr5Resource/shr5-1.shr5#_BtTPkN0CEeOvVYoRsPZlnA"/>
       <selectedSpecies href="platform:/resource/shr5Resource/shr5-1.shr5#a53d885d-a4a4-443d-b6a6-b0a55b0a96c7"/>
       <selectedType href="http://urszeidler.de/shr5/1.0#//MudanPersona"/>
     </generatorSrc>

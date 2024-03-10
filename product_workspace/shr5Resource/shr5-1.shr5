@@ -27168,6 +27168,7 @@
         <changes xsi:type="shr5mngt:AttributeChange" xmi:id="_jcYrMLz4Ee6bwJTjOiRnFA" from="2" to="3">
           <attibute href="http://urszeidler.de/shr5/1.0#//AbstraktPersona/willenskraftBasis"/>
         </changes>
+        <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_yopy8N7XEe6EC7PAlQp5Ew" date="2064-12-01T17:51:44.000+0100" changeApplied="true" dateApplied="2024-03-10T13:15:01.058+0100" karma="6"/>
         <inventar xsi:type="shr5:Nahkampfwaffe" xmi:id="_qQwjReRoEe2EtdvPGzsRdw" parentId="8f266b4c-4035-4ba3-aa89-3289d0f42ce1" page="422" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="9R" wertValue="1000" beschreibung="Das legendäre zweihändige Schwert der Samurai.&#xA;Das Katana ist nicht nur zum Synonym für Straßensamurais, sondern sogar für Shadowrunner im Allgemeinen geworden, zumindest in den Trids: Jeder hat dort ein Katana, vom Dekker bis zum Magier. Aber nur weil diese Waffe ein blödes Klischee ist, macht sie das nicht weniger gefährlich oder weniger hilfreich in einem Kampf." image="/shr5Resource/images/katana.png" name="Katana" fertigkeit="48763fa5-4b89-48c7-80ff-d0a2761de4c0" schadenscode="(STR+3)P" praezision="7" durchschlagsKraft="-3" reichweite="1">
           <localizations xmi:id="_qQwjRuRoEe2EtdvPGzsRdw" local="de" name="Katana"/>
         </inventar>
@@ -27231,13 +27232,13 @@
         <inventar xsi:type="shr5:Munition" xmi:id="_qQxKBuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="294" proAnzahl="10" type="_ENFDsznTEeSe6_w6Jrbqxg">
           <localizations xmi:id="_qQxKB-RoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
         </inventar>
-        <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCORoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="479" proAnzahl="10" type="_ENFqwTnTEeSe6_w6Jrbqxg">
+        <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCORoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="435" proAnzahl="10" type="_ENFqwTnTEeSe6_w6Jrbqxg">
           <localizations xmi:id="_qQxKCeRoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
         </inventar>
-        <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="800" proAnzahl="10" type="_ENFqwjnTEeSe6_w6Jrbqxg">
+        <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="780" proAnzahl="10" type="_ENFqwjnTEeSe6_w6Jrbqxg">
           <localizations xmi:id="_qQxKC-RoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
         </inventar>
-        <inventar xsi:type="shr5:Granate" xmi:id="_qQxKDORoEe2EtdvPGzsRdw" parentId="f4b92e14-fe1f-4be4-ad73-aed10e1f73b4" page="435" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="6R" wertValue="100" beschreibung="Diese „Betäubungs”-Granaten explodieren in einem blendend hellen Licht und mit einer lauten Druck-&#xA;welle, die sich gleichmäßig über einen Radius von 10 Metern ausbreitet." name="Flash-Bang" schadenscode="10" schadesTyp="geistig" durchschlagsKraft="-4" reichweite="_ENG45DnTEeSe6_w6Jrbqxg" anzahl="10" blast="10m">
+        <inventar xsi:type="shr5:Granate" xmi:id="_qQxKDORoEe2EtdvPGzsRdw" parentId="f4b92e14-fe1f-4be4-ad73-aed10e1f73b4" page="435" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="6R" wertValue="100" beschreibung="Diese „Betäubungs”-Granaten explodieren in einem blendend hellen Licht und mit einer lauten Druck-&#xA;welle, die sich gleichmäßig über einen Radius von 10 Metern ausbreitet." name="Flash-Bang" schadenscode="10" schadesTyp="geistig" durchschlagsKraft="-4" reichweite="_ENG45DnTEeSe6_w6Jrbqxg" anzahl="6" blast="10m">
           <localizations xmi:id="_qQxKDeRoEe2EtdvPGzsRdw" local="de" name="Schockgranate" page="438"/>
         </inventar>
         <inventar xsi:type="shr5:Granate" xmi:id="_qQxKDuRoEe2EtdvPGzsRdw" parentId="f3472dc1-4c7b-403a-8001-6441bb65a687" page="435" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="6R" wertValue="60" beschreibung="Diese Granate ist identisch mit der Rauchgranate, außer dass der Rauch heiße Partikel enthält, die&#xA;Infrarotsicht behindern. Wenden Sie die Sichtbarkeitsmodifikatoren für IR-Rauch (S. 176) an. Die Wolke existiert für etwa 4 Kampfrunden (kürzer bei Wind, länger in geschlossenen Räumen mit schlechter Lüftung, nach Maßgabe des Spielleiters)." name="Thermal Smoke" schadenscode="-" schadesTyp="speziell" reichweite="_ENG45DnTEeSe6_w6Jrbqxg" anzahl="10" blast="10 m Radius">
@@ -27339,6 +27340,8 @@
           <transactionlog xmi:id="_lUKrwGpwEe6__bQ-1TqW9A" amount="-30000" date="2064-11-13T17:51:44.000+0100" description="An Mutter und Gruppe"/>
           <transactionlog xmi:id="_Bg-AoJHtEe6HDs6v_fSHnA" date="2064-11-15T17:51:44.000+0100" description="250 g Gold"/>
           <transactionlog xmi:id="_zefYsLz_Ee6bwJTjOiRnFA" date="2064-11-29T17:51:44.000+0100" description="-25G Gold für mutter"/>
+          <transactionlog xmi:id="_8PoUQN7XEe6EC7PAlQp5Ew" amount="-110" date="2064-12-29T17:51:44.000+0100" description="Benzin für den Eintritt"/>
+          <transactionlog xmi:id="_D1erUN7YEe6EC7PAlQp5Ew" amount="5000" date="2064-12-02T17:51:44.000+0100" description="Bezahlung job"/>
         </inventar>
         <contracts xsi:type="shr5:Lifestyle" xmi:id="_qQxKOeRoEe2EtdvPGzsRdw" name="Middle" parentId="90f6f4c2-9968-42e1-ba79-e2bf530de32e" page="373" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="" wertValue="5000" faelligkeitsIntervall="1" unit="month">
           <localizations xmi:id="_qQxKOuRoEe2EtdvPGzsRdw" local="de" name="Mittelschicht"/>
@@ -27351,6 +27354,7 @@
         <connections xmi:id="_qQxKPuRoEe2EtdvPGzsRdw" influence="2" loyality="2" character="_6rWakAR8Ee6fFtSBGWRFoA"/>
         <connections xmi:id="_qQxKP-RoEe2EtdvPGzsRdw" influence="1" loyality="1" character="_gnAYoARgEe66EcT05mHZow"/>
         <connections xmi:id="_qQxKQORoEe2EtdvPGzsRdw" influence="3" loyality="2" character="_7VNFcO9rEe2MboZfG-JfyQ"/>
+        <connections xmi:id="_S2KtMN7hEe6EC7PAlQp5Ew" loyality="1" character="_E45hEN7hEe6EC7PAlQp5Ew"/>
         <vehicels xsi:type="shr5:Bodenfahrzeug" xmi:id="_qQxKQeRoEe2EtdvPGzsRdw" beschreibung="Dies ist ein unverwüstliches Geländemotorrad, das bei Motocrossrennen und anderen Extremsportevents genutzt wird. Foto- und Videoaufnahmen zeigen das Motorrad und seinen Fahrer meistens staub- und schlamm verkrustet. &#xA;Es ist beliebt bei Leuten, die nach einem Kick suchen, Wildnisfans und Drogenschmugglern, die nur wenig Frachtraum brauchen." name="Yamaha Growler (Off-Road Bike)" parentId="2df83d3e-78bb-4b42-b19f-78df8588e981" page="462" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="0" wertValue="5000" handling="4" geschwindigkeit="3" beschleunigung="1" rumpf="5" pilot="1" sensor="1" fahrzeugTyp="Bikes" panzer="5" sitze="1" handlingGelaende="5"/>
         <generatorSrc xsi:type="shr5mngt:Shr5Generator" xmi:id="_qQxKQuRoEe2EtdvPGzsRdw" character="_qQwi8ORoEe2EtdvPGzsRdw" generator="_BssLkN0CEeOvVYoRsPZlnA" state="commited" characterName="Leon Blumental (Trotz)" resourcen="_BtL60N0CEeOvVYoRsPZlnA" skills="_BtGbQt0CEeOvVYoRsPZlnA" attribute="_Bs4Y0d0CEeOvVYoRsPZlnA" metaType="_Bs3xwN0CEeOvVYoRsPZlnA" magic="_BtNwAN0CEeOvVYoRsPZlnA">
           <selectedGroup href="#_QJXf0ONWEe2VhtFye-_2Dg"/>
@@ -27368,6 +27372,10 @@
           <entries xsi:type="shr5mngt:TrainingsTime" xmi:id="_h4fPgLz4Ee6bwJTjOiRnFA" date="2064-11-22T17:51:44.000+0100" change="_jcYrMLz4Ee6bwJTjOiRnFA">
             <training xmi:id="_ldIa8Lz4Ee6bwJTjOiRnFA" start="2064-11-22T17:51:44.000+0100" end="2064-11-29T17:51:44.000+0100"/>
           </entries>
+          <entries xmi:id="_2ALk4N7WEe6EC7PAlQp5Ew" date="2064-11-29T17:51:44.000+0100" message="Ich bin im Freudenstand mit den anderen, da lerne ich Wlof kenn.&#xA;Wir veribingen die Nacht."/>
+          <entries xmi:id="_HVHQYN7XEe6EC7PAlQp5Ew" date="2064-11-30T17:51:44.000+0100" message="Wir treffen uns mit John's Sohn.&#xA;Wir sollen Nimbuen Salamander brefeien die aisgewilderd werden sollen.&#xA;Es gibt schlappe 5.000 und ich mochte Johns Sohn noch nie."/>
+          <entries xmi:id="_gqinkN7XEe6EC7PAlQp5Ew" date="2064-12-01T17:51:44.000+0100" message="Wir dringen in das Anwesen ein, kämpfen uns vom Dach runter und clearen.&#xA;Johnson kommt und verläd. &#xA;Die Proteussicherheit schickt ein Wagen, wir schlagen sie in die Flucht und entkommen&#xA;bevor die Prometeus verstärkung kommt."/>
+          <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_0ZUfUN7XEe6EC7PAlQp5Ew" date="2064-12-01T17:51:44.000+0100" message="Karma Gaint : 6" change="_yopy8N7XEe6EC7PAlQp5Ew"/>
         </diary>
       </members>
       <members xsi:type="shr5mngt:NonPlayerCharacter" xmi:id="_7VNFcO9rEe2MboZfG-JfyQ" chracterSource="_xXEoYO9rEe2MboZfG-JfyQ" sex="male">
@@ -27440,6 +27448,12 @@
           <localizations xmi:id="_6rWaqwR8Ee6fFtSBGWRFoA" local="de" name="Straße"/>
         </contracts>
         <generatorSrc xsi:type="shr5mngt:FreeStyleGenerator" xmi:id="_6rWarAR8Ee6fFtSBGWRFoA" character="_6rWakAR8Ee6fFtSBGWRFoA" generator="_BtTPkN0CEeOvVYoRsPZlnA" state="commited" selectedGroup="_B1HHwd0CEeOvVYoRsPZlnA" characterName="Gangers &amp; street scum" selectedSpecies="a53d885d-a4a4-443d-b6a6-b0a55b0a96c7">
+          <selectedType href="http://urszeidler.de/shr5/1.0#//MudanPersona"/>
+        </generatorSrc>
+      </members>
+      <members xsi:type="shr5mngt:NonPlayerCharacter" xmi:id="_E45hEN7hEe6EC7PAlQp5Ew" chracterSource="__EOMsN7gEe6EC7PAlQp5Ew" nativeLanguage="907a3a8f-2c40-4543-a5a9-891bcde41f6b">
+        <persona xsi:type="shr5:MudanPersona" xmi:id="_E45hEd7hEe6EC7PAlQp5Ew" beschreibung="Wolf ist Kopfgeldjägering aus dem UCAS.&#xA;Sie kommt immer mal geschäftlich nach berlin." name="Wolf (Kopfgeldjägerin)" edgeBasis="2" konstitutionBasis="1" geschicklichkeitBasis="1" reaktionBasis="1" staerkeBasis="1" charismaBasis="1" willenskraftBasis="1" intuitionBasis="1" logikBasis="1" spezies="a53d885d-a4a4-443d-b6a6-b0a55b0a96c7"/>
+        <generatorSrc xsi:type="shr5mngt:FreeStyleGenerator" xmi:id="__EOMsN7gEe6EC7PAlQp5Ew" character="_E45hEN7hEe6EC7PAlQp5Ew" generator="_BtTPkN0CEeOvVYoRsPZlnA" state="commited" selectedGroup="_DATO8ARfEe66EcT05mHZow" characterName="Wolf (Kopfgeldjägerin)" selectedSpecies="a53d885d-a4a4-443d-b6a6-b0a55b0a96c7">
           <selectedType href="http://urszeidler.de/shr5/1.0#//MudanPersona"/>
         </generatorSrc>
       </members>
