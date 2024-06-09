@@ -32,7 +32,7 @@
 		<fo:title>SC Mundane Persona Leon Blumental (Trotz)</fo:title>
 	
         <fo:static-content flow-name="xsl-region-after">
-            <fo:block font-size="x-small" margin-top="5mm" margin-left="5mm">shr5rcp character sheet SC Mundane Persona Leon Blumental (Trotz) page <fo:page-number/> printed 27.01.24</fo:block>
+            <fo:block font-size="x-small" margin-top="5mm" margin-left="5mm">shr5rcp character sheet SC Mundane Persona Leon Blumental (Trotz) page <fo:page-number/> printed 09.06.24</fo:block>
         </fo:static-content>
 
 		<fo:flow flow-name="xsl-region-body">	
@@ -107,7 +107,7 @@ Straßen Ruf</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-1</fo:block>
+2</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -143,7 +143,7 @@ Karma erworben</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-14</fo:block>
+27</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -151,7 +151,7 @@ Momentanes Karma</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-4</fo:block>
+17</fo:block>
       </fo:table-cell>
      </fo:table-row>
 
@@ -1183,77 +1183,7 @@ Modifications</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Stärke</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-2</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Schadenswiederstand</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-3</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Geschicklichkeit</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-2</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Essenz</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--450</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Panzer</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-4</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
 Restlichtverstaerkung</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-1</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Reaktion</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-2</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Infrarot</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
@@ -1283,7 +1213,77 @@ Eigenschaften Bewegungstalent</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
+Schadenswiederstand</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
 Heilung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Panzer</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+4</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Stärke</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Infrarot</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Reaktion</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Essenz</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-450</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Geschicklichkeit</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
@@ -1574,6 +1574,20 @@ trotz Schieber</fo:block>
       <fo:table-cell>
        <fo:block text-align="right"  >
 2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row font-size="10">
+      <fo:table-cell>
+       <fo:block  >
+Wolf (Kopfgeldjägerin)</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+0</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
       </fo:table-cell>
      </fo:table-row>
     </fo:table-body>
@@ -2338,7 +2352,7 @@ SR5</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Munition: Standardmunition (Reichweite Submachine Guns) 479</fo:block>
+Munition: Standardmunition (Reichweite Submachine Guns) 435</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -2352,7 +2366,7 @@ SR5</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Munition: Standardmunition (Reichweite Assault Rifles) 800</fo:block>
+Munition: Standardmunition (Reichweite Assault Rifles) 761</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -2366,7 +2380,7 @@ SR5</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Granate Schockgranate [10]</fo:block>
+Granate Schockgranate [3]</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -2895,6 +2909,48 @@ SR5</fo:block>
 443</fo:block>
       </fo:table-cell>
    </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Beglaubigter Credstick Sealder Krupp 10000</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+443</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Beglaubigter Credstick Sealder Krupp 10.000</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+443</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
+    <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Beglaubigter Credstick Sealder Krupp 2500</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+SR5</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+443</fo:block>
+      </fo:table-cell>
+   </fo:table-row>
    </fo:table-body>
    </fo:table>
 <!--
@@ -3025,31 +3081,31 @@ Munition: Standardmunition (Reichweite Schwere Pisolen) 294</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Munition: Standardmunition (Reichweite Submachine Guns) 479</fo:block>
+Munition: Standardmunition (Reichweite Submachine Guns) 435</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
-960 ¥</fo:block>
+880 ¥</fo:block>
       </fo:table-cell>
      </fo:table-row>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Munition: Standardmunition (Reichweite Assault Rifles) 800</fo:block>
+Munition: Standardmunition (Reichweite Assault Rifles) 761</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
-1.600 ¥</fo:block>
+1.520 ¥</fo:block>
       </fo:table-cell>
      </fo:table-row>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Granate Schockgranate [10]</fo:block>
+Granate Schockgranate [3]</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
-1.000 ¥</fo:block>
+300 ¥</fo:block>
       </fo:table-cell>
      </fo:table-row>
      <fo:table-row>
@@ -3420,6 +3476,36 @@ Credstick Bargeld Beutel</fo:block>
       <fo:table-cell>
        <fo:block text-align="right"  >
 500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Beglaubigter Credstick Sealder Krupp 10000</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+20 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Beglaubigter Credstick Sealder Krupp 10.000</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+20 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Credstick Beglaubigter Credstick Sealder Krupp 2500</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5 ¥</fo:block>
       </fo:table-cell>
      </fo:table-row>
     </fo:table-body>
@@ -4832,7 +4918,7 @@ extrem</fo:block>
      <fo:table-row>
       <fo:table-cell  font-weight="bold">
        <fo:block >
- Schockgranate [10]</fo:block>
+ Schockgranate [3]</fo:block>
       </fo:table-cell>
       <fo:table-cell  font-size="xx-small" >
        <fo:block >
@@ -5120,11 +5206,11 @@ koerperlich</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Standardmunition (Reichweite Submachine Guns) 479</fo:block>
+Standardmunition (Reichweite Submachine Guns) 435</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-479</fo:block>
+435</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -5144,11 +5230,11 @@ koerperlich</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Standardmunition (Reichweite Assault Rifles) 800</fo:block>
+Standardmunition (Reichweite Assault Rifles) 761</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-800</fo:block>
+761</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -5495,6 +5581,62 @@ An Mutter und Gruppe</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
+29.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Benzin für den Eintritt</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-110 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+02.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Bezahlung job</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+5.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+03.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+für Day</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-5.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+03.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Lebensstil</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-8.250 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
 </fo:block>
       </fo:table-cell>
       <fo:table-cell>
@@ -5503,7 +5645,118 @@ Saldo</fo:block>
       </fo:table-cell>
       <fo:table-cell  font-weight="bold" >
        <fo:block text-align="right"  font-weight="bold"  >
-303.350 ¥</fo:block>
+294.990 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+  <fo:block  >
+Credstick Beglaubigter Credstick Sealder Krupp 10000</fo:block>
+   <fo:table font-size="small">
+    <fo:table-column column-width="10%" />
+    <fo:table-column  />
+    <fo:table-column column-width="30%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+04.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+inital</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+10.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+Saldo</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-weight="bold" >
+       <fo:block text-align="right"  font-weight="bold"  >
+10.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+  <fo:block  >
+Credstick Beglaubigter Credstick Sealder Krupp 10.000</fo:block>
+   <fo:table font-size="small">
+    <fo:table-column column-width="10%" />
+    <fo:table-column  />
+    <fo:table-column column-width="30%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+04.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+inital</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+10.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+Saldo</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-weight="bold" >
+       <fo:block text-align="right"  font-weight="bold"  >
+10.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+  <fo:block  >
+Credstick Beglaubigter Credstick Sealder Krupp 2500</fo:block>
+   <fo:table font-size="small">
+    <fo:table-column column-width="10%" />
+    <fo:table-column  />
+    <fo:table-column column-width="30%" />
+    <fo:table-body  >
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+04.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+inital</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+Saldo</fo:block>
+      </fo:table-cell>
+      <fo:table-cell  font-weight="bold" >
+       <fo:block text-align="right"  font-weight="bold"  >
+2.500 ¥</fo:block>
       </fo:table-cell>
      </fo:table-row>
     </fo:table-body>
@@ -5643,6 +5896,42 @@ Attribute Change Willenskraft Basis 2-&gt;3</fo:block>
 -15</fo:block>
       </fo:table-cell>			
 		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.12.64</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+10.03.24</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 6</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+6</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+04.12.64</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+09.06.24</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 7</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+7</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
   	 </fo:table-body>
   	 </fo:table>
 
@@ -5674,7 +5963,7 @@ diary</fo:block>
       </fo:table-cell>
       <fo:table-cell number-columns-spanned="2">
        <fo:block  >
-</fo:block>
+Karma Gaint : 3</fo:block>
       </fo:table-cell>
      </fo:table-row>
 
@@ -5865,6 +6154,173 @@ Attribute Change Willenskraft Basis 2-&gt;3</fo:block>
        </fo:block >
      </fo:table-cell>
      </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+29.11.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Ich bin im Freudenstand mit den anderen, da lerne ich Wlof kenn.
+Wir veribingen die Nacht.</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+30.11.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Wir treffen uns mit John&apos;s Sohn.
+Wir sollen Nimbuen Salamander brefeien die aisgewilderd werden sollen.
+Es gibt schlappe 5.000 und ich mochte Johns Sohn noch nie.</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Wir dringen in das Anwesen ein, kämpfen uns vom Dach runter und clearen.
+Johnson kommt und verläd. 
+Die Proteussicherheit schickt ein Wagen, wir schlagen sie in die Flucht und entkommen
+bevor die Prometeus verstärkung kommt.</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Karma Gaint : 6</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+03.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Triene verschafft uns einen Job, wir sollen ein geheimes Labor 
+in Strausberg infiltrieren, um einen Helm Prototypen zu extrahieren.
+Das Labor ist verriegelt (containment protocol), und durch den 
+Matrixcrash vergessen worden.  
+Wir schweißen die Außentüten auf, öffnen das Magschloss und fnden eine 
+Szene der Verwüstung.  
+Am Ende kämpfen wir gegen verwandelte Kreaturen (Werwölf artig), ich werde hart
+verwundet, Lebe nur weiter Dank der Trobozytenfabrik, mein Edge ist verbraucht und 
+muss ein StimPatch nehmen. Wir kommen,  zwar arg geschunden, lebend wieder raus.  
+Aron heilt 6 meiner 9 Köperlichen Schäden. Wir fahren zu Bron und machen den Deal klar.  
+Nach einer Stunde bekomme ich die 5 Geistigen Schäden wieder die ich per Stimpatch gesenkt habe.  
+Damit werde ich bei Bron ohnmächtig, und haben 6 Köperliche Schäden.   </fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+04.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Karma Gaint : 7</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
     </fo:table-body>
    </fo:table>
 		</fo:block  >
@@ -5875,7 +6331,7 @@ Attribute Change Willenskraft Basis 2-&gt;3</fo:block>
 
 
 
-		<fo:block  break-before="page" >
+		<fo:block  >
 <fo:block  >
 <fo:leader 
 	leader-pattern="rule" leader-length.optimum="100%"
@@ -5988,7 +6444,7 @@ Eine Knarre der Spitzenklasse. Die Ingram Smartgun ist seit den 2050ern als Waff
      	<fo:table-row font-weight="bold">
       <fo:table-cell>
        <fo:block  >
- Schockgranate [10]</fo:block>
+ Schockgranate [3]</fo:block>
       </fo:table-cell>
     	</fo:table-row>
      	<fo:table-row wrap-option="wrap">
@@ -6232,7 +6688,7 @@ Das Medkit enthält Medikamente, Verbände, Werkzeuge und ein (redseliges) Arzt-
      	<fo:table-row wrap-option="wrap">
       <fo:table-cell>
        <fo:block  >
-10x</fo:block>
+8x</fo:block>
       </fo:table-cell>
     	</fo:table-row>
      	<fo:table-row font-weight="bold">

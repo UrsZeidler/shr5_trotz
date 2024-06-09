@@ -32,7 +32,7 @@
 				<fo:title>Inventory Cards SC Mundane Persona Leon Blumental (Trotz)</fo:title>
 			
 		        <fo:static-content flow-name="xsl-region-after">
-		            <fo:block font-size="x-small" margin-top="5mm" margin-left="5mm">shr5rcp character sheet Inventory Cards SC Mundane Persona Leon Blumental (Trotz) page <fo:page-number/> printed 27.01.24</fo:block>
+		            <fo:block font-size="x-small" margin-top="5mm" margin-left="5mm">shr5rcp character sheet Inventory Cards SC Mundane Persona Leon Blumental (Trotz) page <fo:page-number/> printed 09.06.24</fo:block>
 		        </fo:static-content>
 		
 				<fo:flow flow-name="xsl-region-body">
@@ -3339,7 +3339,7 @@
 		    <fo:table-row font-size="10"   wrap-option="wrap">
 		      <fo:table-cell number-columns-spanned="2">
 		       <fo:block >
-		10x</fo:block>
+		8x</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
 		    <fo:table-row font-size="9" font-style="italic"  >
@@ -5102,7 +5102,7 @@
 		     <fo:table-row>
 		      <fo:table-cell>
 		       <fo:block  >
-		Regular Ammo 800</fo:block>
+		Regular Ammo 761</fo:block>
 		      </fo:table-cell>
 		      <fo:table-cell>
 		       <fo:block  >
@@ -6114,7 +6114,7 @@
 		     <fo:table-row>
 		      <fo:table-cell>
 		       <fo:block  >
-		Regular Ammo 479</fo:block>
+		Regular Ammo 435</fo:block>
 		      </fo:table-cell>
 		      <fo:table-cell>
 		       <fo:block  >
@@ -6270,7 +6270,7 @@
 		     <fo:table-row>
 		      <fo:table-cell  font-weight="bold">
 		       <fo:block >
-		 Schockgranate [10]</fo:block>
+		 Schockgranate [3]</fo:block>
 		      </fo:table-cell>
 		      <fo:table-cell  font-size="xx-small" >
 		       <fo:block >

@@ -27169,6 +27169,7 @@
           <attibute href="http://urszeidler.de/shr5/1.0#//AbstraktPersona/willenskraftBasis"/>
         </changes>
         <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_yopy8N7XEe6EC7PAlQp5Ew" date="2064-12-01T17:51:44.000+0100" changeApplied="true" dateApplied="2024-03-10T13:15:01.058+0100" karma="6"/>
+        <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_Nx8vsCZOEe-XYfmHeeWLmA" date="2064-12-04T17:51:44.000+0100" changeApplied="true" dateApplied="2024-06-09T12:51:56.998+0200" karma="7"/>
         <inventar xsi:type="shr5:Nahkampfwaffe" xmi:id="_qQwjReRoEe2EtdvPGzsRdw" parentId="8f266b4c-4035-4ba3-aa89-3289d0f42ce1" page="422" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="9R" wertValue="1000" beschreibung="Das legendäre zweihändige Schwert der Samurai.&#xA;Das Katana ist nicht nur zum Synonym für Straßensamurais, sondern sogar für Shadowrunner im Allgemeinen geworden, zumindest in den Trids: Jeder hat dort ein Katana, vom Dekker bis zum Magier. Aber nur weil diese Waffe ein blödes Klischee ist, macht sie das nicht weniger gefährlich oder weniger hilfreich in einem Kampf." image="/shr5Resource/images/katana.png" name="Katana" fertigkeit="48763fa5-4b89-48c7-80ff-d0a2761de4c0" schadenscode="(STR+3)P" praezision="7" durchschlagsKraft="-3" reichweite="1">
           <localizations xmi:id="_qQwjRuRoEe2EtdvPGzsRdw" local="de" name="Katana"/>
         </inventar>
@@ -27235,10 +27236,10 @@
         <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCORoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="435" proAnzahl="10" type="_ENFqwTnTEeSe6_w6Jrbqxg">
           <localizations xmi:id="_qQxKCeRoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
         </inventar>
-        <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="780" proAnzahl="10" type="_ENFqwjnTEeSe6_w6Jrbqxg">
+        <inventar xsi:type="shr5:Munition" xmi:id="_qQxKCuRoEe2EtdvPGzsRdw" parentId="b2a0b340-c793-4322-8422-8b03d18a6fae" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="20" name="Regular Ammo" anzahl="761" proAnzahl="10" type="_ENFqwjnTEeSe6_w6Jrbqxg">
           <localizations xmi:id="_qQxKC-RoEe2EtdvPGzsRdw" local="de" name="Munition: Standardmunition"/>
         </inventar>
-        <inventar xsi:type="shr5:Granate" xmi:id="_qQxKDORoEe2EtdvPGzsRdw" parentId="f4b92e14-fe1f-4be4-ad73-aed10e1f73b4" page="435" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="6R" wertValue="100" beschreibung="Diese „Betäubungs”-Granaten explodieren in einem blendend hellen Licht und mit einer lauten Druck-&#xA;welle, die sich gleichmäßig über einen Radius von 10 Metern ausbreitet." name="Flash-Bang" schadenscode="10" schadesTyp="geistig" durchschlagsKraft="-4" reichweite="_ENG45DnTEeSe6_w6Jrbqxg" anzahl="6" blast="10m">
+        <inventar xsi:type="shr5:Granate" xmi:id="_qQxKDORoEe2EtdvPGzsRdw" parentId="f4b92e14-fe1f-4be4-ad73-aed10e1f73b4" page="435" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="6R" wertValue="100" beschreibung="Diese „Betäubungs”-Granaten explodieren in einem blendend hellen Licht und mit einer lauten Druck-&#xA;welle, die sich gleichmäßig über einen Radius von 10 Metern ausbreitet." name="Flash-Bang" schadenscode="10" schadesTyp="geistig" durchschlagsKraft="-4" reichweite="_ENG45DnTEeSe6_w6Jrbqxg" anzahl="3" blast="10m">
           <localizations xmi:id="_qQxKDeRoEe2EtdvPGzsRdw" local="de" name="Schockgranate" page="438"/>
         </inventar>
         <inventar xsi:type="shr5:Granate" xmi:id="_qQxKDuRoEe2EtdvPGzsRdw" parentId="f3472dc1-4c7b-403a-8001-6441bb65a687" page="435" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="6R" wertValue="60" beschreibung="Diese Granate ist identisch mit der Rauchgranate, außer dass der Rauch heiße Partikel enthält, die&#xA;Infrarotsicht behindern. Wenden Sie die Sichtbarkeitsmodifikatoren für IR-Rauch (S. 176) an. Die Wolke existiert für etwa 4 Kampfrunden (kürzer bei Wind, länger in geschlossenen Räumen mit schlechter Lüftung, nach Maßgabe des Spielleiters)." name="Thermal Smoke" schadenscode="-" schadesTyp="speziell" reichweite="_ENG45DnTEeSe6_w6Jrbqxg" anzahl="10" blast="10 m Radius">
@@ -27328,7 +27329,7 @@
         <inventar xsi:type="shr5:Magazin" xmi:id="_rhd8gAPbEe6ry676G8SKSw" parentId="_PErXUD_REeSRYrHAmMULWA" page="433" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="4" wertValue="5" name="Spare Clip" type="_QSOfIJP9EeSg7ale_kHbpw"/>
         <inventar xsi:type="shr5:Magazin" xmi:id="_rhejkAPbEe6ry676G8SKSw" parentId="_PErXUD_REeSRYrHAmMULWA" page="433" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="4" wertValue="5" name="Spare Clip" type="_6j4LkJK4EeSxvrTnLBRm7A"/>
         <inventar xsi:type="shr5:Magazin" xmi:id="_rhfKoAPbEe6ry676G8SKSw" parentId="_PErXUD_REeSRYrHAmMULWA" page="433" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="4" wertValue="5" name="Spare Clip" type="_6j4LkJK4EeSxvrTnLBRm7A"/>
-        <inventar xsi:type="shr5:Gegenstand" xmi:id="_kLG4kCfuEe6qXpPvoYg_BQ" parentId="320bd9e3-e261-4a45-aa03-c740b6855e73" page="451" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="Rating * 2" wertValue="150" beschreibung="10x" name="Stim Patch" kategorie="Biotech" stufe="6">
+        <inventar xsi:type="shr5:Gegenstand" xmi:id="_kLG4kCfuEe6qXpPvoYg_BQ" parentId="320bd9e3-e261-4a45-aa03-c740b6855e73" page="451" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="Rating * 2" wertValue="150" beschreibung="8x" name="Stim Patch" kategorie="Biotech" stufe="6">
           <localizations xmi:id="_kLG4kSfuEe6qXpPvoYg_BQ" local="de" name="Slap Patch, Stim Patch"/>
         </inventar>
         <inventar xsi:type="shr5:Munition" xmi:id="_gL-h0DQpEe6woufsDo9wGQ" parentId="ef9c8aae-26df-4fe6-88b3-79fbb5eb77c5" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="12F" wertValue="120" name="APDS" anzahl="15" proAnzahl="10" armorMod="-4" type="_ENFDsznTEeSe6_w6Jrbqxg">
@@ -27342,6 +27343,17 @@
           <transactionlog xmi:id="_zefYsLz_Ee6bwJTjOiRnFA" date="2064-11-29T17:51:44.000+0100" description="-25G Gold für mutter"/>
           <transactionlog xmi:id="_8PoUQN7XEe6EC7PAlQp5Ew" amount="-110" date="2064-12-29T17:51:44.000+0100" description="Benzin für den Eintritt"/>
           <transactionlog xmi:id="_D1erUN7YEe6EC7PAlQp5Ew" amount="5000" date="2064-12-02T17:51:44.000+0100" description="Bezahlung job"/>
+          <transactionlog xmi:id="_WKcrsCZOEe-XYfmHeeWLmA" amount="-5000" date="2064-12-03T17:51:44.000+0100" description="für Day"/>
+          <transactionlog xmi:id="_e-nQACZOEe-XYfmHeeWLmA" amount="-8250" date="2064-12-03T17:51:44.000+0100" description="Lebensstil"/>
+        </inventar>
+        <inventar xsi:type="shr5:Credstick" xmi:id="_X03JoCZPEe-XYfmHeeWLmA" parentId="_ELzRUTnTEeSe6_w6Jrbqxg" page="443" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="0" wertValue="20" name="Beglaubigter Credstick Sealder Krupp 10000" maxValue="20000">
+          <transactionlog xmi:id="_edY80CZPEe-XYfmHeeWLmA" amount="10000" date="2064-12-04T17:51:44.000+0100" description="inital"/>
+        </inventar>
+        <inventar xsi:type="shr5:Credstick" xmi:id="_miajMCZPEe-XYfmHeeWLmA" parentId="_ELzRUTnTEeSe6_w6Jrbqxg" page="443" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="0" wertValue="20" name="Beglaubigter Credstick Sealder Krupp 10.000" maxValue="20000">
+          <transactionlog xmi:id="_pIoXgCZPEe-XYfmHeeWLmA" amount="10000" date="2064-12-04T17:51:44.000+0100" description="inital"/>
+        </inventar>
+        <inventar xsi:type="shr5:Credstick" xmi:id="_mibxUCZPEe-XYfmHeeWLmA" parentId="_ELzRUDnTEeSe6_w6Jrbqxg" page="443" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="0" wertValue="5" name="Beglaubigter Credstick Sealder Krupp 2500" maxValue="5000">
+          <transactionlog xmi:id="_yEgGUCZPEe-XYfmHeeWLmA" amount="2500" date="2064-12-04T17:51:44.000+0100" description="inital"/>
         </inventar>
         <contracts xsi:type="shr5:Lifestyle" xmi:id="_qQxKOeRoEe2EtdvPGzsRdw" name="Middle" parentId="90f6f4c2-9968-42e1-ba79-e2bf530de32e" page="373" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="" wertValue="5000" faelligkeitsIntervall="1" unit="month">
           <localizations xmi:id="_qQxKOuRoEe2EtdvPGzsRdw" local="de" name="Mittelschicht"/>
@@ -27360,7 +27372,7 @@
           <selectedGroup href="#_QJXf0ONWEe2VhtFye-_2Dg"/>
         </generatorSrc>
         <diary xmi:id="_qQxKQ-RoEe2EtdvPGzsRdw" characterDate="2064-11-29T17:51:44.000+0100">
-          <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_m7pxgGpxEe6__bQ-1TqW9A" date="2064-11-02T17:51:44.000+0100" change="_bSbEYO-KEeSvgoopBS9psw" message="Karma Gaint : 3"/>
+          <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_m7pxgGpxEe6__bQ-1TqW9A" date="2064-11-02T17:51:44.000+0100" message="Karma Gaint : 3" change="_bSbEYO-KEeSvgoopBS9psw"/>
           <entries xmi:id="_FUnjwC_JEe6Yv_QOTV_JWQ" date="2064-11-02T17:51:44.000+0100" message="Ich war so unterwegs, oben bei der Sealda Krupp Archologie.&#xA;Da sehe ich doch wie ein Hubschauber hinter einen 'Flugwese' hereillt.&#xA;"/>
           <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_zPHIYGWpEe6Mo86crfi21A" date="2064-11-04T17:51:44.000+0100" message="Karma Gaint : 6" change="_xJeRkGWpEe6Mo86crfi21A"/>
           <entries xsi:type="shr5mngt:TrainingsTime" xmi:id="_QxIiAGpvEe6__bQ-1TqW9A" date="2064-11-04T17:51:44.000+0100" change="_Sxf3QGpvEe6__bQ-1TqW9A" trainingComplete="true">
@@ -27376,6 +27388,8 @@
           <entries xmi:id="_HVHQYN7XEe6EC7PAlQp5Ew" date="2064-11-30T17:51:44.000+0100" message="Wir treffen uns mit John's Sohn.&#xA;Wir sollen Nimbuen Salamander brefeien die aisgewilderd werden sollen.&#xA;Es gibt schlappe 5.000 und ich mochte Johns Sohn noch nie."/>
           <entries xmi:id="_gqinkN7XEe6EC7PAlQp5Ew" date="2064-12-01T17:51:44.000+0100" message="Wir dringen in das Anwesen ein, kämpfen uns vom Dach runter und clearen.&#xA;Johnson kommt und verläd. &#xA;Die Proteussicherheit schickt ein Wagen, wir schlagen sie in die Flucht und entkommen&#xA;bevor die Prometeus verstärkung kommt."/>
           <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_0ZUfUN7XEe6EC7PAlQp5Ew" date="2064-12-01T17:51:44.000+0100" message="Karma Gaint : 6" change="_yopy8N7XEe6EC7PAlQp5Ew"/>
+          <entries xmi:id="_rY4VICZKEe-XYfmHeeWLmA" date="2064-12-03T17:51:44.000+0100" message="Triene verschafft uns einen Job, wir sollen ein geheimes Labor &#xA;in Strausberg infiltrieren, um einen Helm Prototypen zu extrahieren.&#xA;Das Labor ist verriegelt (containment protocol), und durch den &#xA;Matrixcrash vergessen worden.  &#xA;Wir schweißen die Außentüten auf, öffnen das Magschloss und fnden eine &#xA;Szene der Verwüstung.  &#xA;Am Ende kämpfen wir gegen verwandelte Kreaturen (Werwölf artig), ich werde hart&#xA;verwundet, Lebe nur weiter Dank der Trobozytenfabrik, mein Edge ist verbraucht und &#xA;muss ein StimPatch nehmen. Wir kommen,  zwar arg geschunden, lebend wieder raus.  &#xA;Aron heilt 6 meine 9 Köperlichen Schäden. Wir fahen zu Bron und machen den Deal klar.  &#xA;Nach einer Stunde bekomme ich die 5 Geistigen Schäden wieder die ich per Stimpatch gesenkt habe.  &#xA;Damit werde ich bei Bron ohnmächtig, und haben 6 Köperliche Schäden.   "/>
+          <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_SnGgwCZOEe-XYfmHeeWLmA" date="2064-12-04T17:51:44.000+0100" message="Karma Gaint : 7" change="_Nx8vsCZOEe-XYfmHeeWLmA"/>
         </diary>
       </members>
       <members xsi:type="shr5mngt:NonPlayerCharacter" xmi:id="_7VNFcO9rEe2MboZfG-JfyQ" chracterSource="_xXEoYO9rEe2MboZfG-JfyQ" sex="male">

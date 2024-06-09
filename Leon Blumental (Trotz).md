@@ -5,7 +5,7 @@ Spezies: *Human* Type: *Mundane Persona*
 
 Muttersprache: Sprachfertigkeit Deutsch  
 Date of birth: 20.08.40  Age: 24  
-Karma erworben: 20  Momentanes Karma: 10  
+Karma erworben: 27  Momentanes Karma: 17  
 Straßen Ruf: 2  Schlechter Ruf: 0  
 Height: 185 cm  Weight: 91 kg  
 
@@ -101,8 +101,8 @@ Feuerwaffe Ares Predator V..... 725 ¥
 Feuerwaffe Ingram Smartgun X... 800 ¥    
 Munition: Standardmunition (Reichweite Schwere Pisolen) 294 580 ¥    
 Munition: Standardmunition (Reichweite Submachine Guns) 435 880 ¥    
-Munition: Standardmunition (Reichweite Assault Rifles) 780 1.560 ¥    
-Granate Schockgranate [6]...... 600 ¥    
+Munition: Standardmunition (Reichweite Assault Rifles) 761 1.520 ¥    
+Granate Schockgranate [3]...... 300 ¥    
 Granate Granate: IR-Rauch [10] 600 ¥    
 Gegenstand Suvival-Kiste....... 200 ¥    
 Gegenstand Camouflageseil (100m) 85 ¥    
@@ -140,8 +140,11 @@ Gegenstand Slap Patch, Stim Patch 150 ¥
 Munition: APDS (Reichweite Schwere Pisolen) 15 240 ¥    
 Streifen Ares Predator V (0/15)  ¥    
 Credstick Bargeld Beutel....... 500 ¥    
+Credstick Beglaubigter Credstick Sealder Krupp 10000 20 ¥    
+Credstick Beglaubigter Credstick Sealder Krupp 10.000 20 ¥    
+Credstick Beglaubigter Credstick Sealder Krupp 2500 5 ¥    
 
-sum :.......................... 23.320  
+sum :.......................... 23.025  
 
 ### Vertäge  
 Lifestyle Mittelschicht........ 5.000 ¥/5.500 ¥  
@@ -199,14 +202,28 @@ Johnson kommt und verläd.
 Die Proteussicherheit schickt ein Wagen, wir schlagen sie in die Flucht und entkommen
 bevor die Prometeus verstärkung kommt.  
 **Montag, 1. Dezember 2064**: Karma Gaint : 6  
+**Mittwoch, 3. Dezember 2064**: Triene verschafft uns einen Job, wir sollen ein geheimes Labor 
+in Strausberg infiltrieren, um einen Helm Prototypen zu extrahieren.
+Das Labor ist verriegelt (containment protocol), und durch den 
+Matrixcrash vergessen worden.  
+Wir schweißen die Außentüten auf, öffnen das Magschloss und fnden eine 
+Szene der Verwüstung.  
+Am Ende kämpfen wir gegen verwandelte Kreaturen (Werwölf artig), ich werde hart
+verwundet, Lebe nur weiter Dank der Trobozytenfabrik, mein Edge ist verbraucht und 
+muss ein StimPatch nehmen. Wir kommen,  zwar arg geschunden, lebend wieder raus.  
+Aron heilt 6 meiner 9 Köperlichen Schäden. Wir fahren zu Bron und machen den Deal klar.  
+Nach einer Stunde bekomme ich die 5 Geistigen Schäden wieder die ich per Stimpatch gesenkt habe.  
+Damit werde ich bei Bron ohnmächtig, und haben 6 Köperliche Schäden.     
+**Donnerstag, 4. Dezember 2064**: Karma Gaint : 7  
 
 
 ### Steigerungen  
-Sonntag, 2. November 2064 			Karma Gaint	 : 3       
-Dienstag, 4. November 2064 Karma Gaint	 : 6      
-Samstag, 15. November 2064 Karma Gaint	 : 5      
+Sonntag, 2. November 2064 Karma Gaint : 3       
+Dienstag, 4. November 2064 Karma Gaint : 6      
+Samstag, 15. November 2064 Karma Gaint : 5      
 Samstag, 22. November 2064 Attribute Change Charisma Basis 1->2 -10  
 Montag, 1. Dezember 2064 Karma Gaint : 6        
+Donnerstag, 4. Dezember 2064 Karma Gaint : 7    
 
 
 ### Credsticks  
@@ -227,7 +244,21 @@ Credstick: Credstick Bargeld Beutel
 29.11.64 *-25G Gold für mutter*  ¥  
 29.12.64 *Benzin für den Eintritt* -110 ¥  
 02.12.64 *Bezahlung job* 5.000 ¥  
-Saldo :........................ 308.240 ¥  
+03.12.64 *für Day* -5.000 ¥  
+03.12.64 *Lebensstil* -8.250 ¥  
+Saldo :........................ 294.990 ¥  
+
+Credstick: Credstick Beglaubigter Credstick Sealder Krupp 10000  
+04.12.64 *inital* 10.000 ¥  
+Saldo :........................ 10.000 ¥  
+
+Credstick: Credstick Beglaubigter Credstick Sealder Krupp 10.000  
+04.12.64 *inital* 10.000 ¥  
+Saldo :........................ 10.000 ¥  
+
+Credstick: Credstick Beglaubigter Credstick Sealder Krupp 2500  
+04.12.64 *inital* 2.500 ¥  
+Saldo :........................ 2.500 ¥  
 
 
 
@@ -301,7 +332,7 @@ Myomeric Rope (10m)
 Medkit 6  
 `Das Medkit enthält Medikamente, Verbände, Werkzeuge und ein (redseliges) Arzt-Expertensystem, das den Nutzer bezüglich der Behandlung der gängigsten medizinischen Notfälle (einschließlich Knochenbrüchen, Schusswunden, chemischen Wunden und Vergiftung sowie der Be-`  
 Stim Patch  
-`10x`  
+`8x`  
 Yamaha Growler (Off-Road Bike)  
 `Dies ist ein unverwüstliches Geländemotorrad, das bei Motocrossrennen und anderen Extremsportevents genutzt wird. Foto- und Videoaufnahmen zeigen das Motorrad und seinen Fahrer meistens staub- und schlamm verkrustet. 
 Es ist beliebt bei Leuten, die nach einem Kick suchen, Wildnisfans und Drogenschmugglern, die nur wenig Frachtraum brauchen.`  
