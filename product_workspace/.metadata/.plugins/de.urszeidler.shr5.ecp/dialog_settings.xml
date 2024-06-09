@@ -2,7 +2,7 @@
 <section name="Workbench">
 	<item key="Featuredialog.shrListFilter" value="true"/>
 	<item key="m2t.dir" value="/home/urs/Dokumente/shadowrun/shadowrun_trotz"/>
-	<item key="m2t.transformation" value="chracter report in markdown"/>
+	<item key="m2t.transformation" value="InventoryCards"/>
 	<section name="ExportObjectAction">
 		<item key="PATH" value="/home/urs/Dokumente/shadowrun/shadowrun_trotz"/>
 	</section>
