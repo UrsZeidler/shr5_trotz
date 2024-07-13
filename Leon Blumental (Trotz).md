@@ -5,8 +5,8 @@ Spezies: *Human* Type: *Mundane Persona*
 
 Muttersprache: Sprachfertigkeit Deutsch  
 Date of birth: 20.08.40  Age: 24  
-Karma erworben: 27  Momentanes Karma: 17  
-Straßen Ruf: 2  Schlechter Ruf: 0  
+Karma erworben: 37  Momentanes Karma: 27  
+Straßen Ruf: 3  Schlechter Ruf: 0  
 Height: 185 cm  Weight: 91 kg  
 
 ### Attributes  
@@ -162,9 +162,9 @@ Lizenz Driver Licence 3........ 2.400 ¥
 sum :.......................... 22.800  
 
 ### Connections  
-Connection NSC Mundane Persona Gangers & street scum trotz [2/2]  2/2  
-Connection NSC Mundane Persona Türsteher [1/1]  1/1  
-Connection NSC Mundane Persona trotz Schieber [3/2]  3/2  
+Connection NSC Mundane Persona Markus (Gangers & street scum) [2/2]  2/2  
+Connection NSC Mundane Persona Peter (Türsteher) [1/1]  1/1  
+Connection NSC Mundane Persona Ritchy (Schieber) [3/2]  3/2  
 Connection NSC Mundane Persona Wolf (Kopfgeldjägerin) [0/1]  0/1  
 
 
@@ -215,6 +215,14 @@ Aron heilt 6 meiner 9 Köperlichen Schäden. Wir fahren zu Bron und machen den D
 Nach einer Stunde bekomme ich die 5 Geistigen Schäden wieder die ich per Stimpatch gesenkt habe.  
 Damit werde ich bei Bron ohnmächtig, und haben 6 Köperliche Schäden.     
 **Donnerstag, 4. Dezember 2064**: Karma Gaint : 7  
+**Donnerstag, 4. Dezember 2064**: Ich verbringe zwei Tage im Bett und kuriere meine Wunden.  
+**Samstag, 6. Dezember 2064**: Wir sind auf der Suche nach Essen, nach dem das Bier alle ist.
+Wir haben gehört das in Pankow Essen verteilt wird.
+Wir wandern da hin.
+Dort sind wir dabei wie das BKA den Shattennexus Stürmt.
+Ich kann 11Phasen Aron Retten und wir enkommen mir einer unbekannten die sich als 
+übrig geblieben "Terroristin" entpupt, wir dagen ihr zu sie nach Brandenburg zu bringen.  
+**Samstag, 6. Dezember 2064**: Karma Gaint : 10  
 
 
 ### Steigerungen  
@@ -224,6 +232,7 @@ Samstag, 15. November 2064 Karma Gaint : 5
 Samstag, 22. November 2064 Attribute Change Charisma Basis 1->2 -10  
 Montag, 1. Dezember 2064 Karma Gaint : 6        
 Donnerstag, 4. Dezember 2064 Karma Gaint : 7    
+Samstag, 6. Dezember 2064 Karma Gaint : 10      
 
 
 ### Credsticks  
@@ -246,7 +255,9 @@ Credstick: Credstick Bargeld Beutel
 02.12.64 *Bezahlung job* 5.000 ¥  
 03.12.64 *für Day* -5.000 ¥  
 03.12.64 *Lebensstil* -8.250 ¥  
-Saldo :........................ 294.990 ¥  
+04.12.64 *Für Bier* -1.500 ¥  
+06.12.64 *Für Markus * -2.000 ¥  
+Saldo :........................ 291.490 ¥  
 
 Credstick: Credstick Beglaubigter Credstick Sealder Krupp 10000  
 04.12.64 *inital* 10.000 ¥  
