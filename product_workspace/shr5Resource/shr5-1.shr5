@@ -27015,7 +27015,7 @@
     </groups>
     <groups xmi:id="_DATO8ARfEe66EcT05mHZow" name="trotz's netz">
       <members xsi:type="shr5mngt:PlayerCharacter" xmi:id="_qQwi8ORoEe2EtdvPGzsRdw" chracterSource="_qQxKQuRoEe2EtdvPGzsRdw" choosenLifestyle="_qQxKOeRoEe2EtdvPGzsRdw" nativeLanguage="a72084f6-3a4c-4c23-82aa-4697e543ee0b" sex="male" height="185" dateofbirth="2040-08-20T22:07:08.886+0200" weight="91">
-        <persona xsi:type="shr5:MudanPersona" xmi:id="_qQwi8eRoEe2EtdvPGzsRdw" image="/home/urs/Downloads/myJ1YCBY.jpeg" name="Leon Blumental (Trotz)" edgeBasis="5" konstitutionBasis="4" geschicklichkeitBasis="6" reaktionBasis="5" staerkeBasis="3" charismaBasis="2" willenskraftBasis="2" intuitionBasis="5" logikBasis="2" spezies="a53d885d-a4a4-443d-b6a6-b0a55b0a96c7">
+        <persona xsi:type="shr5:MudanPersona" xmi:id="_qQwi8eRoEe2EtdvPGzsRdw" image="/home/urs/Downloads/myJ1YCBY.jpeg" name="Leon Blumental (Trotz)" edgeBasis="6" konstitutionBasis="4" geschicklichkeitBasis="6" reaktionBasis="5" staerkeBasis="3" charismaBasis="2" willenskraftBasis="2" intuitionBasis="5" logikBasis="2" spezies="a53d885d-a4a4-443d-b6a6-b0a55b0a96c7">
           <fertigkeiten xmi:id="_qQwi8uRoEe2EtdvPGzsRdw" stufe="5" fertigkeit="48763fa5-4b89-48c7-80ff-d0a2761de4c0"/>
           <fertigkeiten xmi:id="_qQwi8-RoEe2EtdvPGzsRdw" stufe="3" fertigkeit="4fcd40cb-4b02-4b7e-afcb-f44d46cd5706"/>
           <fertigkeiten xmi:id="_qQwi9ORoEe2EtdvPGzsRdw" stufe="3" fertigkeit="adf31a50-b228-4e09-a09c-46ab9f5e59a1"/>
@@ -27171,6 +27171,10 @@
         <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_yopy8N7XEe6EC7PAlQp5Ew" date="2064-12-01T17:51:44.000+0100" changeApplied="true" dateApplied="2024-03-10T13:15:01.058+0100" karma="6"/>
         <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_Nx8vsCZOEe-XYfmHeeWLmA" date="2064-12-04T17:51:44.000+0100" changeApplied="true" dateApplied="2024-06-09T12:51:56.998+0200" karma="7"/>
         <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_X_h-cECvEe-uIM0uHZ5rXw" date="2064-12-06T17:51:44.000+0100" changeApplied="true" dateApplied="2024-07-13T02:32:51.125+0200" karma="10"/>
+        <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_58iF0MBbEe-rDKcwQ6ezPg" date="2064-12-07T17:51:44.000+0100" changeApplied="true" dateApplied="2024-12-22T12:57:37.650+0100" karma="3"/>
+        <changes xsi:type="shr5mngt:AttributeChange" xmi:id="_jcYrMLz4Ee6bwJTjOiRnFB" date="2064-12-07T17:51:44.000+0100" changeApplied="true" dateApplied="2024-12-22T09:45:11.511+0100" from="5" to="6">
+          <attibute href="http://urszeidler.de/shr5/1.0#//SpezielleAttribute/edgeBasis"/>
+        </changes>
         <inventar xsi:type="shr5:Nahkampfwaffe" xmi:id="_qQwjReRoEe2EtdvPGzsRdw" parentId="8f266b4c-4035-4ba3-aa89-3289d0f42ce1" page="422" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="9R" wertValue="1000" beschreibung="Das legendäre zweihändige Schwert der Samurai.&#xA;Das Katana ist nicht nur zum Synonym für Straßensamurais, sondern sogar für Shadowrunner im Allgemeinen geworden, zumindest in den Trids: Jeder hat dort ein Katana, vom Dekker bis zum Magier. Aber nur weil diese Waffe ein blödes Klischee ist, macht sie das nicht weniger gefährlich oder weniger hilfreich in einem Kampf." image="/shr5Resource/images/katana.png" name="Katana" fertigkeit="48763fa5-4b89-48c7-80ff-d0a2761de4c0" schadenscode="(STR+3)P" praezision="7" durchschlagsKraft="-3" reichweite="1">
           <localizations xmi:id="_qQwjRuRoEe2EtdvPGzsRdw" local="de" name="Katana"/>
         </inventar>
@@ -27312,7 +27316,7 @@
         <inventar xsi:type="shr5:Munition" xmi:id="_t_uEcAPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="100" proAnzahl="10" armorMod="1" type="_ENFqwTnTEeSe6_w6Jrbqxg">
           <localizations xmi:id="_t_uEcQPXEe6SQ9KwvYZQrA" local="de" name="Munition: Gelgeschosse"/>
         </inventar>
-        <inventar xsi:type="shr5:Munition" xmi:id="_t_uEcgPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="143" proAnzahl="10" armorMod="1" type="_ENFqwjnTEeSe6_w6Jrbqxg">
+        <inventar xsi:type="shr5:Munition" xmi:id="_t_uEcgPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="140" proAnzahl="10" armorMod="1" type="_ENFqwjnTEeSe6_w6Jrbqxg">
           <localizations xmi:id="_t_uEcwPXEe6SQ9KwvYZQrA" local="de" name="Munition: Gelgeschosse"/>
         </inventar>
         <inventar xsi:type="shr5:Munition" xmi:id="_oqmkcAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="9F" wertValue="80" name="Ammo: Explosive Rounds" anzahl="100" proAnzahl="10" damageMod="1" armorMod="-1" type="_ENFqwTnTEeSe6_w6Jrbqxg">
@@ -27348,6 +27352,7 @@
           <transactionlog xmi:id="_e-nQACZOEe-XYfmHeeWLmA" amount="-8250" date="2064-12-03T17:51:44.000+0100" description="Lebensstil"/>
           <transactionlog xmi:id="_al-joECsEe-uIM0uHZ5rXw" amount="-1500" date="2064-12-04T17:51:44.000+0100" description="Für Bier"/>
           <transactionlog xmi:id="_gDMaQECsEe-uIM0uHZ5rXw" amount="-2000" date="2064-12-06T17:51:44.000+0100" description="Für Markus "/>
+          <transactionlog xmi:id="_clW-MMBgEe-3Vtlah3-frg" amount="-1000" date="2064-12-06T17:51:44.000+0100" description="für Markus"/>
         </inventar>
         <inventar xsi:type="shr5:Credstick" xmi:id="_X03JoCZPEe-XYfmHeeWLmA" parentId="_ELzRUTnTEeSe6_w6Jrbqxg" page="443" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="0" wertValue="20" name="Beglaubigter Credstick Sealder Krupp 10000" maxValue="20000">
           <transactionlog xmi:id="_edY80CZPEe-XYfmHeeWLmA" amount="10000" date="2064-12-04T17:51:44.000+0100" description="inital"/>
@@ -27396,6 +27401,8 @@
           <entries xmi:id="_03B1kECsEe-uIM0uHZ5rXw" date="2064-12-04T17:51:44.000+0100" message="Ich verbringe zwei Tage im Bett und kuriere meine Wunden."/>
           <entries xmi:id="_KLGQIECtEe-uIM0uHZ5rXw" date="2064-12-06T17:51:44.000+0100" message="Wir sind auf der Suche nach Essen, nach dem das Bier alle ist.&#xA;Wir haben gehört das in Pankow Essen verteilt wird.&#xA;Wir wandern da hin.&#xA;Dort sind wir dabei wie das BKA den Shattennexus Stürmt.&#xA;Ich kann 11Phasen Aron Retten und wir enkommen mir einer unbekannten die sich als &#xA;übrig geblieben &quot;Terroristin&quot; entpupt, wir dagen ihr zu sie nach Brandenburg zu bringen."/>
           <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_b9MG0ECvEe-uIM0uHZ5rXw" date="2064-12-06T17:51:44.000+0100" message="Karma Gaint : 10" change="_X_h-cECvEe-uIM0uHZ5rXw"/>
+          <entries xmi:id="_FkarwMBYEe-rDKcwQ6ezPg" date="2064-12-07T17:51:44.000+0100" message="Um sie nach Brandenburg zu bringen oder weiter gehen wir zusammen zu den Russen in den Osramhöfen.&#xA;Da bekommen wir einen Job den wir zu erledigen haben. &#xA;Am Westhafen sollen wir ein Lagerhaus abfackeln und ein paar 'Gefäschte' Produkte bergen.&#xA;Wir dringen mühelos ein ein aber werden vom Sicherheitsdienst überrascht. &#xA;Wir Fackeln das Lagerhaus ab und flüchten in den Keller.&#xA;Wir finden keinen Ausgang aber wir finden eine Bombe die von&#xA;13Pahsen Aron entschäft wird.  Dann finden wir doch einen Ausgang, wir &#xA;schalten dei Wachmänner aus und fliehen auf das nächste Grundstück.&#xA;Wir kehren zu den Russen zurück und alles ist soweit klar.&#xA;Wir begleiten sie weiter nach Nürnberg.&#xA;"/>
+          <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_8DfLQMBbEe-rDKcwQ6ezPg" date="2064-12-07T17:51:44.000+0100" message="Karma Gaint : 3" change="_58iF0MBbEe-rDKcwQ6ezPg"/>
         </diary>
       </members>
       <members xsi:type="shr5mngt:NonPlayerCharacter" xmi:id="_7VNFcO9rEe2MboZfG-JfyQ" chracterSource="_xXEoYO9rEe2MboZfG-JfyQ" sex="male">

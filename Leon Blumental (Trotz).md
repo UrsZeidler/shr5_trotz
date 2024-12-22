@@ -5,8 +5,8 @@ Spezies: *Human* Type: *Mundane Persona*
 
 Muttersprache: Sprachfertigkeit Deutsch  
 Date of birth: 20.08.40  Age: 24  
-Karma erworben: 37  Momentanes Karma: 27  
-Straßen Ruf: 3  Schlechter Ruf: 0  
+Karma erworben: 40  Momentanes Karma: 0  
+Straßen Ruf: 4  Schlechter Ruf: 0  
 Height: 185 cm  Weight: 91 kg  
 
 ### Attributes  
@@ -18,7 +18,7 @@ Willenskraft................... 2
 Logik.......................... 2  
 Intuition...................... 5  
 Charisma....................... 2  
-Edge........................... 5  
+Edge........................... 6  
 
 Essenz......................... 1.5  
 Initative...................... 12+3w6  
@@ -126,7 +126,7 @@ Gegenstand Medkit 6............ 1.500 ¥
 Gegenstand Medkit-Nachfüllpack 100 ¥    
 Munition: Gelgeschosse (Reichweite Schwere Pisolen) 50 125 ¥    
 Munition: Gelgeschosse (Reichweite Submachine Guns) 100 250 ¥    
-Munition: Gelgeschosse (Reichweite Assault Rifles) 143 350 ¥    
+Munition: Gelgeschosse (Reichweite Assault Rifles) 140 350 ¥    
 Munition: Explosivgeschosse (Reichweite Submachine Guns) 100 800 ¥    
 Munition: Explosivgeschosse (Reichweite Schwere Pisolen) 100 800 ¥    
 Munition: Explosivgeschosse (Reichweite Assault Rifles) 200 1.600 ¥    
@@ -223,6 +223,18 @@ Dort sind wir dabei wie das BKA den Shattennexus Stürmt.
 Ich kann 11Phasen Aron Retten und wir enkommen mir einer unbekannten die sich als 
 übrig geblieben "Terroristin" entpupt, wir dagen ihr zu sie nach Brandenburg zu bringen.  
 **Samstag, 6. Dezember 2064**: Karma Gaint : 10  
+**Sonntag, 7. Dezember 2064**: Um sie nach Brandenburg zu bringen oder weiter gehen wir zusammen zu den Russen in den Osramhöfen.
+Da bekommen wir einen Job den wir zu erledigen haben. 
+Am Westhafen sollen wir ein Lagerhaus abfackeln und ein paar 'Gefäschte' Produkte bergen.
+Wir dringen mühelos ein ein aber werden vom Sicherheitsdienst überrascht. 
+Wir Fackeln das Lagerhaus ab und flüchten in den Keller.
+Wir finden keinen Ausgang aber wir finden eine Bombe die von
+13Pahsen Aron entschäft wird.  Dann finden wir doch einen Ausgang, wir 
+schalten dei Wachmänner aus und fliehen auf das nächste Grundstück.
+Wir kehren zu den Russen zurück und alles ist soweit klar.
+Wir begleiten sie weiter nach Nürnberg.
+  
+**Sonntag, 7. Dezember 2064**: Karma Gaint : 3  
 
 
 ### Steigerungen  
@@ -233,6 +245,8 @@ Samstag, 22. November 2064 Attribute Change Charisma Basis 1->2 -10
 Montag, 1. Dezember 2064 Karma Gaint : 6        
 Donnerstag, 4. Dezember 2064 Karma Gaint : 7    
 Samstag, 6. Dezember 2064 Karma Gaint : 10      
+Sonntag, 7. Dezember 2064 Karma Gaint : 3       
+Sonntag, 7. Dezember 2064 Attribute Change Edge Basis 5->6 -30  
 
 
 ### Credsticks  
@@ -257,7 +271,8 @@ Credstick: Credstick Bargeld Beutel
 03.12.64 *Lebensstil* -8.250 ¥  
 04.12.64 *Für Bier* -1.500 ¥  
 06.12.64 *Für Markus * -2.000 ¥  
-Saldo :........................ 291.490 ¥  
+06.12.64 *für Markus* -1.000 ¥  
+Saldo :........................ 290.490 ¥  
 
 Credstick: Credstick Beglaubigter Credstick Sealder Krupp 10000  
 04.12.64 *inital* 10.000 ¥  
