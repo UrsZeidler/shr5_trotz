@@ -5,7 +5,7 @@ Spezies: *Human* Type: *Mundane Persona*
 
 Muttersprache: Sprachfertigkeit Deutsch  
 Date of birth: 20.08.40  Age: 24  
-Karma erworben: 40  Momentanes Karma: 0  
+Karma erworben: 44  Momentanes Karma: 4  
 Straßen Ruf: 4  Schlechter Ruf: 0  
 Height: 185 cm  Weight: 91 kg  
 
@@ -99,7 +99,7 @@ Nahkampfwaffe Überlebensmesser 100 ¥
 Feuerwaffe Ares Alpha.......... 2.650 ¥    
 Feuerwaffe Ares Predator V..... 725 ¥    
 Feuerwaffe Ingram Smartgun X... 800 ¥    
-Munition: Standardmunition (Reichweite Schwere Pisolen) 294 580 ¥    
+Munition: Standardmunition (Reichweite Schwere Pisolen) 290 580 ¥    
 Munition: Standardmunition (Reichweite Submachine Guns) 435 880 ¥    
 Munition: Standardmunition (Reichweite Assault Rifles) 761 1.520 ¥    
 Granate Schockgranate [3]...... 300 ¥    
@@ -235,6 +235,37 @@ Wir kehren zu den Russen zurück und alles ist soweit klar.
 Wir begleiten sie weiter nach Nürnberg.
   
 **Sonntag, 7. Dezember 2064**: Karma Gaint : 3  
+**Montag, 8. Dezember 2064**: Wir holen die Sachen von Anarchist aus dem Ostbahnhof.
+
+Wir bemerken drei Gestalten auch einen Watcher bemerken wir.
+Di-ePersonen sind keine Gang mitglieder.
+Ihi: 27 
+Ich stehe neben dem P1 und der gibt sich als BIS zu
+erkennen, bevor er versucht auf mich zu schießen.
+Ich schieße zuerst.
+
+Mache 6 Kreutz.
+Dann schießen er und seine zwei Kollegen auf mich und
+ich habe 8 geistige Kreutze und muss erstmal fliehen.
+
+Ini: 22 
+Person 3 schießt auf mich ich habe also 9 Geistige und
+2 Körperlich Schaden.
+Ich werde bewustlos vor dem Schließfach.
+
+Day versorgt mich mit einem
+stimmpatch, ich habe 3 Geistige
+und 2 Körperlich. Bin wieder im Spiel.
+Mi 25/18
+13 Phasen Aran erledigt den
+letzen Tagen.
+Dann Fliehen wir.
+Wir fahren nach Führt.
+
+Corp shark ist ihr Kontakt.
+Bundesamt für innere Sicherheit. Einheit 13
+  
+**Montag, 8. Dezember 2064**: Karma Gaint : 4  
 
 
 ### Steigerungen  
@@ -247,6 +278,7 @@ Donnerstag, 4. Dezember 2064 Karma Gaint : 7
 Samstag, 6. Dezember 2064 Karma Gaint : 10      
 Sonntag, 7. Dezember 2064 Karma Gaint : 3       
 Sonntag, 7. Dezember 2064 Attribute Change Edge Basis 5->6 -30  
+Montag, 8. Dezember 2064 Karma Gaint : 4        
 
 
 ### Credsticks  
