@@ -32,7 +32,7 @@
 				<fo:title>Inventory Cards SC Mundane Persona Leon Blumental (Trotz)</fo:title>
 			
 		        <fo:static-content flow-name="xsl-region-after">
-		            <fo:block font-size="x-small" margin-top="5mm" margin-left="5mm">shr5rcp character sheet Inventory Cards SC Mundane Persona Leon Blumental (Trotz) page <fo:page-number/> printed 09.06.24</fo:block>
+		            <fo:block font-size="x-small" margin-top="5mm" margin-left="5mm">shr5rcp character sheet Inventory Cards SC Mundane Persona Leon Blumental (Trotz) page <fo:page-number/> printed 06.06.25</fo:block>
 		        </fo:static-content>
 		
 				<fo:flow flow-name="xsl-region-body">
@@ -150,7 +150,7 @@
 		      </fo:table-cell> 
 		      <fo:table-cell>
 		       <fo:block >
-		5 
+		6 
 		</fo:block>
 		      </fo:table-cell>
 		     </fo:table-row>
@@ -355,6 +355,13 @@
 		         height="15"
 		         width="16"
 		         id="rect-monitorbox-5"
+		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+		   <svg:rect
+		         y="0"
+		         x="105"
+		         height="15"
+		         width="16"
+		         id="rect-monitorbox-6"
 		         style="fill:#fdfdfd;fill-opacity:0;fill-rule:nonzero;stroke:#13100a;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
 			</svg:g>
 		</svg:svg>
@@ -5112,7 +5119,7 @@
 		     <fo:table-row>
 		      <fo:table-cell>
 		       <fo:block  >
-		Gel Rounds 143</fo:block>
+		Gel Rounds 140</fo:block>
 		      </fo:table-cell>
 		      <fo:table-cell>
 		       <fo:block  >
@@ -5569,7 +5576,7 @@
 		     <fo:table-row>
 		      <fo:table-cell>
 		       <fo:block  >
-		Regular Ammo 294</fo:block>
+		Regular Ammo 290</fo:block>
 		      </fo:table-cell>
 		      <fo:table-cell>
 		       <fo:block  >

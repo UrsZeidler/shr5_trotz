@@ -27176,6 +27176,9 @@
           <attibute href="http://urszeidler.de/shr5/1.0#//SpezielleAttribute/edgeBasis"/>
         </changes>
         <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_jF-a0CTiEfCjg7VMJxnhPg" date="2064-12-08T17:51:44.000+0100" changeApplied="true" dateApplied="2025-04-29T12:13:22.983+0200" karma="4"/>
+        <changes xsi:type="shr5mngt:AttributeChange" xmi:id="_9Gfx4EI4EfCMl93rl8m16w" from="3" to="4">
+          <attibute href="http://urszeidler.de/shr5/1.0#//AbstraktPersona/staerkeBasis"/>
+        </changes>
         <inventar xsi:type="shr5:Nahkampfwaffe" xmi:id="_qQwjReRoEe2EtdvPGzsRdw" parentId="8f266b4c-4035-4ba3-aa89-3289d0f42ce1" page="422" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="9R" wertValue="1000" beschreibung="Das legendäre zweihändige Schwert der Samurai.&#xA;Das Katana ist nicht nur zum Synonym für Straßensamurais, sondern sogar für Shadowrunner im Allgemeinen geworden, zumindest in den Trids: Jeder hat dort ein Katana, vom Dekker bis zum Magier. Aber nur weil diese Waffe ein blödes Klischee ist, macht sie das nicht weniger gefährlich oder weniger hilfreich in einem Kampf." image="/shr5Resource/images/katana.png" name="Katana" fertigkeit="48763fa5-4b89-48c7-80ff-d0a2761de4c0" schadenscode="(STR+3)P" praezision="7" durchschlagsKraft="-3" reichweite="1">
           <localizations xmi:id="_qQwjRuRoEe2EtdvPGzsRdw" local="de" name="Katana"/>
         </inventar>
@@ -27390,8 +27393,9 @@
           </entries>
           <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_orNA8JHsEe6HDs6v_fSHnA" date="2064-11-15T17:51:44.000+0100" message="Karma Gaint : 5" change="_k_AcAJHsEe6HDs6v_fSHnA"/>
           <entries xmi:id="_s1czsLz1Ee6bwJTjOiRnFA" date="2064-11-15T17:51:44.000+0100" message="Wir machen einen spotanen run, &#xA;in dem wir versuchen ein paar chummers zu Retten aus einem ehmaligen Verstekten Lager,, wir bekommen ein wenig Gold, aber das Lager wird von sog. 'cleanern' gesprengt.&#xA;Die chummer sind verloren."/>
-          <entries xsi:type="shr5mngt:TrainingsTime" xmi:id="_h4fPgLz4Ee6bwJTjOiRnFA" date="2064-11-22T17:51:44.000+0100" change="_jcYrMLz4Ee6bwJTjOiRnFA">
+          <entries xsi:type="shr5mngt:TrainingsTime" xmi:id="_h4fPgLz4Ee6bwJTjOiRnFA" date="2064-11-22T17:51:44.000+0100" change="_jcYrMLz4Ee6bwJTjOiRnFA" trainingComplete="true">
             <training xmi:id="_ldIa8Lz4Ee6bwJTjOiRnFA" start="2064-11-22T17:51:44.000+0100" end="2064-11-29T17:51:44.000+0100"/>
+            <training xmi:id="_I4-W4EI4EfCMl93rl8m16w" start="2064-12-09T17:51:44.000+0100" end="2064-12-21T17:51:44.000+0100"/>
           </entries>
           <entries xmi:id="_2ALk4N7WEe6EC7PAlQp5Ew" date="2064-11-29T17:51:44.000+0100" message="Ich bin im Freudenstand mit den anderen, da lerne ich Wlof kenn.&#xA;Wir veribingen die Nacht."/>
           <entries xmi:id="_HVHQYN7XEe6EC7PAlQp5Ew" date="2064-11-30T17:51:44.000+0100" message="Wir treffen uns mit John's Sohn.&#xA;Wir sollen Nimbuen Salamander brefeien die aisgewilderd werden sollen.&#xA;Es gibt schlappe 5.000 und ich mochte Johns Sohn noch nie."/>
@@ -27406,6 +27410,9 @@
           <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_8DfLQMBbEe-rDKcwQ6ezPg" date="2064-12-07T17:51:44.000+0100" message="Karma Gaint : 3" change="_58iF0MBbEe-rDKcwQ6ezPg"/>
           <entries xmi:id="_qWv0YCTPEfCjg7VMJxnhPg" date="2064-12-08T17:51:44.000+0100" message="Wir holen die Sachen von Anarchist aus dem Ostbahnhof.&#xA;&#xA;Wir bemerken drei Gestalten auch einen Watcher bemerken wir.&#xA;Di-ePersonen sind keine Gang mitglieder.&#xA;Ihi: 27 &#xA;Ich stehe neben dem P1 und der gibt sich als BIS zu&#xA;erkennen, bevor er versucht auf mich zu schießen.&#xA;Ich schieße zuerst.&#xA;&#xA;Mache 6 Kreutz.&#xA;Dann schießen er und seine zwei Kollegen auf mich und&#xA;ich habe 8 geistige Kreutze und muss erstmal fliehen.&#xA;&#xA;Ini: 22 &#xA;Person 3 schießt auf mich ich habe also 9 Geistige und&#xA;2 Körperlich Schaden.&#xA;Ich werde bewustlos vor dem Schließfach.&#xA;&#xA;Day versorgt mich mit einem&#xA;stimmpatch, ich habe 3 Geistige&#xA;und 2 Körperlich. Bin wieder im Spiel.&#xA;Mi 25/18&#xA;13 Phasen Aran erledigt den&#xA;letzen Tagen.&#xA;Dann Fliehen wir.&#xA;Wir fahren nach Führt.&#xA;&#xA;Corp shark ist ihr Kontakt.&#xA;Bundesamt für innere Sicherheit. Einheit 13&#xA;"/>
           <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_lQVZkCTiEfCjg7VMJxnhPg" date="2064-12-08T17:51:44.000+0100" message="Karma Gaint : 4" change="_jF-a0CTiEfCjg7VMJxnhPg"/>
+          <entries xsi:type="shr5mngt:TrainingsTime" xmi:id="_4dDhkEI4EfCMl93rl8m16w" date="2064-12-21T17:51:44.000+0100" change="_9Gfx4EI4EfCMl93rl8m16w">
+            <training xmi:id="__LiLwEI4EfCMl93rl8m16w" start="2064-12-21T17:51:44.000+0100" end="2065-01-03T17:51:44.000+0100"/>
+          </entries>
         </diary>
       </members>
       <members xsi:type="shr5mngt:NonPlayerCharacter" xmi:id="_7VNFcO9rEe2MboZfG-JfyQ" chracterSource="_xXEoYO9rEe2MboZfG-JfyQ" sex="male">

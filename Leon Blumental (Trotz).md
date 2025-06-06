@@ -191,6 +191,7 @@ in dem wir versuchen ein paar chummers zu Retten aus einem ehmaligen Verstekten 
 Die chummer sind verloren.  
 **Samstag, 22. November 2064**: training for Attribute Change Willenskraft Basis 2->3  
  * 22.11.64 - 29.11.64 : 8 Days_Trained  
+ * 09.12.64 - 21.12.64 : 13 Days_Trained  
 
 **Samstag, 29. November 2064**: Ich bin im Freudenstand mit den anderen, da lerne ich Wlof kenn.
 Wir veribingen die Nacht.  
@@ -266,6 +267,9 @@ Corp shark ist ihr Kontakt.
 Bundesamt für innere Sicherheit. Einheit 13
   
 **Montag, 8. Dezember 2064**: Karma Gaint : 4  
+**Sonntag, 21. Dezember 2064**: training for Attribute Change Stärke Basis 3->4  
+ * 21.12.64 - 03.01.65 : 14 Days_Trained  
+
 
 
 ### Steigerungen  

@@ -32,7 +32,7 @@
 		<fo:title>SC Mundane Persona Leon Blumental (Trotz)</fo:title>
 	
         <fo:static-content flow-name="xsl-region-after">
-            <fo:block font-size="x-small" margin-top="5mm" margin-left="5mm">shr5rcp character sheet SC Mundane Persona Leon Blumental (Trotz) page <fo:page-number/> printed 09.06.24</fo:block>
+            <fo:block font-size="x-small" margin-top="5mm" margin-left="5mm">shr5rcp character sheet SC Mundane Persona Leon Blumental (Trotz) page <fo:page-number/> printed 06.06.25</fo:block>
         </fo:static-content>
 
 		<fo:flow flow-name="xsl-region-body">	
@@ -107,7 +107,7 @@ Straßen Ruf</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-2</fo:block>
+4</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -143,7 +143,7 @@ Karma erworben</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-27</fo:block>
+44</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -151,7 +151,7 @@ Momentanes Karma</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-17</fo:block>
+4</fo:block>
       </fo:table-cell>
      </fo:table-row>
 
@@ -277,7 +277,7 @@ Edge</fo:block>
       </fo:table-cell> 
       <fo:table-cell>
        <fo:block >
-5 
+6 
 </fo:block>
       </fo:table-cell>
      </fo:table-row>
@@ -1183,17 +1183,7 @@ Modifications</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Restlichtverstaerkung</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-1</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Initativ Wuerfel</fo:block>
+Stärke</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
@@ -1203,27 +1193,7 @@ Initativ Wuerfel</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Eigenschaften Bewegungstalent</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-4</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Schadenswiederstand</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-3</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Heilung</fo:block>
+Initativ Wuerfel</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
@@ -1243,31 +1213,21 @@ Panzer</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Stärke</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-2</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Infrarot</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-1</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
 Reaktion</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
 2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Eigenschaften Bewegungstalent</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+4</fo:block>
       </fo:table-cell>
      </fo:table-row>
      <fo:table-row>
@@ -1284,6 +1244,46 @@ Essenz</fo:block>
       <fo:table-cell>
        <fo:block  >
 Geschicklichkeit</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Restlichtverstaerkung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Schadenswiederstand</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Infrarot</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+1</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Heilung</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
@@ -1537,7 +1537,7 @@ loyality</fo:block>
      <fo:table-row font-size="10">
       <fo:table-cell>
        <fo:block  >
-Gangers &amp; street scum trotz</fo:block>
+Markus (Gangers &amp; street scum)</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
@@ -1551,7 +1551,7 @@ Gangers &amp; street scum trotz</fo:block>
      <fo:table-row font-size="10">
       <fo:table-cell>
        <fo:block  >
-Türsteher</fo:block>
+Peter (Türsteher)</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
@@ -1565,7 +1565,7 @@ Türsteher</fo:block>
      <fo:table-row font-size="10">
       <fo:table-cell>
        <fo:block  >
-trotz Schieber</fo:block>
+Ritchy (Schieber)</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
@@ -2338,7 +2338,7 @@ SR5</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Munition: Standardmunition (Reichweite Schwere Pisolen) 294</fo:block>
+Munition: Standardmunition (Reichweite Schwere Pisolen) 290</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -2716,7 +2716,7 @@ SR5</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Munition: Gelgeschosse (Reichweite Assault Rifles) 143</fo:block>
+Munition: Gelgeschosse (Reichweite Assault Rifles) 140</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -3071,7 +3071,7 @@ Feuerwaffe Ingram Smartgun X</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Munition: Standardmunition (Reichweite Schwere Pisolen) 294</fo:block>
+Munition: Standardmunition (Reichweite Schwere Pisolen) 290</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
@@ -3341,7 +3341,7 @@ Munition: Gelgeschosse (Reichweite Submachine Guns) 100</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Munition: Gelgeschosse (Reichweite Assault Rifles) 143</fo:block>
+Munition: Gelgeschosse (Reichweite Assault Rifles) 140</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
@@ -5182,11 +5182,11 @@ type</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Standardmunition (Reichweite Schwere Pisolen) 294</fo:block>
+Standardmunition (Reichweite Schwere Pisolen) 290</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-294</fo:block>
+290</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -5302,11 +5302,11 @@ koerperlich</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Gelgeschosse (Reichweite Assault Rifles) 143</fo:block>
+Gelgeschosse (Reichweite Assault Rifles) 140</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-143</fo:block>
+140</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -5637,6 +5637,48 @@ Lebensstil</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
+04.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Für Bier</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-1.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+06.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Für Markus </fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-2.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+06.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+für Markus</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-1.000 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
 </fo:block>
       </fo:table-cell>
       <fo:table-cell>
@@ -5645,7 +5687,7 @@ Saldo</fo:block>
       </fo:table-cell>
       <fo:table-cell  font-weight="bold" >
        <fo:block text-align="right"  font-weight="bold"  >
-294.990 ¥</fo:block>
+290.490 ¥</fo:block>
       </fo:table-cell>
      </fo:table-row>
     </fo:table-body>
@@ -5932,6 +5974,96 @@ Karma Gaint : 7</fo:block>
 7</fo:block>
       </fo:table-cell>			
 		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+06.12.64</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+13.07.24</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 10</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+10</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+07.12.64</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+22.12.24</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 3</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+07.12.64</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+22.12.24</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Attribute Change Edge Basis 5-&gt;6</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-30</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+08.12.64</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+29.04.25</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 4</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+4</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+unset</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+unset</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Attribute Change Stärke Basis 3-&gt;4</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-20</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
   	 </fo:table-body>
   	 </fo:table>
 
@@ -6149,6 +6281,16 @@ Attribute Change Willenskraft Basis 2-&gt;3</fo:block>
 22.11.64 - 29.11.64</fo:block>
       </fo:table-cell>
      </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+09.12.64 - 21.12.64</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
     </fo:table-body>
    </fo:table>
        </fo:block >
@@ -6316,6 +6458,259 @@ Karma Gaint : 7</fo:block>
       </fo:table-cell>
      </fo:table-row>
 
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+04.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Ich verbringe zwei Tage im Bett und kuriere meine Wunden.</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+06.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Wir sind auf der Suche nach Essen, nach dem das Bier alle ist.
+Wir haben gehört das in Pankow Essen verteilt wird.
+Wir wandern da hin.
+Dort sind wir dabei wie das BKA den Shattennexus Stürmt.
+Ich kann 11Phasen Aron Retten und wir enkommen mir einer unbekannten die sich als 
+übrig geblieben &quot;Terroristin&quot; entpupt, wir dagen ihr zu sie nach Brandenburg zu bringen.</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+06.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Karma Gaint : 10</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+07.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Um sie nach Brandenburg zu bringen oder weiter gehen wir zusammen zu den Russen in den Osramhöfen.
+Da bekommen wir einen Job den wir zu erledigen haben. 
+Am Westhafen sollen wir ein Lagerhaus abfackeln und ein paar &apos;Gefäschte&apos; Produkte bergen.
+Wir dringen mühelos ein ein aber werden vom Sicherheitsdienst überrascht. 
+Wir Fackeln das Lagerhaus ab und flüchten in den Keller.
+Wir finden keinen Ausgang aber wir finden eine Bombe die von
+13Pahsen Aron entschäft wird.  Dann finden wir doch einen Ausgang, wir 
+schalten dei Wachmänner aus und fliehen auf das nächste Grundstück.
+Wir kehren zu den Russen zurück und alles ist soweit klar.
+Wir begleiten sie weiter nach Nürnberg.
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+07.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Karma Gaint : 3</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+08.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Wir holen die Sachen von Anarchist aus dem Ostbahnhof.
+
+Wir bemerken drei Gestalten auch einen Watcher bemerken wir.
+Di-ePersonen sind keine Gang mitglieder.
+Ihi: 27 
+Ich stehe neben dem P1 und der gibt sich als BIS zu
+erkennen, bevor er versucht auf mich zu schießen.
+Ich schieße zuerst.
+
+Mache 6 Kreutz.
+Dann schießen er und seine zwei Kollegen auf mich und
+ich habe 8 geistige Kreutze und muss erstmal fliehen.
+
+Ini: 22 
+Person 3 schießt auf mich ich habe also 9 Geistige und
+2 Körperlich Schaden.
+Ich werde bewustlos vor dem Schließfach.
+
+Day versorgt mich mit einem
+stimmpatch, ich habe 3 Geistige
+und 2 Körperlich. Bin wieder im Spiel.
+Mi 25/18
+13 Phasen Aran erledigt den
+letzen Tagen.
+Dann Fliehen wir.
+Wir fahren nach Führt.
+
+Corp shark ist ihr Kontakt.
+Bundesamt für innere Sicherheit. Einheit 13
+</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+08.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Karma Gaint : 4</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+21.12.64</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Attribute Change Stärke Basis 3-&gt;4</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+21.12.64 - 03.01.65</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
     </fo:table-body>
    </fo:table>
        </fo:block >
