@@ -32,7 +32,7 @@
 		<fo:title>SC Mundane Persona Leon Blumental (Trotz)</fo:title>
 	
         <fo:static-content flow-name="xsl-region-after">
-            <fo:block font-size="x-small" margin-top="5mm" margin-left="5mm">shr5rcp character sheet SC Mundane Persona Leon Blumental (Trotz) page <fo:page-number/> printed 06.06.25</fo:block>
+            <fo:block font-size="x-small" margin-top="5mm" margin-left="5mm">shr5rcp character sheet SC Mundane Persona Leon Blumental (Trotz) page <fo:page-number/> printed 21.06.25</fo:block>
         </fo:static-content>
 
 		<fo:flow flow-name="xsl-region-body">	
@@ -107,7 +107,7 @@ Straßen Ruf</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-4</fo:block>
+5</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -143,7 +143,7 @@ Karma erworben</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-44</fo:block>
+53</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -151,7 +151,7 @@ Momentanes Karma</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-4</fo:block>
+13</fo:block>
       </fo:table-cell>
      </fo:table-row>
 
@@ -1183,37 +1183,47 @@ Modifications</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Stärke</fo:block>
+Geschicklichkeit</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
 2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Heilung</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Schadenswiederstand</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+3</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Essenz</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-450</fo:block>
       </fo:table-cell>
      </fo:table-row>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
 Initativ Wuerfel</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-2</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Panzer</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-4</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Reaktion</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
@@ -1233,26 +1243,6 @@ Eigenschaften Bewegungstalent</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Essenz</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
--450</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Geschicklichkeit</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-2</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
 Restlichtverstaerkung</fo:block>
       </fo:table-cell>
       <fo:table-cell>
@@ -1263,11 +1253,31 @@ Restlichtverstaerkung</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Schadenswiederstand</fo:block>
+Reaktion</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
-3</fo:block>
+2</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Panzer</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+4</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+Stärke</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+2</fo:block>
       </fo:table-cell>
      </fo:table-row>
      <fo:table-row>
@@ -1278,16 +1288,6 @@ Infrarot</fo:block>
       <fo:table-cell>
        <fo:block text-align="right"  >
 1</fo:block>
-      </fo:table-cell>
-     </fo:table-row>
-     <fo:table-row>
-      <fo:table-cell>
-       <fo:block  >
-Heilung</fo:block>
-      </fo:table-cell>
-      <fo:table-cell>
-       <fo:block text-align="right"  >
-2</fo:block>
       </fo:table-cell>
      </fo:table-row>
     </fo:table-body>
@@ -1323,7 +1323,7 @@ Lifestyle Mittelschicht</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-unset</fo:block>
+01.01.65</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -2716,7 +2716,7 @@ SR5</fo:block>
     <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Munition: Gelgeschosse (Reichweite Assault Rifles) 140</fo:block>
+Munition: Gelgeschosse (Reichweite Assault Rifles) 134</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -3341,11 +3341,11 @@ Munition: Gelgeschosse (Reichweite Submachine Guns) 100</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Munition: Gelgeschosse (Reichweite Assault Rifles) 140</fo:block>
+Munition: Gelgeschosse (Reichweite Assault Rifles) 134</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block text-align="right"  >
-350 ¥</fo:block>
+325 ¥</fo:block>
       </fo:table-cell>
      </fo:table-row>
      <fo:table-row>
@@ -5302,11 +5302,11 @@ koerperlich</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
-Gelgeschosse (Reichweite Assault Rifles) 140</fo:block>
+Gelgeschosse (Reichweite Assault Rifles) 134</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
-140</fo:block>
+134</fo:block>
       </fo:table-cell>
       <fo:table-cell>
        <fo:block  >
@@ -5716,6 +5716,20 @@ inital</fo:block>
      <fo:table-row>
       <fo:table-cell>
        <fo:block  >
+01.02.65</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block  >
+Pay for Lifestyle Mittelschicht</fo:block>
+      </fo:table-cell>
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+-5.500 ¥</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
 </fo:block>
       </fo:table-cell>
       <fo:table-cell>
@@ -5724,7 +5738,7 @@ Saldo</fo:block>
       </fo:table-cell>
       <fo:table-cell  font-weight="bold" >
        <fo:block text-align="right"  font-weight="bold"  >
-10.000 ¥</fo:block>
+4.500 ¥</fo:block>
       </fo:table-cell>
      </fo:table-row>
     </fo:table-body>
@@ -6062,6 +6076,24 @@ Attribute Change Stärke Basis 3-&gt;4</fo:block>
       <fo:table-cell>
        <fo:block text-align="right"  >
 -20</fo:block>
+      </fo:table-cell>			
+		</fo:table-row>
+     	<fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+10.02.65</fo:block>
+      </fo:table-cell>	
+      <fo:table-cell>
+       <fo:block  >
+21.06.25</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block  >
+Karma Gaint : 9</fo:block>
+      </fo:table-cell>			
+      <fo:table-cell>
+       <fo:block text-align="right"  >
+9</fo:block>
       </fo:table-cell>			
 		</fo:table-row>
   	 </fo:table-body>
@@ -6708,9 +6740,113 @@ Attribute Change Stärke Basis 3-&gt;4</fo:block>
       </fo:table-cell>
       <fo:table-cell number-columns-spanned="2">
        <fo:block  >
-21.12.64 - 03.01.65</fo:block>
+21.12.64 - 17.01.65</fo:block>
       </fo:table-cell>
      </fo:table-row>
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+09.02.65</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Es  geht weiter mit Geschichte:
+Polen hat einen Aufstand:
+Die Russen werden vertrieben.
+WiFi kommt.
+7. 2. Schlasgzeile: Die Fetten Jahre sind vorbei
+17.1. Cross verkauft Hm u Aktien Proteus hat die 4
+Aktien
+gekauft
+ 
+Montag 9.2.
+E t arsch Kalt -20°
+Markus kommt vorbei und erinnert mich das ich der
+Gemeinschaft noch was schulde Knorke such uns, oder
+hätte einen Job. Eine platin in blonde Orkin .
+Wir gehen ins Neulich. Wir trinken was nettes.
+Knorke braucht ein Flugzeug wieder das „falsh&quot; benutzt
+werden soll. Ein 6 sitzigeges Flugzeug.
+Wir sollen die Leute ausschalten ohne sie umzubringen.
+15.000 E 10-15 Mann stark die rote Barone am Flughafen Gato.
+Wir holen noch mal ein paar Infos ein. Dann packen
+Wir die Sachen und fahren am 10.2. Zum Flughafen.
+Da scheint eine Party zu sein. Wir eindecken den Hangar.
+Phasen Aron untersucht Astral. Er findet 9 der Typen.
+Wir schleichen uns unsichbar an und schalten die ersten
+Wachen aus.
+Dann knacken wir das schloss und schalten die anderen aus.
+Alles klappt gut.
+
+Knorke hat einen folge Job.
+Rein, laufen und raus. Auf einer Insel, da machen wir mit.</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+10.02.65</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Karma Gaint : 9</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
+    </fo:table-body>
+   </fo:table>
+       </fo:block >
+     </fo:table-cell>
+     </fo:table-row>
+     <fo:table-row>
+     <fo:table-cell>
+       <fo:block >
+  <fo:table font-size="small">
+    <fo:table-column column-width="15%" />
+    <fo:table-column  />
+    <fo:table-column  />
+    <fo:table-body  >
+
+     <fo:table-row>
+      <fo:table-cell>
+       <fo:block  >
+01.02.65</fo:block>
+      </fo:table-cell>
+      <fo:table-cell number-columns-spanned="2">
+       <fo:block  >
+Pay for Lifestyle Mittelschicht</fo:block>
+      </fo:table-cell>
+     </fo:table-row>
+
     </fo:table-body>
    </fo:table>
        </fo:block >

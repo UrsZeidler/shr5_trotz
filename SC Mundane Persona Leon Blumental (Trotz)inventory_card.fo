@@ -32,7 +32,7 @@
 				<fo:title>Inventory Cards SC Mundane Persona Leon Blumental (Trotz)</fo:title>
 			
 		        <fo:static-content flow-name="xsl-region-after">
-		            <fo:block font-size="x-small" margin-top="5mm" margin-left="5mm">shr5rcp character sheet Inventory Cards SC Mundane Persona Leon Blumental (Trotz) page <fo:page-number/> printed 06.06.25</fo:block>
+		            <fo:block font-size="x-small" margin-top="5mm" margin-left="5mm">shr5rcp character sheet Inventory Cards SC Mundane Persona Leon Blumental (Trotz) page <fo:page-number/> printed 21.06.25</fo:block>
 		        </fo:static-content>
 		
 				<fo:flow flow-name="xsl-region-body">
@@ -5119,7 +5119,7 @@
 		     <fo:table-row>
 		      <fo:table-cell>
 		       <fo:block  >
-		Gel Rounds 140</fo:block>
+		Gel Rounds 134</fo:block>
 		      </fo:table-cell>
 		      <fo:table-cell>
 		       <fo:block  >

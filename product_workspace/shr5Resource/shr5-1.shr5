@@ -27179,6 +27179,7 @@
         <changes xsi:type="shr5mngt:AttributeChange" xmi:id="_9Gfx4EI4EfCMl93rl8m16w" from="3" to="4">
           <attibute href="http://urszeidler.de/shr5/1.0#//AbstraktPersona/staerkeBasis"/>
         </changes>
+        <changes xsi:type="shr5mngt:KarmaGaint" xmi:id="_kkmXUE6XEfCU3OcN6xDTlw" date="2065-02-10T17:51:44.000+0100" changeApplied="true" dateApplied="2025-06-21T14:02:35.397+0200" karma="9"/>
         <inventar xsi:type="shr5:Nahkampfwaffe" xmi:id="_qQwjReRoEe2EtdvPGzsRdw" parentId="8f266b4c-4035-4ba3-aa89-3289d0f42ce1" page="422" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="9R" wertValue="1000" beschreibung="Das legendäre zweihändige Schwert der Samurai.&#xA;Das Katana ist nicht nur zum Synonym für Straßensamurais, sondern sogar für Shadowrunner im Allgemeinen geworden, zumindest in den Trids: Jeder hat dort ein Katana, vom Dekker bis zum Magier. Aber nur weil diese Waffe ein blödes Klischee ist, macht sie das nicht weniger gefährlich oder weniger hilfreich in einem Kampf." image="/shr5Resource/images/katana.png" name="Katana" fertigkeit="48763fa5-4b89-48c7-80ff-d0a2761de4c0" schadenscode="(STR+3)P" praezision="7" durchschlagsKraft="-3" reichweite="1">
           <localizations xmi:id="_qQwjRuRoEe2EtdvPGzsRdw" local="de" name="Katana"/>
         </inventar>
@@ -27320,7 +27321,7 @@
         <inventar xsi:type="shr5:Munition" xmi:id="_t_uEcAPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="100" proAnzahl="10" armorMod="1" type="_ENFqwTnTEeSe6_w6Jrbqxg">
           <localizations xmi:id="_t_uEcQPXEe6SQ9KwvYZQrA" local="de" name="Munition: Gelgeschosse"/>
         </inventar>
-        <inventar xsi:type="shr5:Munition" xmi:id="_t_uEcgPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="140" proAnzahl="10" armorMod="1" type="_ENFqwjnTEeSe6_w6Jrbqxg">
+        <inventar xsi:type="shr5:Munition" xmi:id="_t_uEcgPXEe6SQ9KwvYZQrA" parentId="0c8d16cb-6e96-4d95-8454-104a36091cf9" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="2R" wertValue="25" name="Gel Rounds" anzahl="134" proAnzahl="10" armorMod="1" type="_ENFqwjnTEeSe6_w6Jrbqxg">
           <localizations xmi:id="_t_uEcwPXEe6SQ9KwvYZQrA" local="de" name="Munition: Gelgeschosse"/>
         </inventar>
         <inventar xsi:type="shr5:Munition" xmi:id="_oqmkcAPYEe6SQ9KwvYZQrA" parentId="1315cecd-1c13-4d69-9828-a3ea535675da" page="434" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="9F" wertValue="80" name="Ammo: Explosive Rounds" anzahl="100" proAnzahl="10" damageMod="1" armorMod="-1" type="_ENFqwTnTEeSe6_w6Jrbqxg">
@@ -27360,6 +27361,7 @@
         </inventar>
         <inventar xsi:type="shr5:Credstick" xmi:id="_X03JoCZPEe-XYfmHeeWLmA" parentId="_ELzRUTnTEeSe6_w6Jrbqxg" page="443" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="0" wertValue="20" name="Beglaubigter Credstick Sealder Krupp 10000" maxValue="20000">
           <transactionlog xmi:id="_edY80CZPEe-XYfmHeeWLmA" amount="10000" date="2064-12-04T17:51:44.000+0100" description="inital"/>
+          <transactionlog xmi:id="_Mbor4E6aEfCizLAAH9n5Pw" amount="-5500" date="2065-02-01T14:19:41.912+0100" description="Pay for Lifestyle Mittelschicht"/>
         </inventar>
         <inventar xsi:type="shr5:Credstick" xmi:id="_miajMCZPEe-XYfmHeeWLmA" parentId="_ELzRUTnTEeSe6_w6Jrbqxg" page="443" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="0" wertValue="20" name="Beglaubigter Credstick Sealder Krupp 10.000" maxValue="20000">
           <transactionlog xmi:id="_pIoXgCZPEe-XYfmHeeWLmA" amount="10000" date="2064-12-04T17:51:44.000+0100" description="inital"/>
@@ -27367,7 +27369,7 @@
         <inventar xsi:type="shr5:Credstick" xmi:id="_mibxUCZPEe-XYfmHeeWLmA" parentId="_ELzRUDnTEeSe6_w6Jrbqxg" page="443" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="0" wertValue="5" name="Beglaubigter Credstick Sealder Krupp 2500" maxValue="5000">
           <transactionlog xmi:id="_yEgGUCZPEe-XYfmHeeWLmA" amount="2500" date="2064-12-04T17:51:44.000+0100" description="inital"/>
         </inventar>
-        <contracts xsi:type="shr5:Lifestyle" xmi:id="_qQxKOeRoEe2EtdvPGzsRdw" name="Middle" parentId="90f6f4c2-9968-42e1-ba79-e2bf530de32e" page="373" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="" wertValue="5000" faelligkeitsIntervall="1" unit="month">
+        <contracts xsi:type="shr5:Lifestyle" xmi:id="_qQxKOeRoEe2EtdvPGzsRdw" name="Middle" parentId="90f6f4c2-9968-42e1-ba79-e2bf530de32e" page="373" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" verfuegbarkeit="" wertValue="5000" faelligkeitsIntervall="1" unit="month" begin="2065-01-01T14:19:41.912+0100">
           <localizations xmi:id="_qQxKOuRoEe2EtdvPGzsRdw" local="de" name="Mittelschicht"/>
           <options xmi:id="_qQxKO-RoEe2EtdvPGzsRdw" name="Garage" parentId="_ENlaADnTEeSe6_w6Jrbqxg" page="374" srcBook="f5ec713c-98cd-41f6-a0a4-4a8eaed55b66" wertValue="500"/>
         </contracts>
@@ -27383,7 +27385,7 @@
         <generatorSrc xsi:type="shr5mngt:Shr5Generator" xmi:id="_qQxKQuRoEe2EtdvPGzsRdw" character="_qQwi8ORoEe2EtdvPGzsRdw" generator="_BssLkN0CEeOvVYoRsPZlnA" state="commited" characterName="Leon Blumental (Trotz)" resourcen="_BtL60N0CEeOvVYoRsPZlnA" skills="_BtGbQt0CEeOvVYoRsPZlnA" attribute="_Bs4Y0d0CEeOvVYoRsPZlnA" metaType="_Bs3xwN0CEeOvVYoRsPZlnA" magic="_BtNwAN0CEeOvVYoRsPZlnA">
           <selectedGroup href="#_QJXf0ONWEe2VhtFye-_2Dg"/>
         </generatorSrc>
-        <diary xmi:id="_qQxKQ-RoEe2EtdvPGzsRdw" characterDate="2064-11-29T17:51:44.000+0100">
+        <diary xmi:id="_qQxKQ-RoEe2EtdvPGzsRdw" characterDate="2065-02-10T17:51:44.000+0100">
           <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_m7pxgGpxEe6__bQ-1TqW9A" date="2064-11-02T17:51:44.000+0100" message="Karma Gaint : 3" change="_bSbEYO-KEeSvgoopBS9psw"/>
           <entries xmi:id="_FUnjwC_JEe6Yv_QOTV_JWQ" date="2064-11-02T17:51:44.000+0100" message="Ich war so unterwegs, oben bei der Sealda Krupp Archologie.&#xA;Da sehe ich doch wie ein Hubschauber hinter einen 'Flugwese' hereillt.&#xA;"/>
           <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_zPHIYGWpEe6Mo86crfi21A" date="2064-11-04T17:51:44.000+0100" message="Karma Gaint : 6" change="_xJeRkGWpEe6Mo86crfi21A"/>
@@ -27410,9 +27412,12 @@
           <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_8DfLQMBbEe-rDKcwQ6ezPg" date="2064-12-07T17:51:44.000+0100" message="Karma Gaint : 3" change="_58iF0MBbEe-rDKcwQ6ezPg"/>
           <entries xmi:id="_qWv0YCTPEfCjg7VMJxnhPg" date="2064-12-08T17:51:44.000+0100" message="Wir holen die Sachen von Anarchist aus dem Ostbahnhof.&#xA;&#xA;Wir bemerken drei Gestalten auch einen Watcher bemerken wir.&#xA;Di-ePersonen sind keine Gang mitglieder.&#xA;Ihi: 27 &#xA;Ich stehe neben dem P1 und der gibt sich als BIS zu&#xA;erkennen, bevor er versucht auf mich zu schießen.&#xA;Ich schieße zuerst.&#xA;&#xA;Mache 6 Kreutz.&#xA;Dann schießen er und seine zwei Kollegen auf mich und&#xA;ich habe 8 geistige Kreutze und muss erstmal fliehen.&#xA;&#xA;Ini: 22 &#xA;Person 3 schießt auf mich ich habe also 9 Geistige und&#xA;2 Körperlich Schaden.&#xA;Ich werde bewustlos vor dem Schließfach.&#xA;&#xA;Day versorgt mich mit einem&#xA;stimmpatch, ich habe 3 Geistige&#xA;und 2 Körperlich. Bin wieder im Spiel.&#xA;Mi 25/18&#xA;13 Phasen Aran erledigt den&#xA;letzen Tagen.&#xA;Dann Fliehen wir.&#xA;Wir fahren nach Führt.&#xA;&#xA;Corp shark ist ihr Kontakt.&#xA;Bundesamt für innere Sicherheit. Einheit 13&#xA;"/>
           <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_lQVZkCTiEfCjg7VMJxnhPg" date="2064-12-08T17:51:44.000+0100" message="Karma Gaint : 4" change="_jF-a0CTiEfCjg7VMJxnhPg"/>
-          <entries xsi:type="shr5mngt:TrainingsTime" xmi:id="_4dDhkEI4EfCMl93rl8m16w" date="2064-12-21T17:51:44.000+0100" change="_9Gfx4EI4EfCMl93rl8m16w">
-            <training xmi:id="__LiLwEI4EfCMl93rl8m16w" start="2064-12-21T17:51:44.000+0100" end="2065-01-03T17:51:44.000+0100"/>
+          <entries xsi:type="shr5mngt:TrainingsTime" xmi:id="_4dDhkEI4EfCMl93rl8m16w" date="2064-12-21T17:51:44.000+0100" change="_9Gfx4EI4EfCMl93rl8m16w" trainingComplete="true">
+            <training xmi:id="__LiLwEI4EfCMl93rl8m16w" start="2064-12-21T17:51:44.000+0100" end="2065-01-17T17:51:44.000+0100"/>
           </entries>
+          <entries xmi:id="_G0630E6WEfCU3OcN6xDTlw" date="2065-02-09T17:51:44.000+0100" message="Es  geht weiter mit Geschichte:&#xA;Polen hat einen Aufstand:&#xA;Die Russen werden vertrieben.&#xA;WiFi kommt.&#xA;7. 2. Schlasgzeile: Die Fetten Jahre sind vorbei&#xA;17.1. Cross verkauft Hm u Aktien Proteus hat die 4&#xA;Aktien&#xA;gekauft&#xA; &#xA;Montag 9.2.&#xA;E t arsch Kalt -20°&#xA;Markus kommt vorbei und erinnert mich das ich der&#xA;Gemeinschaft noch was schulde Knorke such uns, oder&#xA;hätte einen Job. Eine platin in blonde Orkin .&#xA;Wir gehen ins Neulich. Wir trinken was nettes.&#xA;Knorke braucht ein Flugzeug wieder das „falsh&quot; benutzt&#xA;werden soll. Ein 6 sitzigeges Flugzeug.&#xA;Wir sollen die Leute ausschalten ohne sie umzubringen.&#xA;15.000 E 10-15 Mann stark die rote Barone am Flughafen Gato.&#xA;Wir holen noch mal ein paar Infos ein. Dann packen&#xA;Wir die Sachen und fahren am 10.2. Zum Flughafen.&#xA;Da scheint eine Party zu sein. Wir eindecken den Hangar.&#xA;Phasen Aron untersucht Astral. Er findet 9 der Typen.&#xA;Wir schleichen uns unsichbar an und schalten die ersten&#xA;Wachen aus.&#xA;Dann knacken wir das schloss und schalten die anderen aus.&#xA;Alles klappt gut.&#xA;&#xA;Knorke hat einen folge Job.&#xA;Rein, laufen und raus. Auf einer Insel, da machen wir mit."/>
+          <entries xsi:type="shr5mngt:CharacterChange" xmi:id="_nnW9sE6XEfCU3OcN6xDTlw" date="2065-02-10T17:51:44.000+0100" message="Karma Gaint : 9" change="_kkmXUE6XEfCU3OcN6xDTlw"/>
+          <entries xsi:type="shr5mngt:ContractPayment" xmi:id="_Mbor4U6aEfCizLAAH9n5Pw" date="2065-02-01T14:19:41.912+0100" message="Pay for Lifestyle Mittelschicht" contractToPay="_qQxKOeRoEe2EtdvPGzsRdw" payed="true"/>
         </diary>
       </members>
       <members xsi:type="shr5mngt:NonPlayerCharacter" xmi:id="_7VNFcO9rEe2MboZfG-JfyQ" chracterSource="_xXEoYO9rEe2MboZfG-JfyQ" sex="male">

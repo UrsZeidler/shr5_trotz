@@ -4,9 +4,9 @@ Spezies: *Human* Type: *Mundane Persona*
 
 
 Muttersprache: Sprachfertigkeit Deutsch  
-Date of birth: 20.08.40  Age: 24  
-Karma erworben: 44  Momentanes Karma: 4  
-Straßen Ruf: 4  Schlechter Ruf: 0  
+Date of birth: 20.08.40  Age: 25  
+Karma erworben: 53  Momentanes Karma: 13  
+Straßen Ruf: 5  Schlechter Ruf: 0  
 Height: 185 cm  Weight: 91 kg  
 
 ### Attributes  
@@ -126,7 +126,7 @@ Gegenstand Medkit 6............ 1.500 ¥
 Gegenstand Medkit-Nachfüllpack 100 ¥    
 Munition: Gelgeschosse (Reichweite Schwere Pisolen) 50 125 ¥    
 Munition: Gelgeschosse (Reichweite Submachine Guns) 100 250 ¥    
-Munition: Gelgeschosse (Reichweite Assault Rifles) 140 350 ¥    
+Munition: Gelgeschosse (Reichweite Assault Rifles) 134 325 ¥    
 Munition: Explosivgeschosse (Reichweite Submachine Guns) 100 800 ¥    
 Munition: Explosivgeschosse (Reichweite Schwere Pisolen) 100 800 ¥    
 Munition: Explosivgeschosse (Reichweite Assault Rifles) 200 1.600 ¥    
@@ -144,7 +144,7 @@ Credstick Beglaubigter Credstick Sealder Krupp 10000 20 ¥
 Credstick Beglaubigter Credstick Sealder Krupp 10.000 20 ¥    
 Credstick Beglaubigter Credstick Sealder Krupp 2500 5 ¥    
 
-sum :.......................... 23.025  
+sum :.......................... 23.000  
 
 ### Vertäge  
 Lifestyle Mittelschicht........ 5.000 ¥/5.500 ¥  
@@ -175,7 +175,7 @@ Bodenfahrzeug Yamaha Growler (Off-Road Bike) 5000
 sum :.......................... 5.000  
 
 ### Diary  
-Current Date: Sat Nov 29 17:51:44 CET 2064  
+Current Date: Tue Feb 10 17:51:44 CET 2065  
 **Sonntag, 2. November 2064**: Karma Gaint : 3  
 **Sonntag, 2. November 2064**: Ich war so unterwegs, oben bei der Sealda Krupp Archologie.
 Da sehe ich doch wie ein Hubschauber hinter einen 'Flugwese' hereillt.
@@ -268,8 +268,40 @@ Bundesamt für innere Sicherheit. Einheit 13
   
 **Montag, 8. Dezember 2064**: Karma Gaint : 4  
 **Sonntag, 21. Dezember 2064**: training for Attribute Change Stärke Basis 3->4  
- * 21.12.64 - 03.01.65 : 14 Days_Trained  
+ * 21.12.64 - 17.01.65 : 28 Days_Trained  
 
+**Montag, 9. Februar 2065**: Es  geht weiter mit Geschichte:
+Polen hat einen Aufstand:
+Die Russen werden vertrieben.
+WiFi kommt.
+7. 2. Schlasgzeile: Die Fetten Jahre sind vorbei
+17.1. Cross verkauft Hm u Aktien Proteus hat die 4
+Aktien
+gekauft
+ 
+Montag 9.2.
+E t arsch Kalt -20°
+Markus kommt vorbei und erinnert mich das ich der
+Gemeinschaft noch was schulde Knorke such uns, oder
+hätte einen Job. Eine platin in blonde Orkin .
+Wir gehen ins Neulich. Wir trinken was nettes.
+Knorke braucht ein Flugzeug wieder das „falsh" benutzt
+werden soll. Ein 6 sitzigeges Flugzeug.
+Wir sollen die Leute ausschalten ohne sie umzubringen.
+15.000 E 10-15 Mann stark die rote Barone am Flughafen Gato.
+Wir holen noch mal ein paar Infos ein. Dann packen
+Wir die Sachen und fahren am 10.2. Zum Flughafen.
+Da scheint eine Party zu sein. Wir eindecken den Hangar.
+Phasen Aron untersucht Astral. Er findet 9 der Typen.
+Wir schleichen uns unsichbar an und schalten die ersten
+Wachen aus.
+Dann knacken wir das schloss und schalten die anderen aus.
+Alles klappt gut.
+
+Knorke hat einen folge Job.
+Rein, laufen und raus. Auf einer Insel, da machen wir mit.  
+**Dienstag, 10. Februar 2065**: Karma Gaint : 9  
+**Sonntag, 1. Februar 2065**: Pay for Lifestyle Mittelschicht  
 
 
 ### Steigerungen  
@@ -283,6 +315,7 @@ Samstag, 6. Dezember 2064 Karma Gaint : 10
 Sonntag, 7. Dezember 2064 Karma Gaint : 3       
 Sonntag, 7. Dezember 2064 Attribute Change Edge Basis 5->6 -30  
 Montag, 8. Dezember 2064 Karma Gaint : 4        
+Dienstag, 10. Februar 2065 Karma Gaint : 9      
 
 
 ### Credsticks  
@@ -312,7 +345,8 @@ Saldo :........................ 290.490 ¥
 
 Credstick: Credstick Beglaubigter Credstick Sealder Krupp 10000  
 04.12.64 *inital* 10.000 ¥  
-Saldo :........................ 10.000 ¥  
+01.02.65 *Pay for Lifestyle Mittelschicht* -5.500 ¥  
+Saldo :........................ 4.500 ¥  
 
 Credstick: Credstick Beglaubigter Credstick Sealder Krupp 10.000  
 04.12.64 *inital* 10.000 ¥  
